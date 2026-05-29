@@ -1,0 +1,570 @@
+---
+level: 2
+basename: Larson_abduction_nea_e9683a_i94_missing_time_78f40b
+parent_basename: Larson_abduction_nea_e9683a
+child_basenames: []
+sibling_basenames:
+- Larson_abduction_nea_e9683a_hypnosis_memories_1dd6ff
+- Larson_abduction_nea_e9683a_records_evidence_gap_5b3ea3
+tags:
+- larson-abduction-near-fargo-1975
+- i-94-timeline
+keywords:
+- larson-abduction-near-fargo-1975
+- i-94-timeline
+affiliate_category: larson-abduction-near-fargo-1975
+show_ads: true
+description: The first reported events on Interstate 94 are the strongest part of the case, but even they depend on later retellings.
+hero_summary: The first reported events on Interstate 94 are the strongest part of the case, but even they depend on later retellings.
+layout: default
+permalink: /i-94-timeline/
+sidebar_expanded_urls:
+- /larson-abduction-near-fargo-1975/
+nav_short_title: I 94 Timeline
+title: The Missing Hour on Interstate 94
+title_full: The Missing Hour on Interstate 94 | Larson Abduction
+display_title_short: I 94 Timeline
+display_title: I 94 Timeline
+heading_title: The Missing Hour on Interstate 94
+page_heading_title: The Missing Hour on Interstate 94
+source_count: 31
+infographic_count: 3
+planned_sections:
+- The pre dawn drive from Fargo
+- Lights, paralysis and changed seats
+- Where the early accounts agree and diverge
+focal_unit_type: event_time_window
+topic_lens: evidence
+topic_granularity: pillar
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: Larson Abduction
+parent_permalink: /larson-abduction-near-fargo-1975/
+parent_nav_short_title: Larson Abduction
+parent_heading_title: What Really Happened on I 94?
+ancestor_links:
+- basename: Larson_abduction_nea_e9683a
+  title: Larson Abduction
+  permalink: /larson-abduction-near-fargo-1975/
+  short_title: Larson Abduction
+breadcrumb_links:
+- basename: Larson_abduction_nea_e9683a
+  title: Larson Abduction
+  permalink: /larson-abduction-near-fargo-1975/
+  short_title: Larson Abduction
+sibling_links:
+- basename: Larson_abduction_nea_e9683a_hypnosis_memories_1dd6ff
+  title: Hypnosis | What Really Happened on I 94?
+  permalink: /hypnosis-dc4a64/
+  short_title: Hypnosis
+  heading_title: Can Hypnosis Recover an Alien Abduction?
+- basename: Larson_abduction_nea_e9683a_records_evidence_gap_5b3ea3
+  title: Records Gap | What Really Happened on I 94?
+  permalink: /records-gap/
+  short_title: Records Gap
+  heading_title: Why the Larson Case Remains Unverified
+up_link:
+  basename: Larson_abduction_nea_e9683a
+  title: Larson Abduction
+  permalink: /larson-abduction-near-fargo-1975/
+  short_title: Larson Abduction
+prev_link:
+  basename: Larson_abduction_nea_e9683a_hypnosis_memories_1dd6ff
+  title: Hypnosis | What Really Happened on I 94?
+  permalink: /hypnosis-dc4a64/
+  short_title: Hypnosis
+  heading_title: Can Hypnosis Recover an Alien Abduction?
+next_link:
+  basename: Larson_abduction_nea_e9683a_records_evidence_gap_5b3ea3
+  title: Records Gap | What Really Happened on I 94?
+  permalink: /records-gap/
+  short_title: Records Gap
+  heading_title: Why the Larson Case Remains Unverified
+date: '2026-05-29 12:23:10 '
+header:
+  og_image: /assets/images/Larson_abduction_nea_e9683a_i94_missing_time_78f40b-Illustration-1-social.jpg
+  preview_image: /assets/images/Larson_abduction_nea_e9683a_i94_missing_time_78f40b-Illustration-1.webp
+image: /assets/images/Larson_abduction_nea_e9683a_i94_missing_time_78f40b-Illustration-1-social.jpg
+---
+
+## Introduction
+
+The most durable part of the [Larson abduction]({{ 'larson-abduction-near-fargo-1975/' | relative_url }}) story is not the later [hypnosis]({{ 'hypnosis-dc4a64/' | relative_url }}) material but the original Interstate 94 episode itself: three people driving west from Fargo before dawn, a sudden encounter with strange lights, a period of paralysis or disorientation, and the discovery that roughly an hour appeared to be missing from their journey. Even critics of the later abduction narrative usually acknowledge that something unusual was reported on the road that morning. The harder question is what can actually be reconstructed from the evidence.
+
+
+<img src="{{ "/assets/images/Larson_abduction_nea_e9683a_i94_missing_time_78f40b-Illustration-1-light.svg" | relative_url }}" alt="I 94 Timeline illustration 1" data-theme-src-dark="{{ "/assets/images/Larson_abduction_nea_e9683a_i94_missing_time_78f40b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Larson_abduction_nea_e9683a_i94_missing_time_78f40b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+The difficulty is that the timeline survives mainly through later retellings, local-history summaries and UFO literature rather than preserved contemporaneous witness statements. That leaves the “missing hour” both central and unstable: it is the foundation of the entire Larson case, but also the part most vulnerable to memory drift, narrative compression and retrospective interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.prairiepublic.org/show/dakota-datebook-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.prairiepublic.org">[Prairie Public]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.prairiepublic.org</span><span class="citation-popover-title">dakota datebook archive</span><span class="citation-popover-snippet">Prairie PublicDakota Datebook ArchiveThis is our Dakota Datebook archive of Datebooks aired from 2003-2017. Find all newer Dakota Dateboo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hpr1.com/index.php/feature/culture/the-sandra-larson-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hpr1.com">[2hpr1.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hpr1.com</span><span class="citation-popover-title">the sandra larson incident</span><span class="citation-popover-snippet">​The Sandra Larson incident | High...15 Mar 2017 — Leo Sprinkle, a professor and therapist from the University of Wyoming, came to inves...</span></span></span>
+
+## The pre-dawn drive from Fargo
+
+Most surviving versions of the story place the event in the early morning of 26 August 1975. Sandy Larson, her daughter Jackie Larson and Jackie’s boyfriend Terry O’Leary reportedly left Fargo by car and headed west on Interstate 94 toward Bismarck, where Sandy Larson planned to take a real-estate examination later that morning. Facebook <span class="citation-chip-wrap"><a class="citation-chip" href="https://hpr1.com/index.php/feature/culture/the-sandra-larson-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hpr1.com">[2hpr1.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hpr1.com</span><span class="citation-popover-title">the sandra larson incident</span><span class="citation-popover-snippet">​The Sandra Larson incident | High...15 Mar 2017 — Leo Sprinkle, a professor and therapist from the University of Wyoming, came to inves...</span></span></span>
+
+The broad chronology is relatively consistent across sources:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Departure from Fargo occurred around 3:00 to 3:15 a.m.
+* The incident allegedly happened roughly 45 miles west of Fargo.
+* The witnesses reported lights in the sky, unusual sounds and a period of impaired awareness.
+* They later believed that approximately one hour of time had passed without clear memory.
+
+</div>
+
+Those elements appear repeatedly in later summaries, including Prairie Public’s Dakota Datebook account and UFO-oriented retellings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.prairiepublic.org/show/dakota-datebook-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.prairiepublic.org">[Prairie Public]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.prairiepublic.org</span><span class="citation-popover-title">dakota datebook archive</span><span class="citation-popover-snippet">Prairie PublicDakota Datebook ArchiveThis is our Dakota Datebook archive of Datebooks aired from 2003-2017. Find all newer Dakota Dateboo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hpr1.com/index.php/feature/culture/the-sandra-larson-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hpr1.com">[2hpr1.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hpr1.com</span><span class="citation-popover-title">the sandra larson incident</span><span class="citation-popover-snippet">​The Sandra Larson incident | High...15 Mar 2017 — Leo Sprinkle, a professor and therapist from the University of Wyoming, came to inves...</span></span></span>
+
+What is less clear is how much of this sequence derives from immediate recollection and how much comes from later reconstruction. The case lacks a widely available police report, roadside witness log, taped first interview or timestamped documentation from the morning itself. That matters because “missing time” cases are especially dependent on chronology. A verified time discrepancy requires more than a later feeling that time was lost; it requires fixed reference points such as clocks, receipts, phone calls, fuel stops or independently observed travel intervals.
+
+Publicly available accounts of the Larson incident provide very few such anchors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hpr1.com/index.php/feature/culture/the-sandra-larson-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hpr1.com">[hpr1.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hpr1.com</span><span class="citation-popover-title">the sandra larson incident</span><span class="citation-popover-snippet">​The Sandra Larson incident | High...15 Mar 2017 — Leo Sprinkle, a professor and therapist from the University of Wyoming, came to inves...</span></span></span>
+
+## Lights, paralysis and changed seats
+
+The witnesses reportedly described a dramatic interruption to the drive. Accounts vary in detail, but most include bright lights or glowing objects appearing above or near the highway. Some versions mention a formation of multiple lights with one object larger than the others. Others describe flashes, smoke-like effects or a rumbling sound. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.prairiepublic.org/show/dakota-datebook-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.prairiepublic.org">[Prairie Public]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.prairiepublic.org</span><span class="citation-popover-title">dakota datebook archive</span><span class="citation-popover-snippet">Prairie PublicDakota Datebook ArchiveThis is our Dakota Datebook archive of Datebooks aired from 2003-2017. Find all newer Dakota Dateboo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hpr1.com/index.php/feature/culture/the-sandra-larson-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hpr1.com">[2hpr1.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hpr1.com</span><span class="citation-popover-title">the sandra larson incident</span><span class="citation-popover-snippet">​The Sandra Larson incident | High...15 Mar 2017 — Leo Sprinkle, a professor and therapist from the University of Wyoming, came to inves...</span></span></span>
+
+The most important shared claim was not merely seeing lights but experiencing physical incapacity. The trio reportedly felt unable to move or react normally. In later retellings, this became a moment of paralysis or suspended awareness.
+
+Then came the detail that gave the case lasting notoriety: when the episode ended, the occupants were no longer seated where they had originally been. Jackie Larson was reportedly found in a different seat from the one she occupied before the lights appeared. The witnesses also believed that a substantial amount of time had elapsed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.prairiepublic.org/show/dakota-datebook-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.prairiepublic.org">[Prairie Public]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.prairiepublic.org</span><span class="citation-popover-title">dakota datebook archive</span><span class="citation-popover-snippet">Prairie PublicDakota Datebook ArchiveThis is our Dakota Datebook archive of Datebooks aired from 2003-2017. Find all newer Dakota Dateboo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hpr1.com/index.php/feature/culture/the-sandra-larson-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hpr1.com">[2hpr1.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hpr1.com</span><span class="citation-popover-title">the sandra larson incident</span><span class="citation-popover-snippet">​The Sandra Larson incident | High...15 Mar 2017 — Leo Sprinkle, a professor and therapist from the University of Wyoming, came to inves...</span></span></span>
+
+This combination of elements became the narrative bridge between a UFO sighting and a claimed abduction:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* anomalous lights,
+* altered consciousness,
+* disrupted continuity of memory,
+* unexplained repositioning inside the vehicle,
+* and perceived missing time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/captured-by-aliens-a-history-and-analysis-of-american-abduction-claims-1476681414-9781476681412.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">Captured by Aliens?: A History and Analysis of American</span><span class="citation-popover-snippet">missing time. Under hypnotic regression by Dr. Leo Sprinkle, Larson recalled encountering a six-foot-tall, mummy-like entity that had met...</span></span></span>
+
+</div>
+
+In UFO-abduction literature of the 1970s, that sequence was increasingly treated as a recognisable pattern. The Larson case gained attention partly because it appeared to match the developing template already associated with other American abduction stories.
+
+Yet the seating-change claim is also difficult to evaluate historically. No known contemporaneous account establishes precisely where each witness sat before and after the episode, how clearly they remembered those positions immediately afterwards, or whether confusion inside a dark moving vehicle may have affected later recollection.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oKquY6-NOOc" title="Fire In The Sky - The Travis Walton UFO Abduction Story 4K" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oKquY6-NOOc" target="_blank" rel="noopener noreferrer">Fire In The Sky - The Travis Walton UFO Abduction Story 4K</a></p><p class="youtube-embed-meta">Channel: grimmlifecollective &middot; Views: 210.4K &middot; Uploaded: January 2025 &middot; Length: 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oKquY6-NOOc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oKquY6-NOOc">Open on YouTube</a></p></div></div></div>
+
+## Why the missing hour became the core mystery
+
+The “missing time” claim is the hinge on which the entire Larson case turns. Without it, the event becomes a conventional UFO sighting or frightening roadside experience. With it, the story becomes a potential abduction narrative.
+
+In practical terms, however, the reported lost hour is surprisingly hard to measure.
+
+### The route problem
+
+The reported location west of Fargo creates an immediate chronology challenge. Interstate 94 between Fargo and Bismarck is a long, sparsely populated stretch of road, especially during pre-dawn hours in the mid-1970s. Drivers can easily lose track of time without intermediate markers, particularly under stress or fatigue.
+
+Because surviving public accounts do not include detailed mileage records, timestamps or independently verified stop points, later investigators could not firmly establish:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* the exact point where the lights appeared,
+* the vehicle’s speed before and after the event,
+* the exact time of arrival,
+* or whether the witnesses compared clocks immediately afterwards.
+
+</div>
+
+That does not disprove the witnesses’ experience. It simply means the “missing hour” rests largely on retrospective estimation.
+
+
+<img src="{{ "/assets/images/Larson_abduction_nea_e9683a_i94_missing_time_78f40b-Illustration-2-light.svg" | relative_url }}" alt="I 94 Timeline illustration 2" data-theme-src-dark="{{ "/assets/images/Larson_abduction_nea_e9683a_i94_missing_time_78f40b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Larson_abduction_nea_e9683a_i94_missing_time_78f40b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+### Fatigue and altered perception
+
+Sceptical interpretations often focus on the conditions of the drive itself. The witnesses were travelling before dawn on a monotonous highway, reportedly after little sleep. Fatigue can distort time perception, fragment memory and produce brief periods of automatic driving in which people continue operating a vehicle while later recalling little of the journey.
+
+Critics argue that exhaustion, stress and hypnagogic states — the transitional mental condition between wakefulness and sleep — can create vivid perceptions of lights, paralysis and disorientation. These mechanisms are commonly discussed in analyses of other missing-time cases from the same era. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/captured-by-aliens-a-history-and-analysis-of-american-abduction-claims-1476681414-9781476681412.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">Captured by Aliens?: A History and Analysis of American</span><span class="citation-popover-snippet">missing time. Under hypnotic regression by Dr. Leo Sprinkle, Larson recalled encountering a six-foot-tall, mummy-like entity that had met...</span></span></span>
+
+Supporters of the case counter that three people reportedly experienced the event together, making a simple individual hallucination less convincing. They also point to the changed seating arrangement as evidence that something objectively unusual occurred inside the vehicle.
+
+But because the surviving record is fragmentary, neither interpretation can be decisively confirmed.
+
+## Where the early accounts agree and diverge
+
+One of the most revealing features of the Larson timeline is the degree to which the story stabilised only after repeated retelling.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rh_pyJG99W8" title="Dakota Mysteries and Oddities" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rh_pyJG99W8" target="_blank" rel="noopener noreferrer">Dakota Mysteries and Oddities</a></p><p class="youtube-embed-meta">Channel: Prairie Public &middot; Views: 88.6K &middot; Uploaded: May 2022 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rh_pyJG99W8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rh_pyJG99W8">Open on YouTube</a></p></div></div></div>
+
+### Elements that remain broadly consistent
+
+Across most versions of the case, several points remain relatively stable:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* three witnesses were present, <span class="citation-chip-wrap"><a class="citation-chip" href="https://fmdiversion.gov/wp-content/uploads/2026/02/Final-February-Board-Packet.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fmdiversion.gov">[fmdiversion.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fmdiversion.gov</span><span class="citation-popover-title">Final February Board Packet</span><span class="citation-popover-snippet">Diversion Board of Authority19 Feb 2026 — A regular meeting of the Metro Flood Diversion Authority Board of Authority was held on January...</span></span></span>
+* the drive occurred before dawn,
+* strange lights were observed near Interstate 94,
+* the witnesses experienced confusion or paralysis,
+* and they later believed time was missing.
+
+</div>
+
+These recurring elements likely represent the core narrative that emerged earliest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/centerforufostudies/posts/on-this-day-in-1976-august-26-1976-315-am-terry-oleary-his-girlfriend-jackie-lar/506535442096776/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">on this day in 1976 august 26 1976 315 am terry oleary his girlfriend jackie lar</span><span class="citation-popover-snippet">August 26, 1976. 3:15 am Terry O&#x27;Leary...3:15 a.m. Terry O&#x27;Leary, his girlfriend Jackie Larson, and Jackie&#x27;s mother Sandy Larson leave F...</span><span class="citation-popover-meta">Published: August 26, 1976</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.prairiepublic.org/show/dakota-datebook-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.prairiepublic.org">[Prairie Public]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.prairiepublic.org</span><span class="citation-popover-title">dakota datebook archive</span><span class="citation-popover-snippet">Prairie PublicDakota Datebook ArchiveThis is our Dakota Datebook archive of Datebooks aired from 2003-2017. Find all newer Dakota Dateboo...</span></span></span>
+
+### Details that shift over time
+
+Other details vary noticeably between sources:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* the number and colour of the lights,
+* whether smoke or mist appeared,
+* the exact duration of missing time,
+* how the witnesses described their paralysis,
+* and precisely how the seating positions changed.
+
+</div>
+
+Some retellings are terse local-history summaries, while others incorporate imagery that became prominent only after hypnotic regression sessions conducted by psychologist R. Leo Sprinkle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hpr1.com/index.php/feature/culture/the-sandra-larson-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hpr1.com">[hpr1.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hpr1.com</span><span class="citation-popover-title">the sandra larson incident</span><span class="citation-popover-snippet">​The Sandra Larson incident | High...15 Mar 2017 — Leo Sprinkle, a professor and therapist from the University of Wyoming, came to inves...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://archiveswest.orbiscascade.org/ark%3A80444/xv805708" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archiveswest.orbiscascade.org">[2archiveswest.orbiscascade.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archiveswest.orbiscascade.org</span><span class="citation-popover-snippet">orbiscascade.orgR. Leo Sprinkle papers, 1961-2020 - Archives WestThis collection contains the personal and professional correspondence of...</span></span></span>
+
+This distinction matters because the earliest road narrative and the later abduction narrative are not equally supported. The I-94 incident involved three witnesses describing a disturbing event. The more elaborate claims — being taken aboard a craft, medical examinations and encounters with entities — emerged later through hypnosis.
+
+That chronology affects credibility assessments. Historians of UFO culture and sceptical researchers alike often separate:
+
+* the initial sighting and missing-time report,
+* from the later recovered-memory material.
+
+
+<img src="{{ "/assets/images/Larson_abduction_nea_e9683a_i94_missing_time_78f40b-Illustration-3-light.svg" | relative_url }}" alt="I 94 Timeline illustration 3" data-theme-src-dark="{{ "/assets/images/Larson_abduction_nea_e9683a_i94_missing_time_78f40b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Larson_abduction_nea_e9683a_i94_missing_time_78f40b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## The problem of retrospective storytelling
+
+The Larson case developed during a period when abduction narratives were becoming culturally familiar in the United States. By the mid-1970s, ideas about missing time, paralysis and recovered memories had already entered UFO literature and media discussion.
+
+That context does not automatically invalidate the witnesses’ claims, but it complicates interpretation. Once a case gains publicity, later retellings can absorb details from interviews, investigators, documentaries and other UFO stories. Over time, the distinction between:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* what was remembered immediately,
+* what was suggested during questioning,
+* and what became part of the accepted narrative
+
+</div>
+
+can blur.
+
+The Larson timeline shows many signs of this process. The highway encounter itself remained relatively simple and ambiguous. The story became more elaborate as it moved further from the original drive and deeper into hypnotic reconstruction.
+
+For that reason, many researchers — including some sympathetic to UFO reports — treat the Interstate 94 episode as the strongest evidential layer of the case while remaining cautious about conclusions drawn from the missing-time claim itself. The witnesses may well have experienced a frightening and sincerely remembered event on the road west of Fargo. What cannot be firmly established from the surviving public record is whether the “missing hour” reflected an external anomaly, a psychological episode, distorted time perception, or a narrative reconstructed after the fact.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1G9WtN3NVNw" title="The UFO case that still divides investigators | SLICE SCIENCE | FULL DOC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1G9WtN3NVNw" target="_blank" rel="noopener noreferrer">The UFO case that still divides investigators | SLICE SCIENCE | FULL DOC</a></p><p class="youtube-embed-meta">Channel: SLICE Science &middot; Views: 37.8K &middot; Uploaded: April 2026 &middot; Length: 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1G9WtN3NVNw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1G9WtN3NVNw">Open on YouTube</a></p></div></div></div>
+
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell fr-section-shell-fallback">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">No matched book cards were available for The Missing Hour on Interstate 94, so this fallback keeps a direct Amazon reading path visible.</p>
+    </div>
+    <div class="fr-search-grid">
+
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">Sandra Larson guide</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Sandra+Larson+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
+    </article>
+
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">Missing Records guide</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Missing+Records+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
+    </article>
+
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">Leo Sprinkle guide</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Leo+Sprinkle+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: hpr1.com  
+   Title: the sandra larson incident  
+   Link: [https://hpr1.com/index.php/feature/culture/the-sandra-larson-incident](https://hpr1.com/index.php/feature/culture/the-sandra-larson-incident)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>​The Sandra Larson incident | High...15 Mar 2017 — Leo Sprinkle, a professor and therapist from the University of Wyoming, came to inves...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: dokumen.pub  
+   Title: Captured by Aliens?: A History and Analysis of American  
+   Link: [https://dokumen.pub/captured-by-aliens-a-history-and-analysis-of-american-abduction-claims-1476681414-9781476681412.html](https://dokumen.pub/captured-by-aliens-a-history-and-analysis-of-american-abduction-claims-1476681414-9781476681412.html)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>missing time. Under hypnotic regression by Dr. Leo Sprinkle, Larson recalled encountering a six-foot-tall, mummy-like entity that had met...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: facebook.com  
+   Title: on this day in 1976 august 26 1976 315 am terry oleary his girlfriend jackie lar  
+   Link: [https://www.facebook.com/centerforufostudies/posts/on-this-day-in-1976-august-26-1976-315-am-terry-oleary-his-girlfriend-jackie-lar/506535442096776/](https://www.facebook.com/centerforufostudies/posts/on-this-day-in-1976-august-26-1976-315-am-terry-oleary-his-girlfriend-jackie-lar/506535442096776/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>August 26, 1976. 3:15 am Terry O&#x27;Leary...3:15 a.m. Terry O&#x27;Leary, his girlfriend Jackie Larson, and Jackie&#x27;s mother Sandy Larson leave F...</p></details>
+   Published: August 26, 1976  
+
+4. <a id="endnote-4"></a>
+   Source: archiveswest.orbiscascade.org  
+   Link: [https://archiveswest.orbiscascade.org/ark%3A80444/xv805708](https://archiveswest.orbiscascade.org/ark%3A80444/xv805708)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>orbiscascade.orgR. Leo Sprinkle papers, 1961-2020 - Archives WestThis collection contains the personal and professional correspondence of...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/2030822207183428/posts/2985025225096450/](https://www.facebook.com/groups/2030822207183428/posts/2985025225096450/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What was your home town like?... Interstate 94 bypassed the old route through town in the 1950&#x27;s. Businesses may come and go but the “Cit...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: facebook.com  
+   Title: cass county sheriff jesse jahner provides a statement regarding alleged criminal  
+   Link: [https://www.facebook.com/CassCountySO/posts/cass-county-sheriff-jesse-jahner-provides-a-statement-regarding-alleged-criminal/986301383532866/](https://www.facebook.com/CassCountySO/posts/cass-county-sheriff-jesse-jahner-provides-a-statement-regarding-alleged-criminal/986301383532866/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cass County Sheriff Jesse Jahner Provides a Statement...(December 3rd, 2024) - The Cass County Sheriff&#x27;s Office has learned that crimina...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: news.prairiepublic.org  
+   Title: dakota datebook archive  
+   Link: [https://news.prairiepublic.org/show/dakota-datebook-archive](https://news.prairiepublic.org/show/dakota-datebook-archive)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Prairie PublicDakota Datebook ArchiveThis is our Dakota Datebook archive of Datebooks aired from 2003-2017. Find all newer Dakota Dateboo...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: archive.org  
+   Link: [https://archive.org/stream/dakotadatebook_digital_final2/dakotadatebook_final2_djvu.txt](https://archive.org/stream/dakotadatebook_digital_final2/dakotadatebook_final2_djvu.txt)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;Dakota Datebook: North Dakota Stories from...I Dakota Datebook North Dakota Stories from Prairie Public Edited by David Ha...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: news.prairiepublic.org  
+   Title: dakota datebook  
+   Link: [https://news.prairiepublic.org/podcast/dakota-datebook](https://news.prairiepublic.org/podcast/dakota-datebook)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>DatebookNorth Dakota&#x27;s legacy includes many strange stories of eccentric towns, war heroes, and various colorful characters. Hear all abo...</p></details>
+
+### Additional References
+
+10. <a id="endnote-10"></a>
+   Source: pacodeandbulletin.gov  
+   Link: [https://www.pacodeandbulletin.gov/secure/pabulletin/data/vol51/51-33/51_33_p2.pdf](https://www.pacodeandbulletin.gov/secure/pabulletin/data/vol51/51-33/51_33_p2.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unclaimed Property OwnersEach year, the Treasury Department (Department) receives millions of dollars in unclaimed property. Common types...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: asla.org  
+   Link: [https://www.asla.org/awards-events-main-landing/honors-awards/fellows/asla-fellows](https://www.asla.org/awards-events-main-landing/honors-awards/fellows/asla-fellows)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ASLA FellowsDirectory of ASLA Fellows listing distinguished landscape architects, their nominating chapters, and induction years, honorin...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: imdb.com  
+   Link: [https://www.imdb.com/list/ls023892407/](https://www.imdb.com/list/ls023892407/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Title SongsA young man finds a severed human ear that is somehow connected to a mysterious lounge singer and a group of psychopathic crim...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: oregonstater.org  
+   Link: [https://oregonstater.org/author/storyware/](https://oregonstater.org/author/storyware/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>storyware, Author at Oregon StaterWatch the Beavs square off against University of Nevada, Las Vegas; join in Class of “4&#x27;s” reunions (&#x27;0...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: shopprairiepublic.org  
+   Link: [https://shopprairiepublic.org/products/dakota-datebook-north-dakota-stories-from-prairie-public-book](https://shopprairiepublic.org/products/dakota-datebook-north-dakota-stories-from-prairie-public-book)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The students of the University of North Dakota&#x27;s Writing, Editing, and Publishing...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: fmdiversion.gov  
+   Title: Final February Board Packet  
+   Link: [https://fmdiversion.gov/wp-content/uploads/2026/02/Final-February-Board-Packet.pdf](https://fmdiversion.gov/wp-content/uploads/2026/02/Final-February-Board-Packet.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Diversion Board of Authority19 Feb 2026 — A regular meeting of the Metro Flood Diversion Authority Board of Authority was held on January...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: hummedia.manchester.ac.uk  
+   Link: [https://hummedia.manchester.ac.uk/wordpress-websites/archer/wordlist_3-2.txt](https://hummedia.manchester.ac.uk/wordpress-websites/archer/wordlist_3-2.txt)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>prior 94 suspected 94 harcourt 94 picked 94 presume 94...Read more...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: pure.au.dk  
+   Title: dk Camera Movement in Narrative Cinema  
+   Link: [https://pure.au.dk/ws/files/52113417/Camera_Movement_0910.pdf](https://pure.au.dk/ws/files/52113417/Camera_Movement_0910.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Movement in Narrative Cinema - Pure94 For an analysis of the expressive function (in Bordwell&#x27;s as well as Gibbs and Pye&#x27;s definition. (p...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: britishcouncil.ro  
+   Title: romania library catalogue bucharest 0  
+   Link: [https://www.britishcouncil.ro/sites/default/files/romania-library-catalogue-bucharest_0.pdf](https://www.britishcouncil.ro/sites/default/files/romania-library-catalogue-bucharest_0.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Titles @BritishThe 100 Greatest Olympians and Paralympians. Callow, Nick. 2011. LLB 796.480922 CAL S600330371. 100 ideas for teaching cre...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: governmentattic.org  
+   Title: An Annotated Bibliography, Lynn E  
+   Link: [https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf](https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Catoe, Prepared bySprinkle, R. Leo. Personal and sci1mtific attitudes: a survey of persons interested in UFO reports. Laramie, Wyoming, T...</p></details>

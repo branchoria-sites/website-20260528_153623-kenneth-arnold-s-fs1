@@ -1,0 +1,1003 @@
+---
+level: 1
+basename: Trans-en-Provence_en_439c97
+child_basenames:
+- Trans-en-Provence_en_439c97_gepan_tyremark_debat_479bc5
+- Trans-en-Provence_en_439c97_index
+- Trans-en-Provence_en_439c97_nicolai_witness_test_d58e58
+- Trans-en-Provence_en_439c97_physical_trace_evide_7d9b0d
+sibling_basenames:
+- Alan_Godfrey_encount_87fc0b
+- Alexander_Hamilton_a_75e894
+- Andreasson_abduction_e8bccf
+- Antonio_Villas-Boas_1a3f4f
+- Apollo_11_sightings_2c5554
+- Aurora_Texas_airship_165367
+- BOAC_stratocruiser_s_01e20e
+- Battle_of_Los_Angele_969c9e
+- Belgium_radarvisual_58866e
+- Betty_and_Barney_Hil_3bcafa
+- Carl_Higdon_contact_bfd61b
+- CashLandrum_incident_7ad7d9
+- Cedric_Allingham_enc_2c7f6b
+- Charles_B_Moore_sigh_63eb1f
+- Charles_L_Moody_abdu_780173
+- Chiles_and_Whitted_s_33732b
+- Cisco_Grove_incident_29820a
+- Claude_Vorilhon_cont_ec941c
+- Clyde_Tombaugh_sight_af62cd
+- Coyne_helicopter_sig_5ce811
+- Cynthia_Appleton_enc_304111
+- Day_family_abduction_fe300b
+- Delphos_Ring_inciden_2952cd
+- Desvergers_scoutmast_75261f
+- Doctor_X_UFO_encount_5e669c
+- E_J_Smith_sighting_1_b2b2e6
+- Eagle_River_encounte_9b53c8
+- Farmington_sightings_46c4ec
+- Fatima_apparition_19_f6784f
+- Flatwoods_incident_1_ff4486
+- Flight_19_incident_1_5cc889
+- Fort_Itaipu_Brazil_s_89a0ba
+- Fred_M_Johnson_sight_b34b17
+- Gary_Wilcox_encounte_6de9ff
+- Gemini_4_sighting_19_9c351d
+- Gemini_7_sighting_19_7caf7b
+- George_Adamski_encou_795ba9
+- Gordon_Cooper_sighti_93b9f6
+- Gorman_dogfight_near_aac8f7
+- Great_Falls_Montana_171d9e
+- Greenhaw_encounter_1_a4bc62
+- Gulf_Breeze_encounte_8373f7
+- Herbert_Schirmer_abd_b149a3
+- Incident_at_Exeter_1_781528
+- JAL_1628_sighting_ov_aeed7e
+- Jet_chase_near_Tehra_5ae5aa
+- Jimmy_Carter_sightin_759215
+- John_Martin_sighting_4cec00
+- Jose_A_y_Bonilla_pho_27aa92
+- Kelly-Hopkinsville_i_de664d
+- Kenneth_Arnold_s_fir_b696ba
+- Kinross_incident_195_2ebd01
+- Lady_animal_mutilati_ea7340
+- Lakenheath_episode_1_bf5257
+- Larson_abduction_nea_e9683a
+- Levelland_Texas_inci_0e8348
+- Linda_Cortile_abduct_1b229f
+- Livingston_incident_b2c293
+- Loch_Raven_Dam_incid_b0e5b6
+- Lubbock_Lights_sight_4eabd8
+- Magenta_Italy_crash_5ee1aa
+- Maureen_Puddy_encoun_21a7f8
+- Maury_Island_inciden_ec4432
+- McMinnville_photogra_4e1af3
+- Middle_East_UAP_vide_4a6c55
+- Muroc_Field_sighting_a700e4
+- Nash_and_Fortenberry_0a9bf2
+- Oloron_Angel_Hair_in_61d462
+- Operation_Mainbrace_06bcd8
+- Orfeo_Angelucci_enco_bef29a
+- Pascagoula_abduction_80a64a
+- Puerto_Rico_infrared_d310d5
+- RB-47_radarvisual_in_5bf2a6
+- Red_Bluff_sighting_1_f72200
+- Reinhold_Schmidt_enc_731a71
+- Rendlesham_Forest_in_f98080
+- Reverend_W_B_Gill_si_c31d68
+- Rex_Heflin_photograp_32bdf2
+- Roswell_1947_c36fe7
+- Salem_Massachusetts_01ecd1
+- Socorro_sighting_by_961b47
+- SpaurNeff_Ravenna_si_4977ac
+- Stanford_Kentucky_ab_a91f06
+- Stephen_Darbishire_p_f80223
+- Steven_Michalak_enco_1bbf94
+- The_Northeast_Blacko_c3cfee
+- Thomas_F_Mantell_inc_2ce7ee
+- Topcliffe_incident_1_80cbf4
+- Travis_Walton_abduct_612999
+- Tremonton_Utah_film_79b5ee
+- Trindade_Island_phot_726a39
+- Truman_Bethurum_cont_eaa44d
+- Tully_saucer_nest_in_b9d0b0
+- Tunguska_event_1908_efda6f
+- USS_Nimitz_Tic_Tac_v_83266a
+- USS_Russell_video_20_3188a1
+- USS_Theodore_Rooseve_a4867d
+- USS_Theodore_Rooseve_daeaff
+- Ubatuba_incident_195_6ff2c6
+- Ummo_photographs_196_ed7563
+- Valensole_incident_1_63f5cf
+- Valentich_disappeara_592d85
+- Voronezh_Russia_land_e13f34
+- Walesville_Incident_cbceb2
+- Washington_National_ee59a4
+- WellingtonKaikoura_i_c1d17f
+tags:
+- trans-en-provence-encounter-1981
+keywords:
+- trans-en-provence-encounter-1981
+affiliate_category: trans-en-provence-encounter-1981
+show_ads: true
+description: The Trans-en-Provence encounter was a 8 January 1981 UFO report from a property near Trans-en-Provence in the Var department of south-eastern France.
+hero_summary: The Trans-en-Provence encounter was a 8 January 1981 UFO report from a property near Trans-en-Provence in the Var department of south-eastern France.
+layout: default
+permalink: /trans-en-provence-encounter-1981/
+nav_short_title: What Really Happened at Trans en Provence?
+title: What Really Happened at Trans en Provence?
+title_full: What Really Happened at Trans en Provence?
+display_title_short: What Really Happened at Trans en Provence?
+display_title: What Really Happened at Trans en Provence?
+heading_title: What Really Happened at Trans en Provence?
+page_heading_title: What Really Happened at Trans en Provence?
+source_count: 69
+infographic_count: 3
+page_website_name: Trans en Provence
+page_banner_line: A careful look at France's most debated physical-trace UFO case.
+site_website_name: Trans en Provence
+site_banner_line: A careful look at France's most debated physical-trace UFO case.
+site_image_description: A quiet terraced property in rural southern France with a circular ground mark near low vegetation and trees.
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+sibling_links:
+- basename: Alan_Godfrey_encount_87fc0b
+  title: Godfrey Encounter
+  permalink: /alan-godfrey-encounter-1980/
+  short_title: Godfrey Encounter
+- basename: Alexander_Hamilton_a_75e894
+  title: Hamilton Airship
+  permalink: /alexander-hamilton-airship-1897/
+  short_title: Hamilton Airship
+- basename: Andreasson_abduction_e8bccf
+  title: Andreasson
+  permalink: /andreasson-abduction-1967/
+  short_title: Andreasson
+- basename: Antonio_Villas-Boas_1a3f4f
+  title: Villas Boas
+  permalink: /antonio-villas-boas-abduction-1957/
+  short_title: Villas Boas
+- basename: Apollo_11_sightings_2c5554
+  title: Apollo 11 Sightings
+  permalink: /apollo-11-sightings-1969/
+  short_title: Apollo 11 Sightings
+- basename: Aurora_Texas_airship_165367
+  title: Aurora Airship
+  permalink: /aurora-texas-airship-crash-1897/
+  short_title: Aurora Airship
+- basename: Battle_of_Los_Angele_969c9e
+  title: Battle of Los Angeles
+  permalink: /battle-of-los-angeles-1942/
+  short_title: Battle of Los Angeles
+- basename: Belgium_radarvisual_58866e
+  title: Belgium UFO Wave
+  permalink: /belgium-radarvisual-sightings-1989/
+  short_title: Belgium UFO Wave
+- basename: Betty_and_Barney_Hil_3bcafa
+  title: Hill Encounter
+  permalink: /betty-and-barney-hill-abduction-1961/
+  short_title: Hill Encounter
+- basename: BOAC_stratocruiser_s_01e20e
+  title: BOAC Sighting
+  permalink: /boac-stratocruiser-sighting-1954/
+  short_title: BOAC Sighting
+- basename: Carl_Higdon_contact_bfd61b
+  title: Higdon Contact
+  permalink: /carl-higdon-contact-1974/
+  short_title: Higdon Contact
+- basename: CashLandrum_incident_7ad7d9
+  title: Cash Landrum
+  permalink: /cashlandrum-incident-1980/
+  short_title: Cash Landrum
+- basename: Cedric_Allingham_enc_2c7f6b
+  title: Allingham
+  permalink: /cedric-allingham-encounter-1954/
+  short_title: Allingham
+- basename: Charles_B_Moore_sigh_63eb1f
+  title: Arrey UFO
+  permalink: /charles-b-moore-sighting-1949/
+  short_title: Arrey UFO
+- basename: Charles_L_Moody_abdu_780173
+  title: Moody Abduction
+  permalink: /charles-l-moody-abduction-1975/
+  short_title: Moody Abduction
+- basename: Chiles_and_Whitted_s_33732b
+  title: Chiles Whitted
+  permalink: /chiles-and-whitted-sighting-1948/
+  short_title: Chiles Whitted
+- basename: Cisco_Grove_incident_29820a
+  title: CiscoGrove1964
+  permalink: /cisco-grove-incident-1964/
+  short_title: CiscoGrove1964
+- basename: Claude_Vorilhon_cont_ec941c
+  title: Rael Contact
+  permalink: /claude-vorilhon-contact-1973/
+  short_title: Rael Contact
+- basename: Clyde_Tombaugh_sight_af62cd
+  title: Tombaugh Sighting
+  permalink: /clyde-tombaugh-sighting-1949/
+  short_title: Tombaugh Sighting
+- basename: Coyne_helicopter_sig_5ce811
+  title: Coyne Sighting
+  permalink: /coyne-helicopter-sighting-1973/
+  short_title: Coyne Sighting
+- basename: Cynthia_Appleton_enc_304111
+  title: Appleton Encounter
+  permalink: /cynthia-appleton-encounter-1957/
+  short_title: Appleton Encounter
+- basename: Day_family_abduction_fe300b
+  title: Aveley Abduction
+  permalink: /day-family-abduction-1974/
+  short_title: Aveley Abduction
+- basename: Delphos_Ring_inciden_2952cd
+  title: Delphos Ring
+  permalink: /delphos-ring-incident-1971/
+  short_title: Delphos Ring
+- basename: Desvergers_scoutmast_75261f
+  title: Desvergers
+  permalink: /desvergers-scoutmaster-sighting-1952/
+  short_title: Desvergers
+- basename: Doctor_X_UFO_encount_5e669c
+  title: Doctor X
+  permalink: /doctor-x-ufo-encounter-1968/
+  short_title: Doctor X
+- basename: E_J_Smith_sighting_1_b2b2e6
+  title: Flight105UFO
+  permalink: /e-j-smith-sighting-1947/
+  short_title: Flight105UFO
+- basename: Eagle_River_encounte_9b53c8
+  title: Eagle River
+  permalink: /eagle-river-encounter-1961/
+  short_title: Eagle River
+- basename: Farmington_sightings_46c4ec
+  title: Farmington Armada
+  permalink: /farmington-sightings-1950/
+  short_title: Farmington Armada
+- basename: Fatima_apparition_19_f6784f
+  title: Fatima
+  permalink: /fatima-apparition-1917/
+  short_title: Fatima
+- basename: Flatwoods_incident_1_ff4486
+  title: Flatwoods
+  permalink: /flatwoods-incident-1952/
+  short_title: Flatwoods
+- basename: Flight_19_incident_1_5cc889
+  title: Flight 19
+  permalink: /flight-19-incident-1945/
+  short_title: Flight 19
+- basename: Fort_Itaipu_Brazil_s_89a0ba
+  title: Fort Itaipu
+  permalink: /fort-itaipu-brazil-sighting-1957/
+  short_title: Fort Itaipu
+- basename: Fred_M_Johnson_sight_b34b17
+  title: Johnson Sighting
+  permalink: /fred-m-johnson-sighting-1947/
+  short_title: Johnson Sighting
+- basename: Gary_Wilcox_encounte_6de9ff
+  title: WilcoxUFO
+  permalink: /gary-wilcox-encounter-1964/
+  short_title: WilcoxUFO
+- basename: Gemini_4_sighting_19_9c351d
+  title: Gemini 4 Sighting
+  permalink: /gemini-4-sighting-1965/
+  short_title: Gemini 4 Sighting
+- basename: Gemini_7_sighting_19_7caf7b
+  title: Gemini7Sighting
+  permalink: /gemini-7-sighting-1965/
+  short_title: Gemini7Sighting
+- basename: George_Adamski_encou_795ba9
+  title: Adamski
+  permalink: /george-adamski-encounters-1953/
+  short_title: Adamski
+- basename: Gordon_Cooper_sighti_93b9f6
+  title: Cooper
+  permalink: /gordon-cooper-sightings-1963/
+  short_title: Cooper
+- basename: Gorman_dogfight_near_aac8f7
+  title: Gorman Dogfight
+  permalink: /gorman-dogfight-near-fargo-1948/
+  short_title: Gorman Dogfight
+- basename: Great_Falls_Montana_171d9e
+  title: Great Falls UFO
+  permalink: /great-falls-montana-film-1950/
+  short_title: Great Falls UFO
+- basename: Greenhaw_encounter_1_a4bc62
+  title: Falkville Metal Man
+  permalink: /greenhaw-encounter-1973/
+  short_title: Falkville Metal Man
+- basename: Gulf_Breeze_encounte_8373f7
+  title: Gulf Breeze
+  permalink: /gulf-breeze-encounter-1987/
+  short_title: Gulf Breeze
+- basename: Herbert_Schirmer_abd_b149a3
+  title: Schirmer UFO
+  permalink: /herbert-schirmer-abduction-1967/
+  short_title: Schirmer UFO
+- basename: Incident_at_Exeter_1_781528
+  title: Exeter UFO
+  permalink: /incident-at-exeter-1965/
+  short_title: Exeter UFO
+- basename: JAL_1628_sighting_ov_aeed7e
+  title: JAL 1628
+  permalink: /jal-1628-sighting-over-alaska-1986/
+  short_title: JAL 1628
+- basename: Jet_chase_near_Tehra_5ae5aa
+  title: Tehran UFO
+  permalink: /jet-chase-near-tehran-iran-1976/
+  short_title: Tehran UFO
+- basename: Jimmy_Carter_sightin_759215
+  title: Carter UFO
+  permalink: /jimmy-carter-sighting-1969/
+  short_title: Carter UFO
+- basename: John_Martin_sighting_4cec00
+  title: Martin Sighting
+  permalink: /john-martin-sighting-1878/
+  short_title: Martin Sighting
+- basename: Jose_A_y_Bonilla_pho_27aa92
+  title: Bonilla1883
+  permalink: /jose-a-y-bonilla-photograph-1883/
+  short_title: Bonilla1883
+- basename: Kelly-Hopkinsville_i_de664d
+  title: Kelly Hopkinsville
+  permalink: /kelly-hopkinsville-incident-1955/
+  short_title: Kelly Hopkinsville
+- basename: Kenneth_Arnold_s_fir_b696ba
+  title: Arnold Sighting
+  permalink: /kenneth-arnold-s-first-sighting-1947/
+  short_title: Arnold Sighting
+- basename: Kinross_incident_195_2ebd01
+  title: Kinross
+  permalink: /kinross-incident-1953/
+  short_title: Kinross
+- basename: Lady_animal_mutilati_ea7340
+  title: Snippy
+  permalink: /lady-animal-mutilation-1966/
+  short_title: Snippy
+- basename: Lakenheath_episode_1_bf5257
+  title: Lakenheath
+  permalink: /lakenheath-episode-1956/
+  short_title: Lakenheath
+- basename: Larson_abduction_nea_e9683a
+  title: Larson Abduction
+  permalink: /larson-abduction-near-fargo-1975/
+  short_title: Larson Abduction
+- basename: Levelland_Texas_inci_0e8348
+  title: Levelland UFO
+  permalink: /levelland-texas-incident-1957/
+  short_title: Levelland UFO
+- basename: Linda_Cortile_abduct_1b229f
+  title: Cortile Case
+  permalink: /linda-cortile-abduction-1989/
+  short_title: Cortile Case
+- basename: Livingston_incident_b2c293
+  title: LivingstonUFO
+  permalink: /livingston-incident-1979/
+  short_title: LivingstonUFO
+- basename: Loch_Raven_Dam_incid_b0e5b6
+  title: LochRavenUFO
+  permalink: /loch-raven-dam-incident-1958/
+  short_title: LochRavenUFO
+- basename: Lubbock_Lights_sight_4eabd8
+  title: Lubbock Lights
+  permalink: /lubbock-lights-sightings-1951/
+  short_title: Lubbock Lights
+- basename: Magenta_Italy_crash_5ee1aa
+  title: MagentaCrash1933
+  permalink: /magenta-italy-crash-1933/
+  short_title: MagentaCrash1933
+- basename: Maureen_Puddy_encoun_21a7f8
+  title: Puddy Encounter
+  permalink: /maureen-puddy-encounter-1973/
+  short_title: Puddy Encounter
+- basename: Maury_Island_inciden_ec4432
+  title: Maury Island
+  permalink: /maury-island-incident-1947/
+  short_title: Maury Island
+- basename: McMinnville_photogra_4e1af3
+  title: McMinnville Photos
+  permalink: /mcminnville-photographs-1950/
+  short_title: McMinnville Photos
+- basename: Middle_East_UAP_vide_4a6c55
+  title: Middle East Orb
+  permalink: /middle-east-uap-video-2022/
+  short_title: Middle East Orb
+- basename: Muroc_Field_sighting_a700e4
+  title: Muroc Saucers
+  permalink: /muroc-field-sightings-1947/
+  short_title: Muroc Saucers
+- basename: Nash_and_Fortenberry_0a9bf2
+  title: Nash Fortenberry
+  permalink: /nash-and-fortenberry-sighting-1952/
+  short_title: Nash Fortenberry
+- basename: Oloron_Angel_Hair_in_61d462
+  title: Oloron Angel Hair
+  permalink: /oloron-angel-hair-incident-1952/
+  short_title: Oloron Angel Hair
+- basename: Operation_Mainbrace_06bcd8
+  title: MainbraceSightings
+  permalink: /operation-mainbrace-sightings-1952/
+  short_title: MainbraceSightings
+- basename: Orfeo_Angelucci_enco_bef29a
+  title: Angelucci
+  permalink: /orfeo-angelucci-encounter-1955/
+  short_title: Angelucci
+- basename: Pascagoula_abduction_80a64a
+  title: Pascagoula
+  permalink: /pascagoula-abduction-1973/
+  short_title: Pascagoula
+- basename: Puerto_Rico_infrared_d310d5
+  title: Aguadilla UAP
+  permalink: /puerto-rico-infrared-video-2013/
+  short_title: Aguadilla UAP
+- basename: RB-47_radarvisual_in_5bf2a6
+  title: RB 47 Incident
+  permalink: /rb-47-radarvisual-incident-1957/
+  short_title: RB 47 Incident
+- basename: Red_Bluff_sighting_1_f72200
+  title: Red Bluff UFO
+  permalink: /red-bluff-sighting-1960/
+  short_title: Red Bluff UFO
+- basename: Reinhold_Schmidt_enc_731a71
+  title: Schmidt Encounter
+  permalink: /reinhold-schmidt-encounter-1957/
+  short_title: Schmidt Encounter
+- basename: Rendlesham_Forest_in_f98080
+  title: Rendlesham
+  permalink: /rendlesham-forest-incident-1980/
+  short_title: Rendlesham
+- basename: Reverend_W_B_Gill_si_c31d68
+  title: Gill Sightings
+  permalink: /reverend-w-b-gill-sightings-1959/
+  short_title: Gill Sightings
+- basename: Rex_Heflin_photograp_32bdf2
+  title: Heflin UFO
+  permalink: /rex-heflin-photographs-1965/
+  short_title: Heflin UFO
+- basename: Roswell_1947_c36fe7
+  title: Roswell
+  permalink: /roswell-1947/
+  short_title: Roswell
+- basename: Salem_Massachusetts_01ecd1
+  title: Salem UFO Photo
+  permalink: /salem-massachusetts-photograph-1952/
+  short_title: Salem UFO Photo
+- basename: Socorro_sighting_by_961b47
+  title: Socorro UFO
+  permalink: /socorro-sighting-by-lonnie-zamora-1964/
+  short_title: Socorro UFO
+- basename: SpaurNeff_Ravenna_si_4977ac
+  title: RavennaUFO
+  permalink: /spaurneff-ravenna-sighting-1966/
+  short_title: RavennaUFO
+- basename: Stanford_Kentucky_ab_a91f06
+  title: Stanford Abduction
+  permalink: /stanford-kentucky-abduction-1976/
+  short_title: Stanford Abduction
+- basename: Stephen_Darbishire_p_f80223
+  title: DarbishireUFO
+  permalink: /stephen-darbishire-photograph-1954/
+  short_title: DarbishireUFO
+- basename: Steven_Michalak_enco_1bbf94
+  title: Falcon Lake
+  permalink: /steven-michalak-encounter-1967/
+  short_title: Falcon Lake
+- basename: The_Northeast_Blacko_c3cfee
+  title: Blackout UFO
+  permalink: /the-northeast-blackout-1965/
+  short_title: Blackout UFO
+- basename: Thomas_F_Mantell_inc_2ce7ee
+  title: Mantell
+  permalink: /thomas-f-mantell-incident-1948/
+  short_title: Mantell
+- basename: Topcliffe_incident_1_80cbf4
+  title: TopcliffeUFO
+  permalink: /topcliffe-incident-1952/
+  short_title: TopcliffeUFO
+- basename: Travis_Walton_abduct_612999
+  title: Walton
+  permalink: /travis-walton-abduction-1975/
+  short_title: Walton
+- basename: Tremonton_Utah_film_79b5ee
+  title: Tremonton UFO
+  permalink: /tremonton-utah-film-1952/
+  short_title: Tremonton UFO
+- basename: Trindade_Island_phot_726a39
+  title: Trindade UFO
+  permalink: /trindade-island-photographs-1958/
+  short_title: Trindade UFO
+- basename: Truman_Bethurum_cont_eaa44d
+  title: Bethurum
+  permalink: /truman-bethurum-contact-1954/
+  short_title: Bethurum
+- basename: Tully_saucer_nest_in_b9d0b0
+  title: TullyUFO
+  permalink: /tully-saucer-nest-incident-1966/
+  short_title: TullyUFO
+- basename: Tunguska_event_1908_efda6f
+  title: Tunguska
+  permalink: /tunguska-event-1908/
+  short_title: Tunguska
+- basename: Ubatuba_incident_195_6ff2c6
+  title: Ubatuba
+  permalink: /ubatuba-incident-1957/
+  short_title: Ubatuba
+- basename: USS_Nimitz_Tic_Tac_v_83266a
+  title: NimitzUAP
+  permalink: /uss-nimitz-tic-tac-video-2004/
+  short_title: NimitzUAP
+- basename: USS_Russell_video_20_3188a1
+  title: USS Russell
+  permalink: /uss-russell-video-2019/
+  short_title: USS Russell
+- basename: USS_Theodore_Rooseve_a4867d
+  title: Gimbal UAP
+  permalink: /uss-theodore-roosevelt-gimbal-video-2015/
+  short_title: Gimbal UAP
+- basename: USS_Theodore_Rooseve_daeaff
+  title: Go Fast UAP
+  permalink: /uss-theodore-roosevelt-go-fast-video/
+  short_title: Go Fast UAP
+- basename: Valensole_incident_1_63f5cf
+  title: Valensole
+  permalink: /valensole-incident-1965/
+  short_title: Valensole
+- basename: Valentich_disappeara_592d85
+  title: Valentich
+  permalink: /valentich-disappearance-1978/
+  short_title: Valentich
+- basename: Voronezh_Russia_land_e13f34
+  title: VoronezhLanding
+  permalink: /voronezh-russia-landing-1989/
+  short_title: VoronezhLanding
+- basename: Walesville_Incident_cbceb2
+  title: Walesville
+  permalink: /walesville-incident-1954/
+  short_title: Walesville
+- basename: Washington_National_ee59a4
+  title: Washington Saucers
+  permalink: /washington-national-sightings-1952/
+  short_title: Washington Saucers
+- basename: WellingtonKaikoura_i_c1d17f
+  title: Kaikoura Lights
+  permalink: /wellingtonkaikoura-incident-1978/
+  short_title: Kaikoura Lights
+- basename: Ummo_photographs_196_ed7563
+  title: UmmoPhotos
+  permalink: /were-the-1967-ummo-photographs-real-or-a/
+  short_title: UmmoPhotos
+child_links:
+- basename: Trans-en-Provence_en_439c97_gepan_tyremark_debat_479bc5
+  title: Official vs Tyres | Trans en Provence encounter 1981
+  permalink: /official-vs-tyres/
+  short_title: Official vs Tyres
+  heading_title: Was It a UFO Landing or Tyre Marks?
+- basename: Trans-en-Provence_en_439c97_physical_trace_evide_7d9b0d
+  title: The Traces | Trans en Provence encounter 1981
+  permalink: /the-traces/
+  short_title: The Traces
+  heading_title: Did the Physical Traces Prove Anything?
+- basename: Trans-en-Provence_en_439c97_nicolai_witness_test_d58e58
+  title: The Witness | Trans en Provence encounter 1981
+  permalink: /the-witness-bb3f71/
+  short_title: The Witness
+  heading_title: How Strong Was Nicolai's Testimony?
+prev_link:
+  basename: Topcliffe_incident_1_80cbf4
+  title: TopcliffeUFO
+  permalink: /topcliffe-incident-1952/
+  short_title: TopcliffeUFO
+next_link:
+  basename: Travis_Walton_abduct_612999
+  title: Walton
+  permalink: /travis-walton-abduction-1975/
+  short_title: Walton
+date: '2026-05-29 12:09:56 '
+header:
+  og_image: /assets/images/Trans-en-Provence_en_439c97-overview-social.jpg
+  preview_image: /assets/images/Trans-en-Provence_en_439c97-overview.webp
+image: /assets/images/Trans-en-Provence_en_439c97-overview-social.jpg
+---
+
+## Introduction
+
+The strongest cautious summary is this: something left unusual marks and measurable plant/soil differences at the reported location, but the link between those traces and a landed aerial object rests mainly on one witness’s account. GEPAN treated the case as physically significant, while later sceptical analyses argue that the marks could have been vehicle tyre traces and that GEPAN did not test mundane explanations hard enough. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1981-01-00849" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+
+
+<img src="{{ "/assets/images/Trans-en-Provence_en_439c97-overview.webp" | relative_url }}" alt="Overview image for Trans en Provence encounter 1981" loading="eager" decoding="sync" fetchpriority="high">
+## What Renato Nicolaï said happened
+
+[The witness]({{ 'the-witness-bb3f71/' | relative_url }}), usually named as Renato Nicolaï, reported that at about 5 p.m. he was working outside near his house when a faint whistling sound drew his attention to a grey, disc-like object descending towards a terraced area of his property. The gendarmerie statement preserved in GEPAN’s technical file says he saw no flame or smoke, approached while the object descended, then saw it resting on the ground before it rose, passed over trees and left towards the north-east. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Mission &amp; Geipan | GEIPAN</span><span class="citation-popover-snippet">Mission &amp; Geipan | GEIPAN</span></span></span>
+
+His description was concrete but not mechanically precise. He compared the object to two inverted plates joined rim to rim, roughly lead-coloured, with a ridge around its circumference and circular structures beneath it that he interpreted as possible “feet” or openings. He later found a roughly circular mark of about two metres in diameter, with areas he described as scraping or skidding marks on the curve. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/Note%20techn16-R.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Note techn16 R</span><span class="citation-popover-snippet">Note techn16 R</span></span></span>
+
+This is one of the case’s first interpretive problems. The event was reported in daylight and at fairly close range, yet the visual account still depends on a single observer’s memory during a brief, surprising episode. GEPAN itself noted that it found no clear sign of invention, exaggeration or distortion in the witness’s behaviour or successive statements, but also warned that this was not enough to certify the truth of the testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/journees_etudes.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">journees etudes</span><span class="citation-popover-snippet">journees etudes</span></span></span>
+
+
+<img src="{{ "/assets/images/Trans-en-Provence_en_439c97-Illustration-1-light.svg" | relative_url }}" alt="Trans en Provence encounter 1981 illustration 1" data-theme-src-dark="{{ "/assets/images/Trans-en-Provence_en_439c97-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Trans-en-Provence_en_439c97-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Why the investigation became unusually important
+
+The case did not remain a local anecdote because the authorities responded quickly. GEPAN’s technical note records that the gendarmerie was alerted on 9 January, arrived at about 11:30 a.m., interviewed the witness, took photographs and collected soil samples using the official gendarmerie procedure. GEPAN learned of the case on 12 January and noted that rain had fallen over the weekend, but also that the first samples had already been taken the day after the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/PV%20n%C2%B0351%20%281994310452%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+
+That speed gave the file a better evidential starting point than most UFO reports. Instead of relying only on a witness interview, investigators had a claimed physical trace, soil samples, plant samples, photographs, weather checks, and aeronautical enquiries. GEIPAN’s public case page still summarises the event as the observation of an object landing and departing after leaving ground traces, and it links the original technical note, meteorological material, laboratory analyses, photographs and the gendarmerie report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/memoire_JJV_1983.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">memoire JJV 1983</span><span class="citation-popover-snippet">memoire JJV 1983</span></span></span>
+
+The institutional setting also matters. GEIPAN describes itself as a technical department of CNES that collects, analyses, investigates, publishes and archives unidentified aerospace phenomenon reports; it also states that it does not claim proof of extraterrestrial life and works without speculation or unverified hypotheses. That makes Trans-en-Provence more serious than a tabloid account, but it does not make the official file infallible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/save_json_import_files/export_cas_pub_20210219111412.csv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">export cas pub 20210219111412.csv</span><span class="citation-popover-snippet">export cas pub 20210219111412.csv</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q9sQ2HCiSBE" title="[Today in History] 8 January 1981 – UFO Sighting in Trans-en-Provence, France" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q9sQ2HCiSBE" target="_blank" rel="noopener noreferrer">[Today in History] 8 January 1981 – UFO Sighting in Trans-en-Provence, France</a></p><p class="youtube-embed-meta">Channel: Qrio &middot; Views: 119 &middot; Uploaded: January 2025 &middot; Length: 2 minutes 53 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q9sQ2HCiSBE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q9sQ2HCiSBE">Open on YouTube</a></p></div></div></div>
+
+## What the physical traces actually showed
+
+The ground evidence was the centre of the case. GEPAN’s soil-analysis synthesis reported signs of mechanical action: curved striations, compacted earth, a flint apparently cut and polished at the surface, and a contrast between hard crusted material in the marked area and more friable control soil. The same section reported thermal effects, concluding that heating had occurred but had not exceeded 600°C, and it listed possible trace deposits including small quantities of iron or iron oxide, phosphate and zinc. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/save_json_import_files/export_cas_pub_20251127093552.csv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">export cas pub 20251127093552.csv</span><span class="citation-popover-snippet">export cas pub 20251127093552.csv</span></span></span>
+
+The plant evidence gave the case much of its later reputation. GEPAN’s conclusion says biochemical analyses covered photosynthesis-related factors, lipids, sugars and amino acids, and found multiple differences between samples near the trace and control samples farther away. The report interpreted these differences as related to distance, but it also stressed that knowledge of plant trauma was too incomplete to give a single precise explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/symposium_san_marino.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+
+This distinction is crucial. The file supports the more modest claim that unusual physical and biochemical differences were recorded in the area. It does not, by itself, prove that a craft landed there. GEPAN’s own final synthesis described a “large-scale event” at the site, but said the possible interpretations of the soil evidence, including shock and friction, were too varied and vague to provide definitive confirmation of the witness’s narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1981-01-00849" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+
+
+<img src="{{ "/assets/images/Trans-en-Provence_en_439c97-Illustration-2-light.svg" | relative_url }}" alt="Trans en Provence encounter 1981 illustration 2" data-theme-src-dark="{{ "/assets/images/Trans-en-Provence_en_439c97-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Trans-en-Provence_en_439c97-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## The official reading: unexplained, not automatically extraterrestrial
+
+GEIPAN’s present public classification lists Trans-en-Provence as category D, with the phenomenon type described as strange to very strange and of medium to strong consistency. In ordinary language, that means the case remained unexplained in the official French archive, not that the archive proved a spacecraft, an alien origin or a specific propulsion system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Mission &amp; Geipan | GEIPAN</span><span class="citation-popover-snippet">Mission &amp; Geipan | GEIPAN</span></span></span>
+
+Some later accounts have treated the case more boldly. A Smithsonian Air & Space Magazine article described it as France’s most famous UFO case and reported that GEIPAN’s investigation concluded a “large-size event had indeed occurred”, with surrounding alfalfa showing abnormally low chlorophyll levels. Britannica similarly presents the case as a durable mystery, noting the two concentric circles, black residue, affected vegetation and the lack of a settled scientific explanation after investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.smithsonianmag.com/air-space-magazine/department-of-flying-saucers-2294791/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">Smithsonian Magazine Department of Flying Saucers</span><span class="citation-popover-snippet">Smithsonian Magazine Department of Flying Saucers</span></span></span>
+
+The careful position sits between dismissal and overclaim. The official record gives the case weight because it preserves early sampling, laboratory work and a named institutional trail. It does not remove the core uncertainty: whether the physical trace was caused by the object described by Nicolaï, by an ordinary ground event later misinterpreted, or by some mixture of real trace evidence and mistaken attribution.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UuptR_x1tRU" title="Trans-en-Provence Case" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UuptR_x1tRU" target="_blank" rel="noopener noreferrer">Trans-en-Provence Case</a></p><p class="youtube-embed-meta">Channel: Wiki4All &middot; Views: 456 &middot; Uploaded: January 2021 &middot; Length: 1 minute 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UuptR_x1tRU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UuptR_x1tRU">Open on YouTube</a></p></div></div></div>
+
+## The sceptical challenge: were the marks just vehicle traces?
+
+The most important sceptical argument is not that “nothing happened”. It is that the trace may have had an ordinary cause unrelated to a landed aerial object. David Rossoni, Éric Maillot and Éric Déguillaume argued in Skeptical Inquirer that the gendarmes who examined the site considered the marks consistent with car tyres “peeling out” on part of the property where vehicles had recently operated, and that GEPAN did not adequately pursue this lead. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+A longer French sceptical chapter on the case presses related points: the ground marks allegedly do not match the object as described, especially the reported underside “feet”; there were variations in the witness’s successive descriptions; visibility and scale estimates were not fully reconstructed; and a nearby military helicopter passage was not, in the sceptics’ view, sufficiently followed up. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.zetetique.fr/wp-content/uploads/2019/03/OvniDuCnes_chapitre13.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zetetique.fr">[Observatoire zététique]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zetetique.fr</span><span class="citation-popover-title">Observatoire zététique Microsoft Word</span><span class="citation-popover-snippet">Observatoire zététique Microsoft Word</span></span></span>
+
+These criticisms do not automatically solve the case. Tyres, tools, barrels, soil disturbance, rain, later contamination and ordinary plant stress would each need to fit the exact timing, sampling pattern and laboratory observations. But the sceptical reading does show why “physical trace” is not the same as “physical proof of a UFO landing”. The decisive missing step is a secure causal chain from trace to observed object.
+
+
+<img src="{{ "/assets/images/Trans-en-Provence_en_439c97-Illustration-3-light.svg" | relative_url }}" alt="Trans en Provence encounter 1981 illustration 3" data-theme-src-dark="{{ "/assets/images/Trans-en-Provence_en_439c97-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Trans-en-Provence_en_439c97-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## How strong is the witness evidence?
+
+Nicolaï’s testimony has several features that make it difficult to dismiss casually. It was reported quickly, given to gendarmes, attached to a visible trace, and did not obviously grow into an elaborate story about occupants, messages or a wider conspiracy. GEPAN’s final assessment found no behavioural or narrative indicators strong enough to make it doubt the witness on grounds of fabrication alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/Note%20techn16-R.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Note techn16 R</span><span class="citation-popover-snippet">Note techn16 R</span></span></span>
+
+At the same time, the case had no second direct witness to the object itself. Nicolaï’s wife and neighbours entered the story after the event, when they were shown the trace and advised that the gendarmerie be contacted. That gives corroboration for the existence of a mark, not for the descent, landing, take-off or object shape. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/journees_etudes.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">journees etudes</span><span class="citation-popover-snippet">journees etudes</span></span></span>
+
+The most balanced credibility judgement is therefore mixed: the witness seems neither obviously hoaxing nor independently confirmed. His account is central to the file, but it cannot carry the physical interpretation on its own. The case is compelling precisely because the testimony and trace evidence appear to intersect, and contested because that intersection is not locked down beyond reasonable alternative explanation.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JKSrYT9vNv4" title="Mystères : OVNI à Trans-en-Provence ! Avec Rudy &amp; @mikealdebaran" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JKSrYT9vNv4" target="_blank" rel="noopener noreferrer">Mystères : OVNI à Trans-en-Provence ! Avec Rudy &amp; @mikealdebaran</a></p><p class="youtube-embed-meta">Channel: La Séance de Minuit &middot; Views: 9.1K &middot; Uploaded: April 2025 &middot; Length: 1 hour 39 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JKSrYT9vNv4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JKSrYT9vNv4">Open on YouTube</a></p></div></div></div>
+
+## What remains genuinely unresolved
+
+Trans-en-Provence endures because both the pro-anomaly and sceptical readings have real material to work with. On the pro-anomaly side, the case has early official involvement, laboratory-tested samples, documented soil changes, plant biochemical anomalies and an official unexplained classification. On the sceptical side, it has a single direct witness, disputed trace morphology, possible vehicle activity, later inconsistencies in descriptive detail, and an official investigation that even its defenders must treat as limited by the methods and assumptions of the early 1980s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/PV%20n%C2%B0351%20%281994310452%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/memoire_JJV_1983.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">memoire JJV 1983</span><span class="citation-popover-snippet">memoire JJV 1983</span></span></span>
+
+The case should not be reduced to a slogan. “French agency proves UFO landing” is too strong. “It was obviously nothing” is also too strong unless one accepts the tyre-track explanation without resolving the laboratory and chronology questions. The durable lesson is narrower and more useful: Trans-en-Provence is one of the rare UFO cases where the evidential debate turns on physical sampling and investigative procedure rather than only on a witness’s memory.
+
+For readers following the wider case dossier, the natural sibling topics are the GEPAN technical note, the gendarmerie report, the soil and plant analyses, later sceptical re-examinations, and the comparison with other French trace cases such as the Amaranth case. The Trans-en-Provence page itself, however, stands on the central unresolved issue: whether a real but ordinary ground trace was mistakenly linked to a brief aerial sighting, or whether the witness and the physical anomalies recorded the same unexplained event.
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell fr-section-shell-fallback">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">No matched book cards were available for What Really Happened at Trans en Provence?, so this fallback keeps a direct Amazon reading path visible.</p>
+    </div>
+    <div class="fr-search-grid">
+
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
+    </article>
+
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
+    </article>
+
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: cnes-geipan.fr  
+   Link: [https://www.cnes-geipan.fr/fr/cas/1981-01-00849](https://www.cnes-geipan.fr/fr/cas/1981-01-00849)  
+
+2. <a id="endnote-2"></a>
+   Source: cnes-geipan.fr  
+   Title: Mission & Geipan | GEIPAN  
+   Link: [https://www.cnes-geipan.fr/en/missions-methodes-et-resultats](https://www.cnes-geipan.fr/en/missions-methodes-et-resultats)  
+
+3. <a id="endnote-3"></a>
+   Source: cnes-geipan.fr  
+   Title: Note techn16 R  
+   Link: [https://www.cnes-geipan.fr/sites/default/files/Note%20techn16-R.pdf](https://www.cnes-geipan.fr/sites/default/files/Note%20techn16-R.pdf)  
+
+4. <a id="endnote-4"></a>
+   Source: skepticalinquirer.org  
+   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com](https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com)  
+
+5. <a id="endnote-5"></a>
+   Source: britannica.com  
+   Link: [https://www.britannica.com/today-in-history/January-8-UFO-Sighting-at-Trans-en-Provence-France](https://www.britannica.com/today-in-history/January-8-UFO-Sighting-at-Trans-en-Provence-France)  
+
+6. <a id="endnote-6"></a>
+   Source: cnes-geipan.fr  
+   Title: journees etudes  
+   Link: [https://www.cnes-geipan.fr/sites/default/files/journees_etudes.pdf](https://www.cnes-geipan.fr/sites/default/files/journees_etudes.pdf)  
+
+7. <a id="endnote-7"></a>
+   Source: cnes-geipan.fr  
+   Link: [https://www.cnes-geipan.fr/sites/default/files/PV%20n%C2%B0351%20%281994310452%29.pdf](https://www.cnes-geipan.fr/sites/default/files/PV%20n%C2%B0351%20%281994310452%29.pdf)  
+
+8. <a id="endnote-8"></a>
+   Source: cnes-geipan.fr  
+   Title: memoire JJV 1983  
+   Link: [https://www.cnes-geipan.fr/sites/default/files/memoire_JJV_1983.pdf](https://www.cnes-geipan.fr/sites/default/files/memoire_JJV_1983.pdf)  
+
+9. <a id="endnote-9"></a>
+   Source: cnes-geipan.fr  
+   Title: export cas pub 20210219111412.csv  
+   Link: [https://www.cnes-geipan.fr/sites/default/files/save_json_import_files/export_cas_pub_20210219111412.csv](https://www.cnes-geipan.fr/sites/default/files/save_json_import_files/export_cas_pub_20210219111412.csv)  
+
+10. <a id="endnote-10"></a>
+   Source: cnes-geipan.fr  
+   Title: export cas pub 20251127093552.csv  
+   Link: [https://www.cnes-geipan.fr/sites/default/files/save_json_import_files/export_cas_pub_20251127093552.csv](https://www.cnes-geipan.fr/sites/default/files/save_json_import_files/export_cas_pub_20251127093552.csv)  
+
+11. <a id="endnote-11"></a>
+   Source: cnes-geipan.fr  
+   Link: [https://www.cnes-geipan.fr/sites/default/files/symposium_san_marino.pdf](https://www.cnes-geipan.fr/sites/default/files/symposium_san_marino.pdf)  
+
+12. <a id="endnote-12"></a>
+   Source: cnes.fr  
+   Link: [https://cnes.fr/en/projects/geipan](https://cnes.fr/en/projects/geipan)  
+
+13. <a id="endnote-13"></a>
+   Source: archive.org  
+   Link: [https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt](https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt)  
+
+14. <a id="endnote-14"></a>
+   Source: archive.org  
+   Link: [https://archive.org/stream/pdfy-uHw9zGct4dsyqXcU/Unidentified%20Flying%20Objects%20Briefing%20Document%20%5BThe%20Best%20Available%20Evidence%5D_djvu.txt](https://archive.org/stream/pdfy-uHw9zGct4dsyqXcU/Unidentified%20Flying%20Objects%20Briefing%20Document%20%5BThe%20Best%20Available%20Evidence%5D_djvu.txt)  
+
+15. <a id="endnote-15"></a>
+   Source: smithsonianmag.com  
+   Title: Smithsonian Magazine Department of Flying Saucers  
+   Link: [https://www.smithsonianmag.com/air-space-magazine/department-of-flying-saucers-2294791/](https://www.smithsonianmag.com/air-space-magazine/department-of-flying-saucers-2294791/)  
+
+16. <a id="endnote-16"></a>
+   Source: zetetique.fr  
+   Title: Observatoire zététique Microsoft Word  
+   Link: [https://www.zetetique.fr/wp-content/uploads/2019/03/OvniDuCnes_chapitre13.pdf](https://www.zetetique.fr/wp-content/uploads/2019/03/OvniDuCnes_chapitre13.pdf)  
+
+17. <a id="endnote-17"></a>
+   Source: cufos.org  
+   Link: [https://cufos.org/PDFs/pdfs/gepan.pdf](https://cufos.org/PDFs/pdfs/gepan.pdf)  
+
+### Additional References
+
+18. <a id="endnote-18"></a>
+   Source: youtube.com  
+   Title: Mystères: OVNI à Trans-en-Provence! Avec Rudy & @mikealdebaran  
+   Link: [https://www.youtube.com/watch?v=JKSrYT9vNv4](https://www.youtube.com/watch?v=JKSrYT9vNv4)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>REACT MYSTÈRES #1 - Ovni, Dame blanche et Brocéliande! (Best-of Twitch)...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: arxiv.org  
+   Link: [https://arxiv.org/html/2502.06794v2](https://arxiv.org/html/2502.06794v2)  
+
+20. <a id="endnote-20"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=q9sQ2HCiSBE](https://www.youtube.com/watch?v=q9sQ2HCiSBE)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>MYSTÈRES - ÉMISSION 02 - 12 octobre 1992...</p></details>
+   Published: January 1981  
+
+21. <a id="endnote-21"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=QiJKIOCZDPg](https://www.youtube.com/watch?v=QiJKIOCZDPg)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>OVNI à Trans-en-Provence! Avec Rudy &amp; @mikealdebaran...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: researchgate.net  
+   Link: [https://www.researchgate.net/publication/398792495_Are_Humans_Alone_in_the_Cosmos](https://www.researchgate.net/publication/398792495_Are_Humans_Alone_in_the_Cosmos)  
+
+23. <a id="endnote-23"></a>
+   Source: researchgate.net  
+   Link: [https://www.researchgate.net/publication/224791605_Physical_Evidence_Related_to_UFO_Reports_The_Proceedings_of_a_Workshop_Held_at_the_Pocantico_Conference_Center_Tarrytown_New_York_September_29_-_October_4_1997](https://www.researchgate.net/publication/224791605_Physical_Evidence_Related_to_UFO_Reports_The_Proceedings_of_a_Workshop_Held_at_the_Pocantico_Conference_Center_Tarrytown_New_York_September_29_-_October_4_1997)  
+
+24. <a id="endnote-24"></a>
+   Source: journalofscientificexploration.org  
+   Link: [https://journalofscientificexploration.org/index.php/jse/article/viewFile/838/563](https://journalofscientificexploration.org/index.php/jse/article/viewFile/838/563)  
+
+25. <a id="endnote-25"></a>
+   Source: semanticscholar.org  
+   Link: [https://www.semanticscholar.org/paper/Physical-Evidence-Related-to-UFO-Reports%3A-The-of-a-Sturrock-Eshleman/2ce5c32c3f5ab0967f8bd49669625277568d8792](https://www.semanticscholar.org/paper/Physical-Evidence-Related-to-UFO-Reports%3A-The-of-a-Sturrock-Eshleman/2ce5c32c3f5ab0967f8bd49669625277568d8792)  
+
+26. <a id="endnote-26"></a>
+   Source: dokumen.pub  
+   Link: [https://dokumen.pub/the-outsiders-guide-to-ufos-volume-1-mystery-and-science-1480854573-9781480854574.html](https://dokumen.pub/the-outsiders-guide-to-ufos-volume-1-mystery-and-science-1480854573-9781480854574.html)  
+
+27. <a id="endnote-27"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/tvmoviesseries.ntgroup/posts/3218853144962650/](https://www.facebook.com/groups/tvmoviesseries.ntgroup/posts/3218853144962650/)  

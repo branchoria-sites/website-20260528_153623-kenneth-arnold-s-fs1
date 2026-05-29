@@ -1,0 +1,1015 @@
+---
+level: 1
+basename: Cedric_Allingham_enc_2c7f6b
+child_basenames:
+- Cedric_Allingham_enc_2c7f6b_evidence_trail_90b83e
+- Cedric_Allingham_enc_2c7f6b_index
+- Cedric_Allingham_enc_2c7f6b_lossiemouth_claim_466c80
+- Cedric_Allingham_enc_2c7f6b_moore_davies_hoax_6a7589
+sibling_basenames:
+- Alan_Godfrey_encount_87fc0b
+- Alexander_Hamilton_a_75e894
+- Andreasson_abduction_e8bccf
+- Antonio_Villas-Boas_1a3f4f
+- Apollo_11_sightings_2c5554
+- Aurora_Texas_airship_165367
+- BOAC_stratocruiser_s_01e20e
+- Battle_of_Los_Angele_969c9e
+- Belgium_radarvisual_58866e
+- Betty_and_Barney_Hil_3bcafa
+- Carl_Higdon_contact_bfd61b
+- CashLandrum_incident_7ad7d9
+- Charles_B_Moore_sigh_63eb1f
+- Charles_L_Moody_abdu_780173
+- Chiles_and_Whitted_s_33732b
+- Cisco_Grove_incident_29820a
+- Claude_Vorilhon_cont_ec941c
+- Clyde_Tombaugh_sight_af62cd
+- Coyne_helicopter_sig_5ce811
+- Cynthia_Appleton_enc_304111
+- Day_family_abduction_fe300b
+- Delphos_Ring_inciden_2952cd
+- Desvergers_scoutmast_75261f
+- Doctor_X_UFO_encount_5e669c
+- E_J_Smith_sighting_1_b2b2e6
+- Eagle_River_encounte_9b53c8
+- Farmington_sightings_46c4ec
+- Fatima_apparition_19_f6784f
+- Flatwoods_incident_1_ff4486
+- Flight_19_incident_1_5cc889
+- Fort_Itaipu_Brazil_s_89a0ba
+- Fred_M_Johnson_sight_b34b17
+- Gary_Wilcox_encounte_6de9ff
+- Gemini_4_sighting_19_9c351d
+- Gemini_7_sighting_19_7caf7b
+- George_Adamski_encou_795ba9
+- Gordon_Cooper_sighti_93b9f6
+- Gorman_dogfight_near_aac8f7
+- Great_Falls_Montana_171d9e
+- Greenhaw_encounter_1_a4bc62
+- Gulf_Breeze_encounte_8373f7
+- Herbert_Schirmer_abd_b149a3
+- Incident_at_Exeter_1_781528
+- JAL_1628_sighting_ov_aeed7e
+- Jet_chase_near_Tehra_5ae5aa
+- Jimmy_Carter_sightin_759215
+- John_Martin_sighting_4cec00
+- Jose_A_y_Bonilla_pho_27aa92
+- Kelly-Hopkinsville_i_de664d
+- Kenneth_Arnold_s_fir_b696ba
+- Kinross_incident_195_2ebd01
+- Lady_animal_mutilati_ea7340
+- Lakenheath_episode_1_bf5257
+- Larson_abduction_nea_e9683a
+- Levelland_Texas_inci_0e8348
+- Linda_Cortile_abduct_1b229f
+- Livingston_incident_b2c293
+- Loch_Raven_Dam_incid_b0e5b6
+- Lubbock_Lights_sight_4eabd8
+- Magenta_Italy_crash_5ee1aa
+- Maureen_Puddy_encoun_21a7f8
+- Maury_Island_inciden_ec4432
+- McMinnville_photogra_4e1af3
+- Middle_East_UAP_vide_4a6c55
+- Muroc_Field_sighting_a700e4
+- Nash_and_Fortenberry_0a9bf2
+- Oloron_Angel_Hair_in_61d462
+- Operation_Mainbrace_06bcd8
+- Orfeo_Angelucci_enco_bef29a
+- Pascagoula_abduction_80a64a
+- Puerto_Rico_infrared_d310d5
+- RB-47_radarvisual_in_5bf2a6
+- Red_Bluff_sighting_1_f72200
+- Reinhold_Schmidt_enc_731a71
+- Rendlesham_Forest_in_f98080
+- Reverend_W_B_Gill_si_c31d68
+- Rex_Heflin_photograp_32bdf2
+- Roswell_1947_c36fe7
+- Salem_Massachusetts_01ecd1
+- Socorro_sighting_by_961b47
+- SpaurNeff_Ravenna_si_4977ac
+- Stanford_Kentucky_ab_a91f06
+- Stephen_Darbishire_p_f80223
+- Steven_Michalak_enco_1bbf94
+- The_Northeast_Blacko_c3cfee
+- Thomas_F_Mantell_inc_2ce7ee
+- Topcliffe_incident_1_80cbf4
+- Trans-en-Provence_en_439c97
+- Travis_Walton_abduct_612999
+- Tremonton_Utah_film_79b5ee
+- Trindade_Island_phot_726a39
+- Truman_Bethurum_cont_eaa44d
+- Tully_saucer_nest_in_b9d0b0
+- Tunguska_event_1908_efda6f
+- USS_Nimitz_Tic_Tac_v_83266a
+- USS_Russell_video_20_3188a1
+- USS_Theodore_Rooseve_a4867d
+- USS_Theodore_Rooseve_daeaff
+- Ubatuba_incident_195_6ff2c6
+- Ummo_photographs_196_ed7563
+- Valensole_incident_1_63f5cf
+- Valentich_disappeara_592d85
+- Voronezh_Russia_land_e13f34
+- Walesville_Incident_cbceb2
+- Washington_National_ee59a4
+- WellingtonKaikoura_i_c1d17f
+tags:
+- cedric-allingham-encounter-1954
+keywords:
+- cedric-allingham-encounter-1954
+affiliate_category: cedric-allingham-encounter-1954
+show_ads: true
+description: 'The Cedric Allingham encounter was presented in 1954 as Britain’s first major “contactee” case: a solitary traveller near Lossiemouth, Moray, allegedly met...'
+hero_summary: 'The Cedric Allingham encounter was presented in 1954 as Britain’s first major “contactee” case: a solitary traveller near Lossiemouth, Moray, allegedly met the pilot of a landed Martian flying saucer, photographed the craft, and later published the story as Flying Saucer from Mars.'
+layout: default
+permalink: /cedric-allingham-encounter-1954/
+nav_short_title: How Britain's Martian Saucer Story Fell Apart
+title: How Britain's Martian Saucer Story Fell Apart
+title_full: How Britain's Martian Saucer Story Fell Apart
+display_title_short: How Britain's Martian Saucer Story Fell Apart
+display_title: How Britain's Martian Saucer Story Fell Apart
+heading_title: How Britain's Martian Saucer Story Fell Apart
+page_heading_title: How Britain's Martian Saucer Story Fell Apart
+source_count: 72
+infographic_count: 3
+page_website_name: Allingham
+page_banner_line: A British UFO contactee story traced from saucer claim to probable literary hoax.
+site_website_name: Allingham
+site_banner_line: A British UFO contactee story traced from saucer claim to probable literary hoax.
+site_image_description: A lonely traveller stands near a caravan on the Moray coast while a small saucer-shaped object rests in a misty field beyond him.
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+sibling_links:
+- basename: Alan_Godfrey_encount_87fc0b
+  title: Godfrey Encounter
+  permalink: /alan-godfrey-encounter-1980/
+  short_title: Godfrey Encounter
+- basename: Alexander_Hamilton_a_75e894
+  title: Hamilton Airship
+  permalink: /alexander-hamilton-airship-1897/
+  short_title: Hamilton Airship
+- basename: Andreasson_abduction_e8bccf
+  title: Andreasson
+  permalink: /andreasson-abduction-1967/
+  short_title: Andreasson
+- basename: Antonio_Villas-Boas_1a3f4f
+  title: Villas Boas
+  permalink: /antonio-villas-boas-abduction-1957/
+  short_title: Villas Boas
+- basename: Apollo_11_sightings_2c5554
+  title: Apollo 11 Sightings
+  permalink: /apollo-11-sightings-1969/
+  short_title: Apollo 11 Sightings
+- basename: Aurora_Texas_airship_165367
+  title: Aurora Airship
+  permalink: /aurora-texas-airship-crash-1897/
+  short_title: Aurora Airship
+- basename: Battle_of_Los_Angele_969c9e
+  title: Battle of Los Angeles
+  permalink: /battle-of-los-angeles-1942/
+  short_title: Battle of Los Angeles
+- basename: Belgium_radarvisual_58866e
+  title: Belgium UFO Wave
+  permalink: /belgium-radarvisual-sightings-1989/
+  short_title: Belgium UFO Wave
+- basename: Betty_and_Barney_Hil_3bcafa
+  title: Hill Encounter
+  permalink: /betty-and-barney-hill-abduction-1961/
+  short_title: Hill Encounter
+- basename: BOAC_stratocruiser_s_01e20e
+  title: BOAC Sighting
+  permalink: /boac-stratocruiser-sighting-1954/
+  short_title: BOAC Sighting
+- basename: Carl_Higdon_contact_bfd61b
+  title: Higdon Contact
+  permalink: /carl-higdon-contact-1974/
+  short_title: Higdon Contact
+- basename: CashLandrum_incident_7ad7d9
+  title: Cash Landrum
+  permalink: /cashlandrum-incident-1980/
+  short_title: Cash Landrum
+- basename: Charles_B_Moore_sigh_63eb1f
+  title: Arrey UFO
+  permalink: /charles-b-moore-sighting-1949/
+  short_title: Arrey UFO
+- basename: Charles_L_Moody_abdu_780173
+  title: Moody Abduction
+  permalink: /charles-l-moody-abduction-1975/
+  short_title: Moody Abduction
+- basename: Chiles_and_Whitted_s_33732b
+  title: Chiles Whitted
+  permalink: /chiles-and-whitted-sighting-1948/
+  short_title: Chiles Whitted
+- basename: Cisco_Grove_incident_29820a
+  title: CiscoGrove1964
+  permalink: /cisco-grove-incident-1964/
+  short_title: CiscoGrove1964
+- basename: Claude_Vorilhon_cont_ec941c
+  title: Rael Contact
+  permalink: /claude-vorilhon-contact-1973/
+  short_title: Rael Contact
+- basename: Clyde_Tombaugh_sight_af62cd
+  title: Tombaugh Sighting
+  permalink: /clyde-tombaugh-sighting-1949/
+  short_title: Tombaugh Sighting
+- basename: Coyne_helicopter_sig_5ce811
+  title: Coyne Sighting
+  permalink: /coyne-helicopter-sighting-1973/
+  short_title: Coyne Sighting
+- basename: Cynthia_Appleton_enc_304111
+  title: Appleton Encounter
+  permalink: /cynthia-appleton-encounter-1957/
+  short_title: Appleton Encounter
+- basename: Day_family_abduction_fe300b
+  title: Aveley Abduction
+  permalink: /day-family-abduction-1974/
+  short_title: Aveley Abduction
+- basename: Delphos_Ring_inciden_2952cd
+  title: Delphos Ring
+  permalink: /delphos-ring-incident-1971/
+  short_title: Delphos Ring
+- basename: Desvergers_scoutmast_75261f
+  title: Desvergers
+  permalink: /desvergers-scoutmaster-sighting-1952/
+  short_title: Desvergers
+- basename: Doctor_X_UFO_encount_5e669c
+  title: Doctor X
+  permalink: /doctor-x-ufo-encounter-1968/
+  short_title: Doctor X
+- basename: E_J_Smith_sighting_1_b2b2e6
+  title: Flight105UFO
+  permalink: /e-j-smith-sighting-1947/
+  short_title: Flight105UFO
+- basename: Eagle_River_encounte_9b53c8
+  title: Eagle River
+  permalink: /eagle-river-encounter-1961/
+  short_title: Eagle River
+- basename: Farmington_sightings_46c4ec
+  title: Farmington Armada
+  permalink: /farmington-sightings-1950/
+  short_title: Farmington Armada
+- basename: Fatima_apparition_19_f6784f
+  title: Fatima
+  permalink: /fatima-apparition-1917/
+  short_title: Fatima
+- basename: Flatwoods_incident_1_ff4486
+  title: Flatwoods
+  permalink: /flatwoods-incident-1952/
+  short_title: Flatwoods
+- basename: Flight_19_incident_1_5cc889
+  title: Flight 19
+  permalink: /flight-19-incident-1945/
+  short_title: Flight 19
+- basename: Fort_Itaipu_Brazil_s_89a0ba
+  title: Fort Itaipu
+  permalink: /fort-itaipu-brazil-sighting-1957/
+  short_title: Fort Itaipu
+- basename: Fred_M_Johnson_sight_b34b17
+  title: Johnson Sighting
+  permalink: /fred-m-johnson-sighting-1947/
+  short_title: Johnson Sighting
+- basename: Gary_Wilcox_encounte_6de9ff
+  title: WilcoxUFO
+  permalink: /gary-wilcox-encounter-1964/
+  short_title: WilcoxUFO
+- basename: Gemini_4_sighting_19_9c351d
+  title: Gemini 4 Sighting
+  permalink: /gemini-4-sighting-1965/
+  short_title: Gemini 4 Sighting
+- basename: Gemini_7_sighting_19_7caf7b
+  title: Gemini7Sighting
+  permalink: /gemini-7-sighting-1965/
+  short_title: Gemini7Sighting
+- basename: George_Adamski_encou_795ba9
+  title: Adamski
+  permalink: /george-adamski-encounters-1953/
+  short_title: Adamski
+- basename: Gordon_Cooper_sighti_93b9f6
+  title: Cooper
+  permalink: /gordon-cooper-sightings-1963/
+  short_title: Cooper
+- basename: Gorman_dogfight_near_aac8f7
+  title: Gorman Dogfight
+  permalink: /gorman-dogfight-near-fargo-1948/
+  short_title: Gorman Dogfight
+- basename: Great_Falls_Montana_171d9e
+  title: Great Falls UFO
+  permalink: /great-falls-montana-film-1950/
+  short_title: Great Falls UFO
+- basename: Greenhaw_encounter_1_a4bc62
+  title: Falkville Metal Man
+  permalink: /greenhaw-encounter-1973/
+  short_title: Falkville Metal Man
+- basename: Gulf_Breeze_encounte_8373f7
+  title: Gulf Breeze
+  permalink: /gulf-breeze-encounter-1987/
+  short_title: Gulf Breeze
+- basename: Herbert_Schirmer_abd_b149a3
+  title: Schirmer UFO
+  permalink: /herbert-schirmer-abduction-1967/
+  short_title: Schirmer UFO
+- basename: Incident_at_Exeter_1_781528
+  title: Exeter UFO
+  permalink: /incident-at-exeter-1965/
+  short_title: Exeter UFO
+- basename: JAL_1628_sighting_ov_aeed7e
+  title: JAL 1628
+  permalink: /jal-1628-sighting-over-alaska-1986/
+  short_title: JAL 1628
+- basename: Jet_chase_near_Tehra_5ae5aa
+  title: Tehran UFO
+  permalink: /jet-chase-near-tehran-iran-1976/
+  short_title: Tehran UFO
+- basename: Jimmy_Carter_sightin_759215
+  title: Carter UFO
+  permalink: /jimmy-carter-sighting-1969/
+  short_title: Carter UFO
+- basename: John_Martin_sighting_4cec00
+  title: Martin Sighting
+  permalink: /john-martin-sighting-1878/
+  short_title: Martin Sighting
+- basename: Jose_A_y_Bonilla_pho_27aa92
+  title: Bonilla1883
+  permalink: /jose-a-y-bonilla-photograph-1883/
+  short_title: Bonilla1883
+- basename: Kelly-Hopkinsville_i_de664d
+  title: Kelly Hopkinsville
+  permalink: /kelly-hopkinsville-incident-1955/
+  short_title: Kelly Hopkinsville
+- basename: Kenneth_Arnold_s_fir_b696ba
+  title: Arnold Sighting
+  permalink: /kenneth-arnold-s-first-sighting-1947/
+  short_title: Arnold Sighting
+- basename: Kinross_incident_195_2ebd01
+  title: Kinross
+  permalink: /kinross-incident-1953/
+  short_title: Kinross
+- basename: Lady_animal_mutilati_ea7340
+  title: Snippy
+  permalink: /lady-animal-mutilation-1966/
+  short_title: Snippy
+- basename: Lakenheath_episode_1_bf5257
+  title: Lakenheath
+  permalink: /lakenheath-episode-1956/
+  short_title: Lakenheath
+- basename: Larson_abduction_nea_e9683a
+  title: Larson Abduction
+  permalink: /larson-abduction-near-fargo-1975/
+  short_title: Larson Abduction
+- basename: Levelland_Texas_inci_0e8348
+  title: Levelland UFO
+  permalink: /levelland-texas-incident-1957/
+  short_title: Levelland UFO
+- basename: Linda_Cortile_abduct_1b229f
+  title: Cortile Case
+  permalink: /linda-cortile-abduction-1989/
+  short_title: Cortile Case
+- basename: Livingston_incident_b2c293
+  title: LivingstonUFO
+  permalink: /livingston-incident-1979/
+  short_title: LivingstonUFO
+- basename: Loch_Raven_Dam_incid_b0e5b6
+  title: LochRavenUFO
+  permalink: /loch-raven-dam-incident-1958/
+  short_title: LochRavenUFO
+- basename: Lubbock_Lights_sight_4eabd8
+  title: Lubbock Lights
+  permalink: /lubbock-lights-sightings-1951/
+  short_title: Lubbock Lights
+- basename: Magenta_Italy_crash_5ee1aa
+  title: MagentaCrash1933
+  permalink: /magenta-italy-crash-1933/
+  short_title: MagentaCrash1933
+- basename: Maureen_Puddy_encoun_21a7f8
+  title: Puddy Encounter
+  permalink: /maureen-puddy-encounter-1973/
+  short_title: Puddy Encounter
+- basename: Maury_Island_inciden_ec4432
+  title: Maury Island
+  permalink: /maury-island-incident-1947/
+  short_title: Maury Island
+- basename: McMinnville_photogra_4e1af3
+  title: McMinnville Photos
+  permalink: /mcminnville-photographs-1950/
+  short_title: McMinnville Photos
+- basename: Middle_East_UAP_vide_4a6c55
+  title: Middle East Orb
+  permalink: /middle-east-uap-video-2022/
+  short_title: Middle East Orb
+- basename: Muroc_Field_sighting_a700e4
+  title: Muroc Saucers
+  permalink: /muroc-field-sightings-1947/
+  short_title: Muroc Saucers
+- basename: Nash_and_Fortenberry_0a9bf2
+  title: Nash Fortenberry
+  permalink: /nash-and-fortenberry-sighting-1952/
+  short_title: Nash Fortenberry
+- basename: Oloron_Angel_Hair_in_61d462
+  title: Oloron Angel Hair
+  permalink: /oloron-angel-hair-incident-1952/
+  short_title: Oloron Angel Hair
+- basename: Operation_Mainbrace_06bcd8
+  title: MainbraceSightings
+  permalink: /operation-mainbrace-sightings-1952/
+  short_title: MainbraceSightings
+- basename: Orfeo_Angelucci_enco_bef29a
+  title: Angelucci
+  permalink: /orfeo-angelucci-encounter-1955/
+  short_title: Angelucci
+- basename: Pascagoula_abduction_80a64a
+  title: Pascagoula
+  permalink: /pascagoula-abduction-1973/
+  short_title: Pascagoula
+- basename: Puerto_Rico_infrared_d310d5
+  title: Aguadilla UAP
+  permalink: /puerto-rico-infrared-video-2013/
+  short_title: Aguadilla UAP
+- basename: RB-47_radarvisual_in_5bf2a6
+  title: RB 47 Incident
+  permalink: /rb-47-radarvisual-incident-1957/
+  short_title: RB 47 Incident
+- basename: Red_Bluff_sighting_1_f72200
+  title: Red Bluff UFO
+  permalink: /red-bluff-sighting-1960/
+  short_title: Red Bluff UFO
+- basename: Reinhold_Schmidt_enc_731a71
+  title: Schmidt Encounter
+  permalink: /reinhold-schmidt-encounter-1957/
+  short_title: Schmidt Encounter
+- basename: Rendlesham_Forest_in_f98080
+  title: Rendlesham
+  permalink: /rendlesham-forest-incident-1980/
+  short_title: Rendlesham
+- basename: Reverend_W_B_Gill_si_c31d68
+  title: Gill Sightings
+  permalink: /reverend-w-b-gill-sightings-1959/
+  short_title: Gill Sightings
+- basename: Rex_Heflin_photograp_32bdf2
+  title: Heflin UFO
+  permalink: /rex-heflin-photographs-1965/
+  short_title: Heflin UFO
+- basename: Roswell_1947_c36fe7
+  title: Roswell
+  permalink: /roswell-1947/
+  short_title: Roswell
+- basename: Salem_Massachusetts_01ecd1
+  title: Salem UFO Photo
+  permalink: /salem-massachusetts-photograph-1952/
+  short_title: Salem UFO Photo
+- basename: Socorro_sighting_by_961b47
+  title: Socorro UFO
+  permalink: /socorro-sighting-by-lonnie-zamora-1964/
+  short_title: Socorro UFO
+- basename: SpaurNeff_Ravenna_si_4977ac
+  title: RavennaUFO
+  permalink: /spaurneff-ravenna-sighting-1966/
+  short_title: RavennaUFO
+- basename: Stanford_Kentucky_ab_a91f06
+  title: Stanford Abduction
+  permalink: /stanford-kentucky-abduction-1976/
+  short_title: Stanford Abduction
+- basename: Stephen_Darbishire_p_f80223
+  title: DarbishireUFO
+  permalink: /stephen-darbishire-photograph-1954/
+  short_title: DarbishireUFO
+- basename: Steven_Michalak_enco_1bbf94
+  title: Falcon Lake
+  permalink: /steven-michalak-encounter-1967/
+  short_title: Falcon Lake
+- basename: The_Northeast_Blacko_c3cfee
+  title: Blackout UFO
+  permalink: /the-northeast-blackout-1965/
+  short_title: Blackout UFO
+- basename: Thomas_F_Mantell_inc_2ce7ee
+  title: Mantell
+  permalink: /thomas-f-mantell-incident-1948/
+  short_title: Mantell
+- basename: Topcliffe_incident_1_80cbf4
+  title: TopcliffeUFO
+  permalink: /topcliffe-incident-1952/
+  short_title: TopcliffeUFO
+- basename: Trans-en-Provence_en_439c97
+  title: Trans en Provence
+  permalink: /trans-en-provence-encounter-1981/
+  short_title: Trans en Provence
+- basename: Travis_Walton_abduct_612999
+  title: Walton
+  permalink: /travis-walton-abduction-1975/
+  short_title: Walton
+- basename: Tremonton_Utah_film_79b5ee
+  title: Tremonton UFO
+  permalink: /tremonton-utah-film-1952/
+  short_title: Tremonton UFO
+- basename: Trindade_Island_phot_726a39
+  title: Trindade UFO
+  permalink: /trindade-island-photographs-1958/
+  short_title: Trindade UFO
+- basename: Truman_Bethurum_cont_eaa44d
+  title: Bethurum
+  permalink: /truman-bethurum-contact-1954/
+  short_title: Bethurum
+- basename: Tully_saucer_nest_in_b9d0b0
+  title: TullyUFO
+  permalink: /tully-saucer-nest-incident-1966/
+  short_title: TullyUFO
+- basename: Tunguska_event_1908_efda6f
+  title: Tunguska
+  permalink: /tunguska-event-1908/
+  short_title: Tunguska
+- basename: Ubatuba_incident_195_6ff2c6
+  title: Ubatuba
+  permalink: /ubatuba-incident-1957/
+  short_title: Ubatuba
+- basename: USS_Nimitz_Tic_Tac_v_83266a
+  title: NimitzUAP
+  permalink: /uss-nimitz-tic-tac-video-2004/
+  short_title: NimitzUAP
+- basename: USS_Russell_video_20_3188a1
+  title: USS Russell
+  permalink: /uss-russell-video-2019/
+  short_title: USS Russell
+- basename: USS_Theodore_Rooseve_a4867d
+  title: Gimbal UAP
+  permalink: /uss-theodore-roosevelt-gimbal-video-2015/
+  short_title: Gimbal UAP
+- basename: USS_Theodore_Rooseve_daeaff
+  title: Go Fast UAP
+  permalink: /uss-theodore-roosevelt-go-fast-video/
+  short_title: Go Fast UAP
+- basename: Valensole_incident_1_63f5cf
+  title: Valensole
+  permalink: /valensole-incident-1965/
+  short_title: Valensole
+- basename: Valentich_disappeara_592d85
+  title: Valentich
+  permalink: /valentich-disappearance-1978/
+  short_title: Valentich
+- basename: Voronezh_Russia_land_e13f34
+  title: VoronezhLanding
+  permalink: /voronezh-russia-landing-1989/
+  short_title: VoronezhLanding
+- basename: Walesville_Incident_cbceb2
+  title: Walesville
+  permalink: /walesville-incident-1954/
+  short_title: Walesville
+- basename: Washington_National_ee59a4
+  title: Washington Saucers
+  permalink: /washington-national-sightings-1952/
+  short_title: Washington Saucers
+- basename: WellingtonKaikoura_i_c1d17f
+  title: Kaikoura Lights
+  permalink: /wellingtonkaikoura-incident-1978/
+  short_title: Kaikoura Lights
+- basename: Ummo_photographs_196_ed7563
+  title: UmmoPhotos
+  permalink: /were-the-1967-ummo-photographs-real-or-a/
+  short_title: UmmoPhotos
+child_links:
+- basename: Cedric_Allingham_enc_2c7f6b_evidence_trail_90b83e
+  title: Evidence Trail | Cedric Allingham encounter 1954
+  permalink: /evidence-trail/
+  short_title: Evidence Trail
+  heading_title: What Evidence Did Allingham Really Have?
+- basename: Cedric_Allingham_enc_2c7f6b_moore_davies_hoax_6a7589
+  title: Hoax Case | Cedric Allingham encounter 1954
+  permalink: /hoax-case/
+  short_title: Hoax Case
+  heading_title: Was Cedric Allingham a Made Up Witness?
+- basename: Cedric_Allingham_enc_2c7f6b_lossiemouth_claim_466c80
+  title: The Claim | Cedric Allingham encounter 1954
+  permalink: /the-claim-db591c/
+  short_title: The Claim
+  heading_title: Why the Lossiemouth Saucer Story Caught On
+prev_link:
+  basename: CashLandrum_incident_7ad7d9
+  title: Cash Landrum
+  permalink: /cashlandrum-incident-1980/
+  short_title: Cash Landrum
+next_link:
+  basename: Charles_B_Moore_sigh_63eb1f
+  title: Arrey UFO
+  permalink: /charles-b-moore-sighting-1949/
+  short_title: Arrey UFO
+date: '2026-05-29 12:17:28 '
+header:
+  og_image: /assets/images/Cedric_Allingham_enc_2c7f6b-overview-social.jpg
+  preview_image: /assets/images/Cedric_Allingham_enc_2c7f6b-overview.webp
+image: /assets/images/Cedric_Allingham_enc_2c7f6b-overview-social.jpg
+---
+
+## What Allingham claimed happened near Lossiemouth
+
+The story as published placed the encounter on 18 February 1954 near Lossiemouth, on the Moray coast in north-east Scotland. “Allingham” was described as a British writer with interests in astronomy, birdwatching and caravan travel: a persona that made him sound independent, observant and technically literate without tying him to a workplace or social circle where he could easily be checked. According to the book, he saw a flying saucer, watched it land, and communicated with its humanoid occupant through gestures and telepathy. The occupant was said to have come from Mars and to have visited Venus and the Moon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spookyisles.com/cedric-allingham-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spookyisles.com">[Spooky Isles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spookyisles.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+
+<img src="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b-overview.webp" | relative_url }}" alt="Overview image for Cedric Allingham encounter 1954" loading="eager" decoding="sync" fetchpriority="high">
+The account was timed perfectly for the early contactee era. George Adamski’s *Flying Saucers Have Landed* had appeared shortly before, offering a template in which saucers were not merely mysterious lights but vehicles carrying human-like visitors. Allingham’s version moved the dramatic meeting from a more exotic setting into a British landscape, and from Adamski’s Venusian framing to a Martian one. That made it both familiar to readers of 1950s UFO literature and locally distinctive for a British audience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wearethemutants.com/2016/08/30/flying-saucers-common-sense-and-the-enigma-of-cedric-allingham/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wearethemutants.com">[We Are the Mutants]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wearethemutants.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+The book’s apparent evidence consisted of several blurry photographs of the saucer, one photograph of the alleged occupant from behind, and a signed statement from a supposed local fisherman, James Duncan, who was said to have seen the event from a nearby hill. Those details gave the story the outward form of a documented case: a named witness, images, a precise date, and a second observer. The problem is that every one of those supports later became suspect. Duncan proved elusive, the photographs were not strong enough to establish an extraordinary event, and the author himself was difficult to locate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spookyisles.com/cedric-allingham-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spookyisles.com">[Spooky Isles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spookyisles.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+## Why the story gained traction in the 1950s
+
+Allingham’s claim arrived when flying saucers had become a popular post-war subject in Britain. The National Archives notes that the Ministry of Defence kept UFO records for decades, while historians of British UFO culture have described the early 1950s as a period in which press attention, official interest and public curiosity fed one another. Allingham’s story was therefore entering a market already primed for “saucers”, not creating that market from nothing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+The case also gained prestige through association. Lord Dowding, the former RAF commander and a prominent believer in flying saucers, reportedly attended a flying saucer club lecture attributed to Allingham and later said the audience had been impressed by his sincerity, even if some conclusions were open to doubt. That did not prove the Lossiemouth encounter, but it did help the case appear respectable to readers who trusted Dowding’s wartime reputation and public seriousness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://prairieprogressive.com/2021/04/27/an-astronomer-helped-fake-britians-first-ufo-contactee-story/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prairieprogressive.com">[Prairie Progressive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prairieprogressive.com</span><span class="citation-popover-title">an astronomer helped fake britians first ufo contactee story</span><span class="citation-popover-snippet">an astronomer helped fake britians first ufo contactee story</span></span></span>
+
+The popular press treated the story with a mixture of curiosity and mockery. Contemporary and later summaries note that *Time* covered the book in early 1955, and the episode was remembered partly because the alleged Martian photograph looked comically ordinary rather than otherworldly. This is important: even in its own period, the Allingham story was not received as uncontested evidence. It was already balanced between marketable mystery and obvious absurdity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wearethemutants.com/2016/08/30/flying-saucers-common-sense-and-the-enigma-of-cedric-allingham/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wearethemutants.com">[We Are the Mutants]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wearethemutants.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+
+<img src="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b-Illustration-1-light.svg" | relative_url }}" alt="Cedric Allingham encounter 1954 illustration 1" data-theme-src-dark="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## The weak points appeared quickly
+
+The first major weakness was the author’s absence. UFO enthusiasts and writers who wanted to interview Allingham found him hard to trace. His publishers reportedly offered explanations that he was receiving treatment in Switzerland and later that he had died there. A witness who publishes an extraordinary account and then becomes unreachable is not automatically fraudulent, but in this case the disappearance prevented basic checks: identity, travel history, photographic originals, and the alleged second witness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spookyisles.com/cedric-allingham-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spookyisles.com">[Spooky Isles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spookyisles.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+The second weakness was James Duncan. A signed statement in a book can look persuasive, but corroboration depends on whether the witness can be independently identified and questioned. Later accounts of the case consistently stress that Duncan proved as difficult to locate as Allingham. Without an independently verifiable Duncan, the supposed second-witness support collapses into the same chain of trust as the book itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spookyisles.com/cedric-allingham-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spookyisles.com">[Spooky Isles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spookyisles.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+The third weakness was the photographic evidence. The images were central to the book’s appeal, but not decisive as evidence. The saucer photographs were blurry, and the rear-view “Martian” photograph did not show an identifiable non-human being. Later sceptical discussion also connected the imagery to the visual conventions of earlier contactee material, especially Adamski-style saucers, rather than to anything independently testable from the Lossiemouth location. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wearethemutants.com/2016/08/30/flying-saucers-common-sense-and-the-enigma-of-cedric-allingham/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wearethemutants.com">[We Are the Mutants]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wearethemutants.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fuCnwkGv_cg" title="The Lossiemouth Incident Part 1: A Man From Another Planet (Paranormal &amp; Mystery)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fuCnwkGv_cg" target="_blank" rel="noopener noreferrer">The Lossiemouth Incident Part 1: A Man From Another Planet (Paranormal &amp; Mystery)</a></p><p class="youtube-embed-meta">Channel: Liath Wolf &middot; Views: 9.9K &middot; Uploaded: January 2021 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fuCnwkGv_cg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fuCnwkGv_cg">Open on YouTube</a></p></div></div></div>
+
+## How the hoax was unravelled
+
+The key modern break came in 1986, when Christopher Allan and Steuart Campbell published “Flying Saucer from Moore’s?” in *Magonia*. Their investigation treated the case less as a question of astronomy and more as one of authorship, provenance and identity. They pursued the publisher correspondence, examined the writing style, compared the author photograph, and traced Peter Davies, a friend of Patrick Moore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-title">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span><span class="citation-popover-snippet">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span></span></span>
+
+Davies’ reported admissions were highly damaging to the original story. According to the *Magonia* account, he admitted involvement with *Flying Saucer from Mars*, described it as a spoof, said the book had originally been written by someone else, and stated that his role had been to revise it to disguise the style. He also admitted that he was the person shown in the frontispiece photograph of “Allingham”, wearing a disguise, and that he gave the Tunbridge Wells lecture with a more knowledgeable helper present. <span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-title">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span><span class="citation-popover-snippet">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span></span></span>
+
+The photograph comparison added a physical clue. Allan and Campbell argued that the author portrait showed Davies beside Patrick Moore’s reflecting telescope in Moore’s garden at East Grinstead, with matching background features. Encyclopedia.com’s summary of the case likewise states that the telescope, trees, shrubbery and garden seat matched, and that Moore never acknowledged his role after the 1986 exposure, despite threatening legal action against those repeating the allegation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-title">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span><span class="citation-popover-snippet">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span></span></span>
+
+
+<img src="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b-Illustration-2-light.svg" | relative_url }}" alt="Cedric Allingham encounter 1954 illustration 2" data-theme-src-dark="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Patrick Moore’s disputed role
+
+Patrick Moore is the most famous name attached to the hoax, which is why the case still attracts attention. He later became one of Britain’s best-known astronomy broadcasters, but in the early 1950s he was already an active populariser and writer. The case against him is circumstantial but cumulative: Davies was his friend, the author photograph appears to involve Moore’s telescope and garden, the book contained astronomical knowledge and stylistic traces linked to Moore, and Moore was connected to the small circle of people who supposedly encountered “Allingham”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-title">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span><span class="citation-popover-snippet">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span></span></span>
+
+There is still a careful distinction to make. The best-supported conclusion is not that Moore confessed; he did not. The stronger claim is that later investigators produced a persuasive authorship and staging case, with Davies’ admissions and the photograph comparison doing much of the work. That is enough to treat the Lossiemouth encounter as a hoax in practical evidential terms, while still noting that Moore’s exact degree of authorship and motive rests on reconstruction rather than a signed confession. <span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-title">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span><span class="citation-popover-snippet">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/allingham-cedric" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">Allingham, Cedric | Encyclopedia.com</span><span class="citation-popover-snippet">Allingham, Cedric | Encyclopedia.com</span></span></span>
+
+The motive is also debated. *Magonia* suggested that if the episode was intended to expose credulity, it failed because Moore did not own up; the article also considered the simpler possibility that the book was a money-making joke riding the public interest created by Adamski. Later writers have framed it as both a spoof of contactee literature and an example of Moore’s combative sceptical humour. The motive matters less than the result: the hoax strengthened a myth it may have meant to mock. <span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-title">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span><span class="citation-popover-snippet">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_ycVLUrymwg" title="The Lossiemouth Incident Part 2: The Author (Paranormal &amp; Mystery)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_ycVLUrymwg" target="_blank" rel="noopener noreferrer">The Lossiemouth Incident Part 2: The Author (Paranormal &amp; Mystery)</a></p><p class="youtube-embed-meta">Channel: Liath Wolf &middot; Views: 3.8K &middot; Uploaded: January 2021 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_ycVLUrymwg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_ycVLUrymwg">Open on YouTube</a></p></div></div></div>
+
+## What counts as evidence now
+
+The Allingham file is unusual because the “evidence” splits into two layers. The first layer is evidence for the alleged UFO event; the second is evidence for the later hoax identification. The first layer is weak. The photographs are ambiguous, the alleged alien is not identifiable, the named corroborating witness cannot be independently stabilised, and the primary witness identity appears artificial. No robust official investigation has emerged as the central pillar of the case, and the UK’s broader UFO record-keeping context does not convert this privately published contact story into an official finding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+The second layer is much stronger. It includes publisher correspondence that helped identify Davies, Davies’ reported admissions, the disguise claim, the lecture claim, the connection to Moore, and the photographic comparison with Moore’s telescope and garden. Those are not merely sceptical opinions about whether Martians are likely; they are provenance evidence that goes directly to the making of the book and the identity of the supposed witness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-title">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span><span class="citation-popover-snippet">Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore&#x27;s?</span></span></span>
+
+For a reader assessing the case today, the decisive point is that the hoax explanation accounts for more facts with fewer assumptions. It explains why Allingham was hard to find, why Duncan was hard to verify, why the author photograph became incriminating, why the story resembled contactee literature, and why the case depended on a book rather than on a durable chain of independent records. The extraterrestrial interpretation requires the weakest documents in the case to be reliable and the strongest later provenance clues to be coincidences or misunderstandings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wearethemutants.com/2016/08/30/flying-saucers-common-sense-and-the-enigma-of-cedric-allingham/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wearethemutants.com">[We Are the Mutants]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wearethemutants.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spookyisles.com/cedric-allingham-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spookyisles.com">[Spooky Isles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spookyisles.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+
+<img src="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b-Illustration-3-light.svg" | relative_url }}" alt="Cedric Allingham encounter 1954 illustration 3" data-theme-src-dark="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Why the case still belongs in a UFO dossier
+
+The Cedric Allingham encounter is not a strong UFO case, but it is a strong case study in UFO evidence failure. It shows how a narrative can be made to look complete by combining a named witness, a remote setting, photographs, a second witness statement, and a public lecture. It also shows why each element must be checked separately. A photograph is not self-authenticating; a witness statement is not corroboration if the witness cannot be found; and a respectable supporter can be sincerely impressed by a staged performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://prairieprogressive.com/2021/04/27/an-astronomer-helped-fake-britians-first-ufo-contactee-story/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prairieprogressive.com">[Prairie Progressive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prairieprogressive.com</span><span class="citation-popover-title">an astronomer helped fake britians first ufo contactee story</span><span class="citation-popover-snippet">an astronomer helped fake britians first ufo contactee story</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spookyisles.com/cedric-allingham-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spookyisles.com">[Spooky Isles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spookyisles.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+It also links naturally to neighbouring parts of the same UFO-history landscape: early British saucer enthusiasm, George Adamski-style contactee claims, the role of flying saucer clubs, and the later development of sceptical UFO research. Allingham’s story is a particularly British variant of the contactee pattern, set not in a desert but on the Moray coast, and later unpicked not by radar data or laboratory testing but by authorship investigation, archival persistence and close reading. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wearethemutants.com/2016/08/30/flying-saucers-common-sense-and-the-enigma-of-cedric-allingham/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wearethemutants.com">[We Are the Mutants]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wearethemutants.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+The most responsible verdict is therefore clear: the claimed 1954 Lossiemouth encounter should be treated as a literary and social hoax, not as credible evidence of a landed Martian craft. Its enduring value lies in how neatly it exposes the difference between a compelling UFO story and a well-proven UFO event.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0usIyQWrIGg" title="Sir Patrick Moore on Extraterrestrial Life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0usIyQWrIGg" target="_blank" rel="noopener noreferrer">Sir Patrick Moore on Extraterrestrial Life</a></p><p class="youtube-embed-meta">Channel: dasinfogod &middot; Views: 21.2K &middot; Uploaded: February 2010 &middot; Length: 4 minutes 13 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0usIyQWrIGg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0usIyQWrIGg">Open on YouTube</a></p></div></div></div>
+
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell fr-section-shell-fallback">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">No matched book cards were available for How Britain&#x27;s Martian Saucer Story Fell Apart, so this fallback keeps a direct Amazon reading path visible.</p>
+    </div>
+    <div class="fr-search-grid">
+
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">Cedric Allingham guide</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Cedric+Allingham+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
+    </article>
+
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">Flying Saucer from Mars guide</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Flying+Saucer+from+Mars+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
+    </article>
+
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">Cedric Allingham books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Cedric+Allingham+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: encyclopedia.com  
+   Title: Allingham, Cedric | Encyclopedia.com  
+   Link: [https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/allingham-cedric](https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/allingham-cedric)  
+
+2. <a id="endnote-2"></a>
+   Source: Wikipedia  
+   Title: Cedric Allingham  
+   Link: [https://en.wikipedia.org/wiki/Cedric_Allingham](https://en.wikipedia.org/wiki/Cedric_Allingham)  
+
+3. <a id="endnote-3"></a>
+   Source: Wikipedia  
+   Title: Patrick Moore  
+   Link: [https://en.wikipedia.org/wiki/Patrick_Moore](https://en.wikipedia.org/wiki/Patrick_Moore)  
+
+4. <a id="endnote-4"></a>
+   Source: Wikipedia  
+   Title: Cedric Allingham  
+   Link: [https://vi.wikipedia.org/wiki/Cedric_Allingham](https://vi.wikipedia.org/wiki/Cedric_Allingham)  
+
+5. <a id="endnote-5"></a>
+   Source: Wikipedia  
+   Title: UFO sightings in the United Kingdom  
+   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom](https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom)  
+
+6. <a id="endnote-6"></a>
+   Source: astronomy.com  
+   Title: moores best  
+   Link: [https://www.astronomy.com/science/moores-best/](https://www.astronomy.com/science/moores-best/)  
+
+7. <a id="endnote-7"></a>
+   Source: spookyisles.com  
+   Link: [https://www.spookyisles.com/cedric-allingham-ufos/](https://www.spookyisles.com/cedric-allingham-ufos/)  
+
+8. <a id="endnote-8"></a>
+   Source: magoniamagazine.blogspot.com  
+   Title: Magonia Magazine MAGONIA ARCHIVE: Flying Saucer from Moore's?  
+   Link: [https://magoniamagazine.blogspot.com/2013/10/allingham.html](https://magoniamagazine.blogspot.com/2013/10/allingham.html)  
+
+9. <a id="endnote-9"></a>
+   Source: wearethemutants.com  
+   Link: [https://wearethemutants.com/2016/08/30/flying-saucers-common-sense-and-the-enigma-of-cedric-allingham/](https://wearethemutants.com/2016/08/30/flying-saucers-common-sense-and-the-enigma-of-cedric-allingham/)  
+
+10. <a id="endnote-10"></a>
+   Source: nationalarchives.gov.uk  
+   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+
+11. <a id="endnote-11"></a>
+   Source: prairieprogressive.com  
+   Title: an astronomer helped fake britians first ufo contactee story  
+   Link: [https://prairieprogressive.com/2021/04/27/an-astronomer-helped-fake-britians-first-ufo-contactee-story/](https://prairieprogressive.com/2021/04/27/an-astronomer-helped-fake-britians-first-ufo-contactee-story/)  
+
+12. <a id="endnote-12"></a>
+   Source: nationalarchives.gov.uk  
+   Link: [https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/)  
+
+13. <a id="endnote-13"></a>
+   Source: amazon.co.uk  
+   Title: Flying Saucer From Mars  
+   Link: [https://www.amazon.co.uk/Flying-Saucer-Mars-Cedric-Allingham/dp/B001QW59SY](https://www.amazon.co.uk/Flying-Saucer-Mars-Cedric-Allingham/dp/B001QW59SY)  
+
+14. <a id="endnote-14"></a>
+   Source: amazon.co.uk  
+   Title: Flying Saucer from Mars  
+   Link: [https://www.amazon.co.uk/Flying-Saucer-Mars-Cedric-Allingham/dp/B000JVW6E8](https://www.amazon.co.uk/Flying-Saucer-Mars-Cedric-Allingham/dp/B000JVW6E8)  
+
+15. <a id="endnote-15"></a>
+   Source: amazon.co.uk  
+   Title: Flying saucer from Mars  
+   Link: [https://www.amazon.co.uk/Flying-saucer-Mars-Cedric-Allingham/dp/B0007E2V7E](https://www.amazon.co.uk/Flying-saucer-Mars-Cedric-Allingham/dp/B0007E2V7E)  
+
+16. <a id="endnote-16"></a>
+   Source: prairieprogressive.medium.com  
+   Title: was famous astronomer behind great britains first ufo contactee 35b800235557  
+   Link: [https://prairieprogressive.medium.com/was-famous-astronomer-behind-great-britains-first-ufo-contactee-35b800235557?source=post_internal_links---------5-------------------------------](https://prairieprogressive.medium.com/was-famous-astronomer-behind-great-britains-first-ufo-contactee-35b800235557?source=post_internal_links---------5-------------------------------)  
+
+17. <a id="endnote-17"></a>
+   Source: wearethemutants.com  
+   Title: flying saucers from mars 1955  
+   Link: [https://wearethemutants.com/2016/08/30/flying-saucers-common-sense-and-the-enigma-of-cedric-allingham/flying-saucers-from-mars-1955/](https://wearethemutants.com/2016/08/30/flying-saucers-common-sense-and-the-enigma-of-cedric-allingham/flying-saucers-from-mars-1955/)  
+
+18. <a id="endnote-18"></a>
+   Source: sfandfantasy.co.uk  
+   Title: Patrick Moore  
+   Link: [https://sfandfantasy.co.uk/php/pm.php](https://sfandfantasy.co.uk/php/pm.php)  
+
+19. <a id="endnote-19"></a>
+   Source: military-history.fandom.com  
+   Title: Patrick Moore  
+   Link: [https://military-history.fandom.com/wiki/Patrick_Moore](https://military-history.fandom.com/wiki/Patrick_Moore)  
+
+### Additional References
+
+20. <a id="endnote-20"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=fuCnwkGv_cg](https://www.youtube.com/watch?v=fuCnwkGv_cg)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Lossiemouth Incident Part 2: The Author (Paranormal &amp; Mystery)...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: youtube.com  
+   Title: The Lossiemouth Incident Part 2: The Author (Paranormal & Mystery)  
+   Link: [https://www.youtube.com/watch?v=_ycVLUrymwg](https://www.youtube.com/watch?v=_ycVLUrymwg)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>George Adamski: Alien Contactee! - Jimmy Akin&#x27;s Mysterious World...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: youtube.com  
+   Title: George Adamski: Alien Contactee!  
+   Link: [https://www.youtube.com/watch?v=eh_LMjd_dZA](https://www.youtube.com/watch?v=eh_LMjd_dZA)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sir Patrick Moore on Extraterrestrial Life...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: researchgate.net  
+   Link: [https://www.researchgate.net/publication/261854096_Extraterrestrial_encounters_UFOs_science_and_the_quest_for_transcendence_1947-1972](https://www.researchgate.net/publication/261854096_Extraterrestrial_encounters_UFOs_science_and_the_quest_for_transcendence_1947-1972)  
+
+24. <a id="endnote-24"></a>
+   Source: governmentattic.org  
+   Link: [https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf](https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf)  
+
+25. <a id="endnote-25"></a>
+   Source: ebay.com  
+   Link: [https://www.ebay.com/itm/356653218169](https://www.ebay.com/itm/356653218169)  
+
+26. <a id="endnote-26"></a>
+   Source: tomhascallcole.com  
+   Link: [https://www.tomhascallcole.com/Flying%20Saucer%20from%20Mars.html](https://www.tomhascallcole.com/Flying%20Saucer%20from%20Mars.html)  
+
+27. <a id="endnote-27"></a>
+   Source: abebooks.co.uk  
+   Link: [https://www.abebooks.co.uk/first-edition/Flying-Saucer-Mars-Allingham-Cedric-Patrick/31916766225/bd](https://www.abebooks.co.uk/first-edition/Flying-Saucer-Mars-Allingham-Cedric-Patrick/31916766225/bd)  
+
+28. <a id="endnote-28"></a>
+   Source: ebay.com  
+   Link: [https://www.ebay.com/itm/198082687214](https://www.ebay.com/itm/198082687214)  
+
+29. <a id="endnote-29"></a>
+   Source: abebooks.co.uk  
+   Link: [https://www.abebooks.co.uk/book-search/title/flying-saucer-from-mars/author/cedric-allingham/](https://www.abebooks.co.uk/book-search/title/flying-saucer-from-mars/author/cedric-allingham/)  

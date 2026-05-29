@@ -1,0 +1,1251 @@
+---
+level: 1
+basename: Reinhold_Schmidt_enc_731a71
+child_basenames:
+- Reinhold_Schmidt_enc_731a71_contactee_fraud_fall_46b4fb
+- Reinhold_Schmidt_enc_731a71_index
+- Reinhold_Schmidt_enc_731a71_kearney_landing_clai_e1cb79
+- Reinhold_Schmidt_enc_731a71_official_record_trai_9235a8
+sibling_basenames:
+- Alan_Godfrey_encount_87fc0b
+- Alexander_Hamilton_a_75e894
+- Andreasson_abduction_e8bccf
+- Antonio_Villas-Boas_1a3f4f
+- Apollo_11_sightings_2c5554
+- Aurora_Texas_airship_165367
+- BOAC_stratocruiser_s_01e20e
+- Battle_of_Los_Angele_969c9e
+- Belgium_radarvisual_58866e
+- Betty_and_Barney_Hil_3bcafa
+- Carl_Higdon_contact_bfd61b
+- CashLandrum_incident_7ad7d9
+- Cedric_Allingham_enc_2c7f6b
+- Charles_B_Moore_sigh_63eb1f
+- Charles_L_Moody_abdu_780173
+- Chiles_and_Whitted_s_33732b
+- Cisco_Grove_incident_29820a
+- Claude_Vorilhon_cont_ec941c
+- Clyde_Tombaugh_sight_af62cd
+- Coyne_helicopter_sig_5ce811
+- Cynthia_Appleton_enc_304111
+- Day_family_abduction_fe300b
+- Delphos_Ring_inciden_2952cd
+- Desvergers_scoutmast_75261f
+- Doctor_X_UFO_encount_5e669c
+- E_J_Smith_sighting_1_b2b2e6
+- Eagle_River_encounte_9b53c8
+- Farmington_sightings_46c4ec
+- Fatima_apparition_19_f6784f
+- Flatwoods_incident_1_ff4486
+- Flight_19_incident_1_5cc889
+- Fort_Itaipu_Brazil_s_89a0ba
+- Fred_M_Johnson_sight_b34b17
+- Gary_Wilcox_encounte_6de9ff
+- Gemini_4_sighting_19_9c351d
+- Gemini_7_sighting_19_7caf7b
+- George_Adamski_encou_795ba9
+- Gordon_Cooper_sighti_93b9f6
+- Gorman_dogfight_near_aac8f7
+- Great_Falls_Montana_171d9e
+- Greenhaw_encounter_1_a4bc62
+- Gulf_Breeze_encounte_8373f7
+- Herbert_Schirmer_abd_b149a3
+- Incident_at_Exeter_1_781528
+- JAL_1628_sighting_ov_aeed7e
+- Jet_chase_near_Tehra_5ae5aa
+- Jimmy_Carter_sightin_759215
+- John_Martin_sighting_4cec00
+- Jose_A_y_Bonilla_pho_27aa92
+- Kelly-Hopkinsville_i_de664d
+- Kenneth_Arnold_s_fir_b696ba
+- Kinross_incident_195_2ebd01
+- Lady_animal_mutilati_ea7340
+- Lakenheath_episode_1_bf5257
+- Larson_abduction_nea_e9683a
+- Levelland_Texas_inci_0e8348
+- Linda_Cortile_abduct_1b229f
+- Livingston_incident_b2c293
+- Loch_Raven_Dam_incid_b0e5b6
+- Lubbock_Lights_sight_4eabd8
+- Magenta_Italy_crash_5ee1aa
+- Maureen_Puddy_encoun_21a7f8
+- Maury_Island_inciden_ec4432
+- McMinnville_photogra_4e1af3
+- Middle_East_UAP_vide_4a6c55
+- Muroc_Field_sighting_a700e4
+- Nash_and_Fortenberry_0a9bf2
+- Oloron_Angel_Hair_in_61d462
+- Operation_Mainbrace_06bcd8
+- Orfeo_Angelucci_enco_bef29a
+- Pascagoula_abduction_80a64a
+- Puerto_Rico_infrared_d310d5
+- RB-47_radarvisual_in_5bf2a6
+- Red_Bluff_sighting_1_f72200
+- Rendlesham_Forest_in_f98080
+- Reverend_W_B_Gill_si_c31d68
+- Rex_Heflin_photograp_32bdf2
+- Roswell_1947_c36fe7
+- Salem_Massachusetts_01ecd1
+- Socorro_sighting_by_961b47
+- SpaurNeff_Ravenna_si_4977ac
+- Stanford_Kentucky_ab_a91f06
+- Stephen_Darbishire_p_f80223
+- Steven_Michalak_enco_1bbf94
+- The_Northeast_Blacko_c3cfee
+- Thomas_F_Mantell_inc_2ce7ee
+- Topcliffe_incident_1_80cbf4
+- Trans-en-Provence_en_439c97
+- Travis_Walton_abduct_612999
+- Tremonton_Utah_film_79b5ee
+- Trindade_Island_phot_726a39
+- Truman_Bethurum_cont_eaa44d
+- Tully_saucer_nest_in_b9d0b0
+- Tunguska_event_1908_efda6f
+- USS_Nimitz_Tic_Tac_v_83266a
+- USS_Russell_video_20_3188a1
+- USS_Theodore_Rooseve_a4867d
+- USS_Theodore_Rooseve_daeaff
+- Ubatuba_incident_195_6ff2c6
+- Ummo_photographs_196_ed7563
+- Valensole_incident_1_63f5cf
+- Valentich_disappeara_592d85
+- Voronezh_Russia_land_e13f34
+- Walesville_Incident_cbceb2
+- Washington_National_ee59a4
+- WellingtonKaikoura_i_c1d17f
+tags:
+- reinhold-schmidt-encounter-1957
+keywords:
+- reinhold-schmidt-encounter-1957
+affiliate_category: reinhold-schmidt-encounter-1957
+show_ads: true
+description: The Reinhold Schmidt encounter was a late-1950s UFO contactee claim centred on Kearney, Nebraska, on 5 November 1957.
+hero_summary: The Reinhold Schmidt encounter was a late-1950s UFO contactee claim centred on Kearney, Nebraska, on 5 November 1957. Schmidt, a grain buyer, said he found a landed, cigar- or blimp-shaped craft near the Platte River, was invited aboard by human-looking occupants, and heard them speak German before they departed.
+layout: default
+permalink: /reinhold-schmidt-encounter-1957/
+nav_short_title: What Really Happened Near Kearney?
+title: What Really Happened Near Kearney?
+title_full: What Really Happened Near Kearney?
+display_title_short: What Really Happened Near Kearney?
+display_title: What Really Happened Near Kearney?
+heading_title: What Really Happened Near Kearney?
+page_heading_title: What Really Happened Near Kearney?
+source_count: 57
+infographic_count: 3
+page_website_name: Schmidt Encounter
+page_banner_line: A grounded look at the Kearney contactee claim, its records, and its fallout.
+site_website_name: Schmidt Encounter
+site_banner_line: A grounded look at the Kearney contactee claim, its records, and its fallout.
+site_image_description: A rural Nebraska field near a parked 1950s car, with a cigar-shaped metallic object resting beyond a fence line at dusk.
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+sibling_links:
+- basename: Alan_Godfrey_encount_87fc0b
+  title: Godfrey Encounter
+  permalink: /alan-godfrey-encounter-1980/
+  short_title: Godfrey Encounter
+- basename: Alexander_Hamilton_a_75e894
+  title: Hamilton Airship
+  permalink: /alexander-hamilton-airship-1897/
+  short_title: Hamilton Airship
+- basename: Andreasson_abduction_e8bccf
+  title: Andreasson
+  permalink: /andreasson-abduction-1967/
+  short_title: Andreasson
+- basename: Antonio_Villas-Boas_1a3f4f
+  title: Villas Boas
+  permalink: /antonio-villas-boas-abduction-1957/
+  short_title: Villas Boas
+- basename: Apollo_11_sightings_2c5554
+  title: Apollo 11 Sightings
+  permalink: /apollo-11-sightings-1969/
+  short_title: Apollo 11 Sightings
+- basename: Aurora_Texas_airship_165367
+  title: Aurora Airship
+  permalink: /aurora-texas-airship-crash-1897/
+  short_title: Aurora Airship
+- basename: Battle_of_Los_Angele_969c9e
+  title: Battle of Los Angeles
+  permalink: /battle-of-los-angeles-1942/
+  short_title: Battle of Los Angeles
+- basename: Belgium_radarvisual_58866e
+  title: Belgium UFO Wave
+  permalink: /belgium-radarvisual-sightings-1989/
+  short_title: Belgium UFO Wave
+- basename: Betty_and_Barney_Hil_3bcafa
+  title: Hill Encounter
+  permalink: /betty-and-barney-hill-abduction-1961/
+  short_title: Hill Encounter
+- basename: BOAC_stratocruiser_s_01e20e
+  title: BOAC Sighting
+  permalink: /boac-stratocruiser-sighting-1954/
+  short_title: BOAC Sighting
+- basename: Carl_Higdon_contact_bfd61b
+  title: Higdon Contact
+  permalink: /carl-higdon-contact-1974/
+  short_title: Higdon Contact
+- basename: CashLandrum_incident_7ad7d9
+  title: Cash Landrum
+  permalink: /cashlandrum-incident-1980/
+  short_title: Cash Landrum
+- basename: Cedric_Allingham_enc_2c7f6b
+  title: Allingham
+  permalink: /cedric-allingham-encounter-1954/
+  short_title: Allingham
+- basename: Charles_B_Moore_sigh_63eb1f
+  title: Arrey UFO
+  permalink: /charles-b-moore-sighting-1949/
+  short_title: Arrey UFO
+- basename: Charles_L_Moody_abdu_780173
+  title: Moody Abduction
+  permalink: /charles-l-moody-abduction-1975/
+  short_title: Moody Abduction
+- basename: Chiles_and_Whitted_s_33732b
+  title: Chiles Whitted
+  permalink: /chiles-and-whitted-sighting-1948/
+  short_title: Chiles Whitted
+- basename: Cisco_Grove_incident_29820a
+  title: CiscoGrove1964
+  permalink: /cisco-grove-incident-1964/
+  short_title: CiscoGrove1964
+- basename: Claude_Vorilhon_cont_ec941c
+  title: Rael Contact
+  permalink: /claude-vorilhon-contact-1973/
+  short_title: Rael Contact
+- basename: Clyde_Tombaugh_sight_af62cd
+  title: Tombaugh Sighting
+  permalink: /clyde-tombaugh-sighting-1949/
+  short_title: Tombaugh Sighting
+- basename: Coyne_helicopter_sig_5ce811
+  title: Coyne Sighting
+  permalink: /coyne-helicopter-sighting-1973/
+  short_title: Coyne Sighting
+- basename: Cynthia_Appleton_enc_304111
+  title: Appleton Encounter
+  permalink: /cynthia-appleton-encounter-1957/
+  short_title: Appleton Encounter
+- basename: Day_family_abduction_fe300b
+  title: Aveley Abduction
+  permalink: /day-family-abduction-1974/
+  short_title: Aveley Abduction
+- basename: Delphos_Ring_inciden_2952cd
+  title: Delphos Ring
+  permalink: /delphos-ring-incident-1971/
+  short_title: Delphos Ring
+- basename: Desvergers_scoutmast_75261f
+  title: Desvergers
+  permalink: /desvergers-scoutmaster-sighting-1952/
+  short_title: Desvergers
+- basename: Doctor_X_UFO_encount_5e669c
+  title: Doctor X
+  permalink: /doctor-x-ufo-encounter-1968/
+  short_title: Doctor X
+- basename: E_J_Smith_sighting_1_b2b2e6
+  title: Flight105UFO
+  permalink: /e-j-smith-sighting-1947/
+  short_title: Flight105UFO
+- basename: Eagle_River_encounte_9b53c8
+  title: Eagle River
+  permalink: /eagle-river-encounter-1961/
+  short_title: Eagle River
+- basename: Farmington_sightings_46c4ec
+  title: Farmington Armada
+  permalink: /farmington-sightings-1950/
+  short_title: Farmington Armada
+- basename: Fatima_apparition_19_f6784f
+  title: Fatima
+  permalink: /fatima-apparition-1917/
+  short_title: Fatima
+- basename: Flatwoods_incident_1_ff4486
+  title: Flatwoods
+  permalink: /flatwoods-incident-1952/
+  short_title: Flatwoods
+- basename: Flight_19_incident_1_5cc889
+  title: Flight 19
+  permalink: /flight-19-incident-1945/
+  short_title: Flight 19
+- basename: Fort_Itaipu_Brazil_s_89a0ba
+  title: Fort Itaipu
+  permalink: /fort-itaipu-brazil-sighting-1957/
+  short_title: Fort Itaipu
+- basename: Fred_M_Johnson_sight_b34b17
+  title: Johnson Sighting
+  permalink: /fred-m-johnson-sighting-1947/
+  short_title: Johnson Sighting
+- basename: Gary_Wilcox_encounte_6de9ff
+  title: WilcoxUFO
+  permalink: /gary-wilcox-encounter-1964/
+  short_title: WilcoxUFO
+- basename: Gemini_4_sighting_19_9c351d
+  title: Gemini 4 Sighting
+  permalink: /gemini-4-sighting-1965/
+  short_title: Gemini 4 Sighting
+- basename: Gemini_7_sighting_19_7caf7b
+  title: Gemini7Sighting
+  permalink: /gemini-7-sighting-1965/
+  short_title: Gemini7Sighting
+- basename: George_Adamski_encou_795ba9
+  title: Adamski
+  permalink: /george-adamski-encounters-1953/
+  short_title: Adamski
+- basename: Gordon_Cooper_sighti_93b9f6
+  title: Cooper
+  permalink: /gordon-cooper-sightings-1963/
+  short_title: Cooper
+- basename: Gorman_dogfight_near_aac8f7
+  title: Gorman Dogfight
+  permalink: /gorman-dogfight-near-fargo-1948/
+  short_title: Gorman Dogfight
+- basename: Great_Falls_Montana_171d9e
+  title: Great Falls UFO
+  permalink: /great-falls-montana-film-1950/
+  short_title: Great Falls UFO
+- basename: Greenhaw_encounter_1_a4bc62
+  title: Falkville Metal Man
+  permalink: /greenhaw-encounter-1973/
+  short_title: Falkville Metal Man
+- basename: Gulf_Breeze_encounte_8373f7
+  title: Gulf Breeze
+  permalink: /gulf-breeze-encounter-1987/
+  short_title: Gulf Breeze
+- basename: Herbert_Schirmer_abd_b149a3
+  title: Schirmer UFO
+  permalink: /herbert-schirmer-abduction-1967/
+  short_title: Schirmer UFO
+- basename: Incident_at_Exeter_1_781528
+  title: Exeter UFO
+  permalink: /incident-at-exeter-1965/
+  short_title: Exeter UFO
+- basename: JAL_1628_sighting_ov_aeed7e
+  title: JAL 1628
+  permalink: /jal-1628-sighting-over-alaska-1986/
+  short_title: JAL 1628
+- basename: Jet_chase_near_Tehra_5ae5aa
+  title: Tehran UFO
+  permalink: /jet-chase-near-tehran-iran-1976/
+  short_title: Tehran UFO
+- basename: Jimmy_Carter_sightin_759215
+  title: Carter UFO
+  permalink: /jimmy-carter-sighting-1969/
+  short_title: Carter UFO
+- basename: John_Martin_sighting_4cec00
+  title: Martin Sighting
+  permalink: /john-martin-sighting-1878/
+  short_title: Martin Sighting
+- basename: Jose_A_y_Bonilla_pho_27aa92
+  title: Bonilla1883
+  permalink: /jose-a-y-bonilla-photograph-1883/
+  short_title: Bonilla1883
+- basename: Kelly-Hopkinsville_i_de664d
+  title: Kelly Hopkinsville
+  permalink: /kelly-hopkinsville-incident-1955/
+  short_title: Kelly Hopkinsville
+- basename: Kenneth_Arnold_s_fir_b696ba
+  title: Arnold Sighting
+  permalink: /kenneth-arnold-s-first-sighting-1947/
+  short_title: Arnold Sighting
+- basename: Kinross_incident_195_2ebd01
+  title: Kinross
+  permalink: /kinross-incident-1953/
+  short_title: Kinross
+- basename: Lady_animal_mutilati_ea7340
+  title: Snippy
+  permalink: /lady-animal-mutilation-1966/
+  short_title: Snippy
+- basename: Lakenheath_episode_1_bf5257
+  title: Lakenheath
+  permalink: /lakenheath-episode-1956/
+  short_title: Lakenheath
+- basename: Larson_abduction_nea_e9683a
+  title: Larson Abduction
+  permalink: /larson-abduction-near-fargo-1975/
+  short_title: Larson Abduction
+- basename: Levelland_Texas_inci_0e8348
+  title: Levelland UFO
+  permalink: /levelland-texas-incident-1957/
+  short_title: Levelland UFO
+- basename: Linda_Cortile_abduct_1b229f
+  title: Cortile Case
+  permalink: /linda-cortile-abduction-1989/
+  short_title: Cortile Case
+- basename: Livingston_incident_b2c293
+  title: LivingstonUFO
+  permalink: /livingston-incident-1979/
+  short_title: LivingstonUFO
+- basename: Loch_Raven_Dam_incid_b0e5b6
+  title: LochRavenUFO
+  permalink: /loch-raven-dam-incident-1958/
+  short_title: LochRavenUFO
+- basename: Lubbock_Lights_sight_4eabd8
+  title: Lubbock Lights
+  permalink: /lubbock-lights-sightings-1951/
+  short_title: Lubbock Lights
+- basename: Magenta_Italy_crash_5ee1aa
+  title: MagentaCrash1933
+  permalink: /magenta-italy-crash-1933/
+  short_title: MagentaCrash1933
+- basename: Maureen_Puddy_encoun_21a7f8
+  title: Puddy Encounter
+  permalink: /maureen-puddy-encounter-1973/
+  short_title: Puddy Encounter
+- basename: Maury_Island_inciden_ec4432
+  title: Maury Island
+  permalink: /maury-island-incident-1947/
+  short_title: Maury Island
+- basename: McMinnville_photogra_4e1af3
+  title: McMinnville Photos
+  permalink: /mcminnville-photographs-1950/
+  short_title: McMinnville Photos
+- basename: Middle_East_UAP_vide_4a6c55
+  title: Middle East Orb
+  permalink: /middle-east-uap-video-2022/
+  short_title: Middle East Orb
+- basename: Muroc_Field_sighting_a700e4
+  title: Muroc Saucers
+  permalink: /muroc-field-sightings-1947/
+  short_title: Muroc Saucers
+- basename: Nash_and_Fortenberry_0a9bf2
+  title: Nash Fortenberry
+  permalink: /nash-and-fortenberry-sighting-1952/
+  short_title: Nash Fortenberry
+- basename: Oloron_Angel_Hair_in_61d462
+  title: Oloron Angel Hair
+  permalink: /oloron-angel-hair-incident-1952/
+  short_title: Oloron Angel Hair
+- basename: Operation_Mainbrace_06bcd8
+  title: MainbraceSightings
+  permalink: /operation-mainbrace-sightings-1952/
+  short_title: MainbraceSightings
+- basename: Orfeo_Angelucci_enco_bef29a
+  title: Angelucci
+  permalink: /orfeo-angelucci-encounter-1955/
+  short_title: Angelucci
+- basename: Pascagoula_abduction_80a64a
+  title: Pascagoula
+  permalink: /pascagoula-abduction-1973/
+  short_title: Pascagoula
+- basename: Puerto_Rico_infrared_d310d5
+  title: Aguadilla UAP
+  permalink: /puerto-rico-infrared-video-2013/
+  short_title: Aguadilla UAP
+- basename: RB-47_radarvisual_in_5bf2a6
+  title: RB 47 Incident
+  permalink: /rb-47-radarvisual-incident-1957/
+  short_title: RB 47 Incident
+- basename: Red_Bluff_sighting_1_f72200
+  title: Red Bluff UFO
+  permalink: /red-bluff-sighting-1960/
+  short_title: Red Bluff UFO
+- basename: Rendlesham_Forest_in_f98080
+  title: Rendlesham
+  permalink: /rendlesham-forest-incident-1980/
+  short_title: Rendlesham
+- basename: Reverend_W_B_Gill_si_c31d68
+  title: Gill Sightings
+  permalink: /reverend-w-b-gill-sightings-1959/
+  short_title: Gill Sightings
+- basename: Rex_Heflin_photograp_32bdf2
+  title: Heflin UFO
+  permalink: /rex-heflin-photographs-1965/
+  short_title: Heflin UFO
+- basename: Roswell_1947_c36fe7
+  title: Roswell
+  permalink: /roswell-1947/
+  short_title: Roswell
+- basename: Salem_Massachusetts_01ecd1
+  title: Salem UFO Photo
+  permalink: /salem-massachusetts-photograph-1952/
+  short_title: Salem UFO Photo
+- basename: Socorro_sighting_by_961b47
+  title: Socorro UFO
+  permalink: /socorro-sighting-by-lonnie-zamora-1964/
+  short_title: Socorro UFO
+- basename: SpaurNeff_Ravenna_si_4977ac
+  title: RavennaUFO
+  permalink: /spaurneff-ravenna-sighting-1966/
+  short_title: RavennaUFO
+- basename: Stanford_Kentucky_ab_a91f06
+  title: Stanford Abduction
+  permalink: /stanford-kentucky-abduction-1976/
+  short_title: Stanford Abduction
+- basename: Stephen_Darbishire_p_f80223
+  title: DarbishireUFO
+  permalink: /stephen-darbishire-photograph-1954/
+  short_title: DarbishireUFO
+- basename: Steven_Michalak_enco_1bbf94
+  title: Falcon Lake
+  permalink: /steven-michalak-encounter-1967/
+  short_title: Falcon Lake
+- basename: The_Northeast_Blacko_c3cfee
+  title: Blackout UFO
+  permalink: /the-northeast-blackout-1965/
+  short_title: Blackout UFO
+- basename: Thomas_F_Mantell_inc_2ce7ee
+  title: Mantell
+  permalink: /thomas-f-mantell-incident-1948/
+  short_title: Mantell
+- basename: Topcliffe_incident_1_80cbf4
+  title: TopcliffeUFO
+  permalink: /topcliffe-incident-1952/
+  short_title: TopcliffeUFO
+- basename: Trans-en-Provence_en_439c97
+  title: Trans en Provence
+  permalink: /trans-en-provence-encounter-1981/
+  short_title: Trans en Provence
+- basename: Travis_Walton_abduct_612999
+  title: Walton
+  permalink: /travis-walton-abduction-1975/
+  short_title: Walton
+- basename: Tremonton_Utah_film_79b5ee
+  title: Tremonton UFO
+  permalink: /tremonton-utah-film-1952/
+  short_title: Tremonton UFO
+- basename: Trindade_Island_phot_726a39
+  title: Trindade UFO
+  permalink: /trindade-island-photographs-1958/
+  short_title: Trindade UFO
+- basename: Truman_Bethurum_cont_eaa44d
+  title: Bethurum
+  permalink: /truman-bethurum-contact-1954/
+  short_title: Bethurum
+- basename: Tully_saucer_nest_in_b9d0b0
+  title: TullyUFO
+  permalink: /tully-saucer-nest-incident-1966/
+  short_title: TullyUFO
+- basename: Tunguska_event_1908_efda6f
+  title: Tunguska
+  permalink: /tunguska-event-1908/
+  short_title: Tunguska
+- basename: Ubatuba_incident_195_6ff2c6
+  title: Ubatuba
+  permalink: /ubatuba-incident-1957/
+  short_title: Ubatuba
+- basename: USS_Nimitz_Tic_Tac_v_83266a
+  title: NimitzUAP
+  permalink: /uss-nimitz-tic-tac-video-2004/
+  short_title: NimitzUAP
+- basename: USS_Russell_video_20_3188a1
+  title: USS Russell
+  permalink: /uss-russell-video-2019/
+  short_title: USS Russell
+- basename: USS_Theodore_Rooseve_a4867d
+  title: Gimbal UAP
+  permalink: /uss-theodore-roosevelt-gimbal-video-2015/
+  short_title: Gimbal UAP
+- basename: USS_Theodore_Rooseve_daeaff
+  title: Go Fast UAP
+  permalink: /uss-theodore-roosevelt-go-fast-video/
+  short_title: Go Fast UAP
+- basename: Valensole_incident_1_63f5cf
+  title: Valensole
+  permalink: /valensole-incident-1965/
+  short_title: Valensole
+- basename: Valentich_disappeara_592d85
+  title: Valentich
+  permalink: /valentich-disappearance-1978/
+  short_title: Valentich
+- basename: Voronezh_Russia_land_e13f34
+  title: VoronezhLanding
+  permalink: /voronezh-russia-landing-1989/
+  short_title: VoronezhLanding
+- basename: Walesville_Incident_cbceb2
+  title: Walesville
+  permalink: /walesville-incident-1954/
+  short_title: Walesville
+- basename: Washington_National_ee59a4
+  title: Washington Saucers
+  permalink: /washington-national-sightings-1952/
+  short_title: Washington Saucers
+- basename: WellingtonKaikoura_i_c1d17f
+  title: Kaikoura Lights
+  permalink: /wellingtonkaikoura-incident-1978/
+  short_title: Kaikoura Lights
+- basename: Ummo_photographs_196_ed7563
+  title: UmmoPhotos
+  permalink: /were-the-1967-ummo-photographs-real-or-a/
+  short_title: UmmoPhotos
+child_links:
+- basename: Reinhold_Schmidt_enc_731a71_contactee_fraud_fall_46b4fb
+  title: Fallout | Reinhold Schmidt encounter 1957
+  permalink: /fallout/
+  short_title: Fallout
+  heading_title: Why Did Schmidt's Credibility Collapse?
+- basename: Reinhold_Schmidt_enc_731a71_official_record_trai_9235a8
+  title: Paper Trail | Reinhold Schmidt encounter 1957
+  permalink: /paper-trail/
+  short_title: Paper Trail
+  heading_title: How Did Officials Handle the Report?
+- basename: Reinhold_Schmidt_enc_731a71_kearney_landing_clai_e1cb79
+  title: The Claim | Reinhold Schmidt encounter 1957
+  permalink: /the-claim/
+  short_title: The Claim
+  heading_title: What Did Schmidt Say He Saw?
+prev_link:
+  basename: Red_Bluff_sighting_1_f72200
+  title: Red Bluff UFO
+  permalink: /red-bluff-sighting-1960/
+  short_title: Red Bluff UFO
+next_link:
+  basename: Rendlesham_Forest_in_f98080
+  title: Rendlesham
+  permalink: /rendlesham-forest-incident-1980/
+  short_title: Rendlesham
+date: '2026-05-29 12:15:30 '
+header:
+  og_image: /assets/images/Reinhold_Schmidt_enc_731a71-overview-social.jpg
+  preview_image: /assets/images/Reinhold_Schmidt_enc_731a71-overview.webp
+image: /assets/images/Reinhold_Schmidt_enc_731a71-overview-social.jpg
+---
+
+## What Schmidt said happened near Kearney
+
+Schmidt’s core story was that, while driving through a rural area near Kearney on 5 November 1957, his car developed trouble and he noticed a large object resting in a field. Later summaries describe the object as blimp-shaped, cigar-shaped, or saucer-like, but the consistent point is that Schmidt claimed it was landed rather than merely seen in the sky. He said two men came from the craft and brought him aboard, where he encountered a crew of human-looking occupants, usually described as four men and two women. Accounts of the occupants vary on whether they claimed Venus or Saturn as their home, a discrepancy that reflects the way Schmidt’s story shifted as it passed through later retellings and his own publicity material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Reinhold_O._Schmidt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Reinhold O. Schmidt</span><span class="citation-popover-snippet">Reinhold O. Schmidt</span></span></span>
+
+
+<img src="{{ "/assets/images/Reinhold_Schmidt_enc_731a71-overview.webp" | relative_url }}" alt="Overview image for Reinhold Schmidt encounter 1957" loading="eager" decoding="sync" fetchpriority="high">
+One striking feature of the tale was language. Schmidt claimed the crew spoke what he called “High German” among themselves and German-accented English to him. In contactee culture, this detail made the case feel more personal and less monstrous than later abduction narratives: the alleged visitors were not insect-like or grotesque beings but calm, human-looking “space people” who asked about Earth affairs. Black Vault’s summary of the FBI file says the alleged Saturnians were interested in the Soviet Sputniks and United States satellite-launching plans, placing the story squarely inside the space-race anxiety of November 1957. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/fbi-files-the-paranormal-collection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault FBI Files: The Paranormal Collection</span><span class="citation-popover-snippet">The Black Vault FBI Files: The Paranormal Collection</span></span></span>
+
+Schmidt then went to local authorities. A University of Nebraska at Kearney notice for a later history lecture summarises the local sequence: the sheriff interrogated him, the Kearney Hub investigated the landing site, and many residents laughed the matter off. That same notice is careful to frame the event as a “fact or fiction” local-history subject rather than as an established aerial mystery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unknews.unk.edu/2023/10/03/fact-or-fiction-you-decide-during-ufos-over-the-platte-river-presentation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unknews.unk.edu">[UNK NEWS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unknews.unk.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+## The Cold War timing made the story travel
+
+The encounter was reported during a highly charged UFO moment. It came just after the launch of Sputnik 2 and amid the 1957 American UFO wave, including the Levelland, Texas car-stalling reports. That context helps explain why Schmidt’s claim did not remain just a small-town curiosity: the ingredients matched public anxieties already in circulation, including stalled engines, landed craft, unusual occupants, and questions about satellites. The Saucers That Time Forgot notes that Schmidt’s report followed the Sputnik 2 launch and the Levelland sightings, making his “large blimp-like UFO” and car trouble sound less isolated to contemporary saucer audiences than it sounds now. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thesaucersthattimeforgot.blogspot.com/2020/08/the-trial-of-ufo-gold-digger.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesaucersthattimeforgot.blogspot.com">[The Saucers That Time Forgot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesaucersthattimeforgot.blogspot.com</span><span class="citation-popover-title">the trial of ufo gold digger</span><span class="citation-popover-snippet">the trial of ufo gold digger</span></span></span>
+
+Project Blue Book, the United States Air Force UFO investigation programme, is part of the documentary trail. The Internet Archive listing for Blue Book’s 1950s files includes a specific file titled “1957-11-7230046-Kearney-Nebraska.pdf,” showing that the Kearney case was among the archived November 1957 materials. The Air Force later stated that Project Blue Book operated from 1947 to 1969, collected 12,618 sightings, and ended with the conclusion that no investigated UFO report showed evidence of an extraterrestrial vehicle or a national-security threat. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/bluebook/1950s.zip/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
+
+That official conclusion does not, by itself, solve the Schmidt case in a narrow evidential sense; it gives the wider institutional setting. The more important point for this case is that the Air Force record did not turn Schmidt’s story into a substantiated landing event. Instead, the case survived as an example of the period’s mixture of public fascination, official filing, local scepticism, and contactee self-promotion.
+
+
+<img src="{{ "/assets/images/Reinhold_Schmidt_enc_731a71-Illustration-1-light.svg" | relative_url }}" alt="Reinhold Schmidt encounter 1957 illustration 1" data-theme-src-dark="{{ "/assets/images/Reinhold_Schmidt_enc_731a71-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Reinhold_Schmidt_enc_731a71-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## The physical evidence was weak
+
+The reported landing-site evidence was never strong. Later summaries say that a greasy greenish substance was found at or near the supposed site, but police also reportedly found a can of green motor oil nearby. That discovery badly undercut the value of the substance as trace evidence, because it offered an ordinary local source for what might otherwise have seemed unusual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Nazi_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Nazi UFOs</span><span class="citation-popover-snippet">Nazi UFOs</span></span></span>
+
+There was also no independent crew witness, no verified photograph of the landed object, and no recovered artefact shown to be of non-human manufacture. The strongest “evidence” was Schmidt’s own testimony, followed by the fact that officials and journalists took enough notice to check the site and preserve the story in public and official channels. That is not nothing, but it is far short of corroboration.
+
+The case therefore sits in a different evidential category from a multi-witness aerial sighting or a radar-visual incident. It is primarily a single-witness contact claim with disputed physical traces and a rapidly expanding narrative. For readers comparing sibling branches of the same case dossier, this distinction matters: the strongest part of the file is provenance and chronology, not physical proof.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_jclUlNXAhA" title="Long John Nebel - The Flying Saucer Story (George Adamski Interview) [1960s UFO Interview]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_jclUlNXAhA" target="_blank" rel="noopener noreferrer">Long John Nebel - The Flying Saucer Story (George Adamski Interview) [1960s UFO Interview]</a></p><p class="youtube-embed-meta">Channel: ThriftStoreVinyl &middot; Views: 10.5K &middot; Uploaded: September 2018 &middot; Length: 4 minutes 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_jclUlNXAhA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_jclUlNXAhA">Open on YouTube</a></p></div></div></div>
+
+## Schmidt’s credibility became the central problem
+
+Schmidt’s credibility is the reason the case is usually treated as a cautionary contactee story rather than a strong UFO landing report. Later biographical summaries state that he had a 1938 embezzlement conviction in Nebraska, a fact local investigators reportedly uncovered soon after the Kearney claim. That prior conviction does not automatically prove the 1957 story false, but it made officials more cautious about accepting his testimony at face value. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Reinhold_O._Schmidt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Reinhold O. Schmidt</span><span class="citation-popover-snippet">Reinhold O. Schmidt</span></span></span>
+
+What damaged him more was what happened next. Schmidt did not simply report the incident and leave it there; he developed it into a public identity. He lectured, associated with other contactees, and published his account. The Library of Congress’s 1969 annotated UFO bibliography lists “Schmidt, Reinhold O. The Kearney incident” in Flying Saucers, October 1959, showing that the story circulated in the UFO press beyond Nebraska. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">UFOsRelatedSubjBiblio Catoe 1969</span><span class="citation-popover-snippet">UFOsRelatedSubjBiblio Catoe 1969</span></span></span>
+
+His self-published and republished material also shows how the story became a product. A scanned later booklet, Edge of Tomorrow, presents itself as “The Reinhold O. Schmidt Story” and “A True Account of Experiences With Visitors From Another Planet,” while an antiquarian listing identifies the earlier 1958 booklet The Kearney Incident — Up to Now as a 16-page publication by the Spacecraft Research Association. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unariunwisdom.com/wp-content/uploads/2021/05/Edge-Of-Tomorrow-by-Reinhold-O-Schmidt.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unariunwisdom.com">[Unariun Wisdom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unariunwisdom.com</span><span class="citation-popover-snippet">Unariun Wisdom</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.abebooks.co.uk/Kearney-Incident--Up-Now---Reinhold-Schmidt-Phoenix/31327158618/bd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abebooks.co.uk">[AbeBooks UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abebooks.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+
+<img src="{{ "/assets/images/Reinhold_Schmidt_enc_731a71-Illustration-2-light.svg" | relative_url }}" alt="Reinhold Schmidt encounter 1957 illustration 2" data-theme-src-dark="{{ "/assets/images/Reinhold_Schmidt_enc_731a71-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Reinhold_Schmidt_enc_731a71-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## From reported encounter to contactee career
+
+By 1958, Schmidt was on the contactee circuit. The Saucers That Time Forgot reports that his first pamphlet was published in May 1958 and that he appeared at George Van Tassel’s Giant Rock Spacecraft Convention later that month and in June. In that environment, Schmidt’s story was not merely a police matter; it became entertainment, testimony, spiritual promise, and business opportunity all at once. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thesaucersthattimeforgot.blogspot.com/2020/08/the-trial-of-ufo-gold-digger.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesaucersthattimeforgot.blogspot.com">[The Saucers That Time Forgot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesaucersthattimeforgot.blogspot.com</span><span class="citation-popover-title">the trial of ufo gold digger</span><span class="citation-popover-snippet">the trial of ufo gold digger</span></span></span>
+
+[The claim]({{ 'the-claim/' | relative_url }}) also expanded beyond the original Kearney incident. The UNK history notice says that “a year later” Schmidt claimed the UFO picked him up in Elm Creek, and that he then made a career of “The Kearney Incident” by travelling across the country with the story. This later expansion is important because it makes the original report harder to isolate: the 5 November claim became embedded in an increasingly elaborate mythology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unknews.unk.edu/2023/10/03/fact-or-fiction-you-decide-during-ufos-over-the-platte-river-presentation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unknews.unk.edu">[UNK NEWS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unknews.unk.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+Film added another layer. According to The Saucers That Time Forgot, Schmidt became involved with June and Ron Ormond, and the resulting film Edge of Tomorrow was based on his story. The same account says the film was shown at saucer conventions and later even appeared in the context of his trial. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thesaucersthattimeforgot.blogspot.com/2020/08/the-trial-of-ufo-gold-digger.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesaucersthattimeforgot.blogspot.com">[The Saucers That Time Forgot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesaucersthattimeforgot.blogspot.com</span><span class="citation-popover-title">the trial of ufo gold digger</span><span class="citation-popover-snippet">the trial of ufo gold digger</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zjF52HHXw9Q" title="Reinhold O. Schmidt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zjF52HHXw9Q" target="_blank" rel="noopener noreferrer">Reinhold O. Schmidt</a></p><p class="youtube-embed-meta">Channel: WikiReader &middot; Views: 155 &middot; Uploaded: April 2022 &middot; Length: 4 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zjF52HHXw9Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zjF52HHXw9Q">Open on YouTube</a></p></div></div></div>
+
+## The 1961 fraud case changed how the encounter is read
+
+The later criminal case does not prove what happened in a Nebraska field in 1957, but it is unavoidable when assessing witness reliability. Schmidt moved into schemes involving mines, crystals, and claims connected to his alleged space contacts. The Saucers That Time Forgot gives a detailed account of his Alameda County trial, stating that it ran in October 1961 and that Schmidt faced grand theft charges involving Eva Newcomb, one of the women persuaded by his saucer-related claims and investment pitches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thesaucersthattimeforgot.blogspot.com/2020/08/the-trial-of-ufo-gold-digger.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesaucersthattimeforgot.blogspot.com">[The Saucers That Time Forgot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesaucersthattimeforgot.blogspot.com</span><span class="citation-popover-title">the trial of ufo gold digger</span><span class="citation-popover-snippet">the trial of ufo gold digger</span></span></span>
+
+The trial evidence described there is damaging. A mining consultant reportedly testified that documents Schmidt had shown Newcomb did not support [the claims]({{ 'the-claim/' | relative_url }}) he had made, and prosecutors presented a pattern of similar techniques used with other women. Schmidt testified in his own defence and continued to present his space-contact claims as true. The jury found him guilty after several hours of deliberation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thesaucersthattimeforgot.blogspot.com/2020/08/the-trial-of-ufo-gold-digger.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesaucersthattimeforgot.blogspot.com">[The Saucers That Time Forgot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesaucersthattimeforgot.blogspot.com</span><span class="citation-popover-title">the trial of ufo gold digger</span><span class="citation-popover-snippet">the trial of ufo gold digger</span></span></span>
+
+A later Los Angeles-area account, reprinted in UFO circles and discussed by The Saucers That Time Forgot, said psychiatrists found Schmidt sane after conviction. In 1963, after appeal efforts, he was sent to prison. The same source reports that he later faded from the saucer scene, received parole in 1966, returned to ordinary agricultural work, and died in Nebraska in 1974. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thesaucersthattimeforgot.blogspot.com/2020/08/the-trial-of-ufo-gold-digger.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesaucersthattimeforgot.blogspot.com">[The Saucers That Time Forgot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesaucersthattimeforgot.blogspot.com</span><span class="citation-popover-title">the trial of ufo gold digger</span><span class="citation-popover-snippet">the trial of ufo gold digger</span></span></span>
+
+For the encounter dossier, the key point is not simply “Schmidt was convicted, therefore the UFO story is false.” The better assessment is narrower and stronger: Schmidt’s later conduct shows he was willing to monetise and elaborate his contact claims in deceptive ways, so his uncorroborated 1957 testimony carries very low evidential weight.
+
+
+<img src="{{ "/assets/images/Reinhold_Schmidt_enc_731a71-Illustration-3-light.svg" | relative_url }}" alt="Reinhold Schmidt encounter 1957 illustration 3" data-theme-src-dark="{{ "/assets/images/Reinhold_Schmidt_enc_731a71-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Reinhold_Schmidt_enc_731a71-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## What official and sceptical readings make of the case
+
+The official Air Force posture toward UFOs, as later summarised, was that no Project Blue Book case demonstrated extraterrestrial vehicles or a threat to national security. Within that broad framework, Schmidt’s case did not become a flagship unexplained case; it became part of the archive of reports from the 1957 wave. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
+
+Civilian UFO organisations and writers also treated the case unevenly. The CIA Reading Room’s copy of NICAP-related material, visible in search snippets, refers to Kearney, Nebraska and Reinhold Schmidt, and says the Kearney incident and a White Sands sighting were labelled hoaxes, adding that the first case “no doubt was a hoax.” That is a strong sceptical judgement from within a UFO-interested source base rather than from a blanket anti-UFO position. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+The most plausible sceptical interpretation is therefore a staged or invented contactee claim, possibly helped by ordinary physical materials at the site and amplified by the publicity climate of late 1957. The strongest unresolved point is not a technical mystery about a craft; it is why Schmidt told the story in the first place and whether the initial report began as a prank, a publicity move, a sincere but mistaken experience, or the first step in a deliberate con. The subsequent fraud conviction makes the deliberate-con reading hard to dismiss.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zsnO7pR36Ks" title="Brown Bag Series: Dr. Nathan Tye" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zsnO7pR36Ks" target="_blank" rel="noopener noreferrer">Brown Bag Series: Dr. Nathan Tye</a></p><p class="youtube-embed-meta">Channel: Kearney Public Library &middot; Views: 104 &middot; Uploaded: October 2023 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zsnO7pR36Ks" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zsnO7pR36Ks">Open on YouTube</a></p></div></div></div>
+
+## Why the case still belongs in UFO history
+
+The Reinhold Schmidt encounter remains useful because it connects several themes that recur across 1950s UFO culture: landed craft claims, friendly human-looking visitors, Cold War space-race anxiety, local law-enforcement involvement, Air Force documentation, contactee lectures, self-published booklets, and the blurred line between belief and business. It is also a reminder that documentary presence is not the same as evidential strength. A case can be in official files, reported locally, and remembered in regional history while still resting on fragile evidence.
+
+For a case dossier, the best way to classify the Schmidt encounter is as a historically well-traceable but weakly corroborated contactee claim. Its chronology is reasonably clear; its source trail is unusually visible; its physical evidence is poor; its witness credibility is badly compromised; and its later commercial afterlife is more revealing than the alleged encounter itself.
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell fr-section-shell-fallback">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">No matched book cards were available for What Really Happened Near Kearney?, so this fallback keeps a direct Amazon reading path visible.</p>
+    </div>
+    <div class="fr-search-grid">
+
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
+    </article>
+
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
+    </article>
+
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-flying-saucer-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sport Model UFO/Flying Saucer - from S4 Area 51 - Revealed by Bob Lazar - small"><img src="{{ '/assets/images/marketplace-covers/03f6065aef10e41620f8.jpg' | relative_url }}" alt="Listing image for Sport Model UFO/Flying Saucer - from S4 Area 51 - Revealed by Bob Lazar - small" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-flying-saucer-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Sport Model UFO/Flying Saucer - from S4 Area 51 - Revealed by Bob Lazar - small</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-flying-saucer-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.com</span>: flying saucer model</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-flying-saucer-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-flying-saucer-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer UFO Model 3D Printed | Classic Disc Replica Silver Grey 3-9&quot;"><img src="{{ '/assets/images/marketplace-covers/5648749764955ecad803.jpg' | relative_url }}" alt="Listing image for Flying Saucer UFO Model 3D Printed | Classic Disc Replica Silver Grey 3-9&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-flying-saucer-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer UFO Model 3D Printed | Classic Disc Replica Silver Grey 3-9&quot;</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-flying-saucer-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.com</span>: flying saucer model</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-flying-saucer-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-flying-saucer-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Unidentified Flying Object Alien Aliens Flying Saucer Ship 6&quot; - Pick Color"><img src="{{ '/assets/images/marketplace-covers/f43222bff5987d254054.jpg' | relative_url }}" alt="Listing image for UFO Unidentified Flying Object Alien Aliens Flying Saucer Ship 6&quot; - Pick Color" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-flying-saucer-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Unidentified Flying Object Alien Aliens Flying Saucer Ship 6&quot; - Pick Color</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-flying-saucer-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.com</span>: flying saucer model</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-flying-saucer-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-flying-saucer-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/72 Squadron Models Haunebu II German Flying Saucer UFO Model Kit"><img src="{{ '/assets/images/marketplace-covers/8395085ee11b22fddb74.jpg' | relative_url }}" alt="Listing image for 1/72 Squadron Models Haunebu II German Flying Saucer UFO Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-flying-saucer-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">1/72 Squadron Models Haunebu II German Flying Saucer UFO Model Kit</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-flying-saucer-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.com</span>: flying saucer model</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-flying-saucer-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-flying-saucer-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.com</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  if (!sections.length) return;
+  function inferMarket(available) {
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      return window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: 'EBAY_US'
+      });
+    }
+    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
+    return available[0];
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-market-init') === '1') return;
+    section.setAttribute('data-ebay-market-init', '1');
+    var select = section.querySelector('[data-ebay-market-select]');
+    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
+    if (!select || panels.length < 2) return;
+    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
+    function selectMarket(marketId, persist) {
+      panels.forEach(function (panel) {
+        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
+        panel.hidden = !active;
+      });
+      if (available.indexOf(marketId) >= 0) select.value = marketId;
+      var option = select.options[select.selectedIndex];
+      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+        label.textContent = option ? option.text : marketId;
+      });
+      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+        flag.className = flagClass(marketId);
+      });
+      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+        label.textContent = option ? option.text : marketId;
+      });
+      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+      });
+      if (persist) {
+        try {
+          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
+        } catch (err) {}
+      }
+      closeMenu(section);
+    }
+    select.addEventListener('change', function () {
+      selectMarket(select.value, true);
+    });
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    selectMarket(inferMarket(available), false);
+  });
+})();
+</script>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: unknews.unk.edu  
+   Link: [https://unknews.unk.edu/2023/10/03/fact-or-fiction-you-decide-during-ufos-over-the-platte-river-presentation/](https://unknews.unk.edu/2023/10/03/fact-or-fiction-you-decide-during-ufos-over-the-platte-river-presentation/)  
+
+2. <a id="endnote-2"></a>
+   Source: Wikipedia  
+   Title: Reinhold O. Schmidt  
+   Link: [https://en.wikipedia.org/wiki/Reinhold_O._Schmidt](https://en.wikipedia.org/wiki/Reinhold_O._Schmidt)  
+
+3. <a id="endnote-3"></a>
+   Source: archive.org  
+   Link: [https://archive.org/download/bluebook/1950s.zip/](https://archive.org/download/bluebook/1950s.zip/)  
+
+4. <a id="endnote-4"></a>
+   Source: af.mil  
+   Title: Air Force  
+   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: unariunwisdom.com  
+   Title: Unariun Wisdom  
+   Link: [https://www.unariunwisdom.com/wp-content/uploads/2021/05/Edge-Of-Tomorrow-by-Reinhold-O-Schmidt.pdf](https://www.unariunwisdom.com/wp-content/uploads/2021/05/Edge-Of-Tomorrow-by-Reinhold-O-Schmidt.pdf)  
+
+6. <a id="endnote-6"></a>
+   Source: cia.gov  
+   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+
+7. <a id="endnote-7"></a>
+   Source: archive.org  
+   Title: DTIC AD0688332 djvu.txt  
+   Link: [https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt](https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt)  
+
+8. <a id="endnote-8"></a>
+   Source: ia601904.us.archive.org  
+   Link: [https://ia601904.us.archive.org/30/items/429171208-searching-for-the-string-selected-writings-of-john-a-keel-john-a-keel/429171208-Searching-for-the-String-Selected-Writings-of-John-a-Keel-John-a-Keel.pdf](https://ia601904.us.archive.org/30/items/429171208-searching-for-the-string-selected-writings-of-john-a-keel-john-a-keel/429171208-Searching-for-the-String-Selected-Writings-of-John-a-Keel-John-a-Keel.pdf)  
+
+9. <a id="endnote-9"></a>
+   Source: archive.org  
+   Link: [https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt](https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt)  
+
+10. <a id="endnote-10"></a>
+   Source: Wikipedia  
+   Title: Nazi UFOs  
+   Link: [https://en.wikipedia.org/wiki/Nazi_UFOs](https://en.wikipedia.org/wiki/Nazi_UFOs)  
+
+11. <a id="endnote-11"></a>
+   Source: Wikipedia  
+   Title: Reinhold O. Schmidt  
+   Link: [https://fr.wikipedia.org/wiki/Reinhold_O._Schmidt](https://fr.wikipedia.org/wiki/Reinhold_O._Schmidt)  
+
+12. <a id="endnote-12"></a>
+   Source: nicap.org  
+   Link: [https://www.nicap.org/chronos/1957fullrep.htm](https://www.nicap.org/chronos/1957fullrep.htm)  
+
+13. <a id="endnote-13"></a>
+   Source: youtube.com  
+   Title: Reinhold O. Schmidt  
+   Link: [https://www.youtube.com/watch?v=zjF52HHXw9Q](https://www.youtube.com/watch?v=zjF52HHXw9Q)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brown Bag Series: Dr. Nathan Tye...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: theblackvault.com  
+   Title: The Black Vault FBI Files: The Paranormal Collection  
+   Link: [https://www.theblackvault.com/documentarchive/fbi-files-the-paranormal-collection/](https://www.theblackvault.com/documentarchive/fbi-files-the-paranormal-collection/)  
+
+15. <a id="endnote-15"></a>
+   Source: thesaucersthattimeforgot.blogspot.com  
+   Title: the trial of ufo gold digger  
+   Link: [https://thesaucersthattimeforgot.blogspot.com/2020/08/the-trial-of-ufo-gold-digger.html](https://thesaucersthattimeforgot.blogspot.com/2020/08/the-trial-of-ufo-gold-digger.html)  
+
+16. <a id="endnote-16"></a>
+   Source: governmentattic.org  
+   Title: UFOsRelatedSubjBiblio Catoe 1969  
+   Link: [https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf](https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf)  
+
+17. <a id="endnote-17"></a>
+   Source: abebooks.co.uk  
+   Link: [https://www.abebooks.co.uk/Kearney-Incident--Up-Now---Reinhold-Schmidt-Phoenix/31327158618/bd](https://www.abebooks.co.uk/Kearney-Incident--Up-Now---Reinhold-Schmidt-Phoenix/31327158618/bd)  
+
+### Additional References
+
+18. <a id="endnote-18"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=atttEDOY97U](https://www.youtube.com/watch?v=atttEDOY97U)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Long John Nebel - The Flying Saucer Story (George Adamski Interview) [1960s UFO Interview]...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: youtube.com  
+   Title: Long John Nebel  
+   Link: [https://www.youtube.com/watch?v=_jclUlNXAhA](https://www.youtube.com/watch?v=_jclUlNXAhA)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Cases From Project Blue Book: The CIA&#x27;s Hunt For UFOs...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: youtube.com  
+   Title: Brown Bag Series: Dr. Nathan Tye  
+   Link: [https://www.youtube.com/watch?v=zsnO7pR36Ks](https://www.youtube.com/watch?v=zsnO7pR36Ks)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysteries and Monsters: Mountain of God UFO Cult | Episode 5 | The George Adamski Story...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/usnationalarchives/posts/after-investigating-a-possible-ufo-sighting-theunited-states-air-force-would-pla/10156582716052994/](https://www.facebook.com/usnationalarchives/posts/after-investigating-a-possible-ufo-sighting-theunited-states-air-force-would-pla/10156582716052994/)  
+
+22. <a id="endnote-22"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/achickinthecockpit/posts/im-often-asked-if-ive-seen-anything-weird-up-there-nope-ive-seen-objects-move-in/1395048878662772/](https://www.facebook.com/achickinthecockpit/posts/im-often-asked-if-ive-seen-anything-weird-up-there-nope-ive-seen-objects-move-in/1395048878662772/)  
+
+23. <a id="endnote-23"></a>
+   Source: galaksija.info  
+   Link: [https://galaksija.info/literatura/jk_oth.pdf](https://galaksija.info/literatura/jk_oth.pdf)  
+
+24. <a id="endnote-24"></a>
+   Source: scribd.com  
+   Link: [https://www.scribd.com/document/870486901/Reinhold-Schmidt-The-Kearney-Incident-text](https://www.scribd.com/document/870486901/Reinhold-Schmidt-The-Kearney-Incident-text)  
+
+25. <a id="endnote-25"></a>
+   Source: scribd.com  
+   Link: [https://www.scribd.com/document/499904453/Ufos-Alien-Contact-Two-Centuries-of-Mystery](https://www.scribd.com/document/499904453/Ufos-Alien-Contact-Two-Centuries-of-Mystery)  
+
+26. <a id="endnote-26"></a>
+   Source: upload.wikimedia.org  
+   Link: [https://upload.wikimedia.org/wikipedia/commons/8/8a/Project_Blue_Book_report_-_1957-11-7230046-Kearney-Nebraska.pdf](https://upload.wikimedia.org/wikipedia/commons/8/8a/Project_Blue_Book_report_-_1957-11-7230046-Kearney-Nebraska.pdf)  
+
+27. <a id="endnote-27"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/TheBlackVault/posts/reinhold-schmidt-was-a-1950s-era-ufo-contactee-who-claimed-he-hitched-a-ride-on-/4715272301880976/](https://www.facebook.com/TheBlackVault/posts/reinhold-schmidt-was-a-1950s-era-ufo-contactee-who-claimed-he-hitched-a-ride-on-/4715272301880976/)  

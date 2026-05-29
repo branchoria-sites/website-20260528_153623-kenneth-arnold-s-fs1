@@ -1,0 +1,1274 @@
+---
+level: 1
+basename: Kelly-Hopkinsville_i_de664d
+child_basenames:
+- Kelly-Hopkinsville_i_de664d_index
+- Kelly-Hopkinsville_i_de664d_night_siege_timeline_cd3170
+- Kelly-Hopkinsville_i_de664d_owl_theory_67fffd
+- Kelly-Hopkinsville_i_de664d_witness_evidence_e7cf2e
+sibling_basenames:
+- Alan_Godfrey_encount_87fc0b
+- Alexander_Hamilton_a_75e894
+- Andreasson_abduction_e8bccf
+- Antonio_Villas-Boas_1a3f4f
+- Apollo_11_sightings_2c5554
+- Aurora_Texas_airship_165367
+- BOAC_stratocruiser_s_01e20e
+- Battle_of_Los_Angele_969c9e
+- Belgium_radarvisual_58866e
+- Betty_and_Barney_Hil_3bcafa
+- Carl_Higdon_contact_bfd61b
+- CashLandrum_incident_7ad7d9
+- Cedric_Allingham_enc_2c7f6b
+- Charles_B_Moore_sigh_63eb1f
+- Charles_L_Moody_abdu_780173
+- Chiles_and_Whitted_s_33732b
+- Cisco_Grove_incident_29820a
+- Claude_Vorilhon_cont_ec941c
+- Clyde_Tombaugh_sight_af62cd
+- Coyne_helicopter_sig_5ce811
+- Cynthia_Appleton_enc_304111
+- Day_family_abduction_fe300b
+- Delphos_Ring_inciden_2952cd
+- Desvergers_scoutmast_75261f
+- Doctor_X_UFO_encount_5e669c
+- E_J_Smith_sighting_1_b2b2e6
+- Eagle_River_encounte_9b53c8
+- Farmington_sightings_46c4ec
+- Fatima_apparition_19_f6784f
+- Flatwoods_incident_1_ff4486
+- Flight_19_incident_1_5cc889
+- Fort_Itaipu_Brazil_s_89a0ba
+- Fred_M_Johnson_sight_b34b17
+- Gary_Wilcox_encounte_6de9ff
+- Gemini_4_sighting_19_9c351d
+- Gemini_7_sighting_19_7caf7b
+- George_Adamski_encou_795ba9
+- Gordon_Cooper_sighti_93b9f6
+- Gorman_dogfight_near_aac8f7
+- Great_Falls_Montana_171d9e
+- Greenhaw_encounter_1_a4bc62
+- Gulf_Breeze_encounte_8373f7
+- Herbert_Schirmer_abd_b149a3
+- Incident_at_Exeter_1_781528
+- JAL_1628_sighting_ov_aeed7e
+- Jet_chase_near_Tehra_5ae5aa
+- Jimmy_Carter_sightin_759215
+- John_Martin_sighting_4cec00
+- Jose_A_y_Bonilla_pho_27aa92
+- Kenneth_Arnold_s_fir_b696ba
+- Kinross_incident_195_2ebd01
+- Lady_animal_mutilati_ea7340
+- Lakenheath_episode_1_bf5257
+- Larson_abduction_nea_e9683a
+- Levelland_Texas_inci_0e8348
+- Linda_Cortile_abduct_1b229f
+- Livingston_incident_b2c293
+- Loch_Raven_Dam_incid_b0e5b6
+- Lubbock_Lights_sight_4eabd8
+- Magenta_Italy_crash_5ee1aa
+- Maureen_Puddy_encoun_21a7f8
+- Maury_Island_inciden_ec4432
+- McMinnville_photogra_4e1af3
+- Middle_East_UAP_vide_4a6c55
+- Muroc_Field_sighting_a700e4
+- Nash_and_Fortenberry_0a9bf2
+- Oloron_Angel_Hair_in_61d462
+- Operation_Mainbrace_06bcd8
+- Orfeo_Angelucci_enco_bef29a
+- Pascagoula_abduction_80a64a
+- Puerto_Rico_infrared_d310d5
+- RB-47_radarvisual_in_5bf2a6
+- Red_Bluff_sighting_1_f72200
+- Reinhold_Schmidt_enc_731a71
+- Rendlesham_Forest_in_f98080
+- Reverend_W_B_Gill_si_c31d68
+- Rex_Heflin_photograp_32bdf2
+- Roswell_1947_c36fe7
+- Salem_Massachusetts_01ecd1
+- Socorro_sighting_by_961b47
+- SpaurNeff_Ravenna_si_4977ac
+- Stanford_Kentucky_ab_a91f06
+- Stephen_Darbishire_p_f80223
+- Steven_Michalak_enco_1bbf94
+- The_Northeast_Blacko_c3cfee
+- Thomas_F_Mantell_inc_2ce7ee
+- Topcliffe_incident_1_80cbf4
+- Trans-en-Provence_en_439c97
+- Travis_Walton_abduct_612999
+- Tremonton_Utah_film_79b5ee
+- Trindade_Island_phot_726a39
+- Truman_Bethurum_cont_eaa44d
+- Tully_saucer_nest_in_b9d0b0
+- Tunguska_event_1908_efda6f
+- USS_Nimitz_Tic_Tac_v_83266a
+- USS_Russell_video_20_3188a1
+- USS_Theodore_Rooseve_a4867d
+- USS_Theodore_Rooseve_daeaff
+- Ubatuba_incident_195_6ff2c6
+- Ummo_photographs_196_ed7563
+- Valensole_incident_1_63f5cf
+- Valentich_disappeara_592d85
+- Voronezh_Russia_land_e13f34
+- Walesville_Incident_cbceb2
+- Washington_National_ee59a4
+- WellingtonKaikoura_i_c1d17f
+tags:
+- kelly-hopkinsville-incident-1955
+keywords:
+- kelly-hopkinsville-incident-1955
+affiliate_category: kelly-hopkinsville-incident-1955
+show_ads: true
+description: The Kelly-Hopkinsville incident was a reported night-time siege at a rural farmhouse near Kelly, Kentucky, on 21–22 August 1955.
+hero_summary: The Kelly-Hopkinsville incident was a reported night-time siege at a rural farmhouse near Kelly, Kentucky, on 21–22 August 1955.
+layout: default
+permalink: /kelly-hopkinsville-incident-1955/
+nav_short_title: What Really Happened at Kelly Hopkinsville?
+title: What Really Happened at Kelly Hopkinsville?
+title_full: What Really Happened at Kelly Hopkinsville?
+display_title_short: What Really Happened at Kelly Hopkinsville?
+display_title: What Really Happened at Kelly Hopkinsville?
+heading_title: What Really Happened at Kelly Hopkinsville?
+page_heading_title: What Really Happened at Kelly Hopkinsville?
+source_count: 141
+infographic_count: 3
+page_website_name: Kelly Hopkinsville
+page_banner_line: Evidence, witnesses, explanations, and legacy of Kentucky's strangest UFO-era siege.
+site_website_name: Kelly Hopkinsville
+site_banner_line: Evidence, witnesses, explanations, and legacy of Kentucky's strangest UFO-era siege.
+site_image_description: A rural Kentucky farmhouse at night with anxious figures inside, flashlights near the porch, and dark trees around the yard.
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+sibling_links:
+- basename: Alan_Godfrey_encount_87fc0b
+  title: Godfrey Encounter
+  permalink: /alan-godfrey-encounter-1980/
+  short_title: Godfrey Encounter
+- basename: Alexander_Hamilton_a_75e894
+  title: Hamilton Airship
+  permalink: /alexander-hamilton-airship-1897/
+  short_title: Hamilton Airship
+- basename: Andreasson_abduction_e8bccf
+  title: Andreasson
+  permalink: /andreasson-abduction-1967/
+  short_title: Andreasson
+- basename: Antonio_Villas-Boas_1a3f4f
+  title: Villas Boas
+  permalink: /antonio-villas-boas-abduction-1957/
+  short_title: Villas Boas
+- basename: Apollo_11_sightings_2c5554
+  title: Apollo 11 Sightings
+  permalink: /apollo-11-sightings-1969/
+  short_title: Apollo 11 Sightings
+- basename: Aurora_Texas_airship_165367
+  title: Aurora Airship
+  permalink: /aurora-texas-airship-crash-1897/
+  short_title: Aurora Airship
+- basename: Battle_of_Los_Angele_969c9e
+  title: Battle of Los Angeles
+  permalink: /battle-of-los-angeles-1942/
+  short_title: Battle of Los Angeles
+- basename: Belgium_radarvisual_58866e
+  title: Belgium UFO Wave
+  permalink: /belgium-radarvisual-sightings-1989/
+  short_title: Belgium UFO Wave
+- basename: Betty_and_Barney_Hil_3bcafa
+  title: Hill Encounter
+  permalink: /betty-and-barney-hill-abduction-1961/
+  short_title: Hill Encounter
+- basename: BOAC_stratocruiser_s_01e20e
+  title: BOAC Sighting
+  permalink: /boac-stratocruiser-sighting-1954/
+  short_title: BOAC Sighting
+- basename: Carl_Higdon_contact_bfd61b
+  title: Higdon Contact
+  permalink: /carl-higdon-contact-1974/
+  short_title: Higdon Contact
+- basename: CashLandrum_incident_7ad7d9
+  title: Cash Landrum
+  permalink: /cashlandrum-incident-1980/
+  short_title: Cash Landrum
+- basename: Cedric_Allingham_enc_2c7f6b
+  title: Allingham
+  permalink: /cedric-allingham-encounter-1954/
+  short_title: Allingham
+- basename: Charles_B_Moore_sigh_63eb1f
+  title: Arrey UFO
+  permalink: /charles-b-moore-sighting-1949/
+  short_title: Arrey UFO
+- basename: Charles_L_Moody_abdu_780173
+  title: Moody Abduction
+  permalink: /charles-l-moody-abduction-1975/
+  short_title: Moody Abduction
+- basename: Chiles_and_Whitted_s_33732b
+  title: Chiles Whitted
+  permalink: /chiles-and-whitted-sighting-1948/
+  short_title: Chiles Whitted
+- basename: Cisco_Grove_incident_29820a
+  title: CiscoGrove1964
+  permalink: /cisco-grove-incident-1964/
+  short_title: CiscoGrove1964
+- basename: Claude_Vorilhon_cont_ec941c
+  title: Rael Contact
+  permalink: /claude-vorilhon-contact-1973/
+  short_title: Rael Contact
+- basename: Clyde_Tombaugh_sight_af62cd
+  title: Tombaugh Sighting
+  permalink: /clyde-tombaugh-sighting-1949/
+  short_title: Tombaugh Sighting
+- basename: Coyne_helicopter_sig_5ce811
+  title: Coyne Sighting
+  permalink: /coyne-helicopter-sighting-1973/
+  short_title: Coyne Sighting
+- basename: Cynthia_Appleton_enc_304111
+  title: Appleton Encounter
+  permalink: /cynthia-appleton-encounter-1957/
+  short_title: Appleton Encounter
+- basename: Day_family_abduction_fe300b
+  title: Aveley Abduction
+  permalink: /day-family-abduction-1974/
+  short_title: Aveley Abduction
+- basename: Delphos_Ring_inciden_2952cd
+  title: Delphos Ring
+  permalink: /delphos-ring-incident-1971/
+  short_title: Delphos Ring
+- basename: Desvergers_scoutmast_75261f
+  title: Desvergers
+  permalink: /desvergers-scoutmaster-sighting-1952/
+  short_title: Desvergers
+- basename: Doctor_X_UFO_encount_5e669c
+  title: Doctor X
+  permalink: /doctor-x-ufo-encounter-1968/
+  short_title: Doctor X
+- basename: E_J_Smith_sighting_1_b2b2e6
+  title: Flight105UFO
+  permalink: /e-j-smith-sighting-1947/
+  short_title: Flight105UFO
+- basename: Eagle_River_encounte_9b53c8
+  title: Eagle River
+  permalink: /eagle-river-encounter-1961/
+  short_title: Eagle River
+- basename: Farmington_sightings_46c4ec
+  title: Farmington Armada
+  permalink: /farmington-sightings-1950/
+  short_title: Farmington Armada
+- basename: Fatima_apparition_19_f6784f
+  title: Fatima
+  permalink: /fatima-apparition-1917/
+  short_title: Fatima
+- basename: Flatwoods_incident_1_ff4486
+  title: Flatwoods
+  permalink: /flatwoods-incident-1952/
+  short_title: Flatwoods
+- basename: Flight_19_incident_1_5cc889
+  title: Flight 19
+  permalink: /flight-19-incident-1945/
+  short_title: Flight 19
+- basename: Fort_Itaipu_Brazil_s_89a0ba
+  title: Fort Itaipu
+  permalink: /fort-itaipu-brazil-sighting-1957/
+  short_title: Fort Itaipu
+- basename: Fred_M_Johnson_sight_b34b17
+  title: Johnson Sighting
+  permalink: /fred-m-johnson-sighting-1947/
+  short_title: Johnson Sighting
+- basename: Gary_Wilcox_encounte_6de9ff
+  title: WilcoxUFO
+  permalink: /gary-wilcox-encounter-1964/
+  short_title: WilcoxUFO
+- basename: Gemini_4_sighting_19_9c351d
+  title: Gemini 4 Sighting
+  permalink: /gemini-4-sighting-1965/
+  short_title: Gemini 4 Sighting
+- basename: Gemini_7_sighting_19_7caf7b
+  title: Gemini7Sighting
+  permalink: /gemini-7-sighting-1965/
+  short_title: Gemini7Sighting
+- basename: George_Adamski_encou_795ba9
+  title: Adamski
+  permalink: /george-adamski-encounters-1953/
+  short_title: Adamski
+- basename: Gordon_Cooper_sighti_93b9f6
+  title: Cooper
+  permalink: /gordon-cooper-sightings-1963/
+  short_title: Cooper
+- basename: Gorman_dogfight_near_aac8f7
+  title: Gorman Dogfight
+  permalink: /gorman-dogfight-near-fargo-1948/
+  short_title: Gorman Dogfight
+- basename: Great_Falls_Montana_171d9e
+  title: Great Falls UFO
+  permalink: /great-falls-montana-film-1950/
+  short_title: Great Falls UFO
+- basename: Greenhaw_encounter_1_a4bc62
+  title: Falkville Metal Man
+  permalink: /greenhaw-encounter-1973/
+  short_title: Falkville Metal Man
+- basename: Gulf_Breeze_encounte_8373f7
+  title: Gulf Breeze
+  permalink: /gulf-breeze-encounter-1987/
+  short_title: Gulf Breeze
+- basename: Herbert_Schirmer_abd_b149a3
+  title: Schirmer UFO
+  permalink: /herbert-schirmer-abduction-1967/
+  short_title: Schirmer UFO
+- basename: Incident_at_Exeter_1_781528
+  title: Exeter UFO
+  permalink: /incident-at-exeter-1965/
+  short_title: Exeter UFO
+- basename: JAL_1628_sighting_ov_aeed7e
+  title: JAL 1628
+  permalink: /jal-1628-sighting-over-alaska-1986/
+  short_title: JAL 1628
+- basename: Jet_chase_near_Tehra_5ae5aa
+  title: Tehran UFO
+  permalink: /jet-chase-near-tehran-iran-1976/
+  short_title: Tehran UFO
+- basename: Jimmy_Carter_sightin_759215
+  title: Carter UFO
+  permalink: /jimmy-carter-sighting-1969/
+  short_title: Carter UFO
+- basename: John_Martin_sighting_4cec00
+  title: Martin Sighting
+  permalink: /john-martin-sighting-1878/
+  short_title: Martin Sighting
+- basename: Jose_A_y_Bonilla_pho_27aa92
+  title: Bonilla1883
+  permalink: /jose-a-y-bonilla-photograph-1883/
+  short_title: Bonilla1883
+- basename: Kenneth_Arnold_s_fir_b696ba
+  title: Arnold Sighting
+  permalink: /kenneth-arnold-s-first-sighting-1947/
+  short_title: Arnold Sighting
+- basename: Kinross_incident_195_2ebd01
+  title: Kinross
+  permalink: /kinross-incident-1953/
+  short_title: Kinross
+- basename: Lady_animal_mutilati_ea7340
+  title: Snippy
+  permalink: /lady-animal-mutilation-1966/
+  short_title: Snippy
+- basename: Lakenheath_episode_1_bf5257
+  title: Lakenheath
+  permalink: /lakenheath-episode-1956/
+  short_title: Lakenheath
+- basename: Larson_abduction_nea_e9683a
+  title: Larson Abduction
+  permalink: /larson-abduction-near-fargo-1975/
+  short_title: Larson Abduction
+- basename: Levelland_Texas_inci_0e8348
+  title: Levelland UFO
+  permalink: /levelland-texas-incident-1957/
+  short_title: Levelland UFO
+- basename: Linda_Cortile_abduct_1b229f
+  title: Cortile Case
+  permalink: /linda-cortile-abduction-1989/
+  short_title: Cortile Case
+- basename: Livingston_incident_b2c293
+  title: LivingstonUFO
+  permalink: /livingston-incident-1979/
+  short_title: LivingstonUFO
+- basename: Loch_Raven_Dam_incid_b0e5b6
+  title: LochRavenUFO
+  permalink: /loch-raven-dam-incident-1958/
+  short_title: LochRavenUFO
+- basename: Lubbock_Lights_sight_4eabd8
+  title: Lubbock Lights
+  permalink: /lubbock-lights-sightings-1951/
+  short_title: Lubbock Lights
+- basename: Magenta_Italy_crash_5ee1aa
+  title: MagentaCrash1933
+  permalink: /magenta-italy-crash-1933/
+  short_title: MagentaCrash1933
+- basename: Maureen_Puddy_encoun_21a7f8
+  title: Puddy Encounter
+  permalink: /maureen-puddy-encounter-1973/
+  short_title: Puddy Encounter
+- basename: Maury_Island_inciden_ec4432
+  title: Maury Island
+  permalink: /maury-island-incident-1947/
+  short_title: Maury Island
+- basename: McMinnville_photogra_4e1af3
+  title: McMinnville Photos
+  permalink: /mcminnville-photographs-1950/
+  short_title: McMinnville Photos
+- basename: Middle_East_UAP_vide_4a6c55
+  title: Middle East Orb
+  permalink: /middle-east-uap-video-2022/
+  short_title: Middle East Orb
+- basename: Muroc_Field_sighting_a700e4
+  title: Muroc Saucers
+  permalink: /muroc-field-sightings-1947/
+  short_title: Muroc Saucers
+- basename: Nash_and_Fortenberry_0a9bf2
+  title: Nash Fortenberry
+  permalink: /nash-and-fortenberry-sighting-1952/
+  short_title: Nash Fortenberry
+- basename: Oloron_Angel_Hair_in_61d462
+  title: Oloron Angel Hair
+  permalink: /oloron-angel-hair-incident-1952/
+  short_title: Oloron Angel Hair
+- basename: Operation_Mainbrace_06bcd8
+  title: MainbraceSightings
+  permalink: /operation-mainbrace-sightings-1952/
+  short_title: MainbraceSightings
+- basename: Orfeo_Angelucci_enco_bef29a
+  title: Angelucci
+  permalink: /orfeo-angelucci-encounter-1955/
+  short_title: Angelucci
+- basename: Pascagoula_abduction_80a64a
+  title: Pascagoula
+  permalink: /pascagoula-abduction-1973/
+  short_title: Pascagoula
+- basename: Puerto_Rico_infrared_d310d5
+  title: Aguadilla UAP
+  permalink: /puerto-rico-infrared-video-2013/
+  short_title: Aguadilla UAP
+- basename: RB-47_radarvisual_in_5bf2a6
+  title: RB 47 Incident
+  permalink: /rb-47-radarvisual-incident-1957/
+  short_title: RB 47 Incident
+- basename: Red_Bluff_sighting_1_f72200
+  title: Red Bluff UFO
+  permalink: /red-bluff-sighting-1960/
+  short_title: Red Bluff UFO
+- basename: Reinhold_Schmidt_enc_731a71
+  title: Schmidt Encounter
+  permalink: /reinhold-schmidt-encounter-1957/
+  short_title: Schmidt Encounter
+- basename: Rendlesham_Forest_in_f98080
+  title: Rendlesham
+  permalink: /rendlesham-forest-incident-1980/
+  short_title: Rendlesham
+- basename: Reverend_W_B_Gill_si_c31d68
+  title: Gill Sightings
+  permalink: /reverend-w-b-gill-sightings-1959/
+  short_title: Gill Sightings
+- basename: Rex_Heflin_photograp_32bdf2
+  title: Heflin UFO
+  permalink: /rex-heflin-photographs-1965/
+  short_title: Heflin UFO
+- basename: Roswell_1947_c36fe7
+  title: Roswell
+  permalink: /roswell-1947/
+  short_title: Roswell
+- basename: Salem_Massachusetts_01ecd1
+  title: Salem UFO Photo
+  permalink: /salem-massachusetts-photograph-1952/
+  short_title: Salem UFO Photo
+- basename: Socorro_sighting_by_961b47
+  title: Socorro UFO
+  permalink: /socorro-sighting-by-lonnie-zamora-1964/
+  short_title: Socorro UFO
+- basename: SpaurNeff_Ravenna_si_4977ac
+  title: RavennaUFO
+  permalink: /spaurneff-ravenna-sighting-1966/
+  short_title: RavennaUFO
+- basename: Stanford_Kentucky_ab_a91f06
+  title: Stanford Abduction
+  permalink: /stanford-kentucky-abduction-1976/
+  short_title: Stanford Abduction
+- basename: Stephen_Darbishire_p_f80223
+  title: DarbishireUFO
+  permalink: /stephen-darbishire-photograph-1954/
+  short_title: DarbishireUFO
+- basename: Steven_Michalak_enco_1bbf94
+  title: Falcon Lake
+  permalink: /steven-michalak-encounter-1967/
+  short_title: Falcon Lake
+- basename: The_Northeast_Blacko_c3cfee
+  title: Blackout UFO
+  permalink: /the-northeast-blackout-1965/
+  short_title: Blackout UFO
+- basename: Thomas_F_Mantell_inc_2ce7ee
+  title: Mantell
+  permalink: /thomas-f-mantell-incident-1948/
+  short_title: Mantell
+- basename: Topcliffe_incident_1_80cbf4
+  title: TopcliffeUFO
+  permalink: /topcliffe-incident-1952/
+  short_title: TopcliffeUFO
+- basename: Trans-en-Provence_en_439c97
+  title: Trans en Provence
+  permalink: /trans-en-provence-encounter-1981/
+  short_title: Trans en Provence
+- basename: Travis_Walton_abduct_612999
+  title: Walton
+  permalink: /travis-walton-abduction-1975/
+  short_title: Walton
+- basename: Tremonton_Utah_film_79b5ee
+  title: Tremonton UFO
+  permalink: /tremonton-utah-film-1952/
+  short_title: Tremonton UFO
+- basename: Trindade_Island_phot_726a39
+  title: Trindade UFO
+  permalink: /trindade-island-photographs-1958/
+  short_title: Trindade UFO
+- basename: Truman_Bethurum_cont_eaa44d
+  title: Bethurum
+  permalink: /truman-bethurum-contact-1954/
+  short_title: Bethurum
+- basename: Tully_saucer_nest_in_b9d0b0
+  title: TullyUFO
+  permalink: /tully-saucer-nest-incident-1966/
+  short_title: TullyUFO
+- basename: Tunguska_event_1908_efda6f
+  title: Tunguska
+  permalink: /tunguska-event-1908/
+  short_title: Tunguska
+- basename: Ubatuba_incident_195_6ff2c6
+  title: Ubatuba
+  permalink: /ubatuba-incident-1957/
+  short_title: Ubatuba
+- basename: USS_Nimitz_Tic_Tac_v_83266a
+  title: NimitzUAP
+  permalink: /uss-nimitz-tic-tac-video-2004/
+  short_title: NimitzUAP
+- basename: USS_Russell_video_20_3188a1
+  title: USS Russell
+  permalink: /uss-russell-video-2019/
+  short_title: USS Russell
+- basename: USS_Theodore_Rooseve_a4867d
+  title: Gimbal UAP
+  permalink: /uss-theodore-roosevelt-gimbal-video-2015/
+  short_title: Gimbal UAP
+- basename: USS_Theodore_Rooseve_daeaff
+  title: Go Fast UAP
+  permalink: /uss-theodore-roosevelt-go-fast-video/
+  short_title: Go Fast UAP
+- basename: Valensole_incident_1_63f5cf
+  title: Valensole
+  permalink: /valensole-incident-1965/
+  short_title: Valensole
+- basename: Valentich_disappeara_592d85
+  title: Valentich
+  permalink: /valentich-disappearance-1978/
+  short_title: Valentich
+- basename: Voronezh_Russia_land_e13f34
+  title: VoronezhLanding
+  permalink: /voronezh-russia-landing-1989/
+  short_title: VoronezhLanding
+- basename: Walesville_Incident_cbceb2
+  title: Walesville
+  permalink: /walesville-incident-1954/
+  short_title: Walesville
+- basename: Washington_National_ee59a4
+  title: Washington Saucers
+  permalink: /washington-national-sightings-1952/
+  short_title: Washington Saucers
+- basename: WellingtonKaikoura_i_c1d17f
+  title: Kaikoura Lights
+  permalink: /wellingtonkaikoura-incident-1978/
+  short_title: Kaikoura Lights
+- basename: Ummo_photographs_196_ed7563
+  title: UmmoPhotos
+  permalink: /were-the-1967-ummo-photographs-real-or-a/
+  short_title: UmmoPhotos
+child_links:
+- basename: Kelly-Hopkinsville_i_de664d_witness_evidence_e7cf2e
+  title: Evidence | Kelly Hopkinsville incident 1955
+  permalink: /evidence-899fe7/
+  short_title: Evidence
+  heading_title: What Evidence Supports the Story?
+- basename: Kelly-Hopkinsville_i_de664d_owl_theory_67fffd
+  title: Owl Theory | Kelly Hopkinsville incident 1955
+  permalink: /owl-theory/
+  short_title: Owl Theory
+  heading_title: Could Owls Explain the Goblins?
+- basename: Kelly-Hopkinsville_i_de664d_night_siege_timeline_cd3170
+  title: Timeline | Kelly Hopkinsville incident 1955
+  permalink: /timeline-0a7953/
+  short_title: Timeline
+  heading_title: How Did the Night Unfold?
+prev_link:
+  basename: Jose_A_y_Bonilla_pho_27aa92
+  title: Bonilla1883
+  permalink: /jose-a-y-bonilla-photograph-1883/
+  short_title: Bonilla1883
+next_link:
+  basename: Kenneth_Arnold_s_fir_b696ba
+  title: Arnold Sighting
+  permalink: /kenneth-arnold-s-first-sighting-1947/
+  short_title: Arnold Sighting
+date: '2026-05-29 12:07:01 '
+header:
+  og_image: /assets/images/Kelly-Hopkinsville_i_de664d-overview-social.jpg
+  preview_image: /assets/images/Kelly-Hopkinsville_i_de664d-overview.webp
+image: /assets/images/Kelly-Hopkinsville_i_de664d-overview-social.jpg
+---
+
+## What happened that night?
+
+The reported incident began on a warm Sunday evening at a farmhouse associated with the Sutton family near Kelly, a small community north of Hopkinsville. Later retellings vary on exact timing, but the common sequence is that Billy Ray Taylor went outside, saw or heard something unusual in the sky, and returned to the house alarmed. Local reporting and later case summaries describe the household as spending the evening together before the alarm escalated into claims that strange figures were approaching the property. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wbko.com/2025/08/21/70-years-later-revisiting-kelly-hopkinsville-encounter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wbko.com">[https://www.wbko.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wbko.com</span><span class="citation-popover-snippet">Open source on wbko.com.</span></span></span>
+
+
+<img src="{{ "/assets/images/Kelly-Hopkinsville_i_de664d-overview.webp" | relative_url }}" alt="Overview image for Kelly Hopkinsville incident 1955" loading="eager" decoding="sync" fetchpriority="high">
+The figures were typically described as short, roughly child-sized beings with large eyes, long arms, claw-like hands, and a shiny or metallic appearance. Some accounts say the creatures seemed to float, drop from trees, or move in ways that did not resemble ordinary animals. Two armed men, usually identified as Billy Ray Taylor and Elmer “Lucky” Sutton, fired at the figures while others sheltered inside. The most memorable claim was not simply that odd beings were seen, but that repeated gunfire failed to stop them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/550821hopkinsville_hendry.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Kelley/Hopkinsville (Sutton) Encounter</span><span class="citation-popover-snippet">The Kelley/Hopkinsville (Sutton) Encounter</span></span></span>
+
+By around 11 p.m., the frightened group drove to the Hopkinsville police station seeking help. Officers and other responders went to the farm, where they reportedly found signs consistent with a fearful household firing weapons — such as shell casings and damage around the house — but not physical evidence of unknown creatures. Later summaries note that the alleged figures were said to have returned after the first official visit, extending the episode into the early hours of 22 August. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/550821hopkinsville_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">550821hopkinsville dir</span><span class="citation-popover-snippet">550821hopkinsville dir</span></span></span>
+
+## Why the witnesses were taken seriously — and why that still is not proof
+
+The case has remained unusually resilient because it involved multiple witnesses, immediate reporting to police, and a sustained narrative rather than a single fleeting light in the sky. UFO investigator Allan Hendry later characterised the case as notable for its duration and number of witnesses, and CUFOS made the incident central enough to publish Isabel Davis and Ted Bloecher’s detailed monograph, *Close Encounter at Kelly and Others of 1955*, in 1978. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/550821hopkinsville_hendry.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Kelley/Hopkinsville (Sutton) Encounter</span><span class="citation-popover-snippet">The Kelley/Hopkinsville (Sutton) Encounter</span></span></span>
+
+Those points give the case more weight than a casual rumour. The witnesses did not merely tell a story years later; they went to authorities during the night. Responders arrived while the event was fresh. The story also appears to have caused the family distress and unwanted attention, rather than an obvious immediate financial windfall. NICAP’s archived summary, drawing on UFO literature, stresses that sightseers and curiosity-seekers later created a humiliating “carnival atmosphere” around the farmhouse, which complicates a simple “publicity stunt” explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/550821hopkinsville_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">550821hopkinsville dir</span><span class="citation-popover-snippet">550821hopkinsville dir</span></span></span>
+
+Even so, witness sincerity and evidential strength are not the same thing. The strongest physical evidence was damage compatible with gunfire by the witnesses themselves. The major missing items were the very things that would have turned the case from testimony into a stronger evidential claim: bodies, blood, footprints, recoverable material, reliable photographs of the beings, or independent observations of the creatures away from the household. Hendry’s summary on the NICAP page states the central sceptical problem plainly: there was “absolutely no physical evidence whatsoever” that the entities themselves existed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/550821hopkinsville_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">550821hopkinsville dir</span><span class="citation-popover-snippet">550821hopkinsville dir</span></span></span>
+
+
+<img src="{{ "/assets/images/Kelly-Hopkinsville_i_de664d-Illustration-1-light.svg" | relative_url }}" alt="Kelly Hopkinsville incident 1955 illustration 1" data-theme-src-dark="{{ "/assets/images/Kelly-Hopkinsville_i_de664d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kelly-Hopkinsville_i_de664d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## The official-investigation problem
+
+The Kelly-Hopkinsville case sits within the Project Blue Book era, but it should not be overstated as a deeply documented Air Force investigation. Project Blue Book was the US Air Force’s UFO-investigation programme, active from 1947 to 1969; its records are now declassified and held by the US National Archives, with case files arranged chronologically on microfilm. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+That context matters because “Project Blue Book investigated it” can sound more decisive than the surviving record warrants. General Project Blue Book records are real and publicly accessible, and Fold3 identifies the Blue Book collection as National Archives publication T1206, containing records and case files for UFO investigations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fold3.com">[Fold3]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fold3.com</span><span class="citation-popover-title">US, Project Blue Book</span><span class="citation-popover-snippet">US, Project Blue Book</span></span></span> But secondary summaries of the Kelly case often note that Blue Book listed the incident as a hoax with little or no detailed explanation, rather than presenting a transparent, evidence-rich official reconstruction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/episodes/331" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[Skeptoid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+The broader Air Force conclusion on Project Blue Book was not that every sighting was explained, but that no evaluated UFO report showed a national-security threat, evidence of technology beyond modern scientific knowledge, or evidence of extraterrestrial vehicles. That official position is relevant to the Kelly-Hopkinsville incident, but it does not by itself explain the Sutton-Lankford household’s specific experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xOHVl97sOlo" title="The Kelly-Hopkinsville Encounter | Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xOHVl97sOlo" target="_blank" rel="noopener noreferrer">The Kelly-Hopkinsville Encounter | Documentary</a></p><p class="youtube-embed-meta">Channel: Fire of Learning &middot; Views: 506.8K &middot; Uploaded: October 2022 &middot; Length: 39 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xOHVl97sOlo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xOHVl97sOlo">Open on YouTube</a></p></div></div></div>
+
+## The strongest naturalistic explanation: meteor, owls, fear and escalation
+
+The leading sceptical explanation combines several ordinary causes rather than relying on one. Billy Ray Taylor’s initial sky observation could have been a meteor or similar bright object. The later “creatures” could have been misidentified great horned owls or other nocturnal animals seen under fear, darkness, and expectation. Joe Nickell’s sceptical analysis is widely cited for this interpretation, and a later Frontiers in Psychology corrigendum summarised the corrected claim as follows: it is plausible, if not likely, that the “aliens” were great horned owls, while noting disputed evidence that intoxication may have contributed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01982/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+The [owl theory]({{ 'owl-theory/' | relative_url }}) is not silly when matched against several recurring details. Great horned owls have large eyes adapted for darkness and can fly very quietly; Cornell Lab of Ornithology notes their soft feathers and quiet flight, along with large eyes and strong night vision. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.allaboutbirds.org/guide/Great_Horned_Owl/overview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allaboutbirds.org">[All About Birds]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allaboutbirds.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> They also have ear-like tufts and a bulky head shape that can look uncanny in poor light. State wildlife guidance notes that aggressive behaviour by barred and great horned owls is most often reported when they are defending territory, mates, homes, or young, including dive-bombing behaviour towards much larger creatures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.maine.gov/ifw/fish-wildlife/wildlife/living-with-wildlife/avoid-resolve-conflict/owls.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maine.gov">[Maine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maine.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+This explanation does not require the witnesses to be lying. It asks whether a startled group, already primed by a strange sky sighting, could have interpreted nocturnal animals as non-human intruders. Once guns were fired and people inside the house were frightened, every ambiguous sound or glimpse outside could have reinforced the siege narrative. The main weakness of the owl explanation is that it must account for the witnesses’ more exotic details — metallic appearance, repeated returns, apparent resistance to bullets, and humanoid shape — as perception under stress, embellishment, or later retelling rather than literal description.
+
+
+<img src="{{ "/assets/images/Kelly-Hopkinsville_i_de664d-Illustration-2-light.svg" | relative_url }}" alt="Kelly Hopkinsville incident 1955 illustration 2" data-theme-src-dark="{{ "/assets/images/Kelly-Hopkinsville_i_de664d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kelly-Hopkinsville_i_de664d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## What the case shows about evidence quality
+
+The Kelly-Hopkinsville incident is best evaluated as a testimony-heavy case with weak physical corroboration. The witness cluster is substantial, but it is mostly one social group in one location under one unfolding episode. The police response is important, but responders did not independently observe the beings. The gunfire is real enough as a reported household action, but it does not prove what was fired at. The newspaper record is valuable, but early headlines also helped turn a confusing night into a memorable public legend. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wkms.org/arts-culture/2016-08-19/a-hopkinsville-alien-tale-has-inspired-a-yearly-festival-a-musical-and-pokemon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wkms.org">[WKMS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wkms.org</span><span class="citation-popover-snippet">Open source on wkms.org.</span></span></span>
+
+A fair evidence scorecard looks like this:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* **Strong for a real reported panic:** multiple people went to police during the night, and authorities responded.
+* **Moderate for unusual witness experience:** the account was detailed and persistent enough to attract later UFO researchers.
+* **Weak for physical traces:** damage and shell casings mainly show that shots were fired, not that unknown beings were present.
+* **Weak for official confirmation:** Project Blue Book’s existence and records are real, but the Kelly entry is not a detailed official validation.
+* **Strong for later cultural impact:** the case became a durable local and national legend, with festivals, media retellings, and popular-culture echoes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fold3.com">[2Fold3]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fold3.com</span><span class="citation-popover-title">US, Project Blue Book</span><span class="citation-popover-snippet">US, Project Blue Book</span></span></span>
+
+</div>
+
+The most careful conclusion is therefore not “hoax proven” or “aliens proven”. The better conclusion is that the witnesses probably experienced genuine fear around ambiguous stimuli, while the surviving evidence falls far short of confirming the extraordinary interpretation.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/c6Lj5IzL9xY" title="Unexplained: The Hopkinsville Alien Invasion | True Alien Abduction | Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=c6Lj5IzL9xY" target="_blank" rel="noopener noreferrer">Unexplained: The Hopkinsville Alien Invasion | True Alien Abduction | Full Documentary</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 12.6K &middot; Uploaded: May 2025 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=c6Lj5IzL9xY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=c6Lj5IzL9xY">Open on YouTube</a></p></div></div></div>
+
+## Why the “little green men” label is misleading
+
+The phrase “little green men” has become attached to the case, but it can distort the original texture of the reports. Some early and later accounts emphasised metallic or silvery beings rather than green ones. WKMS, summarising the local legacy, describes the Sutton farmhouse as allegedly besieged by “12-to-15 little men” with long arms, huge eyes and a metallic appearance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wkms.org/tags/kelly-green-men" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wkms.org">[WKMS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wkms.org</span><span class="citation-popover-snippet">Open source on wkms.org.</span></span></span>
+
+That matters because the popular nickname compresses a complicated case into a cartoon. The “Hopkinsville Goblins” label is memorable, but it encourages readers to picture folklore monsters or science-fiction mascots rather than a frightened rural household, a police response, and a messy evidential record. The case’s value for UFO history lies precisely in that tension: it is vivid enough to become legend, yet evidentially fragile enough to remain unresolved in any strict sense.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/w8wIqJQ36Zs" title="Hopkinsville - The Alien Goblins | Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=w8wIqJQ36Zs" target="_blank" rel="noopener noreferrer">Hopkinsville - The Alien Goblins | Full Documentary</a></p><p class="youtube-embed-meta">Channel: Mediatime Network &middot; Views: 66.7K &middot; Uploaded: April 2024 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=w8wIqJQ36Zs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=w8wIqJQ36Zs">Open on YouTube</a></p></div></div></div>
+
+## The afterlife of the case in Hopkinsville and UFO culture
+
+The incident’s modern life is partly local heritage. WKMS reported in 2016 that the Little Green Men Days Festival marked the 61st anniversary of the alleged encounter, with music, costumes and a recreation of a flying saucer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wkms.org/arts-culture/2016-08-19/a-hopkinsville-alien-tale-has-inspired-a-yearly-festival-a-musical-and-pokemon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wkms.org">[WKMS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wkms.org</span><span class="citation-popover-snippet">Open source on wkms.org.</span></span></span> Visit Hopkinsville later promoted Alien Invasion Day in 2025 as a family event celebrating the famous Kelly-Hopkinsville encounter, showing how the story has shifted from frightening report to tourism-friendly folklore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://visithopkinsville.com/event/alien-invasion-day-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visithopkinsville.com">[Visit Hopkinsville]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visithopkinsville.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+The case also persists because it is useful in arguments about UFO evidence. Believers point to the number of witnesses, the duration of the event, and the apparent absence of an obvious motive for hoaxing. Sceptics point to the lack of physical evidence, the plausibility of owls and meteors, and the way social fear can harden into shared certainty. Psychologists Rodney Schmaltz and Scott O. Lilienfeld used the Hopkinsville Goblins as a teaching example for scientific thinking and pseudoscience, underscoring its role as a case study in how extraordinary claims should be tested. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4028994/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHauntings, homeopathy, and the Hopkinsville Goblins</span><span class="citation-popover-snippet">PMCHauntings, homeopathy, and the Hopkinsville Goblins</span></span></span>
+
+
+<img src="{{ "/assets/images/Kelly-Hopkinsville_i_de664d-Illustration-3-light.svg" | relative_url }}" alt="Kelly Hopkinsville incident 1955 illustration 3" data-theme-src-dark="{{ "/assets/images/Kelly-Hopkinsville_i_de664d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kelly-Hopkinsville_i_de664d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Bottom line
+
+The Kelly-Hopkinsville incident is one of the most memorable close-encounter stories of the 1950s because it combines a tight setting, multiple frightened witnesses, gunfire, police involvement, and creatures vivid enough to become icons. But its evidential centre is still testimony, not recoverable physical proof. The official Blue Book context confirms that the case belongs to the period of formal US Air Force UFO record-keeping, while the broader Air Force position and later sceptical work give no support to an extraterrestrial conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+The most defensible interpretation is that the incident was a real report of fear and confusion at the Sutton-Lankford farmhouse, amplified by press coverage and preserved by UFO culture. Whether the original trigger was a meteor, owls, another mundane stimulus, prank, misperception, or some combination of these, the surviving evidence does not justify treating the case as a verified alien encounter. Its lasting importance is as a high-profile example of how sincere witnesses, limited physical evidence, official ambiguity, and cultural storytelling can turn one chaotic night into a durable UFO legend.
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell fr-section-shell-fallback">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">No matched book cards were available for What Really Happened at Kelly Hopkinsville?, so this fallback keeps a direct Amazon reading path visible.</p>
+    </div>
+    <div class="fr-search-grid">
+
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">Kelly Hopkinsville guide</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Kelly+Hopkinsville+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
+    </article>
+
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">Visit Hopkinsville guide</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Visit+Hopkinsville+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
+    </article>
+
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">Great Horned Owl guide</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Great+Horned+Owl+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=extraterrestrial+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-extraterrestrial-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Grey Alien Head Bust 3D Printed | Sci-Fi Extraterrestrial Collectible 4-12&quot;"><img src="{{ '/assets/images/marketplace-covers/4d79866848141973e173.jpg' | relative_url }}" alt="Listing image for Grey Alien Head Bust 3D Printed | Sci-Fi Extraterrestrial Collectible 4-12&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=extraterrestrial+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-extraterrestrial-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Grey Alien Head Bust 3D Printed | Sci-Fi Extraterrestrial Collectible 4-12&quot;</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=extraterrestrial+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-extraterrestrial-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for extraterrestrial collectible">Search <span data-ebay-domain-label>eBay.com</span>: extraterrestrial collectible</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=extraterrestrial+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-extraterrestrial-collectible-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=extraterrestrial+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-extraterrestrial-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wubwub – 3D Printed Alien Figurine | Cute &amp; Weird Extraterrestrial Collectible"><img src="{{ '/assets/images/marketplace-covers/e35ee2f81f3e78ebd0cc.jpg' | relative_url }}" alt="Listing image for Wubwub – 3D Printed Alien Figurine | Cute &amp; Weird Extraterrestrial Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=extraterrestrial+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-extraterrestrial-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Wubwub – 3D Printed Alien Figurine | Cute &amp; Weird Extraterrestrial Collectible</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=extraterrestrial+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-extraterrestrial-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for extraterrestrial collectible">Search <span data-ebay-domain-label>eBay.com</span>: extraterrestrial collectible</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=extraterrestrial+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-extraterrestrial-collectible-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=extraterrestrial+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-extraterrestrial-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.com</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  if (!sections.length) return;
+  function inferMarket(available) {
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      return window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: 'EBAY_US'
+      });
+    }
+    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
+    return available[0];
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-market-init') === '1') return;
+    section.setAttribute('data-ebay-market-init', '1');
+    var select = section.querySelector('[data-ebay-market-select]');
+    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
+    if (!select || panels.length < 2) return;
+    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
+    function selectMarket(marketId, persist) {
+      panels.forEach(function (panel) {
+        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
+        panel.hidden = !active;
+      });
+      if (available.indexOf(marketId) >= 0) select.value = marketId;
+      var option = select.options[select.selectedIndex];
+      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+        label.textContent = option ? option.text : marketId;
+      });
+      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+        flag.className = flagClass(marketId);
+      });
+      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+        label.textContent = option ? option.text : marketId;
+      });
+      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+      });
+      if (persist) {
+        try {
+          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
+        } catch (err) {}
+      }
+      closeMenu(section);
+    }
+    select.addEventListener('change', function () {
+      selectMarket(select.value, true);
+    });
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    selectMarket(inferMarket(available), false);
+  });
+})();
+</script>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: wbko.com  
+   Link: [https://www.wbko.com/2025/08/21/70-years-later-revisiting-kelly-hopkinsville-encounter/](https://www.wbko.com/2025/08/21/70-years-later-revisiting-kelly-hopkinsville-encounter/)  
+
+2. <a id="endnote-2"></a>
+   Source: nicap.org  
+   Title: The Kelley/Hopkinsville (Sutton) Encounter  
+   Link: [https://www.nicap.org/reports/550821hopkinsville_hendry.htm](https://www.nicap.org/reports/550821hopkinsville_hendry.htm)  
+
+3. <a id="endnote-3"></a>
+   Source: wkms.org  
+   Link: [https://www.wkms.org/arts-culture/2016-08-19/a-hopkinsville-alien-tale-has-inspired-a-yearly-festival-a-musical-and-pokemon](https://www.wkms.org/arts-culture/2016-08-19/a-hopkinsville-alien-tale-has-inspired-a-yearly-festival-a-musical-and-pokemon)  
+
+4. <a id="endnote-4"></a>
+   Source: nicap.org  
+   Title: 550821hopkinsville dir  
+   Link: [https://www.nicap.org/550821hopkinsville_dir.htm](https://www.nicap.org/550821hopkinsville_dir.htm)  
+
+5. <a id="endnote-5"></a>
+   Source: cufos.org  
+   Title: Center for UFO Studies Books  
+   Link: [https://cufos.org/cufos-publications-databases/books/](https://cufos.org/cufos-publications-databases/books/)  
+
+6. <a id="endnote-6"></a>
+   Source: archives.gov  
+   Title: National Archives Project BLUE BOOK  
+   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+
+7. <a id="endnote-7"></a>
+   Source: af.mil  
+   Title: U.S. Air Force  
+   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: fold3.com  
+   Title: US, Project Blue Book  
+   Link: [https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969](https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969)  
+
+9. <a id="endnote-9"></a>
+   Source: skeptoid.com  
+   Link: [https://skeptoid.com/episodes/331](https://skeptoid.com/episodes/331)  
+
+10. <a id="endnote-10"></a>
+   Source: maine.gov  
+   Link: [https://www.maine.gov/ifw/fish-wildlife/wildlife/living-with-wildlife/avoid-resolve-conflict/owls.html](https://www.maine.gov/ifw/fish-wildlife/wildlife/living-with-wildlife/avoid-resolve-conflict/owls.html)  
+
+11. <a id="endnote-11"></a>
+   Source: pmc.ncbi.nlm.nih.gov  
+   Title: PMCHauntings, homeopathy, and the Hopkinsville Goblins  
+   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4028994/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4028994/)  
+
+12. <a id="endnote-12"></a>
+   Source: wkms.org  
+   Link: [https://www.wkms.org/tags/kelly-green-men](https://www.wkms.org/tags/kelly-green-men)  
+
+13. <a id="endnote-13"></a>
+   Source: cufos.org  
+   Title: Close Encounter at Kelly  
+   Link: [https://cufos.org/PDFs/books/Close_Encounter_at_Kelly.pdf](https://cufos.org/PDFs/books/Close_Encounter_at_Kelly.pdf)  
+
+14. <a id="endnote-14"></a>
+   Source: wbko.com  
+   Link: [https://www.wbko.com/video/2025/08/21/70-years-later-revisiting-kelly-hopkinsville-encounter/](https://www.wbko.com/video/2025/08/21/70-years-later-revisiting-kelly-hopkinsville-encounter/)  
+
+15. <a id="endnote-15"></a>
+   Source: history.com  
+   Title: little green men origins aliens hopkinsville kelly  
+   Link: [https://www.history.com/articles/little-green-men-origins-aliens-hopkinsville-kelly](https://www.history.com/articles/little-green-men-origins-aliens-hopkinsville-kelly)  
+
+16. <a id="endnote-16"></a>
+   Source: youtube.com  
+   Title: Hopkinsville Goblins: Part 1  
+   Link: [https://www.youtube.com/watch?v=j66CQbprsmg](https://www.youtube.com/watch?v=j66CQbprsmg)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hopkinsville Goblins - The Kelly Green Men...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: youtube.com  
+   Title: The Hopkinsville Goblins  
+   Link: [https://www.youtube.com/watch?v=JqVeGfm0TOU](https://www.youtube.com/watch?v=JqVeGfm0TOU)  
+
+18. <a id="endnote-18"></a>
+   Source: frontiersin.org  
+   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01982/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01982/full)  
+
+19. <a id="endnote-19"></a>
+   Source: allaboutbirds.org  
+   Link: [https://www.allaboutbirds.org/guide/Great_Horned_Owl/overview](https://www.allaboutbirds.org/guide/Great_Horned_Owl/overview)  
+
+20. <a id="endnote-20"></a>
+   Source: visithopkinsville.com  
+   Link: [https://visithopkinsville.com/event/alien-invasion-day-2/](https://visithopkinsville.com/event/alien-invasion-day-2/)  
+
+21. <a id="endnote-21"></a>
+   Source: Wikipedia  
+   Title: Project Blue Book  
+   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+
+22. <a id="endnote-22"></a>
+   Source: allaboutbirds.org  
+   Link: [https://www.allaboutbirds.org/guide/Great_Horned_Owl/id](https://www.allaboutbirds.org/guide/Great_Horned_Owl/id)  
+
+23. <a id="endnote-23"></a>
+   Source: allaboutbirds.org  
+   Link: [https://www.allaboutbirds.org/guide/Long-eared_Owl/id](https://www.allaboutbirds.org/guide/Long-eared_Owl/id)  
+
+24. <a id="endnote-24"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/VisitHopkinsville/posts/happy-70th-anniversary-of-the-kelly-little-greenhopkinsville-goblin-attack-of-19/1347502713585877/](https://www.facebook.com/VisitHopkinsville/posts/happy-70th-anniversary-of-the-kelly-little-greenhopkinsville-goblin-attack-of-19/1347502713585877/)  
+
+25. <a id="endnote-25"></a>
+   Source: public-pages-files-2025.frontiersin.org  
+   Link: [https://public-pages-files-2025.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01982/epub](https://public-pages-files-2025.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01982/epub)  
+
+26. <a id="endnote-26"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=w8wIqJQ36Zs](https://www.youtube.com/watch?v=w8wIqJQ36Zs)  
+
+27. <a id="endnote-27"></a>
+   Source: scribd.com  
+   Title: Close encounter at kelly  
+   Link: [https://www.scribd.com/document/441169152/Close-encounter-at-kelly](https://www.scribd.com/document/441169152/Close-encounter-at-kelly)  
+
+28. <a id="endnote-28"></a>
+   Source: visithopkinsville.com  
+   Title: goblincon ufo and paranormal expo 2025  
+   Link: [https://visithopkinsville.com/event/goblincon-ufo-and-paranormal-expo-2025/](https://visithopkinsville.com/event/goblincon-ufo-and-paranormal-expo-2025/)  
+
+29. <a id="endnote-29"></a>
+   Source: nationalarchives.gov.uk  
+   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+
+### Additional References
+
+30. <a id="endnote-30"></a>
+   Source: youtube.com  
+   Title: Kentucky Goblins! Kelly-Hopkinsville UFO Encounter  
+   Link: [https://www.youtube.com/watch?v=W5v_H2L7ZMY](https://www.youtube.com/watch?v=W5v_H2L7ZMY)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplained: The Hopkinsville Alien Invasion | True Alien Abduction | Full Documentary...</p></details>
+
+31. <a id="endnote-31"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=c6Lj5IzL9xY](https://www.youtube.com/watch?v=c6Lj5IzL9xY)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hopkinsville Goblins: The Strangest Alien Encounter in History...</p></details>
+
+32. <a id="endnote-32"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/itshardbeingthekane/videos/littlegreenmen-of-kelly-ky-documentary-featuring-geraldine-sutton-stith-credit-k/1490147935833771/](https://www.facebook.com/itshardbeingthekane/videos/littlegreenmen-of-kelly-ky-documentary-featuring-geraldine-sutton-stith-credit-k/1490147935833771/)  
+
+33. <a id="endnote-33"></a>
+   Source: christiancountynow.com  
+   Link: [https://christiancountynow.com/news/267762-crowds-beam-down-for-alien-invasion-day-on-kelly-little-green-men-encounter-anniversary-photos/](https://christiancountynow.com/news/267762-crowds-beam-down-for-alien-invasion-day-on-kelly-little-green-men-encounter-anniversary-photos/)  
+
+34. <a id="endnote-34"></a>
+   Source: archivesfoundation.org  
+   Link: [https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/](https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/)  
+
+35. <a id="endnote-35"></a>
+   Source: x.com  
+   Link: [https://x.com/SteveStuWill/status/1102431584546840576?lang=ar](https://x.com/SteveStuWill/status/1102431584546840576?lang=ar)  
+
+36. <a id="endnote-36"></a>
+   Source: instagram.com  
+   Link: [https://www.instagram.com/p/DQ1ye4NDWS5/?hl=en-gb](https://www.instagram.com/p/DQ1ye4NDWS5/?hl=en-gb)  
+
+37. <a id="endnote-37"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/iowadnr/posts/call-me-a-great-horned-owl-one-more-time-i-dare-you-the-long-eared-owl-is-not-on/1353303560161952/](https://www.facebook.com/iowadnr/posts/call-me-a-great-horned-owl-one-more-time-i-dare-you-the-long-eared-owl-is-not-on/1353303560161952/)  
+
+38. <a id="endnote-38"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/](https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/)  
+
+39. <a id="endnote-39"></a>
+   Source: hawkwatch.org  
+   Link: [https://hawkwatch.org/raptor-id/raptor-id-fact-sheets/great-horned-owl/](https://hawkwatch.org/raptor-id/raptor-id-fact-sheets/great-horned-owl/)  

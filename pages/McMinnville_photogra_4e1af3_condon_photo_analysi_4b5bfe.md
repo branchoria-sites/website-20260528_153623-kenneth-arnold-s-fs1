@@ -1,0 +1,447 @@
+---
+level: 2
+basename: McMinnville_photogra_4e1af3_condon_photo_analysi_4b5bfe
+parent_basename: McMinnville_photogra_4e1af3
+child_basenames: []
+sibling_basenames:
+- McMinnville_photogra_4e1af3_model_wire_debunking_fa29b6
+- McMinnville_photogra_4e1af3_trent_witness_timeli_0d9d5c
+tags:
+- mcminnville-photographs-1950
+- condon-report
+keywords:
+- mcminnville-photographs-1950
+- condon-report
+affiliate_category: mcminnville-photographs-1950
+show_ads: true
+description: Hartmann's official analysis found a physical-looking object but left open the exact model-on-a-wire explanation later critics pursued.
+hero_summary: Hartmann's official analysis found a physical-looking object but left open the exact model-on-a-wire explanation later critics pursued.
+layout: default
+permalink: /condon-report-2a4d06/
+sidebar_expanded_urls:
+- /mcminnville-photographs-1950/
+nav_short_title: Condon Report
+title: Why the Official Study Did Not Settle It
+title_full: Why the Official Study Did Not Settle It | McMinnville Photos
+display_title_short: Condon Report
+display_title: Condon Report
+heading_title: Why the Official Study Did Not Settle It
+page_heading_title: Why the Official Study Did Not Settle It
+source_count: 31
+infographic_count: 3
+planned_sections:
+- What Hartmann thought the photos showed
+- Photometry and the distant object reading
+- The unresolved wire suspension loophole
+focal_unit_type: dataset_evidence
+topic_lens: evidence
+topic_granularity: pillar
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: McMinnville Photos
+parent_permalink: /mcminnville-photographs-1950/
+parent_nav_short_title: McMinnville Photos
+parent_heading_title: Were the McMinnville UFO Photos Real?
+ancestor_links:
+- basename: McMinnville_photogra_4e1af3
+  title: McMinnville Photos
+  permalink: /mcminnville-photographs-1950/
+  short_title: McMinnville Photos
+breadcrumb_links:
+- basename: McMinnville_photogra_4e1af3
+  title: McMinnville Photos
+  permalink: /mcminnville-photographs-1950/
+  short_title: McMinnville Photos
+sibling_links:
+- basename: McMinnville_photogra_4e1af3_model_wire_debunking_fa29b6
+  title: Hoax Theory | Were the McMinnville UFO Photos Real?
+  permalink: /hoax-theory/
+  short_title: Hoax Theory
+  heading_title: Could It Have Been a Hanging Model?
+- basename: McMinnville_photogra_4e1af3_trent_witness_timeli_0d9d5c
+  title: Witness Story | Were the McMinnville UFO Photos Real?
+  permalink: /witness-story-6d88b4/
+  short_title: Witness Story
+  heading_title: What Did the Trents Say Happened?
+up_link:
+  basename: McMinnville_photogra_4e1af3
+  title: McMinnville Photos
+  permalink: /mcminnville-photographs-1950/
+  short_title: McMinnville Photos
+next_link:
+  basename: McMinnville_photogra_4e1af3_model_wire_debunking_fa29b6
+  title: Hoax Theory | Were the McMinnville UFO Photos Real?
+  permalink: /hoax-theory/
+  short_title: Hoax Theory
+  heading_title: Could It Have Been a Hanging Model?
+date: '2026-05-29 12:07:56 '
+header:
+  og_image: /assets/images/McMinnville_photogra_4e1af3_condon_photo_analysi_4b5bfe-Illustration-1-social.jpg
+  preview_image: /assets/images/McMinnville_photogra_4e1af3_condon_photo_analysi_4b5bfe-Illustration-1.webp
+image: /assets/images/McMinnville_photogra_4e1af3_condon_photo_analysi_4b5bfe-Illustration-1-social.jpg
+---
+
+## Introduction
+
+The McMinnville photographs received unusually serious treatment in the Air Force-funded Condon Report, the University of Colorado study that became the most influential official UFO review of the 1960s. Astronomer William K. Hartmann did not dismiss the pictures as obvious fakery. Instead, after examining the recovered negatives and interviewing Paul and Evelyn Trent, he concluded that the photographs were consistent with a real, apparently metallic object at some distance from the camera. At the same time, Hartmann stopped short of declaring the case solved. His own report acknowledged a loophole that later sceptics would focus on relentlessly: the possibility that the object was a small model suspended from overhead wires. The importance of the Condon analysis lies precisely in that tension. It elevated the McMinnville photographs above most UFO imagery of the era, yet it also left enough uncertainty for later critics to argue that the official study had never truly eliminated a staged hoax. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case46.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">There was no noise</span><span class="citation-popover-snippet">NCAS FilesCondon Report, Photographic Case Studies: Cases 46 - 59The rather bright, aluminum-like, but not specular, reflecting surface a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/McMinnville_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mc Minnville UFO photographs</span><span class="citation-popover-snippet">Mc Minnville UFO photographs</span></span></span>
+
+
+<img src="{{ "/assets/images/McMinnville_photogra_4e1af3_condon_photo_analysi_4b5bfe-Illustration-1-light.svg" | relative_url }}" alt="Condon Report illustration 1" data-theme-src-dark="{{ "/assets/images/McMinnville_photogra_4e1af3_condon_photo_analysi_4b5bfe-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/McMinnville_photogra_4e1af3_condon_photo_analysi_4b5bfe-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+## What Hartmann thought the photos showed
+
+By the time Hartmann examined the case in the late 1960s, the McMinnville photographs already had a national reputation. The original negatives, long thought lost after their circulation through newspaper syndication services, were rediscovered in United Press International archives and made available to the Condon Committee. Hartmann treated the case more carefully than many UFO claims because it involved original negatives rather than copies or prints, identifiable witnesses, and two photographs taken seconds apart. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case46.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">There was no noise</span><span class="citation-popover-snippet">NCAS FilesCondon Report, Photographic Case Studies: Cases 46 - 59The rather bright, aluminum-like, but not specular, reflecting surface a...</span></span></span>
+
+His conclusion became one of the most quoted passages in UFO history. Hartmann wrote that this was “one of the few UFO reports” in which the geometric, psychological, and physical factors all appeared consistent with “an extraordinary flying object” described as metallic and disc-shaped. That wording mattered because the Condon Report overall was widely interpreted as sceptical toward UFO claims. The McMinnville case therefore stood out as one of the report’s strongest apparent endorsements of a genuinely unexplained event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://psionicresearch.com/articles/mcminnville.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psionicresearch.com">[Psionic Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psionicresearch.com</span><span class="citation-popover-snippet">Psionic ResearchThe McMinnville Photographs: America&#x27;s Most Credible UFO...Photogrammetric analyst William Hartmann, working for the com...</span></span></span>
+
+Hartmann was also influenced by the Trents themselves. He reported finding them sincere and noted that they had not attempted to profit from the photographs. Supporters of the case later used this point heavily, arguing that the Trents did not behave like publicity seekers or professional hoaxers. Hartmann’s account therefore blended technical analysis with witness assessment rather than relying solely on photographic measurements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Photographies_de_McMinnville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Photographies de Mc Minnville</span><span class="citation-popover-snippet">Photographies de Mc Minnville</span></span></span>
+
+Yet even in the original report, the endorsement was more cautious than later UFO literature sometimes implied. Hartmann did not claim proof of extraterrestrial craft, and he repeatedly framed his conclusions as interpretations consistent with the available evidence rather than definitive demonstrations. The report’s language sounds stronger when quoted in isolation than when read alongside its reservations.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/M8gUCGLjea4" title="UFO confirmed!? The McMinnville Mystery | Photographiliac" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=M8gUCGLjea4" target="_blank" rel="noopener noreferrer">UFO confirmed!? The McMinnville Mystery | Photographiliac</a></p><p class="youtube-embed-meta">Channel: OGbsmitty &middot; Views: 242 &middot; Uploaded: March 2023 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=M8gUCGLjea4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=M8gUCGLjea4">Open on YouTube</a></p></div></div></div>
+
+## Why the photometry seemed important
+
+The technical centre of Hartmann’s analysis was photometry: the study of brightness and tonal values in the photographs. He compared the apparent brightness of the object with nearby structures in the scene, especially the underside of a fuel tank visible on the Trent property. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Fotograf%C3%ADas_de_ovnis_de_McMinnville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fotografías de ovnis de Mc Minnville</span><span class="citation-popover-snippet">Fotografías de ovnis de Mc Minnville</span></span></span>
+
+Hartmann reasoned that if the UFO had been a small nearby object, such as a model hanging close to the camera, its underside should have appeared darker under the overcast lighting conditions. Instead, the underside appeared relatively bright. He suggested this was more consistent with a more distant object affected by atmospheric scattering and extinction, the same optical effect that can make distant landscapes appear washed out or pale. In simple terms, Hartmann believed the lighting behaviour looked more like a larger object farther away than a small object hanging nearby. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case46.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">There was no noise</span><span class="citation-popover-snippet">NCAS FilesCondon Report, Photographic Case Studies: Cases 46 - 59The rather bright, aluminum-like, but not specular, reflecting surface a...</span></span></span>
+
+That conclusion had major implications. If the object really was distant, then a simple suspended model became much harder to defend. The geometry of the photographs suggested a sizeable object, and Hartmann argued that the apparent consistency between witness testimony and photographic density measurements strengthened the case for a genuinely airborne craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case46.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">There was no noise</span><span class="citation-popover-snippet">NCAS FilesCondon Report, Photographic Case Studies: Cases 46 - 59The rather bright, aluminum-like, but not specular, reflecting surface a...</span></span></span>
+
+Later defenders of the photographs, especially optical physicist Bruce Maccabee, expanded on this line of argument. Maccabee used densitometric measurements from the negatives to argue that the object’s reflectivity and lighting did not behave like a tiny nearby model. In pro-UFO interpretations, Hartmann’s work became the foundation for claiming that the photographs had survived serious scientific scrutiny. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/McMinnville_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mc Minnville UFO photographs</span><span class="citation-popover-snippet">Mc Minnville UFO photographs</span></span></span>
+
+The problem was that the photometric argument depended heavily on assumptions about lighting conditions, surface reflectivity, film response, and object geometry. The photographs were taken under overcast skies with limited reference information. No independent measurements existed for the object itself because its true nature was unknown. Critics later argued that these uncertainties weakened the confidence that could reasonably be placed in Hartmann’s distant-object interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipaco.fr/ReportMcMinnville.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipaco.fr">[Ipaco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipaco.fr</span><span class="citation-popover-title">The Mc Minnville pictures</span><span class="citation-popover-snippet">IpacoThe McMinnville pictures - IPACO.frAt the end of this simple geometric and radiometric analysis, we conclude that the hypothesis of...</span></span></span>
+
+
+<img src="{{ "/assets/images/McMinnville_photogra_4e1af3_condon_photo_analysi_4b5bfe-Illustration-2-light.svg" | relative_url }}" alt="Condon Report illustration 2" data-theme-src-dark="{{ "/assets/images/McMinnville_photogra_4e1af3_condon_photo_analysi_4b5bfe-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/McMinnville_photogra_4e1af3_condon_photo_analysi_4b5bfe-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## The unresolved wire-suspension loophole
+
+The most important limitation in Hartmann’s analysis was one he acknowledged himself. The object appeared beneath visible overhead power lines in both photographs. Hartmann explicitly asked whether the object could have been a model suspended from one of those wires. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Photographies_de_McMinnville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Photographies de Mc Minnville</span><span class="citation-popover-snippet">Photographies de Mc Minnville</span></span></span>
+
+This mattered because the object remained in nearly the same relative position beneath the wires across the two images despite a slight shift in camera position. To sceptics, that geometry suggested an object physically attached to the foreground environment rather than something moving freely through distant airspace. Hartmann admitted that his tests did not eliminate this possibility. His exact position was essentially that the photographs looked physically consistent with a distant object, but not conclusively enough to rule out a carefully staged nearby model. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Fotograf%C3%ADas_de_ovnis_de_McMinnville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fotografías de ovnis de Mc Minnville</span><span class="citation-popover-snippet">Fotografías de ovnis de Mc Minnville</span></span></span>
+
+That unresolved opening became the centre of later sceptical work. Philip J. Klass argued that the photographs were probably a hoax involving a small suspended object, perhaps a side-view mirror or similar metallic item. Robert Sheaffer later pushed the same interpretation and also highlighted inconsistencies in witness retellings over the decades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Fotograf%C3%ADas_de_ovnis_de_McMinnville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fotografías de ovnis de Mc Minnville</span><span class="citation-popover-snippet">Fotografías de ovnis de Mc Minnville</span></span></span>
+
+The modern version of the sceptical argument became more technically elaborate in 2013, when researchers associated with the IPACO image-analysis project published studies claiming the geometry matched a small model hanging from a thread attached to the overhead lines. They also argued that digital enhancement revealed evidence of a suspension thread above the object. Their conclusion was direct: the McMinnville UFO was most likely a hanging model. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipaco.fr/ReportMcMinnville.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipaco.fr">[Ipaco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipaco.fr</span><span class="citation-popover-title">The Mc Minnville pictures</span><span class="citation-popover-snippet">IpacoThe McMinnville pictures - IPACO.frAt the end of this simple geometric and radiometric analysis, we conclude that the hypothesis of...</span></span></span>
+
+Importantly, this later sceptical work did not prove Hartmann incompetent or dishonest. Instead, it highlighted the limits of what his methods could establish in the late 1960s. Hartmann had access to original negatives and carried out serious analysis, but he lacked modern digital enhancement tools and could not definitively exclude all small-model scenarios. The official study therefore narrowed the debate rather than ending it.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eQLD1oOXXt8" title="Oregon History 101—“The 1960s Came to Oregon… and Never Left”" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eQLD1oOXXt8" target="_blank" rel="noopener noreferrer">Oregon History 101—“The 1960s Came to Oregon… and Never Left”</a></p><p class="youtube-embed-meta">Channel: Oregon Historical Society &middot; Views: 1.2K &middot; Uploaded: August 2015 &middot; Length: 54 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eQLD1oOXXt8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eQLD1oOXXt8">Open on YouTube</a></p></div></div></div>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TuW4oGKzVKc" title="John F. Kennedy Moon Speech (1962)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TuW4oGKzVKc" target="_blank" rel="noopener noreferrer">John F. Kennedy Moon Speech (1962)</a></p><p class="youtube-embed-meta">Channel: AIRBOYD &middot; Views: 750.7K &middot; Uploaded: July 2009 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TuW4oGKzVKc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TuW4oGKzVKc">Open on YouTube</a></p></div></div></div>
+
+## Why the official study never settled the case
+
+The enduring importance of the Condon analysis is that it simultaneously strengthened and weakened the McMinnville photographs as evidence. On one hand, the pictures survived a level of official scrutiny rare in UFO history. Hartmann did not find evidence of double exposure, darkroom fakery, or obvious manipulation. He believed the object appeared physically real within the photographed scene. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case46.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">There was no noise</span><span class="citation-popover-snippet">NCAS FilesCondon Report, Photographic Case Studies: Cases 46 - 59The rather bright, aluminum-like, but not specular, reflecting surface a...</span></span></span>
+
+On the other hand, the report stopped well short of excluding deception. The central weakness was not photographic tampering after the fact but the possibility of a staged physical object placed in front of the camera before exposure. That distinction is crucial. Hartmann’s work addressed whether the negatives had been altered and whether the lighting looked natural, but those findings alone could not disprove a carefully positioned model. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Fotograf%C3%ADas_de_ovnis_de_McMinnville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fotografías de ovnis de Mc Minnville</span><span class="citation-popover-snippet">Fotografías de ovnis de Mc Minnville</span></span></span>
+
+The case also demonstrates a broader problem in photographic UFO evidence. A technically authentic photograph is not automatically proof of an extraordinary craft. Cameras faithfully record ordinary objects too. The real dispute in McMinnville has always been object identity and scale, not whether the film itself was genuine. <span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/56070714e4b0aebb8cbe1121/t/5a497c97f9619ae3bb6a8d47/1514765520468/Alien%2BImages%2BBefuddled%2BPress.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-snippet">SquarespaceAlien Images: UFOs, Photography, and BeliefThe Robertson Panel, and later the Condon Report, examined a wide range of cases pr...</span></span></span>
+
+That is why the photographs remain historically important despite decades of argument. The Condon Report elevated them into one of the strongest officially examined UFO image cases of the twentieth century, but the report’s own unresolved loophole allowed later sceptics to keep the hoax hypothesis alive. The result is not a clean victory for either side. Instead, the McMinnville photographs became a textbook example of how even serious technical analysis can narrow uncertainty without eliminating it.
+
+
+<img src="{{ "/assets/images/McMinnville_photogra_4e1af3_condon_photo_analysi_4b5bfe-Illustration-3-light.svg" | relative_url }}" alt="Condon Report illustration 3" data-theme-src-dark="{{ "/assets/images/McMinnville_photogra_4e1af3_condon_photo_analysi_4b5bfe-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/McMinnville_photogra_4e1af3_condon_photo_analysi_4b5bfe-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell fr-section-shell-fallback">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">No matched book cards were available for Why the Official Study Did Not Settle It, so this fallback keeps a direct Amazon reading path visible.</p>
+    </div>
+    <div class="fr-search-grid">
+
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">McMinnville photographs guide</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=McMinnville+photographs+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
+    </article>
+
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">Condon Report guide</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Condon+Report+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
+    </article>
+
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">McMinnville photographs books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=McMinnville+photographs+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: files.ncas.org  
+   Title: There was no noise  
+   Link: [https://files.ncas.org/condon/text/case46.htm](https://files.ncas.org/condon/text/case46.htm)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NCAS FilesCondon Report, Photographic Case Studies: Cases 46 - 59The rather bright, aluminum-like, but not specular, reflecting surface a...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: Wikipedia  
+   Title: Mc Minnville UFO photographs  
+   Link: [https://en.wikipedia.org/wiki/McMinnville_UFO_photographs](https://en.wikipedia.org/wiki/McMinnville_UFO_photographs)  
+
+3. <a id="endnote-3"></a>
+   Source: Wikipedia  
+   Title: Photographies de Mc Minnville  
+   Link: [https://fr.wikipedia.org/wiki/Photographies_de_McMinnville](https://fr.wikipedia.org/wiki/Photographies_de_McMinnville)  
+
+4. <a id="endnote-4"></a>
+   Source: Wikipedia  
+   Title: Fotografías de ovnis de Mc Minnville  
+   Link: [https://es.wikipedia.org/wiki/Fotograf%C3%ADas_de_ovnis_de_McMinnville](https://es.wikipedia.org/wiki/Fotograf%C3%ADas_de_ovnis_de_McMinnville)  
+
+5. <a id="endnote-5"></a>
+   Source: ipaco.fr  
+   Title: The Mc Minnville pictures  
+   Link: [https://www.ipaco.fr/ReportMcMinnville.pdf](https://www.ipaco.fr/ReportMcMinnville.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>IpacoThe McMinnville pictures - IPACO.frAt the end of this simple geometric and radiometric analysis, we conclude that the hypothesis of...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: static1.squarespace.com  
+   Link: [https://static1.squarespace.com/static/56070714e4b0aebb8cbe1121/t/5a497c97f9619ae3bb6a8d47/1514765520468/Alien%2BImages%2BBefuddled%2BPress.pdf](https://static1.squarespace.com/static/56070714e4b0aebb8cbe1121/t/5a497c97f9619ae3bb6a8d47/1514765520468/Alien%2BImages%2BBefuddled%2BPress.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>SquarespaceAlien Images: UFOs, Photography, and BeliefThe Robertson Panel, and later the Condon Report, examined a wide range of cases pr...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: psionicresearch.com  
+   Link: [https://psionicresearch.com/articles/mcminnville.html](https://psionicresearch.com/articles/mcminnville.html)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Psionic ResearchThe McMinnville Photographs: America&#x27;s Most Credible UFO...Photogrammetric analyst William Hartmann, working for the com...</p></details>
+
+### Additional References
+
+8. <a id="endnote-8"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/HotelOregon/posts/have-you-ever-wondered-why-were-just-slightly-completely-obsessed-with-aliens-he/798642695636391/](https://www.facebook.com/HotelOregon/posts/have-you-ever-wondered-why-were-just-slightly-completely-obsessed-with-aliens-he/798642695636391/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>McMenamins Hotel Oregon&#x27;s postWhen Sheaffer sent his research and conclusions to William Hartmann, an investigator for the Condon Committ...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: medium.com  
+   Link: [https://medium.com/on-the-trail-of-the-saucers/the-classic-mcminnville-ufo-photos-are-70-years-old-5af8c5cf3b11](https://medium.com/on-the-trail-of-the-saucers/the-classic-mcminnville-ufo-photos-are-70-years-old-5af8c5cf3b11)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>McMinnville UFO Photos Still Mystify | Point of ContactMaccabee argued that the brightness of the object&#x27;s underside suggested it was at...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: skepticalinquirer.org  
+   Title: Skeptical Inquirer The Trent UFO Photos—'Best' of All Time—Finally Busted?On  
+   Link: [https://skepticalinquirer.org/2015/01/the-trent-ufo-photosbest-of-all-timefinally-busted/](https://skepticalinquirer.org/2015/01/the-trent-ufo-photosbest-of-all-timefinally-busted/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Trent UFO Photos—&#x27;Best&#x27; of All Time—Finally Busted?On May 11, 1950, farmer Paul Trent of McMinnville, Oregon, snapped two photos of a...</p></details>
+   Published: May 11, 1950  
+
+11. <a id="endnote-11"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=M8gUCGLjea4](https://www.youtube.com/watch?v=M8gUCGLjea4)  
+
+12. <a id="endnote-12"></a>
+   Source: material-civet.files.svdcdn.com  
+   Title: Wildlife Crossings providing safe passage for urban wildlife 08012009  
+   Link: [https://material-civet.files.svdcdn.com/production/images/documents/Wildlife-Crossings-providing-safe-passage-for-urban-wildlife-08012009.pdf?dm=1625070785](https://material-civet.files.svdcdn.com/production/images/documents/Wildlife-Crossings-providing-safe-passage-for-urban-wildlife-08012009.pdf?dm=1625070785)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>CrossingsThis guidebook, Achieving Landscape Permeability in an. Urban Environment: Wildlife Crossings, providing safe passage for urban...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/811161717777571/posts/1083617330532007/](https://www.facebook.com/groups/811161717777571/posts/1083617330532007/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 3, 1965 Location: Santa Ana, California, United States Rex Heflin, an Orange County...Read more...</p></details>
+   Published: August 3, 1965  
+
+14. <a id="endnote-14"></a>
+   Source: facebook.com  
+   Title: maybe my all time favorite flying saucer photos  
+   Link: [https://www.facebook.com/art.chantry/posts/maybe-my-all-time-favorite-flying-saucer-photos/10162151390263873/](https://www.facebook.com/art.chantry/posts/maybe-my-all-time-favorite-flying-saucer-photos/10162151390263873/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>maybe my all-time favorite flying saucer photos.In 2013, three researchers posted two studies to their Web site titled &quot;Back to McMinnvil...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: hauntedauckland.com  
+   Title: Paranormal New Zealand The Trent Farm Photos  
+   Link: [https://hauntedauckland.com/site/trent-farm-photos-analysis/](https://hauntedauckland.com/site/trent-farm-photos-analysis/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Trent Farm Photos - Analysis12 Jan 2014 — When the effects of veiling glare and the ratio of brightness of vertical and horizontal su...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: newyorker.com  
+   Title: the enticing mysteries of ufo photography  
+   Link: [https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography](https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The New YorkerThe Enticing Mysteries of U.F.O. Photography3 Aug 2023 — The resulting images might be the most extensively analyzed U.F.O...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: academia.edu  
+   Title: THE YEAR 1954 IN PHOTOS Expanded  
+   Link: [https://www.academia.edu/43961635/THE_YEAR_1954_IN_PHOTOS_Expanded_](https://www.academia.edu/43961635/THE_YEAR_1954_IN_PHOTOS_Expanded_)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE YEAR 1954 IN PHOTOS (Expanded)Originally published 2008, this monograph remains to be the most complete reservoir of photographic rec...</p></details>

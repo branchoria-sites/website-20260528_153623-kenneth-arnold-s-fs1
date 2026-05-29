@@ -1,0 +1,1022 @@
+{
+  "generated_at_utc": "2026-05-29T11:28:52.020751Z",
+  "summary": {
+    "total_pages_with_permalink": 535,
+    "visible_pages": 428,
+    "hidden_pages": 107,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "edge_samples": [
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Alan_Godfrey_encount_87fc0b",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Alexander_Hamilton_a_75e894",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Andreasson_abduction_e8bccf",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Antonio_Villas-Boas_1a3f4f",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Apollo_11_sightings_2c5554",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Aurora_Texas_airship_165367",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "BOAC_stratocruiser_s_01e20e",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Battle_of_Los_Angele_969c9e",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Belgium_radarvisual_58866e",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Betty_and_Barney_Hil_3bcafa",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Carl_Higdon_contact_bfd61b",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "CashLandrum_incident_7ad7d9",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Cedric_Allingham_enc_2c7f6b",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Charles_B_Moore_sigh_63eb1f",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Charles_L_Moody_abdu_780173",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Chiles_and_Whitted_s_33732b",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Cisco_Grove_incident_29820a",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Claude_Vorilhon_cont_ec941c",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Clyde_Tombaugh_sight_af62cd",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Coyne_helicopter_sig_5ce811",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Cynthia_Appleton_enc_304111",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Day_family_abduction_fe300b",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Delphos_Ring_inciden_2952cd",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Desvergers_scoutmast_75261f",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Doctor_X_UFO_encount_5e669c",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "E_J_Smith_sighting_1_b2b2e6",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Eagle_River_encounte_9b53c8",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Farmington_sightings_46c4ec",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Fatima_apparition_19_f6784f",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Flatwoods_incident_1_ff4486",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Flight_19_incident_1_5cc889",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Fort_Itaipu_Brazil_s_89a0ba",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Fred_M_Johnson_sight_b34b17",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Gary_Wilcox_encounte_6de9ff",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Gemini_4_sighting_19_9c351d",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Gemini_7_sighting_19_7caf7b",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "George_Adamski_encou_795ba9",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Gordon_Cooper_sighti_93b9f6",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Gorman_dogfight_near_aac8f7",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Great_Falls_Montana_171d9e",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Greenhaw_encounter_1_a4bc62",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Gulf_Breeze_encounte_8373f7",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Herbert_Schirmer_abd_b149a3",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Incident_at_Exeter_1_781528",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "JAL_1628_sighting_ov_aeed7e",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Jet_chase_near_Tehra_5ae5aa",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Jimmy_Carter_sightin_759215",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "John_Martin_sighting_4cec00",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Jose_A_y_Bonilla_pho_27aa92",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Kelly-Hopkinsville_i_de664d",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Kinross_incident_195_2ebd01",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Lady_animal_mutilati_ea7340",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Lakenheath_episode_1_bf5257",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Larson_abduction_nea_e9683a",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Levelland_Texas_inci_0e8348",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Linda_Cortile_abduct_1b229f",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Livingston_incident_b2c293",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Loch_Raven_Dam_incid_b0e5b6",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Lubbock_Lights_sight_4eabd8",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Magenta_Italy_crash_5ee1aa",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Maureen_Puddy_encoun_21a7f8",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Maury_Island_inciden_ec4432",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "McMinnville_photogra_4e1af3",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Middle_East_UAP_vide_4a6c55",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Muroc_Field_sighting_a700e4",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Nash_and_Fortenberry_0a9bf2",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Oloron_Angel_Hair_in_61d462",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Operation_Mainbrace_06bcd8",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Orfeo_Angelucci_enco_bef29a",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Pascagoula_abduction_80a64a",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Puerto_Rico_infrared_d310d5",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "RB-47_radarvisual_in_5bf2a6",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Red_Bluff_sighting_1_f72200",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Reinhold_Schmidt_enc_731a71",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Rendlesham_Forest_in_f98080",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Reverend_W_B_Gill_si_c31d68",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Rex_Heflin_photograp_32bdf2",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Roswell_1947_c36fe7",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Salem_Massachusetts_01ecd1",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Socorro_sighting_by_961b47",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "SpaurNeff_Ravenna_si_4977ac",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Stanford_Kentucky_ab_a91f06",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Stephen_Darbishire_p_f80223",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Steven_Michalak_enco_1bbf94",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "The_Northeast_Blacko_c3cfee",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Thomas_F_Mantell_inc_2ce7ee",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Topcliffe_incident_1_80cbf4",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Trans-en-Provence_en_439c97",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Travis_Walton_abduct_612999",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Tremonton_Utah_film_79b5ee",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Trindade_Island_phot_726a39",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Truman_Bethurum_cont_eaa44d",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Tully_saucer_nest_in_b9d0b0",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Tunguska_event_1908_efda6f",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "USS_Nimitz_Tic_Tac_v_83266a",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "USS_Russell_video_20_3188a1",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "USS_Theodore_Rooseve_a4867d",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "USS_Theodore_Rooseve_daeaff",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Ubatuba_incident_195_6ff2c6",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Ummo_photographs_196_ed7563",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Valensole_incident_1_63f5cf",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Valentich_disappeara_592d85",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Voronezh_Russia_land_e13f34",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Walesville_Incident_cbceb2",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Washington_National_ee59a4",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "WellingtonKaikoura_i_c1d17f",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af",
+        "type": "child"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Kenneth_Arnold_s_fir_b696ba_flying_saucer_phrase_6534ff",
+        "type": "child"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Kenneth_Arnold_s_fir_b696ba_index",
+        "type": "child"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Kenneth_Arnold_s_fir_b696ba_ordinary_explanation_458d1a",
+        "type": "child"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af",
+        "to": "Kenneth_Arnold_s_fir_b696ba",
+        "type": "parent"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af",
+        "to": "Kenneth_Arnold_s_fir_b696ba_flying_saucer_phrase_6534ff",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af",
+        "to": "Kenneth_Arnold_s_fir_b696ba_ordinary_explanation_458d1a",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af",
+        "to": "Kenneth_Arnold_s_fir_b696ba",
+        "type": "ancestor"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba_flying_saucer_phrase_6534ff",
+        "to": "Kenneth_Arnold_s_fir_b696ba",
+        "type": "parent"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba_flying_saucer_phrase_6534ff",
+        "to": "Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba_flying_saucer_phrase_6534ff",
+        "to": "Kenneth_Arnold_s_fir_b696ba_ordinary_explanation_458d1a",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba_flying_saucer_phrase_6534ff",
+        "to": "Kenneth_Arnold_s_fir_b696ba",
+        "type": "ancestor"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba_ordinary_explanation_458d1a",
+        "to": "Kenneth_Arnold_s_fir_b696ba",
+        "type": "parent"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba_ordinary_explanation_458d1a",
+        "to": "Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba_ordinary_explanation_458d1a",
+        "to": "Kenneth_Arnold_s_fir_b696ba_flying_saucer_phrase_6534ff",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba_ordinary_explanation_458d1a",
+        "to": "Kenneth_Arnold_s_fir_b696ba",
+        "type": "ancestor"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Alan_Godfrey_encount_87fc0b",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Alexander_Hamilton_a_75e894",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Andreasson_abduction_e8bccf",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Antonio_Villas-Boas_1a3f4f",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Apollo_11_sightings_2c5554",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Aurora_Texas_airship_165367",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "BOAC_stratocruiser_s_01e20e",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Battle_of_Los_Angele_969c9e",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Belgium_radarvisual_58866e",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Carl_Higdon_contact_bfd61b",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "CashLandrum_incident_7ad7d9",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Cedric_Allingham_enc_2c7f6b",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Charles_B_Moore_sigh_63eb1f",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Charles_L_Moody_abdu_780173",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Chiles_and_Whitted_s_33732b",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Cisco_Grove_incident_29820a",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Claude_Vorilhon_cont_ec941c",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Clyde_Tombaugh_sight_af62cd",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Coyne_helicopter_sig_5ce811",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Cynthia_Appleton_enc_304111",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Day_family_abduction_fe300b",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Delphos_Ring_inciden_2952cd",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Desvergers_scoutmast_75261f",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Doctor_X_UFO_encount_5e669c",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "E_J_Smith_sighting_1_b2b2e6",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Eagle_River_encounte_9b53c8",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Farmington_sightings_46c4ec",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Fatima_apparition_19_f6784f",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Flatwoods_incident_1_ff4486",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Flight_19_incident_1_5cc889",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Fort_Itaipu_Brazil_s_89a0ba",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Fred_M_Johnson_sight_b34b17",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Gary_Wilcox_encounte_6de9ff",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Gemini_4_sighting_19_9c351d",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Gemini_7_sighting_19_7caf7b",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "George_Adamski_encou_795ba9",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Gordon_Cooper_sighti_93b9f6",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Gorman_dogfight_near_aac8f7",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Great_Falls_Montana_171d9e",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Greenhaw_encounter_1_a4bc62",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Gulf_Breeze_encounte_8373f7",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Herbert_Schirmer_abd_b149a3",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Incident_at_Exeter_1_781528",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "JAL_1628_sighting_ov_aeed7e",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Jet_chase_near_Tehra_5ae5aa",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Jimmy_Carter_sightin_759215",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "John_Martin_sighting_4cec00",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Jose_A_y_Bonilla_pho_27aa92",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Kelly-Hopkinsville_i_de664d",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Kenneth_Arnold_s_fir_b696ba",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Kinross_incident_195_2ebd01",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Lady_animal_mutilati_ea7340",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Lakenheath_episode_1_bf5257",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Larson_abduction_nea_e9683a",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Levelland_Texas_inci_0e8348",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Linda_Cortile_abduct_1b229f",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Livingston_incident_b2c293",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Loch_Raven_Dam_incid_b0e5b6",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Lubbock_Lights_sight_4eabd8",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Magenta_Italy_crash_5ee1aa",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Maureen_Puddy_encoun_21a7f8",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Maury_Island_inciden_ec4432",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "McMinnville_photogra_4e1af3",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Middle_East_UAP_vide_4a6c55",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Muroc_Field_sighting_a700e4",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Nash_and_Fortenberry_0a9bf2",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Oloron_Angel_Hair_in_61d462",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Operation_Mainbrace_06bcd8",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Orfeo_Angelucci_enco_bef29a",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Pascagoula_abduction_80a64a",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Puerto_Rico_infrared_d310d5",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "RB-47_radarvisual_in_5bf2a6",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Red_Bluff_sighting_1_f72200",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Reinhold_Schmidt_enc_731a71",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Rendlesham_Forest_in_f98080",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Reverend_W_B_Gill_si_c31d68",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Rex_Heflin_photograp_32bdf2",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Roswell_1947_c36fe7",
+        "type": "sibling"
+      }
+    ]
+  }
+}
