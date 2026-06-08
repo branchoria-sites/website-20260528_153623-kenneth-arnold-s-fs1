@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /were-the-1967-ummo-photographs-real-or-a/
 nav_short_title: Valderas Sighting
 title: What Happened During the 1967 Valderas UFO Sighting?
-title_full: What Happened During the 1967 Valderas UFO Sighting? | UmmoPhotos
+title_full: What Happened During the 1967 Valderas UFO Sighting? | Ummo Photos
 display_title_short: Valderas Sighting
 display_title: Valderas Sighting
 heading_title: What Happened During the 1967 Valderas UFO Sighting?
@@ -197,20 +197,20 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: UmmoPhotos
+parent_title: Ummo Photos
 parent_permalink: /were-the-1967-ummo-photographs-real-or-a/
-parent_nav_short_title: UmmoPhotos
+parent_nav_short_title: Ummo Photos
 parent_heading_title: Were the 1967 Ummo Photographs Real or a Hoax?
 ancestor_links:
 - basename: Ummo_photographs_196_ed7563
-  title: UmmoPhotos
+  title: Ummo Photos
   permalink: /were-the-1967-ummo-photographs-real-or-a/
-  short_title: UmmoPhotos
+  short_title: Ummo Photos
 breadcrumb_links:
 - basename: Ummo_photographs_196_ed7563
-  title: UmmoPhotos
+  title: Ummo Photos
   permalink: /were-the-1967-ummo-photographs-real-or-a/
-  short_title: UmmoPhotos
+  short_title: Ummo Photos
 sibling_links:
 - basename: Ummo_photographs_196_ed7563_jordan_pena_confessi_41e3fc
   title: Peña Confession | Were the 1967 Ummo Photographs Real or a Hoax?
@@ -224,16 +224,16 @@ sibling_links:
   heading_title: Could the 1967 Ummo Photographs Have Been Staged?
 up_link:
   basename: Ummo_photographs_196_ed7563
-  title: UmmoPhotos
+  title: Ummo Photos
   permalink: /were-the-1967-ummo-photographs-real-or-a/
-  short_title: UmmoPhotos
+  short_title: Ummo Photos
 prev_link:
   basename: Ummo_photographs_196_ed7563_photographic_analysi_b87050
   title: Photo Analysis | Were the 1967 Ummo Photographs Real or a Hoax?
   permalink: /photo-analysis/
   short_title: Photo Analysis
   heading_title: Could the 1967 Ummo Photographs Have Been Staged?
-date: '2026-05-29 12:20:25 '
+date: '2026-06-08 23:38:16 '
 header:
   og_image: /assets/images/Ummo_photographs_196_ed7563_valderas_sighting_ti_2a05be-Illustration-1-social.jpg
   preview_image: /assets/images/Ummo_photographs_196_ed7563_valderas_sighting_ti_2a05be-Illustration-1.webp
@@ -245,7 +245,7 @@ image: /assets/images/Ummo_photographs_196_ed7563_valderas_sighting_ti_2a05be-Il
 On **1 June 1967** in the Madrid suburb of **San José de Valderas**, an alleged UFO sighting became one of the most debated episodes connected to the broader *Ummo* phenomenon — a set of purported extraterrestrial communications and sightings that captured public and ufological attention in Spain during the late 1960s. On that evening, witnesses claimed to see a disc‑shaped object in the sky, and several photographs of the object bearing the distinctive “Ummo” symbol were disseminated. The sighting and the associated eyewitness reports shaped the immediate public impact of the Valderas episode and helped propel it — rightly or wrongly — into Ufology’s historical record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3ASan_Jos%C3%A9_de_Valderas_5.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsFile:San José de Valderas 5.jpgEnglish: Last of the five photographs taken of a supposed ummite ship in San José de Vald...</span></span></span>
 
 
-<img src="{{ "/assets/images/Ummo_photographs_196_ed7563_valderas_sighting_ti_2a05be-Illustration-1-light.svg" | relative_url }}" alt="Valderas Sighting illustration 1" data-theme-src-dark="{{ "/assets/images/Ummo_photographs_196_ed7563_valderas_sighting_ti_2a05be-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ummo_photographs_196_ed7563_valderas_sighting_ti_2a05be-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Ummo_photographs_196_ed7563_valderas_sighting_ti_2a05be-Illustration-1-dark.svg" | relative_url }}" alt="Valderas Sighting illustration 1" data-theme-src-dark="{{ "/assets/images/Ummo_photographs_196_ed7563_valderas_sighting_ti_2a05be-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ummo_photographs_196_ed7563_valderas_sighting_ti_2a05be-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Evening of 1 June 1967: The Sighting
 
 According to accounts circulating among UFO enthusiasts and in later secondary sources, the sighting occurred on the evening of **1 June 1967**, roughly around **20:20 h** local time. A lenticular or disc‑shaped object was alleged to have appeared over San José de Valderas, hovering above the trees and the local terrain before it moved on or departed. At least one chronicle places the observation at this time and reports that a significant group of observers — potentially dozens or even around a hundred people — were present in the area when the object was seen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.u-sphere.com/wiki/index.php?title=UFO%3ACases%3A1303" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: u-sphere.com">[U-Sphere]</a><span class="citation-popover" role="note"><span class="citation-popover-source">u-sphere.com</span><span class="citation-popover-snippet">U-SphereUFO:Cases:1303 - U-Sphere - Michael VaillantJune 1, 1967...</span><span class="citation-popover-meta">Published: June 1, 1967</span></span></span>
@@ -277,7 +277,7 @@ Within UFO circles, the appearance of the photographs and the claim of multiple 
 There are also theatrical and memoir‑style narratives in later sources — for example, recollections attributed to individuals such as **Emilia García Carrasco** and others who would later speak to researchers about seeing an “orange light” or strange object near Valderas — but these come from much later interviews and books rather than contemporaneous testimony recorded at the time of the sighting. These accounts should be treated cautiously, as they were documented decades after the event and cannot be cross‑verified against original material from 1967. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/002165158dbe28031a869" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">El Hombre que Susurraba a los UmmitasEn una de las páginas, Carmen había escrito la palabra «ufo», en referencia a nuestra reciente conve...</span></span></span>
 
 
-<img src="{{ "/assets/images/Ummo_photographs_196_ed7563_valderas_sighting_ti_2a05be-Illustration-2-light.svg" | relative_url }}" alt="Valderas Sighting illustration 2" data-theme-src-dark="{{ "/assets/images/Ummo_photographs_196_ed7563_valderas_sighting_ti_2a05be-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ummo_photographs_196_ed7563_valderas_sighting_ti_2a05be-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Ummo_photographs_196_ed7563_valderas_sighting_ti_2a05be-Illustration-2-dark.svg" | relative_url }}" alt="Valderas Sighting illustration 2" data-theme-src-dark="{{ "/assets/images/Ummo_photographs_196_ed7563_valderas_sighting_ti_2a05be-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ummo_photographs_196_ed7563_valderas_sighting_ti_2a05be-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Credibility and Anonymous Witnesses
 
 A recurring issue in the timeline of the Valderas sighting is the *anonymity* of most witnesses. Reports indicate that the original witnesses who supplied photographs to *Informaciones* did so anonymously and that their identities were not made public by the newspapers. This anonymity complicates efforts to verify the accounts independently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Planetary_objects_proposed_in_religion%2C_astrology%2C_ufology_and_pseudoscience" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Planetary objects proposed in religion, astrology, ufology and pseudoscience</span><span class="citation-popover-snippet">San José de Valderas, Alcorcón, Spain on 1 June 1967. Ummo ([ˈumo]) is a hypothetical planet believed to be located in the constellation...</span><span class="citation-popover-meta">Published: June 1967</span></span></span>
@@ -291,7 +291,7 @@ The press reaction in early June 1967 focused heavily on the photographs rather 
 More systematic, independent documentation of witness testimony — such as statements submitted to scientific bodies or official registries — is largely absent from the historical record for this sighting. This lacuna means that while multiple people may have claimed to see something unusual on the evening of 1 June 1967, the *quality* of the eyewitness evidence is mixed and often mediated through second‑hand reporting in UFO literature rather than robust, contemporaneous firsthand accounts.
 
 
-<img src="{{ "/assets/images/Ummo_photographs_196_ed7563_valderas_sighting_ti_2a05be-Illustration-3-light.svg" | relative_url }}" alt="Valderas Sighting illustration 3" data-theme-src-dark="{{ "/assets/images/Ummo_photographs_196_ed7563_valderas_sighting_ti_2a05be-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ummo_photographs_196_ed7563_valderas_sighting_ti_2a05be-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Ummo_photographs_196_ed7563_valderas_sighting_ti_2a05be-Illustration-3-dark.svg" | relative_url }}" alt="Valderas Sighting illustration 3" data-theme-src-dark="{{ "/assets/images/Ummo_photographs_196_ed7563_valderas_sighting_ti_2a05be-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ummo_photographs_196_ed7563_valderas_sighting_ti_2a05be-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Summary of Key Points
 
 * **Evening of sighting:** The alleged sighting occurred around 20:20 on 1 June 1967, with observers reporting a disc‑shaped object visible over San José de Valderas. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.u-sphere.com/wiki/index.php?title=UFO%3ACases%3A1303" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: u-sphere.com">[U-Sphere]</a><span class="citation-popover" role="note"><span class="citation-popover-source">u-sphere.com</span><span class="citation-popover-snippet">U-SphereUFO:Cases:1303 - U-Sphere - Michael VaillantJune 1, 1967...</span><span class="citation-popover-meta">Published: June 1, 1967</span></span></span>

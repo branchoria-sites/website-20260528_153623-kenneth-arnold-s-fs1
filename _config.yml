@@ -1,9 +1,9 @@
-title: 'Arnold Sighting'
-short_title: 'Arnold Sighting'
+title: 'Top 100 UFO Cases'
+short_title: 'Top 100 UFO Cases'
 brand_name: 'Branchoria'
 brand_domain: 'branchoria.com'
-description: 'Practical guides on Arnold Sighting, organized for fast browsing and comparison.'
-tagline: 'A careful look at the pilot report that launched the modern flying saucer era.'
+description: 'Guides to the UFO cases most frequently discussed in a 963-book UFO and SETI sample.'
+tagline: 'Compare the classic cases by evidence, sources, and how often they recur in the literature.'
 encoding: utf-8
 lang: 'en'
 locale: 'en'
@@ -36,7 +36,9 @@ homepage_copy_policy: 'polished'
 home_layout_mode: 'vertical'
 auto_home_layout_mode: 'catalog'
 hierarchy_viz_mode: 'hybrid'
-ui_bundle_version: 'build-1780054054'
+ui_bundle_version: 'build-1780958613'
+google_site_verification: ''
+draft_noindex: false
 theme: minima
 plugins:
   - jekyll-feed

@@ -7,19 +7,19 @@ sibling_basenames:
 - WellingtonKaikoura_i_c1d17f_film_radar_evidence_e77e40
 - WellingtonKaikoura_i_c1d17f_flight_timeline_733143
 tags:
-- wellingtonkaikoura-incident-1978
+- wellington-kaikoura-incident-1978
 - explanations
 keywords:
-- wellingtonkaikoura-incident-1978
+- wellington-kaikoura-incident-1978
 - explanations
-affiliate_category: wellingtonkaikoura-incident-1978
+affiliate_category: wellington-kaikoura-incident-1978
 show_ads: true
 description: Official and independent interpretations disagree over whether atmosphere, Venus, boats, and radar anomalies explain the sightings.
 hero_summary: Official and independent interpretations disagree over whether atmosphere, Venus, boats, and radar anomalies explain the sightings.
 layout: default
 permalink: /explanations-3654c8/
 sidebar_expanded_urls:
-- /wellingtonkaikoura-incident-1978/
+- /wellington-kaikoura-incident-1978/
 nav_short_title: Explanations
 title: Natural Causes or Something Still Unresolved?
 title_full: Natural Causes or Something Still Unresolved? | Kaikoura Lights
@@ -198,18 +198,18 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Kaikoura Lights
-parent_permalink: /wellingtonkaikoura-incident-1978/
+parent_permalink: /wellington-kaikoura-incident-1978/
 parent_nav_short_title: Kaikoura Lights
 parent_heading_title: What Really Happened Over Kaikoura?
 ancestor_links:
 - basename: WellingtonKaikoura_i_c1d17f
   title: Kaikoura Lights
-  permalink: /wellingtonkaikoura-incident-1978/
+  permalink: /wellington-kaikoura-incident-1978/
   short_title: Kaikoura Lights
 breadcrumb_links:
 - basename: WellingtonKaikoura_i_c1d17f
   title: Kaikoura Lights
-  permalink: /wellingtonkaikoura-incident-1978/
+  permalink: /wellington-kaikoura-incident-1978/
   short_title: Kaikoura Lights
 sibling_links:
 - basename: WellingtonKaikoura_i_c1d17f_film_radar_evidence_e77e40
@@ -225,7 +225,7 @@ sibling_links:
 up_link:
   basename: WellingtonKaikoura_i_c1d17f
   title: Kaikoura Lights
-  permalink: /wellingtonkaikoura-incident-1978/
+  permalink: /wellington-kaikoura-incident-1978/
   short_title: Kaikoura Lights
 prev_link:
   basename: WellingtonKaikoura_i_c1d17f_film_radar_evidence_e77e40
@@ -239,7 +239,7 @@ next_link:
   permalink: /timeline-d801ba/
   short_title: Timeline
   heading_title: How the Kaikoura Lights Unfolded
-date: '2026-05-29 12:04:03 '
+date: '2026-06-08 23:28:54 '
 header:
   og_image: /assets/images/WellingtonKaikoura_i_c1d17f_natural_explanations_f1b4c3-Illustration-1-social.jpg
   preview_image: /assets/images/WellingtonKaikoura_i_c1d17f_natural_explanations_f1b4c3-Illustration-1.webp
@@ -251,7 +251,7 @@ image: /assets/images/WellingtonKaikoura_i_c1d17f_natural_explanations_f1b4c3-Il
 The unresolved debate surrounding the Wellington/Kaikōura incident of 1978 is not really about whether unusual lights were seen. That much is broadly accepted. The real dispute concerns whether the sightings can be fully explained by ordinary causes acting together under unusual conditions, or whether some observations remain resistant to conventional interpretation. The official New Zealand investigation leaned strongly toward atmospheric effects, astronomical objects, fishing fleets, and misleading radar returns. UFO researchers, pilots, and some technical analysts argued that those explanations only solved parts of the event while leaving key radar-visual episodes unanswered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/NewZealandUFO/AIR-1080-6-897-Volume-1-1978-1981_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Through our contacts with CUFOS... The Wellington radar ARV&#x27;s are described in the event description listing...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Kaik%C5%8Dura_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kaikōura lights</span><span class="citation-popover-snippet">Kaikōura lights</span></span></span> That tension is why the Kaikōura lights case still survives in discussions of UFO [evidence]({{ 'evidence-72f684/' | relative_url }}) decades later. Unlike many famous sightings, the disagreement was not simply “believers versus sceptics”. It involved meteorologists, radar operators, astronomers, defence officials, television crews, and optical analysts looking at the same material and reaching different conclusions about what it meant.
 
 
-<img src="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_natural_explanations_f1b4c3-Illustration-1-light.svg" | relative_url }}" alt="Explanations illustration 1" data-theme-src-dark="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_natural_explanations_f1b4c3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_natural_explanations_f1b4c3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_natural_explanations_f1b4c3-Illustration-1-dark.svg" | relative_url }}" alt="Explanations illustration 1" data-theme-src-dark="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_natural_explanations_f1b4c3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_natural_explanations_f1b4c3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Air Force Atmospheric Explanation
 
 The Royal New Zealand Air Force and associated government agencies eventually concluded that the incident could be explained through a combination of natural and observational factors rather than a single extraordinary object. Their position was not that every witness imagined the lights, but that multiple ordinary phenomena became entangled during stressful night flying conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odt.co.nz">[Otago Daily Times Online News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odt.co.nz</span><span class="citation-popover-title">air force report explains kaikoura ufo sightings</span><span class="citation-popover-snippet">Otago Daily Times Online NewsAir Force report explains Kaikoura &quot;UFO sightings&quot;23 Dec 2010 — The RNZAF attributed the sightings to &quot;freak...</span></span></span>
@@ -332,7 +332,7 @@ This argument significantly reduced the evidential value of the famous footage i
 However, critics of the official conclusion noted that the footage was never the sole basis for the case. Even if the film itself was ambiguous, witnesses still described unusual behaviour independently of the camera images.
 
 
-<img src="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_natural_explanations_f1b4c3-Illustration-2-light.svg" | relative_url }}" alt="Explanations illustration 2" data-theme-src-dark="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_natural_explanations_f1b4c3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_natural_explanations_f1b4c3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_natural_explanations_f1b4c3-Illustration-2-dark.svg" | relative_url }}" alt="Explanations illustration 2" data-theme-src-dark="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_natural_explanations_f1b4c3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_natural_explanations_f1b4c3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why UFO Investigators Disputed the Conclusion
 
 The strongest counterargument from UFO researchers was not that every natural explanation was impossible, but that the official investigation fragmented the incident into isolated pieces while ignoring the cumulative pattern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/NewZealandUFO/AIR-1080-6-897-Volume-1-1978-1981_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Through our contacts with CUFOS... The Wellington radar ARV&#x27;s are described in the event description listing...Read more...</span></span></span>
@@ -386,7 +386,7 @@ Sceptics responded that real-world sightings often are messy combinations of unr
 In many ways, the Kaikōura case became a textbook example of that broader UFO debate: whether complex reports are best explained by one extraordinary cause or by several overlapping ordinary ones.
 
 
-<img src="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_natural_explanations_f1b4c3-Illustration-3-light.svg" | relative_url }}" alt="Explanations illustration 3" data-theme-src-dark="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_natural_explanations_f1b4c3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_natural_explanations_f1b4c3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_natural_explanations_f1b4c3-Illustration-3-dark.svg" | relative_url }}" alt="Explanations illustration 3" data-theme-src-dark="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_natural_explanations_f1b4c3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_natural_explanations_f1b4c3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Case Still Feels Unsettled
 
 The Wellington/Kaikōura incident survives because neither side achieved a decisive victory. The official investigation produced plausible conventional mechanisms, but not all observers found them fully convincing. UFO investigators highlighted genuine inconsistencies, but they never produced conclusive proof of an extraordinary object either. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/NewZealandUFO/AIR-1080-6-897-Volume-1-1978-1981_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Through our contacts with CUFOS... The Wellington radar ARV&#x27;s are described in the event description listing...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odt.co.nz">[Otago Daily Times Online News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odt.co.nz</span><span class="citation-popover-title">air force report explains kaikoura ufo sightings</span><span class="citation-popover-snippet">Otago Daily Times Online NewsAir Force report explains Kaikoura &quot;UFO sightings&quot;23 Dec 2010 — The RNZAF attributed the sightings to &quot;freak...</span></span></span>
@@ -414,7 +414,7 @@ At the same time, every category of evidence contains weaknesses:
 That combination places the Kaikōura lights in an unusual middle ground. It is too well documented to dismiss casually, yet too ambiguous to establish as proof of anything extraordinary. The result is a case that continues to function less as evidence of alien visitation than as a long-running dispute over how humans interpret uncertain technical and visual information under unusual conditions.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qD8ls6ybLhg" title="Arthur C. Clarke&#x27;s Mysterious World - Ep. 10 - U.F.O.s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qD8ls6ybLhg" target="_blank" rel="noopener noreferrer">Arthur C. Clarke&#x27;s Mysterious World - Ep. 10 - U.F.O.s</a></p><p class="youtube-embed-meta">Channel: Low Flying Aircraft &middot; Views: 22.4K &middot; Uploaded: December 2021 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qD8ls6ybLhg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qD8ls6ybLhg">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qceAKPFdXqo" title="THE WEIRDEST SIGHTINGS in NEW ZEALAND" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qceAKPFdXqo" target="_blank" rel="noopener noreferrer">THE WEIRDEST SIGHTINGS in NEW ZEALAND</a></p><p class="youtube-embed-meta">Channel: Shadow Matter &middot; Views: 57.1K &middot; Uploaded: February 2026 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qceAKPFdXqo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qceAKPFdXqo">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -461,7 +461,7 @@ That combination places the Kaikōura lights in an unusual middle ground. It is 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -471,111 +471,36 @@ That combination places the Kaikōura lights in an unusual middle ground. It is 
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=natural+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellingtonkaikoura-incident-197-natural-memorabilia-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MEMORABILIA ,NATURAL HISTORY 1918 , COLOUR , TIMBERGREVILLEA HILLIANA ++"><img src="{{ '/assets/images/marketplace-covers/ab37c28adcce00c64068.jpg' | relative_url }}" alt="Listing image for MEMORABILIA ,NATURAL HISTORY 1918 , COLOUR , TIMBERGREVILLEA HILLIANA ++" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=natural+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellingtonkaikoura-incident-197-natural-memorabilia-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MEMORABILIA ,NATURAL HISTORY 1918 , COLOUR , TIMBERGREVILLEA HILLIANA ++</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=natural+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellingtonkaikoura-incident-197-natural-memorabilia-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for natural memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: natural memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=natural+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellingtonkaikoura-incident-197-natural-memorabilia-boo&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=natural+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellingtonkaikoura-incident-197-natural-memorabilia-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HBO Natural History Production Lanyard Badge Pass TV Memorabilia"><img src="{{ '/assets/images/marketplace-covers/0aefe1f81b36f47cfefc.jpg' | relative_url }}" alt="Listing image for HBO Natural History Production Lanyard Badge Pass TV Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=natural+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellingtonkaikoura-incident-197-natural-memorabilia-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">HBO Natural History Production Lanyard Badge Pass TV Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=natural+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellingtonkaikoura-incident-197-natural-memorabilia-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for natural memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: natural memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=natural+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellingtonkaikoura-incident-197-natural-memorabilia-boo&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=natural+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellingtonkaikoura-incident-197-natural-memorabilia-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE NATURAL (MOVIE) NAMEPLATE FOR SIGNED PHOTO/MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/bb80f0ce97ea641a1f7b.jpg' | relative_url }}" alt="Listing image for THE NATURAL (MOVIE) NAMEPLATE FOR SIGNED PHOTO/MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=natural+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellingtonkaikoura-incident-197-natural-memorabilia-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">THE NATURAL (MOVIE) NAMEPLATE FOR SIGNED PHOTO/MEMORABILIA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=natural+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellingtonkaikoura-incident-197-natural-memorabilia-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for natural memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: natural memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=natural+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellingtonkaikoura-incident-197-natural-memorabilia-boo&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=natural+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellingtonkaikoura-incident-197-natural-memorabilia-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MEMORABILIA , 7 COLOURED NATURAL HISTORY PLATES c 1800&#x27;s , suitable to frame"><img src="{{ '/assets/images/marketplace-covers/8302fd4d67d34970949e.jpg' | relative_url }}" alt="Listing image for MEMORABILIA , 7 COLOURED NATURAL HISTORY PLATES c 1800&#x27;s , suitable to frame" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=natural+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellingtonkaikoura-incident-197-natural-memorabilia-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MEMORABILIA , 7 COLOURED NATURAL HISTORY PLATES c 1800&#x27;s , suitable to frame</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=natural+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellingtonkaikoura-incident-197-natural-memorabilia-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for natural memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: natural memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=natural+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellingtonkaikoura-incident-197-natural-memorabilia-boo&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=natural+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellingtonkaikoura-incident-197-natural-memorabilia-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellingtonkaikoura-incident-197-natural-memorabilia-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MEMORABILIA ,NATURAL HISTORY 1918 , COLOUR , TIMBER , ORITES EXCELSA"><img src="{{ '/assets/images/marketplace-covers/a7e092f172a7b475f03f.jpg' | relative_url }}" alt="Listing image for MEMORABILIA ,NATURAL HISTORY 1918 , COLOUR , TIMBER , ORITES EXCELSA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellingtonkaikoura-incident-197-natural-memorabilia-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MEMORABILIA ,NATURAL HISTORY 1918 , COLOUR , TIMBER , ORITES EXCELSA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellingtonkaikoura-incident-197-natural-memorabilia-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for natural memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: natural memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellingtonkaikoura-incident-197-natural-memorabilia-boo&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -583,15 +508,15 @@ That combination places the Kaikōura lights in an unusual middle ground. It is 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellingtonkaikoura-incident-197-natural-memorabilia-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MEMORABILIA ,NATURAL HISTORY 1918 , COLOUR , TIMBER , GREVILLEA ROBUSTU ++"><img src="{{ '/assets/images/marketplace-covers/821be80b6efa5893efe4.jpg' | relative_url }}" alt="Listing image for MEMORABILIA ,NATURAL HISTORY 1918 , COLOUR , TIMBER , GREVILLEA ROBUSTU ++" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellingtonkaikoura-incident-197-natural-memorabilia-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MEMORABILIA ,NATURAL HISTORY 1918 , COLOUR , TIMBER , GREVILLEA ROBUSTU ++</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellingtonkaikoura-incident-197-natural-memorabilia-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for natural memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: natural memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellingtonkaikoura-incident-197-natural-memorabilia-boo&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -599,15 +524,15 @@ That combination places the Kaikōura lights in an unusual middle ground. It is 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellingtonkaikoura-incident-197-natural-memorabilia-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Natural Born Killers Movie Poster Signed Printed Autograph A3 Framed Memorabilia"><img src="{{ '/assets/images/marketplace-covers/aee58f296223b18be443.jpg' | relative_url }}" alt="Listing image for Natural Born Killers Movie Poster Signed Printed Autograph A3 Framed Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellingtonkaikoura-incident-197-natural-memorabilia-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Natural Born Killers Movie Poster Signed Printed Autograph A3 Framed Memorabilia</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellingtonkaikoura-incident-197-natural-memorabilia-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for natural memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: natural memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellingtonkaikoura-incident-197-natural-memorabilia-boo&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -615,15 +540,15 @@ That combination places the Kaikōura lights in an unusual middle ground. It is 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellingtonkaikoura-incident-197-natural-memorabilia-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MEMORABILIA ,NATURAL HISTORY PLATES , 2 of COLOUR CATTLE 19th CENTURY"><img src="{{ '/assets/images/marketplace-covers/7d175f18c666415e4681.jpg' | relative_url }}" alt="Listing image for MEMORABILIA ,NATURAL HISTORY PLATES , 2 of COLOUR CATTLE 19th CENTURY" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellingtonkaikoura-incident-197-natural-memorabilia-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MEMORABILIA ,NATURAL HISTORY PLATES , 2 of COLOUR CATTLE 19th CENTURY</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellingtonkaikoura-incident-197-natural-memorabilia-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for natural memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: natural memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellingtonkaikoura-incident-197-natural-memorabilia-boo&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -631,7 +556,7 @@ That combination places the Kaikōura lights in an unusual middle ground. It is 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=natural+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellingtonkaikoura-incident-197-natural-memorabilia-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -708,17 +633,31 @@ That combination places the Kaikōura lights in an unusual middle ground. It is 
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -731,42 +670,73 @@ That combination places the Kaikōura lights in an unusual middle ground. It is 
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -781,12 +751,17 @@ That combination places the Kaikōura lights in an unusual middle ground. It is 
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>

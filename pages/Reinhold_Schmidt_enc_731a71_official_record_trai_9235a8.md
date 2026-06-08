@@ -239,7 +239,7 @@ next_link:
   permalink: /the-claim/
   short_title: The Claim
   heading_title: What Did Schmidt Say He Saw?
-date: '2026-05-29 12:16:09 '
+date: '2026-06-08 23:35:18 '
 header:
   og_image: /assets/images/Reinhold_Schmidt_enc_731a71_official_record_trai_9235a8-Illustration-1-social.jpg
   preview_image: /assets/images/Reinhold_Schmidt_enc_731a71_official_record_trai_9235a8-Illustration-1.webp
@@ -251,7 +251,7 @@ image: /assets/images/Reinhold_Schmidt_enc_731a71_official_record_trai_9235a8-Il
 The **[Reinhold Schmidt]({{ 'reinhold-schmidt-encounter-1957/' | relative_url }}) encounter in 1957** left more than mere anecdotes; it produced a **documentary paper trail** stretching from **local law‑enforcement inquiries** and **press coverage** in Kearney, Nebraska, to inclusion in official U.S. Air Force UFO records under **Project Blue Book**. While the extraordinary claims themselves are widely disputed, the *paper trail*—the paperwork, correspondence and public reportage surrounding the event—offers a clear window into how a small‑town report was treated by authorities at the height of the Cold War and by the primary U.S. government UFO‑investigation programme of its era. This page traces that **local and institutional investigation trail**, assesses what the surviving documents show, and explains how they have been preserved and interpreted in subsequent decades.
 
 
-<img src="{{ "/assets/images/Reinhold_Schmidt_enc_731a71_official_record_trai_9235a8-Illustration-1-light.svg" | relative_url }}" alt="Paper Trail illustration 1" data-theme-src-dark="{{ "/assets/images/Reinhold_Schmidt_enc_731a71_official_record_trai_9235a8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Reinhold_Schmidt_enc_731a71_official_record_trai_9235a8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Reinhold_Schmidt_enc_731a71_official_record_trai_9235a8-Illustration-1-dark.svg" | relative_url }}" alt="Paper Trail illustration 1" data-theme-src-dark="{{ "/assets/images/Reinhold_Schmidt_enc_731a71_official_record_trai_9235a8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Reinhold_Schmidt_enc_731a71_official_record_trai_9235a8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Sheriff Questioning and Local Newspaper Attention
 
 Shortly after Schmidt’s November 5, 1957 encounter claim near Kearney, Nebraska, the first official response was by **local law enforcement** rather than military or federal agencies. According to University of Nebraska–Kearney accounts, Schmidt reported his experience to the **county sheriff**, who interrogated him and later brought local police officers to view what Schmidt described as the landing site near the *Platte River*. The sheriff’s involvement was an early step in documenting [the claim]({{ 'the-claim/' | relative_url }}) and establishing whether any physical trace existed at the scene. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unknews.unk.edu/2023/10/03/fact-or-fiction-you-decide-during-ufos-over-the-platte-river-presentation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unknews.unk.edu">[UNK NEWS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unknews.unk.edu</span><span class="citation-popover-title">NEWSFact or fiction?</span><span class="citation-popover-snippet">You decide during &#x27;UFOs Over the Platte...October 3, 2023 — 3 Oct 2023 — TOPIC: On Nov. 5, 1957, local grain buyer R.O. Schmidt was welc...</span><span class="citation-popover-meta">Published: October 3, 2023</span></span></span>
@@ -275,9 +275,9 @@ Important context for interpreting such files is that Project Blue Book’s stan
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UKzI3uu_oTQ" title="Project Blue Book: Declassified - The True Story of the D.C. UFO Sightings | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UKzI3uu_oTQ" target="_blank" rel="noopener noreferrer">Project Blue Book: Declassified - The True Story of the D.C. UFO Sightings | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 393.5K &middot; Uploaded: March 2019 &middot; Length: 2 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UKzI3uu_oTQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UKzI3uu_oTQ">Open on YouTube</a></p></div></div></div>
 
 
-<img src="{{ "/assets/images/Reinhold_Schmidt_enc_731a71_official_record_trai_9235a8-Illustration-3-light.svg" | relative_url }}" alt="Paper Trail illustration 3" data-theme-src-dark="{{ "/assets/images/Reinhold_Schmidt_enc_731a71_official_record_trai_9235a8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Reinhold_Schmidt_enc_731a71_official_record_trai_9235a8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Reinhold_Schmidt_enc_731a71_official_record_trai_9235a8-Illustration-3-dark.svg" | relative_url }}" alt="Paper Trail illustration 3" data-theme-src-dark="{{ "/assets/images/Reinhold_Schmidt_enc_731a71_official_record_trai_9235a8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Reinhold_Schmidt_enc_731a71_official_record_trai_9235a8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-<img src="{{ "/assets/images/Reinhold_Schmidt_enc_731a71_official_record_trai_9235a8-Illustration-2-light.svg" | relative_url }}" alt="Paper Trail illustration 2" data-theme-src-dark="{{ "/assets/images/Reinhold_Schmidt_enc_731a71_official_record_trai_9235a8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Reinhold_Schmidt_enc_731a71_official_record_trai_9235a8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Reinhold_Schmidt_enc_731a71_official_record_trai_9235a8-Illustration-2-dark.svg" | relative_url }}" alt="Paper Trail illustration 2" data-theme-src-dark="{{ "/assets/images/Reinhold_Schmidt_enc_731a71_official_record_trai_9235a8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Reinhold_Schmidt_enc_731a71_official_record_trai_9235a8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Documents Do and Do Not Prove
 
 The Blue Book file on the Schmidt case is significant less for proving the contact claim than for **showing how the report entered and moved through federal documentation channels**. Its inclusion in the Blue Book archive establishes that a formal case file was opened, the witness’s statements were recorded in standard UFO reporting forms, and the event was logged alongside hundreds of other 1957 sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1957-11-7230046-Kearney-Nebraska.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Project Blue Book report</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Project Blue Book report - 1957-11-7230046-Kearney-Nebraska.pdf - Wikimedia Commons...</span></span></span>
@@ -336,7 +336,7 @@ In synthesis, the **Project Blue Book file and local investigation trail** toget
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -345,78 +345,94 @@ In synthesis, the **Project Blue Book file and local investigation trail** toget
       </div>
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-flying-saucer-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar S4 Sport Model UFO Replica | 3D Printed Area 51 Flying Saucer 4-12&quot;"><img src="{{ '/assets/images/marketplace-covers/2c30cf8418f7a52bf3ac.jpg' | relative_url }}" alt="Listing image for Bob Lazar S4 Sport Model UFO Replica | 3D Printed Area 51 Flying Saucer 4-12&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-flying-saucer-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar S4 Sport Model UFO Replica | 3D Printed Area 51 Flying Saucer 4-12&quot;</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-flying-saucer-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.com</span>: flying saucer model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-flying-saucer-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-flying-saucer-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Die Glocke German UFO Model World War 2 - Retro/SciFi/Geek Gift - 3D Printed"><img src="{{ '/assets/images/marketplace-covers/c368c26b2c4a13dced55.jpg' | relative_url }}" alt="Listing image for Die Glocke German UFO Model World War 2 - Retro/SciFi/Geek Gift - 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-flying-saucer-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Die Glocke German UFO Model World War 2 - Retro/SciFi/Geek Gift - 3D Printed</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-flying-saucer-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.com</span>: flying saucer model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-flying-saucer-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-flying-saucer-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer UFO Model 3D Printed | Classic Disc Replica Silver Grey 3-9&quot;"><img src="{{ '/assets/images/marketplace-covers/5648749764955ecad803.jpg' | relative_url }}" alt="Listing image for Flying Saucer UFO Model 3D Printed | Classic Disc Replica Silver Grey 3-9&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-flying-saucer-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer UFO Model 3D Printed | Classic Disc Replica Silver Grey 3-9&quot;</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-flying-saucer-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.com</span>: flying saucer model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-flying-saucer-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-flying-saucer-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sport Model UFO/Flying Saucer - from S4 Area 51 - Revealed by Bob Lazar - small"><img src="{{ '/assets/images/marketplace-covers/03f6065aef10e41620f8.jpg' | relative_url }}" alt="Listing image for Sport Model UFO/Flying Saucer - from S4 Area 51 - Revealed by Bob Lazar - small" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-flying-saucer-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Sport Model UFO/Flying Saucer - from S4 Area 51 - Revealed by Bob Lazar - small</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-flying-saucer-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.com</span>: flying saucer model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-flying-saucer-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-flying-saucer-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="paper-trail-how-did-officials-handle-the-report-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -492,17 +508,31 @@ In synthesis, the **Project Blue Book file and local investigation trail** toget
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -515,42 +545,73 @@ In synthesis, the **Project Blue Book file and local investigation trail** toget
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -565,12 +626,17 @@ In synthesis, the **Project Blue Book file and local investigation trail** toget
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>

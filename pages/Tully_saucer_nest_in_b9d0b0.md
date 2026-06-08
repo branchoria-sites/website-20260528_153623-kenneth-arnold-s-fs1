@@ -132,9 +132,9 @@ heading_title: What Really Happened at Tully in 1966?
 page_heading_title: What Really Happened at Tully in 1966?
 source_count: 82
 infographic_count: 3
-page_website_name: TullyUFO
+page_website_name: Tully UFO
 page_banner_line: Exploring the famous 1966 Tully UFO sighting and physical trace
-site_website_name: TullyUFO
+site_website_name: Tully UFO
 site_banner_line: Exploring the famous 1966 Tully UFO sighting and physical trace
 site_image_description: A swampy lagoon with a circular mat of flattened reeds, under a clear sky, with a distant tractor parked nearby.
 output_language: English
@@ -345,7 +345,7 @@ sibling_links:
   short_title: Higdon Contact
 - basename: CashLandrum_incident_7ad7d9
   title: Cash Landrum
-  permalink: /cashlandrum-incident-1980/
+  permalink: /cash-landrum-incident-1980/
   short_title: Cash Landrum
 - basename: Cedric_Allingham_enc_2c7f6b
   title: Allingham
@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: CiscoGrove1964
+  title: Cisco Grove1964
   permalink: /cisco-grove-incident-1964/
-  short_title: CiscoGrove1964
+  short_title: Cisco Grove1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -432,9 +432,9 @@ sibling_links:
   permalink: /fred-m-johnson-sighting-1947/
   short_title: Johnson Sighting
 - basename: Gary_Wilcox_encounte_6de9ff
-  title: WilcoxUFO
+  title: Wilcox UFO
   permalink: /gary-wilcox-encounter-1964/
-  short_title: WilcoxUFO
+  short_title: Wilcox UFO
 - basename: Gemini_4_sighting_19_9c351d
   title: Gemini 4 Sighting
   permalink: /gemini-4-sighting-1965/
@@ -528,21 +528,21 @@ sibling_links:
   permalink: /linda-cortile-abduction-1989/
   short_title: Cortile Case
 - basename: Livingston_incident_b2c293
-  title: LivingstonUFO
+  title: Livingston UFO
   permalink: /livingston-incident-1979/
-  short_title: LivingstonUFO
+  short_title: Livingston UFO
 - basename: Loch_Raven_Dam_incid_b0e5b6
-  title: LochRavenUFO
+  title: Loch Raven UFO
   permalink: /loch-raven-dam-incident-1958/
-  short_title: LochRavenUFO
+  short_title: Loch Raven UFO
 - basename: Lubbock_Lights_sight_4eabd8
   title: Lubbock Lights
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: MagentaCrash1933
+  title: Magenta Crash1933
   permalink: /magenta-italy-crash-1933/
-  short_title: MagentaCrash1933
+  short_title: Magenta Crash1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -552,9 +552,9 @@ sibling_links:
   permalink: /maury-island-incident-1947/
   short_title: Maury Island
 - basename: McMinnville_photogra_4e1af3
-  title: McMinnville Photos
-  permalink: /mcminnville-photographs-1950/
-  short_title: McMinnville Photos
+  title: Mc Minnville Photos
+  permalink: /mc-minnville-photographs-1950/
+  short_title: Mc Minnville Photos
 - basename: Middle_East_UAP_vide_4a6c55
   title: Middle East Orb
   permalink: /middle-east-uap-video-2022/
@@ -572,9 +572,9 @@ sibling_links:
   permalink: /oloron-angel-hair-incident-1952/
   short_title: Oloron Angel Hair
 - basename: Operation_Mainbrace_06bcd8
-  title: MainbraceSightings
+  title: Mainbrace Sightings
   permalink: /operation-mainbrace-sightings-1952/
-  short_title: MainbraceSightings
+  short_title: Mainbrace Sightings
 - basename: Orfeo_Angelucci_enco_bef29a
   title: Angelucci
   permalink: /orfeo-angelucci-encounter-1955/
@@ -624,17 +624,17 @@ sibling_links:
   permalink: /socorro-sighting-by-lonnie-zamora-1964/
   short_title: Socorro UFO
 - basename: SpaurNeff_Ravenna_si_4977ac
-  title: RavennaUFO
-  permalink: /spaurneff-ravenna-sighting-1966/
-  short_title: RavennaUFO
+  title: Ravenna UFO
+  permalink: /spaur-neff-ravenna-sighting-1966/
+  short_title: Ravenna UFO
 - basename: Stanford_Kentucky_ab_a91f06
   title: Stanford Abduction
   permalink: /stanford-kentucky-abduction-1976/
   short_title: Stanford Abduction
 - basename: Stephen_Darbishire_p_f80223
-  title: DarbishireUFO
+  title: Darbishire UFO
   permalink: /stephen-darbishire-photograph-1954/
-  short_title: DarbishireUFO
+  short_title: Darbishire UFO
 - basename: Steven_Michalak_enco_1bbf94
   title: Falcon Lake
   permalink: /steven-michalak-encounter-1967/
@@ -648,9 +648,9 @@ sibling_links:
   permalink: /thomas-f-mantell-incident-1948/
   short_title: Mantell
 - basename: Topcliffe_incident_1_80cbf4
-  title: TopcliffeUFO
+  title: Topcliffe UFO
   permalink: /topcliffe-incident-1952/
-  short_title: TopcliffeUFO
+  short_title: Topcliffe UFO
 - basename: Trans-en-Provence_en_439c97
   title: Trans en Provence
   permalink: /trans-en-provence-encounter-1981/
@@ -680,9 +680,9 @@ sibling_links:
   permalink: /ubatuba-incident-1957/
   short_title: Ubatuba
 - basename: USS_Nimitz_Tic_Tac_v_83266a
-  title: NimitzUAP
+  title: Nimitz UAP
   permalink: /uss-nimitz-tic-tac-video-2004/
-  short_title: NimitzUAP
+  short_title: Nimitz UAP
 - basename: USS_Russell_video_20_3188a1
   title: USS Russell
   permalink: /uss-russell-video-2019/
@@ -704,9 +704,9 @@ sibling_links:
   permalink: /valentich-disappearance-1978/
   short_title: Valentich
 - basename: Voronezh_Russia_land_e13f34
-  title: VoronezhLanding
+  title: Voronezh Landing
   permalink: /voronezh-russia-landing-1989/
-  short_title: VoronezhLanding
+  short_title: Voronezh Landing
 - basename: Walesville_Incident_cbceb2
   title: Walesville
   permalink: /walesville-incident-1954/
@@ -717,12 +717,12 @@ sibling_links:
   short_title: Washington Saucers
 - basename: WellingtonKaikoura_i_c1d17f
   title: Kaikoura Lights
-  permalink: /wellingtonkaikoura-incident-1978/
+  permalink: /wellington-kaikoura-incident-1978/
   short_title: Kaikoura Lights
 - basename: Ummo_photographs_196_ed7563
-  title: UmmoPhotos
+  title: Ummo Photos
   permalink: /were-the-1967-ummo-photographs-real-or-a/
-  short_title: UmmoPhotos
+  short_title: Ummo Photos
 child_links:
 - basename: Tully_saucer_nest_in_b9d0b0_tully_investigations_7e5799
   title: Investigations | Tully saucer nest incident 1966
@@ -749,7 +749,7 @@ next_link:
   title: Tunguska
   permalink: /tunguska-event-1908/
   short_title: Tunguska
-date: '2026-05-29 12:24:05 '
+date: '2026-06-08 23:40:37 '
 header:
   og_image: /assets/images/Tully_saucer_nest_in_b9d0b0-overview-social.jpg
   preview_image: /assets/images/Tully_saucer_nest_in_b9d0b0-overview.webp
@@ -779,7 +779,7 @@ That visible trace changed the incident from a private sighting into a public sp
 The reed mat also created a problem for interpretation. To supporters of the UFO case, it looked like a landing or take-off trace: a physical mark apparently located where Pedley said the object had risen. To sceptics, it was a natural swamp formation, a weather effect, animal or insect damage, or a patch whose appearance had been overinterpreted once a flying-saucer story was attached to it. The trace was real enough to be reported and sampled, but its cause was not pinned down in a way that could exclude ordinary mechanisms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slq.qld.gov.au">[State Library of Queensland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slq.qld.gov.au</span><span class="citation-popover-title">State Library of Queensland The Truth Is Out There</span><span class="citation-popover-snippet">State Library of Queensland The Truth Is Out There</span></span></span>
 
 
-<img src="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0-Illustration-1-light.svg" | relative_url }}" alt="Tully saucer nest incident 1966 illustration 1" data-theme-src-dark="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0-Illustration-1-dark.svg" | relative_url }}" alt="Tully saucer nest incident 1966 illustration 1" data-theme-src-dark="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the official investigation treated the case
 
 The Royal Australian Air Force was the relevant Australian authority for many UFO reports during the Cold War period. The National Archives of Australia explains that the RAAF retained records of reported UFO sightings and that the government’s interest was partly pragmatic: unusual aerial reports might, in principle, have national-security relevance even if most proved to be aircraft, planets, weather, or misperception. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[naa.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">flying saucers fact or fiction</span><span class="citation-popover-snippet">flying saucers fact or fiction</span></span></span>
@@ -814,7 +814,7 @@ The Tully case has survived because no explanation is perfect. The best explanat
 **An unresolved unusual aerial object** remains the position favoured by many UFO-oriented accounts. They stress the physical trace, Pedley’s apparently sincere testimony, the rapid departure, and the lack of a fully satisfying natural reconstruction. The difficulty is evidential: the case does not provide the kind of durable, testable, multi-sensor evidence that would allow a confident extraordinary conclusion. It remains a notable unexplained or disputed report, not a demonstrated landing by an exotic craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uforq.org/the-tully-saucer-nest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[UFO Research Queensland - Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-title">UFO Research Queensland</span><span class="citation-popover-snippet">UFO Research Queensland</span></span></span>
 
 
-<img src="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0-Illustration-2-light.svg" | relative_url }}" alt="Tully saucer nest incident 1966 illustration 2" data-theme-src-dark="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0-Illustration-2-dark.svg" | relative_url }}" alt="Tully saucer nest incident 1966 illustration 2" data-theme-src-dark="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Tully became linked to crop circles
 
 One reason the Tully incident still circulates is its later association with crop-circle history. It was not a modern cereal-field pictogram like the elaborate English formations of the 1980s and 1990s. It was a simple circular or oval disturbance in swamp reeds. Even so, later writers often describe it as a prototype “crop circle” or “saucer nest” because it combined a circular plant trace with a UFO narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.australiangeographic.com.au/blogs/tim-the-yowie-man/2020/09/saucer-hysteria-the-case-of-the-tully-crop-circle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australiangeographic.com.au">[australiangeographic.com.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australiangeographic.com.au</span><span class="citation-popover-title">saucer hysteria the case of the tully crop circle</span><span class="citation-popover-snippet">saucer hysteria the case of the tully crop circle</span></span></span>
@@ -824,7 +824,7 @@ The link became stronger after Doug Bower and Dave Chorley, the British prankste
 That later crop-circle connection should be handled carefully. It does not prove the 1966 Tully trace was a hoax, because the British hoaxes came later and in a different setting. But it does show how a local Queensland UFO report became part of a much larger cultural chain: a swamp-reed mystery in 1966 helped seed the imagery that pranksters, believers, journalists, and sceptics later turned into the global crop-circle debate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.smithsonianmag.com/arts-culture/crop-circles-the-art-of-the-hoax-2524283/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">Smithsonian Magazine Crop Circles: The Art of the Hoax</span><span class="citation-popover-snippet">Smithsonian Magazine Crop Circles: The Art of the Hoax</span></span></span>
 
 
-<img src="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0-Illustration-3-light.svg" | relative_url }}" alt="Tully saucer nest incident 1966 illustration 3" data-theme-src-dark="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0-Illustration-3-dark.svg" | relative_url }}" alt="Tully saucer nest incident 1966 illustration 3" data-theme-src-dark="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What is solid, what is uncertain, and what is often overstated
 
 The solid core is relatively small. George Pedley reported a brief daylight sighting near Horseshoe Lagoon on 19 January 1966. A circular or oval reed formation was observed and photographed. Police and RAAF channels became involved. A sample was examined, and the RAAF-linked conclusion reported in later library summaries was natural submersion. The case attracted intense local and national attention and became one of Australia’s best-known UFO trace reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://theozfiles.blogspot.com/2017/07/the-1966-tully-flying-saucer-nest.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theozfiles.blogspot.com">[The Oz Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theozfiles.blogspot.com</span><span class="citation-popover-title">the 1966 tully flying saucer nest</span><span class="citation-popover-snippet">the 1966 tully flying saucer nest</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slq.qld.gov.au">[State Library of Queensland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slq.qld.gov.au</span><span class="citation-popover-title">State Library of Queensland The Truth Is Out There</span><span class="citation-popover-snippet">State Library of Queensland The Truth Is Out There</span></span></span>
@@ -843,7 +843,7 @@ The Tully “saucer nest” incident sits at the junction of several important U
 As a case study, Tully rewards disciplined scepticism. Pedley’s report should not be dismissed as mere nonsense, because it was promptly reported, documented, and associated with a visible site feature. Nor should the reed mat be treated as a landing imprint in the strong sense, because the physical evidence was biologically ordinary, vulnerable to disturbance, and never shown to contain exotic signatures. The case remains memorable because both sides have something real to point to: a sincere-seeming witness and a visible “nest” on one side, a plausible natural setting and weak physical proof on the other.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0YvaAlgokSs" title="Global crop circle phenomenon inspired by UFO mystery in Far North Queensland? 🛸 | Uncropped" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0YvaAlgokSs" target="_blank" rel="noopener noreferrer">Global crop circle phenomenon inspired by UFO mystery in Far North Queensland? 🛸 | Uncropped</a></p><p class="youtube-embed-meta">Channel: ABC Australia &middot; Views: 15.7K &middot; Uploaded: January 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0YvaAlgokSs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0YvaAlgokSs">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IhKyQkhOfoM" title="Schoolyard witnesses in mass UFO sighting demand answers | Australian Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IhKyQkhOfoM" target="_blank" rel="noopener noreferrer">Schoolyard witnesses in mass UFO sighting demand answers | Australian Story</a></p><p class="youtube-embed-meta">Channel: ABC News In-depth &middot; Views: 691.6K &middot; Uploaded: April 2026 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IhKyQkhOfoM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IhKyQkhOfoM">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -890,7 +890,7 @@ As a case study, Tully rewards disciplined scepticism. Pedley’s report should 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -900,111 +900,36 @@ As a case study, Tully rewards disciplined scepticism. Pedley’s report should 
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=happened+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-happened-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for IT HAPPENED ONE NIGHT STUNNING 24x36 inch Poster PRINT"><img src="{{ '/assets/images/marketplace-covers/bed28c80fd2742d77e7d.jpg' | relative_url }}" alt="Listing image for IT HAPPENED ONE NIGHT STUNNING 24x36 inch Poster PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=happened+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-happened-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">IT HAPPENED ONE NIGHT STUNNING 24x36 inch Poster PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=happened+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-happened-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for happened poster">Search <span data-ebay-domain-label>eBay.com</span>: happened poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=happened+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-happened-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=happened+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-happened-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for It happened on 5th Avenue cult Ann Harding movie poster print"><img src="{{ '/assets/images/marketplace-covers/4372f1246b714beb484a.jpg' | relative_url }}" alt="Listing image for It happened on 5th Avenue cult Ann Harding movie poster print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=happened+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-happened-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">It happened on 5th Avenue cult Ann Harding movie poster print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=happened+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-happened-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for happened poster">Search <span data-ebay-domain-label>eBay.com</span>: happened poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=happened+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-happened-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=happened+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-happened-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1934 It Happened one night Movie Repro Print Poster 13x19"><img src="{{ '/assets/images/marketplace-covers/8194c14eab5f63a6a537.jpg' | relative_url }}" alt="Listing image for 1934 It Happened one night Movie Repro Print Poster 13x19" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=happened+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-happened-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">1934 It Happened one night Movie Repro Print Poster 13x19</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=happened+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-happened-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for happened poster">Search <span data-ebay-domain-label>eBay.com</span>: happened poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=happened+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-happened-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=happened+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-happened-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for IT HAPPENED ONE NIGHT STUNNING 24X36 B&amp;W POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/d2f98284106e13541392.jpg' | relative_url }}" alt="Listing image for IT HAPPENED ONE NIGHT STUNNING 24X36 B&amp;W POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=happened+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-happened-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">IT HAPPENED ONE NIGHT STUNNING 24X36 B&amp;W POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=happened+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-happened-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for happened poster">Search <span data-ebay-domain-label>eBay.com</span>: happened poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=happened+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-happened-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=happened+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-happened-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=happened+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-happened-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for What Ever Happened To Baby Jane Movie Poster A1 A2 A3"><img src="{{ '/assets/images/marketplace-covers/dc5ff644ef9db53000e6.jpg' | relative_url }}" alt="Listing image for What Ever Happened To Baby Jane Movie Poster A1 A2 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=happened+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-happened-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">What Ever Happened To Baby Jane Movie Poster A1 A2 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=happened+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-happened-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for happened poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: happened poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=happened+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-happened-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -1012,15 +937,15 @@ As a case study, Tully rewards disciplined scepticism. Pedley’s report should 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=happened+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-happened-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for It Happened One Night 1934 Retro Movie Poster A0-A1-A2-A3-A4-A5-A6-MAXI 274"><img src="{{ '/assets/images/marketplace-covers/57da8a6b20eccc6786fc.jpg' | relative_url }}" alt="Listing image for It Happened One Night 1934 Retro Movie Poster A0-A1-A2-A3-A4-A5-A6-MAXI 274" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=happened+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-happened-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">It Happened One Night 1934 Retro Movie Poster A0-A1-A2-A3-A4-A5-A6-MAXI 274</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=happened+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-happened-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for happened poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: happened poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=happened+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-happened-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -1028,15 +953,31 @@ As a case study, Tully rewards disciplined scepticism. Pedley’s report should 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=happened+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-happened-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Whatever Happened to Harold Smith ORIGNAL UK Cinema Quad FILM POSTER 100cmx76cm"><img src="{{ '/assets/images/marketplace-covers/2caacd18e9f6ec57bb29.jpg' | relative_url }}" alt="Listing image for Whatever Happened to Harold Smith ORIGNAL UK Cinema Quad FILM POSTER 100cmx76cm" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=happened+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-happened-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Whatever Happened to Harold Smith ORIGNAL UK Cinema Quad FILM POSTER 100cmx76cm</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=happened+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-happened-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for happened poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: happened poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=happened+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-happened-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -1044,7 +985,7 @@ As a case study, Tully rewards disciplined scepticism. Pedley’s report should 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=happened+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-happened-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="tully-saucer-nest-incident-1966-what-really-happened-at-tully-in-1966-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1121,17 +1062,31 @@ As a case study, Tully rewards disciplined scepticism. Pedley’s report should 
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -1144,42 +1099,73 @@ As a case study, Tully rewards disciplined scepticism. Pedley’s report should 
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -1194,12 +1180,17 @@ As a case study, Tully rewards disciplined scepticism. Pedley’s report should 
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>

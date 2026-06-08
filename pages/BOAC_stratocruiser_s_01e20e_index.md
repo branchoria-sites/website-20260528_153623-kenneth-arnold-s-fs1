@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /boac-stratocruiser-s-01e20e-index/
 description: Focused pages that expand on BOAC stratocruiser sighting 1954.
-date: '2026-05-29'
+date: '2026-06-08'
 layout: default
 parent_basename: BOAC_stratocruiser_s_01e20e
 parent_title: BOAC stratocruiser sighting 1954

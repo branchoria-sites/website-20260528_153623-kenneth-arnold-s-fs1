@@ -239,7 +239,7 @@ next_link:
   permalink: /saucer-phrase/
   short_title: Saucer Phrase
   heading_title: How One Report Became Flying Saucers
-date: '2026-05-29 11:49:05 '
+date: '2026-06-08 23:18:21 '
 header:
   og_image: /assets/images/Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af-Illustration-1-social.jpg
   preview_image: /assets/images/Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af-Illustration-1.webp
@@ -251,7 +251,7 @@ image: /assets/images/Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af-Il
 Kenneth Arnold’s 24 June 1947 sighting lasted only a few minutes, yet nearly every later argument about the case depends on that narrow window of time over the Cascade Range. Arnold’s route from Chehalis towards Yakima, his position near Mount Rainier, the line of sight towards Mount Adams, and his estimate that the objects crossed that span in roughly two and a half minutes all became central to the modern UFO debate. Supporters treated the timing and geography as evidence of extraordinary speed. Skeptics later argued that the same geography made distance and motion easy to misjudge. The case therefore turns less on the famous phrase “flying saucer” than on a tightly compressed sequence of observations made from a moving aircraft above mountainous terrain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer24 Jun 2022 — What Kenneth Arnold saw while flying past Mt. Rainier on June 2...</span></span></span>
 
 
-<img src="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af-Illustration-1-light.svg" | relative_url }}" alt="Flight Path illustration 1" data-theme-src-dark="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af-Illustration-1-dark.svg" | relative_url }}" alt="Flight Path illustration 1" data-theme-src-dark="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Chehalis to Mount Rainier Route
 
 On the afternoon of 24 June 1947, Kenneth Arnold departed from Chehalis, Washington, in his CallAir A-2 light aircraft, intending to fly east towards Yakima before continuing south to Pendleton, Oregon. The flight was not originally meant to become a search mission, but Arnold diverted towards the Cascade foothills after hearing about a reward connected to a missing U.S. Marine Corps C-46 transport that had crashed near Mount Rainier. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer24 Jun 2022 — What Kenneth Arnold saw while flying past Mt. Rainier on June 2...</span></span></span>
@@ -290,7 +290,7 @@ That sequence mattered because Arnold was not simply reporting an isolated flash
 Arnold also said the objects appeared thin and nearly edge-on at moments, making them difficult to see except when they reflected sunlight. This detail later fed two competing interpretations. UFO proponents argued it suggested unusual craft manoeuvring at high speed. Skeptics argued that intermittent visibility was exactly what would be expected from birds, mirages or reflections viewed at long range. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kenneth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">KennethKenneth is a given name of Gaelic origin. The name is an Anglicised form of two entirely different Gaelic personal names: Cainn...</span></span></span>
 
 
-<img src="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af-Illustration-2-light.svg" | relative_url }}" alt="Flight Path illustration 2" data-theme-src-dark="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af-Illustration-2-dark.svg" | relative_url }}" alt="Flight Path illustration 2" data-theme-src-dark="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Landmarks Shaped the Speed Estimate
 
 The most consequential part of the sighting was Arnold’s attempt to calculate speed using the distance between Mount Rainier and Mount Adams. Those volcanic peaks are separated by roughly 47 to 50 miles depending on the measurement method. Arnold believed the objects crossed that span in approximately one minute and forty-two seconds, though later summaries often rounded the observation window differently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer24 Jun 2022 — What Kenneth Arnold saw while flying past Mt. Rainier on June 2...</span></span></span>
@@ -335,7 +335,7 @@ Steuart Campbell’s later mirage argument, for example, proposed that Arnold ma
 Supporters of Arnold’s account countered that he was an experienced pilot accustomed to judging distance and motion in mountainous country. Arnold had roughly 4,000 flying hours, and contemporaries who interviewed him often described him as calm and credible rather than sensational. The geography therefore cuts both ways: the mountains provided measurable references, but they also created conditions where depth perception could become unreliable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kenneth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">KennethKenneth is a given name of Gaelic origin. The name is an Anglicised form of two entirely different Gaelic personal names: Cainn...</span></span></span>
 
 
-<img src="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af-Illustration-3-light.svg" | relative_url }}" alt="Flight Path illustration 3" data-theme-src-dark="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af-Illustration-3-dark.svg" | relative_url }}" alt="Flight Path illustration 3" data-theme-src-dark="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Timeline Reconstruction and Remaining Uncertainty
 
 A broadly accepted timeline of the sighting now looks like this:
@@ -392,7 +392,7 @@ Approximate timeEventEarly afternoonArnold departs Chehalis for Yakima and Pendl
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -402,111 +402,36 @@ Approximate timeEventEarly afternoonArnold departs Chehalis for Yakima and Pendl
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=cascade+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-cascade-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1981 Nike Cascade Run Off Framed Poster"><img src="{{ '/assets/images/marketplace-covers/e3f49a77b658e906a8a5.jpg' | relative_url }}" alt="Listing image for Vintage 1981 Nike Cascade Run Off Framed Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=cascade+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-cascade-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage 1981 Nike Cascade Run Off Framed Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=cascade+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-cascade-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cascade poster">Search <span data-ebay-domain-label>eBay.com</span>: cascade poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=cascade+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-cascade-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=cascade+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-cascade-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Waterfalls Cascade Down Massive Sheer Rock Formation Poster Print"><img src="{{ '/assets/images/marketplace-covers/db0724c5cc64c55eeb4c.jpg' | relative_url }}" alt="Listing image for Waterfalls Cascade Down Massive Sheer Rock Formation Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=cascade+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-cascade-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Waterfalls Cascade Down Massive Sheer Rock Formation Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=cascade+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-cascade-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cascade poster">Search <span data-ebay-domain-label>eBay.com</span>: cascade poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=cascade+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-cascade-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=cascade+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-cascade-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1983 Nike Cascade Run Off Framed Poster"><img src="{{ '/assets/images/marketplace-covers/d9afed88908a6c115637.jpg' | relative_url }}" alt="Listing image for Vintage 1983 Nike Cascade Run Off Framed Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=cascade+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-cascade-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage 1983 Nike Cascade Run Off Framed Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=cascade+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-cascade-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cascade poster">Search <span data-ebay-domain-label>eBay.com</span>: cascade poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=cascade+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-cascade-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=cascade+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-cascade-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1991 VTG NIKE CASCADE RUN-OFF 36.5X20 PROMOTIONAL POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/fa3300f3684de8606c8d.jpg' | relative_url }}" alt="Listing image for 1991 VTG NIKE CASCADE RUN-OFF 36.5X20 PROMOTIONAL POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=cascade+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-cascade-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">1991 VTG NIKE CASCADE RUN-OFF 36.5X20 PROMOTIONAL POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=cascade+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-cascade-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cascade poster">Search <span data-ebay-domain-label>eBay.com</span>: cascade poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=cascade+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-cascade-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=cascade+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-cascade-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cascade+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-cascade-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bend Oregon Cascade Mountains Smith Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5df9b30e97d7f9072396.jpg' | relative_url }}" alt="Listing image for Bend Oregon Cascade Mountains Smith Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cascade+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-cascade-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bend Oregon Cascade Mountains Smith Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cascade+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-cascade-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cascade poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cascade poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cascade+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-cascade-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -514,15 +439,15 @@ Approximate timeEventEarly afternoonArnold departs Chehalis for Yakima and Pendl
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cascade+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-cascade-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for _SSK4117 Rush Of Cascade. color Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/12a8b0ecfa7add002647.jpg' | relative_url }}" alt="Listing image for _SSK4117 Rush Of Cascade. color Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cascade+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-cascade-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">_SSK4117 Rush Of Cascade. color Fra Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cascade+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-cascade-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cascade poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cascade poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cascade+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-cascade-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -530,15 +455,15 @@ Approximate timeEventEarly afternoonArnold departs Chehalis for Yakima and Pendl
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cascade+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-cascade-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cascade Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9adb83179884a0d08fc1.jpg' | relative_url }}" alt="Listing image for Cascade Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cascade+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-cascade-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Cascade Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cascade+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-cascade-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cascade poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cascade poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cascade+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-cascade-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -546,15 +471,15 @@ Approximate timeEventEarly afternoonArnold departs Chehalis for Yakima and Pendl
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cascade+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-cascade-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Emerald Forest Cascade Steps Portal Waterfall Poster Print Framed Canvas Art"><img src="{{ '/assets/images/marketplace-covers/74b7610efd79b5e43ba1.jpg' | relative_url }}" alt="Listing image for Emerald Forest Cascade Steps Portal Waterfall Poster Print Framed Canvas Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cascade+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-cascade-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Emerald Forest Cascade Steps Portal Waterfall Poster Print Framed Canvas Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cascade+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-cascade-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cascade poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cascade poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cascade+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-cascade-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -562,7 +487,7 @@ Approximate timeEventEarly afternoonArnold departs Chehalis for Yakima and Pendl
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cascade+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-cascade-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -639,17 +564,31 @@ Approximate timeEventEarly afternoonArnold departs Chehalis for Yakima and Pendl
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -662,42 +601,73 @@ Approximate timeEventEarly afternoonArnold departs Chehalis for Yakima and Pendl
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -712,12 +682,17 @@ Approximate timeEventEarly afternoonArnold departs Chehalis for Yakima and Pendl
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>

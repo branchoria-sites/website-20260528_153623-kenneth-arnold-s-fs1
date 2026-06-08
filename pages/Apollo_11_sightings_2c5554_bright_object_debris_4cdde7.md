@@ -233,7 +233,7 @@ next_link:
   permalink: /light-flashes/
   short_title: Light Flashes
   heading_title: Why Did Apollo 11 Astronauts See Flashes?
-date: '2026-05-29 12:03:38 '
+date: '2026-06-08 23:28:30 '
 header:
   og_image: /assets/images/Apollo_11_sightings_2c5554_bright_object_debris_4cdde7-Illustration-1-social.jpg
   preview_image: /assets/images/Apollo_11_sightings_2c5554_bright_object_debris_4cdde7-Illustration-1.webp
@@ -245,7 +245,7 @@ image: /assets/images/Apollo_11_sightings_2c5554_bright_object_debris_4cdde7-Ill
 The best-documented “Apollo 11 UFO” incident was not a dramatic encounter near the Moon, but a cautious discussion among the astronauts about a bright object seen during the translunar coast between Earth and the Moon. Neil Armstrong, Buzz Aldrin and Michael Collins all acknowledged that they could not identify the object with certainty at the time. Yet the same debriefing that fuelled later UFO speculation also strongly points toward a far more ordinary explanation: debris or hardware associated with the Apollo spacecraft itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">nasa uap d4 apollo 11 technical crew debriefing 1969</span><span class="citation-popover-snippet">Department of WarNASA-UAP-D4, Apollo 11 Technical Crew Debriefing, 196911 Mar 1977 — Of course, we were seeing all sorts of little object...</span></span></span>
 
 
-<img src="{{ "/assets/images/Apollo_11_sightings_2c5554_bright_object_debris_4cdde7-Illustration-1-light.svg" | relative_url }}" alt="Bright Object illustration 1" data-theme-src-dark="{{ "/assets/images/Apollo_11_sightings_2c5554_bright_object_debris_4cdde7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Apollo_11_sightings_2c5554_bright_object_debris_4cdde7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Apollo_11_sightings_2c5554_bright_object_debris_4cdde7-Illustration-1-dark.svg" | relative_url }}" alt="Bright Object illustration 1" data-theme-src-dark="{{ "/assets/images/Apollo_11_sightings_2c5554_bright_object_debris_4cdde7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Apollo_11_sightings_2c5554_bright_object_debris_4cdde7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 What makes the episode historically interesting is not evidence of extraterrestrial craft, but how experienced astronauts handled uncertainty in deep space. The crew carefully discussed what they could and could not determine, recognised the limits of visual perception in space, and repeatedly returned to possible mission-related debris as the most plausible explanation. Later retellings often preserved the word “unidentified” while dropping the astronauts’ own sceptical reasoning.
 
 ## What the astronauts saw during translunar coast
@@ -290,7 +290,7 @@ This exchange later became distorted in UFO literature. Some accounts present th
 Rejecting the S-IVB did not mean rejecting debris.
 
 
-<img src="{{ "/assets/images/Apollo_11_sightings_2c5554_bright_object_debris_4cdde7-Illustration-2-light.svg" | relative_url }}" alt="Bright Object illustration 2" data-theme-src-dark="{{ "/assets/images/Apollo_11_sightings_2c5554_bright_object_debris_4cdde7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Apollo_11_sightings_2c5554_bright_object_debris_4cdde7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Apollo_11_sightings_2c5554_bright_object_debris_4cdde7-Illustration-2-dark.svg" | relative_url }}" alt="Bright Object illustration 2" data-theme-src-dark="{{ "/assets/images/Apollo_11_sightings_2c5554_bright_object_debris_4cdde7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Apollo_11_sightings_2c5554_bright_object_debris_4cdde7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The debris candidates the crew considered
 
 The most important detail in the original debriefing is that the astronauts immediately considered ordinary mission hardware as the likely source of the object. Their discussion stayed entirely within the context of known spacecraft operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">nasa uap d4 apollo 11 technical crew debriefing 1969</span><span class="citation-popover-snippet">Department of WarNASA-UAP-D4, Apollo 11 Technical Crew Debriefing, 196911 Mar 1977 — Of course, we were seeing all sorts of little object...</span></span></span>
@@ -349,7 +349,7 @@ The case therefore occupies an unusual middle ground in UFO history:
 That combination explains why the incident continues to attract attention. It is not a hoax, and it is not an invented story. Yet neither is it strong evidence for extraterrestrial visitation.
 
 
-<img src="{{ "/assets/images/Apollo_11_sightings_2c5554_bright_object_debris_4cdde7-Illustration-3-light.svg" | relative_url }}" alt="Bright Object illustration 3" data-theme-src-dark="{{ "/assets/images/Apollo_11_sightings_2c5554_bright_object_debris_4cdde7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Apollo_11_sightings_2c5554_bright_object_debris_4cdde7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Apollo_11_sightings_2c5554_bright_object_debris_4cdde7-Illustration-3-dark.svg" | relative_url }}" alt="Bright Object illustration 3" data-theme-src-dark="{{ "/assets/images/Apollo_11_sightings_2c5554_bright_object_debris_4cdde7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Apollo_11_sightings_2c5554_bright_object_debris_4cdde7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the incident actually demonstrates
 
 The Apollo 11 bright-object sighting is most valuable as a lesson in perception, uncertainty and evidence handling during spaceflight.

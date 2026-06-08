@@ -7,19 +7,19 @@ sibling_basenames:
 - WellingtonKaikoura_i_c1d17f_flight_timeline_733143
 - WellingtonKaikoura_i_c1d17f_natural_explanations_f1b4c3
 tags:
-- wellingtonkaikoura-incident-1978
+- wellington-kaikoura-incident-1978
 - evidence
 keywords:
-- wellingtonkaikoura-incident-1978
+- wellington-kaikoura-incident-1978
 - evidence
-affiliate_category: wellingtonkaikoura-incident-1978
+affiliate_category: wellington-kaikoura-incident-1978
 show_ads: true
 description: The case turns on whether filmed lights and radar targets were the same objects or separate effects that only seemed connected.
 hero_summary: The case turns on whether filmed lights and radar targets were the same objects or separate effects that only seemed connected.
 layout: default
 permalink: /evidence-72f684/
 sidebar_expanded_urls:
-- /wellingtonkaikoura-incident-1978/
+- /wellington-kaikoura-incident-1978/
 nav_short_title: Evidence
 title: Did the Evidence Actually Match?
 title_full: Did the Evidence Actually Match? | Kaikoura Lights
@@ -198,18 +198,18 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Kaikoura Lights
-parent_permalink: /wellingtonkaikoura-incident-1978/
+parent_permalink: /wellington-kaikoura-incident-1978/
 parent_nav_short_title: Kaikoura Lights
 parent_heading_title: What Really Happened Over Kaikoura?
 ancestor_links:
 - basename: WellingtonKaikoura_i_c1d17f
   title: Kaikoura Lights
-  permalink: /wellingtonkaikoura-incident-1978/
+  permalink: /wellington-kaikoura-incident-1978/
   short_title: Kaikoura Lights
 breadcrumb_links:
 - basename: WellingtonKaikoura_i_c1d17f
   title: Kaikoura Lights
-  permalink: /wellingtonkaikoura-incident-1978/
+  permalink: /wellington-kaikoura-incident-1978/
   short_title: Kaikoura Lights
 sibling_links:
 - basename: WellingtonKaikoura_i_c1d17f_natural_explanations_f1b4c3
@@ -225,7 +225,7 @@ sibling_links:
 up_link:
   basename: WellingtonKaikoura_i_c1d17f
   title: Kaikoura Lights
-  permalink: /wellingtonkaikoura-incident-1978/
+  permalink: /wellington-kaikoura-incident-1978/
   short_title: Kaikoura Lights
 next_link:
   basename: WellingtonKaikoura_i_c1d17f_natural_explanations_f1b4c3
@@ -233,7 +233,7 @@ next_link:
   permalink: /explanations-3654c8/
   short_title: Explanations
   heading_title: Natural Causes or Something Still Unresolved?
-date: '2026-05-29 12:04:02 '
+date: '2026-06-08 23:28:53 '
 header:
   og_image: /assets/images/WellingtonKaikoura_i_c1d17f_film_radar_evidence_e77e40-Illustration-1-social.jpg
   preview_image: /assets/images/WellingtonKaikoura_i_c1d17f_film_radar_evidence_e77e40-Illustration-1.webp
@@ -245,7 +245,7 @@ image: /assets/images/WellingtonKaikoura_i_c1d17f_film_radar_evidence_e77e40-Ill
 The Wellington/Kaikōura incident became famous not simply because people reported strange lights, but because several kinds of evidence appeared to overlap at once. During the late December 1978 flights, crews reported visual lights, Wellington air traffic controllers described intermittent radar returns, the aircraft’s own radar showed contacts at times, and a television crew captured glowing objects on 16 mm film. That combination made the case seem stronger than a typical UFO sighting. Yet the central dispute has never really been whether lights existed. The harder question is whether all the evidence referred to the same thing at the same time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Kaik%C5%8Dura_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kaikōura lights</span><span class="citation-popover-snippet">Kaikōura lights</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/NewZealandUFO/AIR-1080-6-897-Volume-1-1978-1981_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span><span class="citation-popover-snippet">Radar. 24. As the aircraft approached Kaikoura two or three radar contacts were noted on the aircraft radar at about ten o&#x27;clock position...</span></span></span>
 
 
-<img src="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_film_radar_evidence_e77e40-Illustration-1-light.svg" | relative_url }}" alt="Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_film_radar_evidence_e77e40-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_film_radar_evidence_e77e40-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_film_radar_evidence_e77e40-Illustration-1-dark.svg" | relative_url }}" alt="Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_film_radar_evidence_e77e40-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_film_radar_evidence_e77e40-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters because the case can look very different depending on how the evidence is linked together. If the filmed light, cockpit observations, and radar targets were all tracking one structured object moving intelligently around the aircraft, the incident becomes extraordinary. If the film captured one phenomenon while radar reflected another — or if some observations were celestial or maritime lights amplified by atmospheric effects — the apparent coherence of the case weakens considerably. Much of the debate since 1978 has focused on that exact problem.
 
 
@@ -285,7 +285,7 @@ In the Kaikōura case, squid fishing fleets became especially important to scept
 Believers countered that the radar contacts sometimes appeared to track alongside or behind the aircraft in ways difficult to reconcile with stationary vessels. Witnesses also described lights apparently changing position rapidly. But because the surviving radar evidence largely consists of recollections, transcripts, and summaries rather than complete preserved radar recordings, later investigators have had limited ability to reconstruct events independently.
 
 
-<img src="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_film_radar_evidence_e77e40-Illustration-2-light.svg" | relative_url }}" alt="Evidence illustration 2" data-theme-src-dark="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_film_radar_evidence_e77e40-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_film_radar_evidence_e77e40-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_film_radar_evidence_e77e40-Illustration-2-dark.svg" | relative_url }}" alt="Evidence illustration 2" data-theme-src-dark="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_film_radar_evidence_e77e40-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_film_radar_evidence_e77e40-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why matching a light to a blip is hard
 
 The enduring puzzle of the Wellington/Kaikōura incident is not whether radar existed or whether lights were filmed. It is whether any specific radar target can be confidently paired with any specific filmed or observed light.
@@ -321,7 +321,7 @@ The film is real, but visually ambiguous. The radar reports are significant, but
 That unresolved mismatch between kinds of evidence is ultimately what defines the case. The Kaikōura lights are remembered not because the evidence clearly proved something extraordinary, but because the evidence seemed, for a moment, to line up — and then resisted every later attempt to make it fit together cleanly.
 
 
-<img src="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_film_radar_evidence_e77e40-Illustration-3-light.svg" | relative_url }}" alt="Evidence illustration 3" data-theme-src-dark="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_film_radar_evidence_e77e40-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_film_radar_evidence_e77e40-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_film_radar_evidence_e77e40-Illustration-3-dark.svg" | relative_url }}" alt="Evidence illustration 3" data-theme-src-dark="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_film_radar_evidence_e77e40-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_film_radar_evidence_e77e40-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell fr-section-shell-fallback">
@@ -345,18 +345,18 @@ That unresolved mismatch between kinds of evidence is ultimately what defines th
 
     <article class="fr-search-card">
       <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Squid Fishing Fleet guide</h4>
+      <h4 class="fr-search-title">Wellington Kaikōura incident guide</h4>
       <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Squid+Fishing+Fleet+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Wellington+Kaik%C5%8Dura+incident+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
       </a>
     </article>
 
     <article class="fr-search-card">
       <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Wellington Kaikōura incident guide</h4>
+      <h4 class="fr-search-title">Kaikoura lights guide</h4>
       <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Wellington+Kaik%C5%8Dura+incident+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Kaikoura+lights+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
       </a>
     </article>

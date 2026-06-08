@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /were-the-1967-ummo-photographs-real-or-a/
 nav_short_title: Photo Analysis
 title: Could the 1967 Ummo Photographs Have Been Staged?
-title_full: Could the 1967 Ummo Photographs Have Been Staged? | UmmoPhotos
+title_full: Could the 1967 Ummo Photographs Have Been Staged? | Ummo Photos
 display_title_short: Photo Analysis
 display_title: Photo Analysis
 heading_title: Could the 1967 Ummo Photographs Have Been Staged?
@@ -197,20 +197,20 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: UmmoPhotos
+parent_title: Ummo Photos
 parent_permalink: /were-the-1967-ummo-photographs-real-or-a/
-parent_nav_short_title: UmmoPhotos
+parent_nav_short_title: Ummo Photos
 parent_heading_title: Were the 1967 Ummo Photographs Real or a Hoax?
 ancestor_links:
 - basename: Ummo_photographs_196_ed7563
-  title: UmmoPhotos
+  title: Ummo Photos
   permalink: /were-the-1967-ummo-photographs-real-or-a/
-  short_title: UmmoPhotos
+  short_title: Ummo Photos
 breadcrumb_links:
 - basename: Ummo_photographs_196_ed7563
-  title: UmmoPhotos
+  title: Ummo Photos
   permalink: /were-the-1967-ummo-photographs-real-or-a/
-  short_title: UmmoPhotos
+  short_title: Ummo Photos
 sibling_links:
 - basename: Ummo_photographs_196_ed7563_jordan_pena_confessi_41e3fc
   title: Peña Confession | Were the 1967 Ummo Photographs Real or a Hoax?
@@ -224,9 +224,9 @@ sibling_links:
   heading_title: What Happened During the 1967 Valderas UFO Sighting?
 up_link:
   basename: Ummo_photographs_196_ed7563
-  title: UmmoPhotos
+  title: Ummo Photos
   permalink: /were-the-1967-ummo-photographs-real-or-a/
-  short_title: UmmoPhotos
+  short_title: Ummo Photos
 prev_link:
   basename: Ummo_photographs_196_ed7563_jordan_pena_confessi_41e3fc
   title: Peña Confession | Were the 1967 Ummo Photographs Real or a Hoax?
@@ -239,7 +239,7 @@ next_link:
   permalink: /valderas-sighting/
   short_title: Valderas Sighting
   heading_title: What Happened During the 1967 Valderas UFO Sighting?
-date: '2026-05-29 12:20:20 '
+date: '2026-06-08 23:38:14 '
 header:
   og_image: /assets/images/Ummo_photographs_196_ed7563_photographic_analysi_b87050-Illustration-1-social.jpg
   preview_image: /assets/images/Ummo_photographs_196_ed7563_photographic_analysi_b87050-Illustration-1.webp
@@ -251,7 +251,7 @@ image: /assets/images/Ummo_photographs_196_ed7563_photographic_analysi_b87050-Il
 The technical debate around the 1967 [Ummo photographs]({{ 'were-the-1967-ummo-photographs-real-or-a/' | relative_url }}) has never centred on whether the images are striking. Even sceptical investigators have acknowledged that the San José de Valderas photographs were unusually effective pieces of UFO imagery for their era. The real dispute has focused on a narrower question: do the photographs behave like images of a large distant object in the sky, or like photographs of a small suspended model placed close to the camera?
 
 
-<img src="{{ "/assets/images/Ummo_photographs_196_ed7563_photographic_analysi_b87050-Illustration-1-light.svg" | relative_url }}" alt="Photo Analysis illustration 1" data-theme-src-dark="{{ "/assets/images/Ummo_photographs_196_ed7563_photographic_analysi_b87050-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ummo_photographs_196_ed7563_photographic_analysi_b87050-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Ummo_photographs_196_ed7563_photographic_analysi_b87050-Illustration-1-dark.svg" | relative_url }}" alt="Photo Analysis illustration 1" data-theme-src-dark="{{ "/assets/images/Ummo_photographs_196_ed7563_photographic_analysi_b87050-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ummo_photographs_196_ed7563_photographic_analysi_b87050-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Over time, most critical analyses have converged on the second explanation. Investigators examined perspective, depth of field, illumination, edge sharpness, and the apparent motion of the object across successive frames. Later discussions also drew attention to inconsistencies in witness provenance and to José Luis Jordán Peña’s eventual confession to orchestrating the Ummo affair. None of these points alone definitively proves how the photographs were produced, but together they created a cumulative sceptical case that the images were staged rather than documentary evidence of an extraterrestrial craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ummo/guardiacivil01.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Ufologiethe claim that Guardia Civil authenticated alleged Ummo...3 Apr 2005 — When a photographer ends up admitting that the photograph...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[2academia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">On the AAWSAP AATIP Confusion</span><span class="citation-popover-snippet">PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — Picture from the series of photographs forged on June 1, 1967, at San José de Valderas...</span><span class="citation-popover-meta">Published: June 1, 1967</span></span></span>
 
 ## Early sceptical critiques focused on photographic behaviour
@@ -303,7 +303,7 @@ Another criticism concerned the object’s apparent movement across the sequence
 The absence of motion blur also attracted attention. If the object had been manoeuvring rapidly, as later retellings implied, more photographic instability might be expected. The images instead preserve unusually calm composition and object clarity.
 
 
-<img src="{{ "/assets/images/Ummo_photographs_196_ed7563_photographic_analysi_b87050-Illustration-2-light.svg" | relative_url }}" alt="Photo Analysis illustration 2" data-theme-src-dark="{{ "/assets/images/Ummo_photographs_196_ed7563_photographic_analysi_b87050-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ummo_photographs_196_ed7563_photographic_analysi_b87050-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Ummo_photographs_196_ed7563_photographic_analysi_b87050-Illustration-2-dark.svg" | relative_url }}" alt="Photo Analysis illustration 2" data-theme-src-dark="{{ "/assets/images/Ummo_photographs_196_ed7563_photographic_analysi_b87050-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ummo_photographs_196_ed7563_photographic_analysi_b87050-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Lighting inconsistencies
 
 Lighting analysis became one of the most technically detailed sceptical avenues. Critics examined whether shadows and highlights on the disc matched the illumination conditions visible in the environment.
@@ -370,7 +370,7 @@ Technically, the photographs are no longer regarded by most researchers as stron
 For historians of UFO culture, the Ummo photographs are therefore significant less as evidence of extraterrestrial visitation than as one of the clearest European examples of how photographic imagery, social mythology, and media dissemination can reinforce one another over decades.
 
 
-<img src="{{ "/assets/images/Ummo_photographs_196_ed7563_photographic_analysi_b87050-Illustration-3-light.svg" | relative_url }}" alt="Photo Analysis illustration 3" data-theme-src-dark="{{ "/assets/images/Ummo_photographs_196_ed7563_photographic_analysi_b87050-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ummo_photographs_196_ed7563_photographic_analysi_b87050-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Ummo_photographs_196_ed7563_photographic_analysi_b87050-Illustration-3-dark.svg" | relative_url }}" alt="Photo Analysis illustration 3" data-theme-src-dark="{{ "/assets/images/Ummo_photographs_196_ed7563_photographic_analysi_b87050-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ummo_photographs_196_ed7563_photographic_analysi_b87050-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell fr-section-shell-fallback">
@@ -416,7 +416,7 @@ For historians of UFO culture, the Ummo photographs are therefore significant le
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -426,111 +426,36 @@ For historians of UFO culture, the Ummo photographs are therefore significant le
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.com</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Follow the Flag Recruiting Poster Print Sailor Ship Enlist Join Art 4213"><img src="{{ '/assets/images/marketplace-covers/6224247bea2bcb22b7b1.jpg' | relative_url }}" alt="Listing image for US NAVY Follow the Flag Recruiting Poster Print Sailor Ship Enlist Join Art 4213" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">US NAVY Follow the Flag Recruiting Poster Print Sailor Ship Enlist Join Art 4213</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.com</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1998 US Navy Vintage Print Ad/Poster Patriotic Military Recruitment Ship Art 90s"><img src="{{ '/assets/images/marketplace-covers/8a0e6197051ae2967c30.jpg' | relative_url }}" alt="Listing image for 1998 US Navy Vintage Print Ad/Poster Patriotic Military Recruitment Ship Art 90s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">1998 US Navy Vintage Print Ad/Poster Patriotic Military Recruitment Ship Art 90s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.com</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.com</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -538,15 +463,15 @@ For historians of UFO culture, the Ummo photographs are therefore significant le
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -554,15 +479,15 @@ For historians of UFO culture, the Ummo photographs are therefore significant le
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -570,15 +495,15 @@ For historians of UFO culture, the Ummo photographs are therefore significant le
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -586,7 +511,7 @@ For historians of UFO culture, the Ummo photographs are therefore significant le
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -663,17 +588,31 @@ For historians of UFO culture, the Ummo photographs are therefore significant le
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -686,42 +625,73 @@ For historians of UFO culture, the Ummo photographs are therefore significant le
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -736,12 +706,17 @@ For historians of UFO culture, the Ummo photographs are therefore significant le
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>

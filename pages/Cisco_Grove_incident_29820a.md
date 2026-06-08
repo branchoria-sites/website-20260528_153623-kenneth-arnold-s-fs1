@@ -132,9 +132,9 @@ heading_title: What Really Happened During the Cisco Grove UFO Sighting?
 page_heading_title: What Really Happened During the Cisco Grove UFO Sighting?
 source_count: 122
 infographic_count: 3
-page_website_name: CiscoGrove1964
+page_website_name: Cisco Grove1964
 page_banner_line: Exploring the mysterious 1964 UFO encounter in California's Sierra Nevada
-site_website_name: CiscoGrove1964
+site_website_name: Cisco Grove1964
 site_banner_line: Exploring the mysterious 1964 UFO encounter in California's Sierra Nevada
 site_image_description: A lone hunter perched in a tree at dusk in the Sierra Nevada, looking at a zigzagging white light in the distance.
 output_language: English
@@ -345,7 +345,7 @@ sibling_links:
   short_title: Higdon Contact
 - basename: CashLandrum_incident_7ad7d9
   title: Cash Landrum
-  permalink: /cashlandrum-incident-1980/
+  permalink: /cash-landrum-incident-1980/
   short_title: Cash Landrum
 - basename: Cedric_Allingham_enc_2c7f6b
   title: Allingham
@@ -428,9 +428,9 @@ sibling_links:
   permalink: /fred-m-johnson-sighting-1947/
   short_title: Johnson Sighting
 - basename: Gary_Wilcox_encounte_6de9ff
-  title: WilcoxUFO
+  title: Wilcox UFO
   permalink: /gary-wilcox-encounter-1964/
-  short_title: WilcoxUFO
+  short_title: Wilcox UFO
 - basename: Gemini_4_sighting_19_9c351d
   title: Gemini 4 Sighting
   permalink: /gemini-4-sighting-1965/
@@ -524,21 +524,21 @@ sibling_links:
   permalink: /linda-cortile-abduction-1989/
   short_title: Cortile Case
 - basename: Livingston_incident_b2c293
-  title: LivingstonUFO
+  title: Livingston UFO
   permalink: /livingston-incident-1979/
-  short_title: LivingstonUFO
+  short_title: Livingston UFO
 - basename: Loch_Raven_Dam_incid_b0e5b6
-  title: LochRavenUFO
+  title: Loch Raven UFO
   permalink: /loch-raven-dam-incident-1958/
-  short_title: LochRavenUFO
+  short_title: Loch Raven UFO
 - basename: Lubbock_Lights_sight_4eabd8
   title: Lubbock Lights
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: MagentaCrash1933
+  title: Magenta Crash1933
   permalink: /magenta-italy-crash-1933/
-  short_title: MagentaCrash1933
+  short_title: Magenta Crash1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -548,9 +548,9 @@ sibling_links:
   permalink: /maury-island-incident-1947/
   short_title: Maury Island
 - basename: McMinnville_photogra_4e1af3
-  title: McMinnville Photos
-  permalink: /mcminnville-photographs-1950/
-  short_title: McMinnville Photos
+  title: Mc Minnville Photos
+  permalink: /mc-minnville-photographs-1950/
+  short_title: Mc Minnville Photos
 - basename: Middle_East_UAP_vide_4a6c55
   title: Middle East Orb
   permalink: /middle-east-uap-video-2022/
@@ -568,9 +568,9 @@ sibling_links:
   permalink: /oloron-angel-hair-incident-1952/
   short_title: Oloron Angel Hair
 - basename: Operation_Mainbrace_06bcd8
-  title: MainbraceSightings
+  title: Mainbrace Sightings
   permalink: /operation-mainbrace-sightings-1952/
-  short_title: MainbraceSightings
+  short_title: Mainbrace Sightings
 - basename: Orfeo_Angelucci_enco_bef29a
   title: Angelucci
   permalink: /orfeo-angelucci-encounter-1955/
@@ -620,17 +620,17 @@ sibling_links:
   permalink: /socorro-sighting-by-lonnie-zamora-1964/
   short_title: Socorro UFO
 - basename: SpaurNeff_Ravenna_si_4977ac
-  title: RavennaUFO
-  permalink: /spaurneff-ravenna-sighting-1966/
-  short_title: RavennaUFO
+  title: Ravenna UFO
+  permalink: /spaur-neff-ravenna-sighting-1966/
+  short_title: Ravenna UFO
 - basename: Stanford_Kentucky_ab_a91f06
   title: Stanford Abduction
   permalink: /stanford-kentucky-abduction-1976/
   short_title: Stanford Abduction
 - basename: Stephen_Darbishire_p_f80223
-  title: DarbishireUFO
+  title: Darbishire UFO
   permalink: /stephen-darbishire-photograph-1954/
-  short_title: DarbishireUFO
+  short_title: Darbishire UFO
 - basename: Steven_Michalak_enco_1bbf94
   title: Falcon Lake
   permalink: /steven-michalak-encounter-1967/
@@ -644,9 +644,9 @@ sibling_links:
   permalink: /thomas-f-mantell-incident-1948/
   short_title: Mantell
 - basename: Topcliffe_incident_1_80cbf4
-  title: TopcliffeUFO
+  title: Topcliffe UFO
   permalink: /topcliffe-incident-1952/
-  short_title: TopcliffeUFO
+  short_title: Topcliffe UFO
 - basename: Trans-en-Provence_en_439c97
   title: Trans en Provence
   permalink: /trans-en-provence-encounter-1981/
@@ -668,9 +668,9 @@ sibling_links:
   permalink: /truman-bethurum-contact-1954/
   short_title: Bethurum
 - basename: Tully_saucer_nest_in_b9d0b0
-  title: TullyUFO
+  title: Tully UFO
   permalink: /tully-saucer-nest-incident-1966/
-  short_title: TullyUFO
+  short_title: Tully UFO
 - basename: Tunguska_event_1908_efda6f
   title: Tunguska
   permalink: /tunguska-event-1908/
@@ -680,9 +680,9 @@ sibling_links:
   permalink: /ubatuba-incident-1957/
   short_title: Ubatuba
 - basename: USS_Nimitz_Tic_Tac_v_83266a
-  title: NimitzUAP
+  title: Nimitz UAP
   permalink: /uss-nimitz-tic-tac-video-2004/
-  short_title: NimitzUAP
+  short_title: Nimitz UAP
 - basename: USS_Russell_video_20_3188a1
   title: USS Russell
   permalink: /uss-russell-video-2019/
@@ -704,9 +704,9 @@ sibling_links:
   permalink: /valentich-disappearance-1978/
   short_title: Valentich
 - basename: Voronezh_Russia_land_e13f34
-  title: VoronezhLanding
+  title: Voronezh Landing
   permalink: /voronezh-russia-landing-1989/
-  short_title: VoronezhLanding
+  short_title: Voronezh Landing
 - basename: Walesville_Incident_cbceb2
   title: Walesville
   permalink: /walesville-incident-1954/
@@ -717,12 +717,12 @@ sibling_links:
   short_title: Washington Saucers
 - basename: WellingtonKaikoura_i_c1d17f
   title: Kaikoura Lights
-  permalink: /wellingtonkaikoura-incident-1978/
+  permalink: /wellington-kaikoura-incident-1978/
   short_title: Kaikoura Lights
 - basename: Ummo_photographs_196_ed7563
-  title: UmmoPhotos
+  title: Ummo Photos
   permalink: /were-the-1967-ummo-photographs-real-or-a/
-  short_title: UmmoPhotos
+  short_title: Ummo Photos
 child_links:
 - basename: Cisco_Grove_incident_29820a_physical_documentary_63d428
   title: Evidence Review | Cisco Grove incident 1964
@@ -749,7 +749,7 @@ next_link:
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
   short_title: Rael Contact
-date: '2026-05-29 12:17:11 '
+date: '2026-06-08 23:36:02 '
 header:
   og_image: /assets/images/Cisco_Grove_incident_29820a-overview-social.jpg
   preview_image: /assets/images/Cisco_Grove_incident_29820a-overview.webp
@@ -777,7 +777,7 @@ The second layer is Shrum’s claimed night-long encounter. The main sequence ge
 The third layer is the post-incident reporting chain. Hynek says the witness told his companions, then his father-in-law, and was persuaded to contact authorities. Later accounts claim Air Force interest and cite Project Blue Book or the wider Blue Book environment, but the easily accessible public summaries are uneven in quality. The National Archives confirms that Project Blue Book records were declassified, transferred to NARA, and arranged as chronological case files, but that general reference page does not by itself authenticate every later claim made about Cisco Grove. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;The Hynek UFO Report</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;The Hynek UFO Report</span></span></span>
 
 
-<img src="{{ "/assets/images/Cisco_Grove_incident_29820a-Illustration-1-light.svg" | relative_url }}" alt="Cisco Grove incident 1964 illustration 1" data-theme-src-dark="{{ "/assets/images/Cisco_Grove_incident_29820a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cisco_Grove_incident_29820a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Cisco_Grove_incident_29820a-Illustration-1-dark.svg" | relative_url }}" alt="Cisco Grove incident 1964 illustration 1" data-theme-src-dark="{{ "/assets/images/Cisco_Grove_incident_29820a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cisco_Grove_incident_29820a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The witness question: credible person, extraordinary claim
 
 Shrum is often presented by UFO writers as a better-than-average witness because he was not simply an anonymous passer-by. Later publisher and bookseller descriptions of *Aliens in the Forest* identify him as Donald R. Shrum and say he worked for a missile-related company, which is used by advocates to argue that he had technical familiarity and something to lose by publicising a strange story. The same description says the 2011 book was written with cooperation from Shrum and his family and presented as the first fully authorised account. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indigo.ca/products/aliens-in-the-forest" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indigo.ca">[Indigo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indigo.ca</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -800,7 +800,7 @@ The documentary record is also mixed. The US Air Force’s wider Project Blue Bo
 For Cisco Grove specifically, however, the public-facing evidence most readers encounter is still mediated through UFO case directories, Hynek’s later book, local historical commentary and the authorised 2011 retelling. That does not make the incident worthless as a case study, but it does make it fragile as a claim about external reality.
 
 
-<img src="{{ "/assets/images/Cisco_Grove_incident_29820a-Illustration-2-light.svg" | relative_url }}" alt="Cisco Grove incident 1964 illustration 2" data-theme-src-dark="{{ "/assets/images/Cisco_Grove_incident_29820a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cisco_Grove_incident_29820a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Cisco_Grove_incident_29820a-Illustration-2-dark.svg" | relative_url }}" alt="Cisco Grove incident 1964 illustration 2" data-theme-src-dark="{{ "/assets/images/Cisco_Grove_incident_29820a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cisco_Grove_incident_29820a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Official and scientific handling of the case
 
 Cisco Grove sits in the shadow of Project Blue Book and the Condon Report, the University of Colorado study formally titled *Scientific Study of Unidentified Flying Objects*. The National Archives says Blue Book was declassified and closed in 1969; the Air Force says its closure followed the Colorado report, a National Academy of Sciences review and earlier Air Force experience. The Air Force’s final public position was that investigated UFO reports showed no threat to national security, no evidence of technology beyond current scientific knowledge, and no evidence that unidentified sightings were extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">aug 2011 research guide</span><span class="citation-popover-snippet">aug 2011 research guide</span></span></span>
@@ -825,7 +825,7 @@ The Cisco Grove incident has three broad interpretive camps, each with strengths
 Some modern online speculation adds intelligence experiments, secret military tests or hallucinogenic dosing. Those ideas may feel more “plausible” to some readers than aliens, but they usually rest on association rather than evidence. Without documents tying Shrum to a test programme, such theories do not solve the evidential problem; they simply replace one unverified scenario with another.
 
 
-<img src="{{ "/assets/images/Cisco_Grove_incident_29820a-Illustration-3-light.svg" | relative_url }}" alt="Cisco Grove incident 1964 illustration 3" data-theme-src-dark="{{ "/assets/images/Cisco_Grove_incident_29820a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cisco_Grove_incident_29820a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Cisco_Grove_incident_29820a-Illustration-3-dark.svg" | relative_url }}" alt="Cisco Grove incident 1964 illustration 3" data-theme-src-dark="{{ "/assets/images/Cisco_Grove_incident_29820a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cisco_Grove_incident_29820a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What makes the case memorable
 
 Cisco Grove endures because it combines several unusually vivid motifs: a lone hunter turned into prey, a survival perch in a tree, silent craft in the forest, short humanoids, a clumsy but menacing robot, gas or smoke, and primitive weapons used against advanced-seeming intruders. It has the structure of a campfire survival story as much as a UFO report.

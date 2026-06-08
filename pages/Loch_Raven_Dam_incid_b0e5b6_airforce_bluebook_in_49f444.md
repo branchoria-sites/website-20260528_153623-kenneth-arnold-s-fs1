@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /loch-raven-dam-incident-1958/
 nav_short_title: Project Blue Book
 title: U.S. Air Force Investigation of Loch Raven UFO
-title_full: U.S. Air Force Investigation of Loch Raven UFO | LochRavenUFO
+title_full: U.S. Air Force Investigation of Loch Raven UFO | Loch Raven UFO
 display_title_short: Project Blue Book
 display_title: Project Blue Book
 heading_title: U.S. Air Force Investigation of Loch Raven UFO
@@ -197,20 +197,20 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: LochRavenUFO
+parent_title: Loch Raven UFO
 parent_permalink: /loch-raven-dam-incident-1958/
-parent_nav_short_title: LochRavenUFO
+parent_nav_short_title: Loch Raven UFO
 parent_heading_title: What Really Happened at Loch Raven Dam in 1958?
 ancestor_links:
 - basename: Loch_Raven_Dam_incid_b0e5b6
-  title: LochRavenUFO
+  title: Loch Raven UFO
   permalink: /loch-raven-dam-incident-1958/
-  short_title: LochRavenUFO
+  short_title: Loch Raven UFO
 breadcrumb_links:
 - basename: Loch_Raven_Dam_incid_b0e5b6
-  title: LochRavenUFO
+  title: Loch Raven UFO
   permalink: /loch-raven-dam-incident-1958/
-  short_title: LochRavenUFO
+  short_title: Loch Raven UFO
 sibling_links:
 - basename: Loch_Raven_Dam_incid_b0e5b6_skeptical_explanatio_26ae60
   title: Skeptical Analysis | What Really Happened at Loch Raven Dam in 1958?
@@ -224,16 +224,16 @@ sibling_links:
   heading_title: Eyewitness Reports and Car Malfunctions at Loch Raven
 up_link:
   basename: Loch_Raven_Dam_incid_b0e5b6
-  title: LochRavenUFO
+  title: Loch Raven UFO
   permalink: /loch-raven-dam-incident-1958/
-  short_title: LochRavenUFO
+  short_title: Loch Raven UFO
 next_link:
   basename: Loch_Raven_Dam_incid_b0e5b6_skeptical_explanatio_26ae60
   title: Skeptical Analysis | What Really Happened at Loch Raven Dam in 1958?
   permalink: /skeptical-analysis-e727fe/
   short_title: Skeptical Analysis
   heading_title: Natural and Human Explanations for Loch Raven Sighting
-date: '2026-05-29 12:24:17 '
+date: '2026-06-08 23:40:58 '
 header:
   og_image: /assets/images/Loch_Raven_Dam_incid_b0e5b6_airforce_bluebook_in_49f444-Illustration-1-social.jpg
   preview_image: /assets/images/Loch_Raven_Dam_incid_b0e5b6_airforce_bluebook_in_49f444-Illustration-1.webp
@@ -245,7 +245,7 @@ image: /assets/images/Loch_Raven_Dam_incid_b0e5b6_airforce_bluebook_in_49f444-Il
 The Loch Raven Dam incident entered the official U.S. Air Force UFO system at a time when Project Blue Book was under pressure to separate potential security threats from misidentifications and public hysteria. What makes the 1958 Maryland case notable is not that the Air Force proved an extraordinary craft existed, but that investigators preserved the report, interviewed witnesses, circulated intelligence summaries and ultimately left the case unresolved within Blue Book files. The surviving documentation shows a typical Cold War-era UFO investigation process in action: local police notification, military intelligence forwarding, witness interviews, medical references and final classification under Project Blue Book case BBU 6148. The file also reveals the limits of the Air Force approach. Officials concluded the event posed no national security threat while never identifying a conventional explanation that satisfied the reported details. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/581026lochravendam_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">NICAPUFO ReportOctober 26, 1958; Loch Raven Dam, Maryland (BBU 6148) 10:30 p.m.... (Hynek UFO Exp ch. 9, case CEII-4) Fran Ridge: Althou...</span><span class="citation-popover-meta">Published: October 26, 1958</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">UFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on UFO policy and communi...</span></span></span>
 
 
-<img src="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6_airforce_bluebook_in_49f444-Illustration-1-light.svg" | relative_url }}" alt="Project Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6_airforce_bluebook_in_49f444-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6_airforce_bluebook_in_49f444-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6_airforce_bluebook_in_49f444-Illustration-1-dark.svg" | relative_url }}" alt="Project Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6_airforce_bluebook_in_49f444-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6_airforce_bluebook_in_49f444-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How the Loch Raven report entered Project Blue Book
 
 By late 1958, Project Blue Book operated as the Air Force’s central clearinghouse for UFO reports. Sightings judged potentially significant were routed through intelligence channels, usually beginning with police departments, radar stations, military observers or civilian reports passed to nearby Air Force facilities. In the Loch Raven case, the trigger appears to have been the report made after the alleged encounter by Phillip Small and Alvin Cohen near the reservoir north of Baltimore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/581026lochravendam_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">NICAPUFO ReportOctober 26, 1958; Loch Raven Dam, Maryland (BBU 6148) 10:30 p.m.... (Hynek UFO Exp ch. 9, case CEII-4) Fran Ridge: Althou...</span><span class="citation-popover-meta">Published: October 26, 1958</span></span></span>
@@ -354,7 +354,7 @@ Researchers have noted that the Loch Raven area lay relatively near military inf
 The surviving descriptions suggest investigators focused heavily on consistency and witness reliability. Small and Cohen were named witnesses rather than anonymous callers, and the report included specific environmental claims: bridge location, car malfunction, sound, heat sensation and timing. Cases with identifiable witnesses and concrete physical-effect claims generally received more attention within Blue Book than distant lights in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/581026lochravendam_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">NICAPUFO ReportOctober 26, 1958; Loch Raven Dam, Maryland (BBU 6148) 10:30 p.m.... (Hynek UFO Exp ch. 9, case CEII-4) Fran Ridge: Althou...</span><span class="citation-popover-meta">Published: October 26, 1958</span></span></span>
 
 
-<img src="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6_airforce_bluebook_in_49f444-Illustration-2-light.svg" | relative_url }}" alt="Project Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6_airforce_bluebook_in_49f444-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6_airforce_bluebook_in_49f444-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6_airforce_bluebook_in_49f444-Illustration-2-dark.svg" | relative_url }}" alt="Project Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6_airforce_bluebook_in_49f444-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6_airforce_bluebook_in_49f444-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why the medical references mattered
 
 Several retellings mention that the witnesses sought hospital examination after reporting facial heat or skin irritation. This detail mattered because Blue Book investigators gave special attention to alleged physiological effects. A report involving burns, paralysis, nausea or radiation-like symptoms could potentially imply exposure to military technology, chemicals or electrical phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue BookThere was no evidence submitted to or discovered by the Air Force that sightings categorized as &quot;unidentified&quot; repres...</span></span></span>
@@ -403,7 +403,7 @@ UFO proponents argue that the Air Force left BBU 6148 unidentified because ordin
 Some researchers also view the Air Force wording itself as revealing. The repeated statement that the object represented “no threat” is interpreted by enthusiasts as evidence officials could not explain the event but wished to minimise public concern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/1958lockravendam.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO CasebookThe Loch Raven Dam Incident, 1958 - BaltimoreProject Blue Book investigated the case, but found no absolute cause for the app...</span></span></span>
 
 
-<img src="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6_airforce_bluebook_in_49f444-Illustration-3-light.svg" | relative_url }}" alt="Project Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6_airforce_bluebook_in_49f444-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6_airforce_bluebook_in_49f444-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6_airforce_bluebook_in_49f444-Illustration-3-dark.svg" | relative_url }}" alt="Project Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6_airforce_bluebook_in_49f444-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6_airforce_bluebook_in_49f444-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Skeptical readings of the same file
 
 Sceptics draw nearly the opposite conclusion from the same documents. They argue that Blue Book frequently used “unidentified” simply because evidence quality was insufficient for certainty, not because the event was extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</span></span></span>

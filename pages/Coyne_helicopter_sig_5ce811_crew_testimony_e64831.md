@@ -233,7 +233,7 @@ next_link:
   permalink: /explanations-303ba6/
   short_title: Explanations
   heading_title: Could a Meteor Explain the Coyne Case?
-date: '2026-05-29 11:56:13 '
+date: '2026-06-08 23:22:38 '
 header:
   og_image: /assets/images/Coyne_helicopter_sig_5ce811_crew_testimony_e64831-Illustration-1-social.jpg
   preview_image: /assets/images/Coyne_helicopter_sig_5ce811_crew_testimony_e64831-Illustration-1.webp
@@ -245,7 +245,7 @@ image: /assets/images/Coyne_helicopter_sig_5ce811_crew_testimony_e64831-Illustra
 The [Coyne helicopter]({{ 'coyne-helicopter-sighting-1973/' | relative_url }}) sighting became famous largely because four Army Reserve crew members gave a detailed and internally consistent account of what they believed was a near mid-air encounter over Ohio on 18 October 1973. Their testimony did not describe a distant light or a fleeting glimpse. Instead, they reported an object that appeared to approach on a collision course, halted above or in front of their UH-1H helicopter, illuminated the cockpit with green light, and was followed by what Captain Lawrence Coyne described as an unexplained climb despite the aircraft being configured for descent. The credibility of the case rests heavily on this cockpit narrative: trained aircrew, multiple observers, and a sequence involving both visual impressions and claimed flight anomalies. At the same time, sceptics argue that the same testimony contains signs of stress, misperception and later embellishment, particularly during a frightening night encounter. Center for UFO Studies <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ohiomagazine.com">[Ohio Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ohiomagazine.com</span><span class="citation-popover-snippet">Ohio MagazineThe Case of Ohio&#x27;s Best Documented UFOCoyne initially thought it was a jet and radioed Mansfield to see if there were any ai...</span></span></span>
 
 
-<img src="{{ "/assets/images/Coyne_helicopter_sig_5ce811_crew_testimony_e64831-Illustration-1-light.svg" | relative_url }}" alt="Crew Account illustration 1" data-theme-src-dark="{{ "/assets/images/Coyne_helicopter_sig_5ce811_crew_testimony_e64831-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Coyne_helicopter_sig_5ce811_crew_testimony_e64831-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Coyne_helicopter_sig_5ce811_crew_testimony_e64831-Illustration-1-dark.svg" | relative_url }}" alt="Crew Account illustration 1" data-theme-src-dark="{{ "/assets/images/Coyne_helicopter_sig_5ce811_crew_testimony_e64831-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Coyne_helicopter_sig_5ce811_crew_testimony_e64831-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Flight route and the crew inside the helicopter
 
 The flight itself was routine before the reported encounter. The helicopter, a Bell UH-1H “Huey” operated by the U.S. Army Reserve, had departed the Columbus area and was travelling north-east toward Cleveland late at night. Weather conditions were repeatedly described as good: clear skies, light winds and visibility of around 15 miles. According to later summaries of Coyne’s statement, the aircraft was flying at roughly 2,500 feet mean sea level and about 90 knots near Charles Mill Lake outside Mansfield, Ohio. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ashlandsource.com/2020/10/04/coyne-incident-over-charles-mill-lake-was-most-credible-ufo-sighting-of-1973/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ashlandsource.com">[Ashland Source]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ashlandsource.com</span><span class="citation-popover-title">coyne incident over charles mill lake was most credible ufo sighting of 1973</span><span class="citation-popover-snippet">Ashland SourceCoyne Incident over Charles Mill Lake was most credible...4 Oct 2020 — According to the Center for UFO Studies, the Coyne...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ohiomagazine.com">[Ohio Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ohiomagazine.com</span><span class="citation-popover-snippet">Ohio MagazineThe Case of Ohio&#x27;s Best Documented UFOCoyne initially thought it was a jet and radioed Mansfield to see if there were any ai...</span></span></span>
@@ -285,7 +285,7 @@ The green light became the defining visual feature of the encounter. The crew sa
 Believers consider this one of the strongest elements in the case because it goes beyond the sighting of distant lights. The claim implies close range, physical structure and direct interaction with the helicopter environment. Critics point out that coloured light at night can produce distorted impressions, particularly when viewed through cockpit glass and under stress. Philip J. Klass later argued that the green effect could have resulted from optical reactions associated with a meteor or bright fireball event during the Orionid meteor shower period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gralienreport.com/ufos/the-coyne-ufo-incident-of-1973/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gralienreport.com">[Gralien Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gralienreport.com</span><span class="citation-popover-title">the coyne ufo incident of 1973</span><span class="citation-popover-snippet">Gralien ReportThe Coyne UFO Incident of 197328 Dec 2020 — Klass had been confident that the crew had merely been startled by an Orionid m...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theufochronicles.com/2012/04/by-rich-reynolds-ufo-iconoclasts-4-19.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufochronicles.com">[The UFO Chronicles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufochronicles.com</span><span class="citation-popover-title">by rich reynolds ufo iconoclasts 4 19</span><span class="citation-popover-snippet">The UFO Chronicles[UFO] Skeptics or Debunkers?19 Apr 2012 — Klass writes that they misperceived an Orionids fireball (or meteor) and misc...</span></span></span>
 
 
-<img src="{{ "/assets/images/Coyne_helicopter_sig_5ce811_crew_testimony_e64831-Illustration-2-light.svg" | relative_url }}" alt="Crew Account illustration 2" data-theme-src-dark="{{ "/assets/images/Coyne_helicopter_sig_5ce811_crew_testimony_e64831-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Coyne_helicopter_sig_5ce811_crew_testimony_e64831-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Coyne_helicopter_sig_5ce811_crew_testimony_e64831-Illustration-2-dark.svg" | relative_url }}" alt="Crew Account illustration 2" data-theme-src-dark="{{ "/assets/images/Coyne_helicopter_sig_5ce811_crew_testimony_e64831-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Coyne_helicopter_sig_5ce811_crew_testimony_e64831-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The claimed unexplained climb
 
 The most controversial portion of the cockpit testimony is the allegation that the helicopter climbed while configured to descend. Coyne stated that even though he had entered a descent to avoid the object, the helicopter’s instruments showed the aircraft rising instead. Accounts generally place the climb from around 2,500 feet to somewhere near 3,500–3,800 feet. Center for UFO Studies <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcasts.apple.com/us/podcast/the-coyne-helicopter-ufo-incident-close-encounter/id1762797147?i=1000730412882&amp;l=ru" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcasts.apple.com">[Apple Podcasts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcasts.apple.com</span><span class="citation-popover-snippet">Apple PodcastsThe Coyne Helicopter UFO Incident6 Oct 2025 — During this encounter, the Huey helicopter inexplicably began to ascend again...</span></span></span>
@@ -322,7 +322,7 @@ However, not every detail was perfectly identical across later interviews and pu
 The evolution of certain details became especially controversial in later years. Klass argued that some elements, such as unusual compass behaviour, appeared more prominently in later retellings than in the earliest accounts. UFO researchers generally rejected the suggestion that the crew consciously exaggerated the event, instead attributing later elaborations to more complete recollection or more detailed questioning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theufochronicles.com/2012/04/by-rich-reynolds-ufo-iconoclasts-4-19.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufochronicles.com">[The UFO Chronicles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufochronicles.com</span><span class="citation-popover-title">by rich reynolds ufo iconoclasts 4 19</span><span class="citation-popover-snippet">The UFO Chronicles[UFO] Skeptics or Debunkers?19 Apr 2012 — Klass writes that they misperceived an Orionids fireball (or meteor) and misc...</span></span></span>
 
 
-<img src="{{ "/assets/images/Coyne_helicopter_sig_5ce811_crew_testimony_e64831-Illustration-3-light.svg" | relative_url }}" alt="Crew Account illustration 3" data-theme-src-dark="{{ "/assets/images/Coyne_helicopter_sig_5ce811_crew_testimony_e64831-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Coyne_helicopter_sig_5ce811_crew_testimony_e64831-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Coyne_helicopter_sig_5ce811_crew_testimony_e64831-Illustration-3-dark.svg" | relative_url }}" alt="Crew Account illustration 3" data-theme-src-dark="{{ "/assets/images/Coyne_helicopter_sig_5ce811_crew_testimony_e64831-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Coyne_helicopter_sig_5ce811_crew_testimony_e64831-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the cockpit account still drives debate
 
 The Coyne case continues to be discussed because the crew testimony sits awkwardly between ordinary aviation confusion and a classic close-encounter narrative. Unlike many UFO reports, this one involved named military personnel, a specific route, and a detailed sequence of actions inside the aircraft. The cockpit encounter also contains several features that investigators consider unusually difficult to dismiss together: multiple witnesses, apparent manoeuvring, structured appearance, coloured lighting and claimed flight effects. Center for UFO Studies <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ashlandsource.com/2020/10/04/coyne-incident-over-charles-mill-lake-was-most-credible-ufo-sighting-of-1973/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ashlandsource.com">[Ashland Source]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ashlandsource.com</span><span class="citation-popover-title">coyne incident over charles mill lake was most credible ufo sighting of 1973</span><span class="citation-popover-snippet">Ashland SourceCoyne Incident over Charles Mill Lake was most credible...4 Oct 2020 — According to the Center for UFO Studies, the Coyne...</span></span></span>
@@ -379,7 +379,7 @@ That tension explains why the cockpit encounter remains the centrepiece of the C
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -389,111 +389,36 @@ That tension explains why the cockpit encounter remains the centrepiece of the C
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-did-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 13x19 Signed Poster - I Know What You did Last Summer 2025, +COA"><img src="{{ '/assets/images/marketplace-covers/add134c1b21055c79e03.jpg' | relative_url }}" alt="Listing image for 13x19 Signed Poster - I Know What You did Last Summer 2025, +COA" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-did-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">13x19 Signed Poster - I Know What You did Last Summer 2025, +COA</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-did-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for did poster">Search <span data-ebay-domain-label>eBay.com</span>: did poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-did-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-did-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:6 DiD WWII US 2nd Ranger Private Jackson Promotional Wall Poster 12&quot; GI Joe"><img src="{{ '/assets/images/marketplace-covers/def1570e7466355a9aff.jpg' | relative_url }}" alt="Listing image for 1:6 DiD WWII US 2nd Ranger Private Jackson Promotional Wall Poster 12&quot; GI Joe" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-did-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">1:6 DiD WWII US 2nd Ranger Private Jackson Promotional Wall Poster 12&quot; GI Joe</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-did-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for did poster">Search <span data-ebay-domain-label>eBay.com</span>: did poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-did-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-did-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DID WWII US 2nd Ranger Private Jackson Promotional Wall Poster 23&quot;x 20&quot;"><img src="{{ '/assets/images/marketplace-covers/29ef228ff7160100898f.jpg' | relative_url }}" alt="Listing image for DID WWII US 2nd Ranger Private Jackson Promotional Wall Poster 23&quot;x 20&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-did-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">DID WWII US 2nd Ranger Private Jackson Promotional Wall Poster 23&quot;x 20&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-did-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for did poster">Search <span data-ebay-domain-label>eBay.com</span>: did poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-did-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-did-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lana Del Rey Did You Know Tunnel Under Ocean Blvd Black &amp; White Poster New"><img src="{{ '/assets/images/marketplace-covers/4c422ec9b0b2c02c9f8c.jpg' | relative_url }}" alt="Listing image for Lana Del Rey Did You Know Tunnel Under Ocean Blvd Black &amp; White Poster New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-did-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Lana Del Rey Did You Know Tunnel Under Ocean Blvd Black &amp; White Poster New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-did-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for did poster">Search <span data-ebay-domain-label>eBay.com</span>: did poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-did-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-did-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-did-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for we did that we did that we did that Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b8122cf792f36a0893a3.jpg' | relative_url }}" alt="Listing image for we did that we did that we did that Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-did-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">we did that we did that we did that Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-did-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for did poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: did poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-did-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -501,15 +426,47 @@ That tension explains why the cockpit encounter remains the centrepiece of the C
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-did-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Vintage Things We Did Didn&#x27;t Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/00a79b2365f124b0a2b5.jpg' | relative_url }}" alt="Listing image for Retro Vintage Things We Did Didn&#x27;t Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-did-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Retro Vintage Things We Did Didn&#x27;t Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-did-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for did poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: did poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-did-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -517,7 +474,7 @@ That tension explains why the cockpit encounter remains the centrepiece of the C
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-did-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="crew-account-what-did-coyne-s-crew-say-they-saw-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -594,17 +551,31 @@ That tension explains why the cockpit encounter remains the centrepiece of the C
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -617,42 +588,73 @@ That tension explains why the cockpit encounter remains the centrepiece of the C
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -667,12 +669,17 @@ That tension explains why the cockpit encounter remains the centrepiece of the C
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>

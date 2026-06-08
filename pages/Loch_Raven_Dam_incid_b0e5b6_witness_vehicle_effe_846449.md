@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /loch-raven-dam-incident-1958/
 nav_short_title: Witness Accounts
 title: Eyewitness Reports and Car Malfunctions at Loch Raven
-title_full: Eyewitness Reports and Car Malfunctions at Loch Raven | LochRavenUFO
+title_full: Eyewitness Reports and Car Malfunctions at Loch Raven | Loch Raven UFO
 display_title_short: Witness Accounts
 display_title: Witness Accounts
 heading_title: Eyewitness Reports and Car Malfunctions at Loch Raven
@@ -197,20 +197,20 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: LochRavenUFO
+parent_title: Loch Raven UFO
 parent_permalink: /loch-raven-dam-incident-1958/
-parent_nav_short_title: LochRavenUFO
+parent_nav_short_title: Loch Raven UFO
 parent_heading_title: What Really Happened at Loch Raven Dam in 1958?
 ancestor_links:
 - basename: Loch_Raven_Dam_incid_b0e5b6
-  title: LochRavenUFO
+  title: Loch Raven UFO
   permalink: /loch-raven-dam-incident-1958/
-  short_title: LochRavenUFO
+  short_title: Loch Raven UFO
 breadcrumb_links:
 - basename: Loch_Raven_Dam_incid_b0e5b6
-  title: LochRavenUFO
+  title: Loch Raven UFO
   permalink: /loch-raven-dam-incident-1958/
-  short_title: LochRavenUFO
+  short_title: Loch Raven UFO
 sibling_links:
 - basename: Loch_Raven_Dam_incid_b0e5b6_airforce_bluebook_in_49f444
   title: Project Blue Book | What Really Happened at Loch Raven Dam in 1958?
@@ -224,16 +224,16 @@ sibling_links:
   heading_title: Natural and Human Explanations for Loch Raven Sighting
 up_link:
   basename: Loch_Raven_Dam_incid_b0e5b6
-  title: LochRavenUFO
+  title: Loch Raven UFO
   permalink: /loch-raven-dam-incident-1958/
-  short_title: LochRavenUFO
+  short_title: Loch Raven UFO
 prev_link:
   basename: Loch_Raven_Dam_incid_b0e5b6_skeptical_explanatio_26ae60
   title: Skeptical Analysis | What Really Happened at Loch Raven Dam in 1958?
   permalink: /skeptical-analysis-e727fe/
   short_title: Skeptical Analysis
   heading_title: Natural and Human Explanations for Loch Raven Sighting
-date: '2026-05-29 12:24:25 '
+date: '2026-06-08 23:41:10 '
 header:
   og_image: /assets/images/Loch_Raven_Dam_incid_b0e5b6_witness_vehicle_effe_846449-Illustration-1-social.jpg
   preview_image: /assets/images/Loch_Raven_Dam_incid_b0e5b6_witness_vehicle_effe_846449-Illustration-1.webp
@@ -245,7 +245,7 @@ image: /assets/images/Loch_Raven_Dam_incid_b0e5b6_witness_vehicle_effe_846449-Il
 On the night of 26 October 1958 near Loch Raven Dam in Maryland, two men — **Phillip Small** (then 27) and **Alvin Cohen** (24) — reported one of the most striking mid‑century UFO encounters in the United States, not merely for what they saw, but for the **immediate physical effects** they attributed to it. Their testimony combines a close visual sighting of an unusual airborne object with a suite of **environmental and physiological effects** that distinguish this case in UFO archives, including alleged vehicle electrical failure and sensations of heat or burning on their bodies. The following sections summarise the eyewitness testimonies, the sequence of physical effects they reported, and how these immediate impressions shaped official investigation records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">NICAPUFO ReportOctober 26, 1958...</span><span class="citation-popover-meta">Published: October 26, 1958</span></span></span>
 
 
-<img src="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6_witness_vehicle_effe_846449-Illustration-1-light.svg" | relative_url }}" alt="Witness Accounts illustration 1" data-theme-src-dark="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6_witness_vehicle_effe_846449-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6_witness_vehicle_effe_846449-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6_witness_vehicle_effe_846449-Illustration-1-dark.svg" | relative_url }}" alt="Witness Accounts illustration 1" data-theme-src-dark="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6_witness_vehicle_effe_846449-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6_witness_vehicle_effe_846449-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Small and Cohen’s Statements on First Contact
 
 According to multiple historical accounts drawn from witness transcripts and Project Blue Book documentation, Small and Cohen were driving along a road beside Loch Raven Reservoir at about **10:30 p.m.** when they suddenly observed “a large, flat, egg‑shaped object” hovering in darkness over a **bridge structure** ahead of them. Estimates in the declassified record place the object roughly **100–150 feet above the bridge** and perhaps **75–80 feet away** from their position when it first came into clear view. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/htm/lochravendam.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: The Loch Raven Dam case, 1958...</span></span></span>
@@ -264,7 +264,7 @@ One of the most commonly cited aspects of this incident is the **alleged vehicle
 According to the witnesses, this failure persisted **only while the object remained overhead**; once the craft departed, the car could be restarted without difficulty. The apparent synchrony between the object’s presence and the interruption of electrical power is cited in UFO literature as an example of reported **physical trace evidence** in close sighting cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">NICAPUFO ReportOctober 26, 1958...</span><span class="citation-popover-meta">Published: October 26, 1958</span></span></span>
 
 
-<img src="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6_witness_vehicle_effe_846449-Illustration-2-light.svg" | relative_url }}" alt="Witness Accounts illustration 2" data-theme-src-dark="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6_witness_vehicle_effe_846449-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6_witness_vehicle_effe_846449-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6_witness_vehicle_effe_846449-Illustration-2-dark.svg" | relative_url }}" alt="Witness Accounts illustration 2" data-theme-src-dark="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6_witness_vehicle_effe_846449-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6_witness_vehicle_effe_846449-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Heat, Flash and Loud Sound During Departure
 
 As the researchers’ accounts continue, after several tens of seconds spent observing the object, Small and Cohen reported a sudden and **“brilliant flash of white light”** emanating from the craft. Concomitant with this flash was a **loud noise** variously described as like **thunder or a dull explosion**. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/htm/lochravendam.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: The Loch Raven Dam case, 1958...</span></span></span>
@@ -283,7 +283,7 @@ This combination of **visual intensity, auditory shock, and thermal sensation** 
 Once on the phone and after police arrived at the scene, Small and Cohen described to officers not only the sighting but their lingering **burning sensations**, which placed the immediate physiological impact alongside the anecdotal visual event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/match/MADAR_101/00-01-Foal-Eagle-BBU-Ascents.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">26, 1958. Loch Raven Dam, Maryland. 10:30 p.m. (EST). Phillip Small and Alvin Cohen saw a large, flat egg-shaped object, flying low about...</span></span></span>
 
 
-<img src="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6_witness_vehicle_effe_846449-Illustration-3-light.svg" | relative_url }}" alt="Witness Accounts illustration 3" data-theme-src-dark="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6_witness_vehicle_effe_846449-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6_witness_vehicle_effe_846449-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6_witness_vehicle_effe_846449-Illustration-3-dark.svg" | relative_url }}" alt="Witness Accounts illustration 3" data-theme-src-dark="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6_witness_vehicle_effe_846449-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6_witness_vehicle_effe_846449-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Witness Corroboration and Broader Reporting
 
 While Small and Cohen’s account is the chief source for this incident, some UFO archives also reference **additional observers** who reported similar unusual lights or sounds in the wider area at the same time, though their statements are typically less detailed or not directly tied to the same sequence of physical effects. One such witness, referred to only as **“Mr. M”**, claimed to see a **luminous white object rising into the air** shortly after the Loch Raven encounter before disappearing, offering a form of peripheral corroboration in the broader narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/sightings/ufo-incidents-loch-raven-dam" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">UFO Insight The “Forgotten” UFO Incidents Of The Loch Raven Dam</span><span class="citation-popover-snippet">UFO InsightThe “Forgotten” UFO Incidents Of The Loch Raven Dam - UFO InsightJanuary 3, 2019...</span><span class="citation-popover-meta">Published: January 3, 2019</span></span></span>
@@ -311,27 +311,27 @@ While official investigators ultimately classified the incident as **unidentifie
 
     <article class="fr-search-card">
       <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Loch Raven Dam guide</h4>
+      <h4 class="fr-search-title">UFO investigation books</h4>
       <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Loch+Raven+Dam+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
       </a>
     </article>
 
     <article class="fr-search-card">
       <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Loch Raven Reservoir guide</h4>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
       <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Loch+Raven+Reservoir+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
       </a>
     </article>
 
     <article class="fr-search-card">
       <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Phillip Small guide</h4>
+      <h4 class="fr-search-title">UAP investigation books</h4>
       <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Phillip+Small+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
       </a>
     </article>

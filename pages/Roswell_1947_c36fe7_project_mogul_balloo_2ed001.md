@@ -239,7 +239,7 @@ next_link:
   permalink: /witness-claims/
   short_title: Witness Claims
   heading_title: Why Roswell Witness Stories Still Divide People
-date: '2026-05-29 11:50:25 '
+date: '2026-06-08 23:19:00 '
 header:
   og_image: /assets/images/Roswell_1947_c36fe7_project_mogul_balloo_2ed001-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_1947_c36fe7_project_mogul_balloo_2ed001-Illustration-1.webp
@@ -251,7 +251,7 @@ image: /assets/images/Roswell_1947_c36fe7_project_mogul_balloo_2ed001-Illustrati
 Project Mogul is the central official explanation for the Roswell debris recovered in New Mexico in 1947. The theory matters because it resolves a problem that the original “weather balloon” story never fully explained: why witnesses described material that looked unusual, fragile, metallic, and unfamiliar, yet not obviously like a conventional aircraft. According to the U.S. Air Force and later historical research, the debris most likely came from a classified balloon train designed to detect Soviet nuclear tests during the opening years of the Cold War. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-title">DAF History The Roswell Report</span><span class="citation-popover-snippet">Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by Representative Steven H. Schiff...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">effort to determine the state of Soviet nuclear weapons research using balloons...Read more...</span></span></span>
 
 
-<img src="{{ "/assets/images/Roswell_1947_c36fe7_project_mogul_balloo_2ed001-Illustration-1-light.svg" | relative_url }}" alt="Project Mogul illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_1947_c36fe7_project_mogul_balloo_2ed001-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_1947_c36fe7_project_mogul_balloo_2ed001-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Roswell_1947_c36fe7_project_mogul_balloo_2ed001-Illustration-1-dark.svg" | relative_url }}" alt="Project Mogul illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_1947_c36fe7_project_mogul_balloo_2ed001-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_1947_c36fe7_project_mogul_balloo_2ed001-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The Mogul explanation does not claim that civilians simply mistook an ordinary weather balloon for a spacecraft. Instead, it argues that the recovered material belonged to a large, experimental, highly secret surveillance system combining balloons, radar reflectors, acoustic sensors, tape, foil, balsa supports, cables, and other lightweight components. In 1947, almost none of that could be publicly discussed without exposing sensitive intelligence work aimed at monitoring the Soviet Union. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-title">DAF History The Roswell Report</span><span class="citation-popover-snippet">Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by Representative Steven H. Schiff...Read more...</span></span></span>
 
 ## What Mogul Was Built to Detect
@@ -288,7 +288,7 @@ The “weather balloon” statement was therefore not entirely false, but incomp
 This distinction matters because it explains why later witnesses could sincerely insist that the official explanation changed. It did change — but from one incomplete account to another, rather than from alien spacecraft to ordinary weather gear. The Air Force’s later reports argued that this partial truth created the conditions for decades of suspicion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-title">DAF History The Roswell Report</span><span class="citation-popover-snippet">Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by Representative Steven H. Schiff...Read more...</span></span></span>
 
 
-<img src="{{ "/assets/images/Roswell_1947_c36fe7_project_mogul_balloo_2ed001-Illustration-2-light.svg" | relative_url }}" alt="Project Mogul illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_1947_c36fe7_project_mogul_balloo_2ed001-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_1947_c36fe7_project_mogul_balloo_2ed001-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Roswell_1947_c36fe7_project_mogul_balloo_2ed001-Illustration-2-dark.svg" | relative_url }}" alt="Project Mogul illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_1947_c36fe7_project_mogul_balloo_2ed001-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_1947_c36fe7_project_mogul_balloo_2ed001-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Evidence Supporting the Mogul Theory
 
 Several factors make Project Mogul the dominant historical explanation among military historians, sceptical investigators, and many researchers of the Roswell incident.
@@ -319,7 +319,7 @@ The counterargument is that memory changed substantially over decades and that M
 Another source of distrust is the government’s own behaviour. Because officials undeniably concealed classified programmes during the Cold War, many readers view any later official explanation with suspicion. Roswell became a wider symbol of secrecy itself, making the Mogul account emotionally unsatisfying for people who see the case as evidence of broader concealment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-title">Unsolved Mysteries&quot;: The True Story of the Roswell UFO Incident</span><span class="citation-popover-snippet">Mack&quot; Brazel. Initially claimed by the U.S. Air Force to be a &quot;flying saucer,&quot; this was quickly retracted, asserting it was a weather ba...</span></span></span>
 
 
-<img src="{{ "/assets/images/Roswell_1947_c36fe7_project_mogul_balloo_2ed001-Illustration-3-light.svg" | relative_url }}" alt="Project Mogul illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_1947_c36fe7_project_mogul_balloo_2ed001-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_1947_c36fe7_project_mogul_balloo_2ed001-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Roswell_1947_c36fe7_project_mogul_balloo_2ed001-Illustration-3-dark.svg" | relative_url }}" alt="Project Mogul illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_1947_c36fe7_project_mogul_balloo_2ed001-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_1947_c36fe7_project_mogul_balloo_2ed001-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Project Mogul Became Central to Roswell History
 
 Project Mogul transformed Roswell from a simple “weather balloon mistake” into a more historically credible Cold War mystery. It acknowledges that something genuinely secret was operating in the New Mexico desert while still grounding the incident in documented military technology rather than extraterrestrial visitation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-title">DAF History The Roswell Report</span><span class="citation-popover-snippet">Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by Representative Steven H. Schiff...Read more...</span></span></span>
@@ -372,246 +372,6 @@ That balance explains why the Mogul theory has endured. It preserves the real at
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
-
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=roswell+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-mogul-was-roswell-a-secret-balloon-project-roswell-1947-roswell-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Alien Crash Vintage Sci Fi UFO Warning Poster"><img src="{{ '/assets/images/marketplace-covers/2f9747ee40cac1c17d46.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico Alien Crash Vintage Sci Fi UFO Warning Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=roswell+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-mogul-was-roswell-a-secret-balloon-project-roswell-1947-roswell-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Alien Crash Vintage Sci Fi UFO Warning Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=roswell+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-mogul-was-roswell-a-secret-balloon-project-roswell-1947-roswell-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for roswell poster">Search <span data-ebay-domain-label>eBay.com</span>: roswell poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=roswell+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-mogul-was-roswell-a-secret-balloon-project-roswell-1947-roswell-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=roswell+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-mogul-was-roswell-a-secret-balloon-project-roswell-1947-roswell-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROSWELL Liz &amp; Max vintage poster 22&quot;X34&quot; NOS (b824)"><img src="{{ '/assets/images/marketplace-covers/7143c4bcc3889805c817.jpg' | relative_url }}" alt="Listing image for ROSWELL Liz &amp; Max vintage poster 22&quot;X34&quot; NOS (b824)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=roswell+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-mogul-was-roswell-a-secret-balloon-project-roswell-1947-roswell-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">ROSWELL Liz &amp; Max vintage poster 22&quot;X34&quot; NOS (b824)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=roswell+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-mogul-was-roswell-a-secret-balloon-project-roswell-1947-roswell-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for roswell poster">Search <span data-ebay-domain-label>eBay.com</span>: roswell poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=roswell+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-mogul-was-roswell-a-secret-balloon-project-roswell-1947-roswell-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=roswell+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-mogul-was-roswell-a-secret-balloon-project-roswell-1947-roswell-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell TV Show Vintage Poster LIZ &amp; MAX Couple 2000 Shiri Appleby Jason Behr"><img src="{{ '/assets/images/marketplace-covers/87eaa21e112409100f3e.jpg' | relative_url }}" alt="Listing image for Roswell TV Show Vintage Poster LIZ &amp; MAX Couple 2000 Shiri Appleby Jason Behr" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=roswell+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-mogul-was-roswell-a-secret-balloon-project-roswell-1947-roswell-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Roswell TV Show Vintage Poster LIZ &amp; MAX Couple 2000 Shiri Appleby Jason Behr</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=roswell+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-mogul-was-roswell-a-secret-balloon-project-roswell-1947-roswell-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for roswell poster">Search <span data-ebay-domain-label>eBay.com</span>: roswell poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=roswell+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-mogul-was-roswell-a-secret-balloon-project-roswell-1947-roswell-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=roswell+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-mogul-was-roswell-a-secret-balloon-project-roswell-1947-roswell-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=roswell+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-mogul-was-roswell-a-secret-balloon-project-roswell-1947-roswell-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=roswell+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-mogul-was-roswell-a-secret-balloon-project-roswell-1947-roswell-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for roswell poster">Search <span data-ebay-domain-label>eBay.com</span>: roswell poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=roswell+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-mogul-was-roswell-a-secret-balloon-project-roswell-1947-roswell-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=roswell+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-mogul-was-roswell-a-secret-balloon-project-roswell-1947-roswell-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
-(function () {
-  if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
-  function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
-  }
-  function localeMatches() {
-    var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
-    try {
-      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
-      else if (navigator.language) languages = [navigator.language];
-    } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
-      var normalized = normalize(languages[i]);
-      if (!normalized) continue;
-      if (localeMarketMap[normalized]) {
-        exactMarket = localeMarketMap[normalized];
-        break;
-      }
-      var languageOnly = normalized.split('-')[0];
-      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
-    }
-    return { exact: exactMarket, language: languageMarket };
-  }
-  function inferFromLocale() {
-    var matches = localeMatches();
-    return matches.exact || matches.language || '';
-  }
-  function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
-      var rule = timezoneRules[i] || {};
-      try {
-        if (new RegExp(rule.pattern).test(tz)) return rule.market;
-      } catch (err) {}
-    }
-    return '';
-  }
-  function inferMarket(available, options) {
-    available = Array.isArray(available) ? available : [];
-    options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
-    try {
-      var saved = window.localStorage && localStorage.getItem(storageKey);
-      if (saved && available.indexOf(saved) >= 0) return saved;
-    } catch (err) {}
-    var timezoneMarket = inferFromTimezone();
-    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
-    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
-    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
-  }
-  window.PhoenixAffiliateLocation = {
-    normalize: normalize,
-    inferMarket: inferMarket,
-    inferFromLocale: inferFromLocale,
-    inferFromTimezone: inferFromTimezone
-  };
-})();
-</script>
-  <script type="text/javascript">
-(function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
-  if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
-  }
-  function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
-  }
-  function closeMenu(section) {
-    var menu = section.querySelector('[data-ebay-market-menu]');
-    var trigger = section.querySelector('[data-ebay-market-trigger]');
-    var picker = section.querySelector('.fr-ebay-market-picker');
-    if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
-    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
-  }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
-    var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
-    }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
-    });
-    var trigger = section.querySelector('[data-ebay-market-trigger]');
-    var menu = section.querySelector('[data-ebay-market-menu]');
-    if (trigger && menu) {
-      trigger.addEventListener('click', function (event) {
-        event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
-        menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
-        var picker = trigger.closest('.fr-ebay-market-picker');
-        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
-      });
-      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.addEventListener('click', function (event) {
-          event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
-        });
-      });
-      document.addEventListener('click', function () { closeMenu(section); });
-    }
-    selectMarket(inferMarket(available), false);
-  });
-})();
-</script>
 </section>
 
 ## Endnotes

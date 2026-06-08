@@ -345,7 +345,7 @@ sibling_links:
   short_title: Higdon Contact
 - basename: CashLandrum_incident_7ad7d9
   title: Cash Landrum
-  permalink: /cashlandrum-incident-1980/
+  permalink: /cash-landrum-incident-1980/
   short_title: Cash Landrum
 - basename: Cedric_Allingham_enc_2c7f6b
   title: Allingham
@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: CiscoGrove1964
+  title: Cisco Grove1964
   permalink: /cisco-grove-incident-1964/
-  short_title: CiscoGrove1964
+  short_title: Cisco Grove1964
 - basename: Clyde_Tombaugh_sight_af62cd
   title: Tombaugh Sighting
   permalink: /clyde-tombaugh-sighting-1949/
@@ -428,9 +428,9 @@ sibling_links:
   permalink: /fred-m-johnson-sighting-1947/
   short_title: Johnson Sighting
 - basename: Gary_Wilcox_encounte_6de9ff
-  title: WilcoxUFO
+  title: Wilcox UFO
   permalink: /gary-wilcox-encounter-1964/
-  short_title: WilcoxUFO
+  short_title: Wilcox UFO
 - basename: Gemini_4_sighting_19_9c351d
   title: Gemini 4 Sighting
   permalink: /gemini-4-sighting-1965/
@@ -524,21 +524,21 @@ sibling_links:
   permalink: /linda-cortile-abduction-1989/
   short_title: Cortile Case
 - basename: Livingston_incident_b2c293
-  title: LivingstonUFO
+  title: Livingston UFO
   permalink: /livingston-incident-1979/
-  short_title: LivingstonUFO
+  short_title: Livingston UFO
 - basename: Loch_Raven_Dam_incid_b0e5b6
-  title: LochRavenUFO
+  title: Loch Raven UFO
   permalink: /loch-raven-dam-incident-1958/
-  short_title: LochRavenUFO
+  short_title: Loch Raven UFO
 - basename: Lubbock_Lights_sight_4eabd8
   title: Lubbock Lights
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: MagentaCrash1933
+  title: Magenta Crash1933
   permalink: /magenta-italy-crash-1933/
-  short_title: MagentaCrash1933
+  short_title: Magenta Crash1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -548,9 +548,9 @@ sibling_links:
   permalink: /maury-island-incident-1947/
   short_title: Maury Island
 - basename: McMinnville_photogra_4e1af3
-  title: McMinnville Photos
-  permalink: /mcminnville-photographs-1950/
-  short_title: McMinnville Photos
+  title: Mc Minnville Photos
+  permalink: /mc-minnville-photographs-1950/
+  short_title: Mc Minnville Photos
 - basename: Middle_East_UAP_vide_4a6c55
   title: Middle East Orb
   permalink: /middle-east-uap-video-2022/
@@ -568,9 +568,9 @@ sibling_links:
   permalink: /oloron-angel-hair-incident-1952/
   short_title: Oloron Angel Hair
 - basename: Operation_Mainbrace_06bcd8
-  title: MainbraceSightings
+  title: Mainbrace Sightings
   permalink: /operation-mainbrace-sightings-1952/
-  short_title: MainbraceSightings
+  short_title: Mainbrace Sightings
 - basename: Orfeo_Angelucci_enco_bef29a
   title: Angelucci
   permalink: /orfeo-angelucci-encounter-1955/
@@ -620,17 +620,17 @@ sibling_links:
   permalink: /socorro-sighting-by-lonnie-zamora-1964/
   short_title: Socorro UFO
 - basename: SpaurNeff_Ravenna_si_4977ac
-  title: RavennaUFO
-  permalink: /spaurneff-ravenna-sighting-1966/
-  short_title: RavennaUFO
+  title: Ravenna UFO
+  permalink: /spaur-neff-ravenna-sighting-1966/
+  short_title: Ravenna UFO
 - basename: Stanford_Kentucky_ab_a91f06
   title: Stanford Abduction
   permalink: /stanford-kentucky-abduction-1976/
   short_title: Stanford Abduction
 - basename: Stephen_Darbishire_p_f80223
-  title: DarbishireUFO
+  title: Darbishire UFO
   permalink: /stephen-darbishire-photograph-1954/
-  short_title: DarbishireUFO
+  short_title: Darbishire UFO
 - basename: Steven_Michalak_enco_1bbf94
   title: Falcon Lake
   permalink: /steven-michalak-encounter-1967/
@@ -644,9 +644,9 @@ sibling_links:
   permalink: /thomas-f-mantell-incident-1948/
   short_title: Mantell
 - basename: Topcliffe_incident_1_80cbf4
-  title: TopcliffeUFO
+  title: Topcliffe UFO
   permalink: /topcliffe-incident-1952/
-  short_title: TopcliffeUFO
+  short_title: Topcliffe UFO
 - basename: Trans-en-Provence_en_439c97
   title: Trans en Provence
   permalink: /trans-en-provence-encounter-1981/
@@ -668,9 +668,9 @@ sibling_links:
   permalink: /truman-bethurum-contact-1954/
   short_title: Bethurum
 - basename: Tully_saucer_nest_in_b9d0b0
-  title: TullyUFO
+  title: Tully UFO
   permalink: /tully-saucer-nest-incident-1966/
-  short_title: TullyUFO
+  short_title: Tully UFO
 - basename: Tunguska_event_1908_efda6f
   title: Tunguska
   permalink: /tunguska-event-1908/
@@ -680,9 +680,9 @@ sibling_links:
   permalink: /ubatuba-incident-1957/
   short_title: Ubatuba
 - basename: USS_Nimitz_Tic_Tac_v_83266a
-  title: NimitzUAP
+  title: Nimitz UAP
   permalink: /uss-nimitz-tic-tac-video-2004/
-  short_title: NimitzUAP
+  short_title: Nimitz UAP
 - basename: USS_Russell_video_20_3188a1
   title: USS Russell
   permalink: /uss-russell-video-2019/
@@ -704,9 +704,9 @@ sibling_links:
   permalink: /valentich-disappearance-1978/
   short_title: Valentich
 - basename: Voronezh_Russia_land_e13f34
-  title: VoronezhLanding
+  title: Voronezh Landing
   permalink: /voronezh-russia-landing-1989/
-  short_title: VoronezhLanding
+  short_title: Voronezh Landing
 - basename: Walesville_Incident_cbceb2
   title: Walesville
   permalink: /walesville-incident-1954/
@@ -717,12 +717,12 @@ sibling_links:
   short_title: Washington Saucers
 - basename: WellingtonKaikoura_i_c1d17f
   title: Kaikoura Lights
-  permalink: /wellingtonkaikoura-incident-1978/
+  permalink: /wellington-kaikoura-incident-1978/
   short_title: Kaikoura Lights
 - basename: Ummo_photographs_196_ed7563
-  title: UmmoPhotos
+  title: Ummo Photos
   permalink: /were-the-1967-ummo-photographs-real-or-a/
-  short_title: UmmoPhotos
+  short_title: Ummo Photos
 child_links:
 - basename: Claude_Vorilhon_cont_ec941c_contact_evidence_gap_fdc804
   title: Evidence | Claude Vorilhon contact 1973
@@ -741,15 +741,15 @@ child_links:
   heading_title: What Supposedly Happened at Puy de Lassolas?
 prev_link:
   basename: Cisco_Grove_incident_29820a
-  title: CiscoGrove1964
+  title: Cisco Grove1964
   permalink: /cisco-grove-incident-1964/
-  short_title: CiscoGrove1964
+  short_title: Cisco Grove1964
 next_link:
   basename: Clyde_Tombaugh_sight_af62cd
   title: Tombaugh Sighting
   permalink: /clyde-tombaugh-sighting-1949/
   short_title: Tombaugh Sighting
-date: '2026-05-29 12:19:20 '
+date: '2026-06-08 23:37:24 '
 header:
   og_image: /assets/images/Claude_Vorilhon_cont_ec941c-overview-social.jpg
   preview_image: /assets/images/Claude_Vorilhon_cont_ec941c-overview.webp
@@ -779,7 +779,7 @@ The chronology matters because the encounter was not reported as an isolated sig
 A useful detail in assessing the setting is that Vorilhon’s previous career was under strain. Contemporary summaries and later scholarship note that he had been involved in motor-sport journalism and car testing, and that the oil-crisis-era restrictions on motor racing and fuel consumption in France affected this professional world. That context does not disprove the contact claim, but it helps explain why sceptical accounts often treat 1973–1974 as a moment of career rupture followed by religious reinvention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rael.org/wp-content/uploads/2020/04/Intelligent_Design2_FRENCH.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rael.org">[RAEL.ORG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rael.org</span><span class="citation-popover-title">Intelligent Design2 FRENCH</span><span class="citation-popover-snippet">Intelligent Design2 FRENCH</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ra%C3%ABlism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 
-<img src="{{ "/assets/images/Claude_Vorilhon_cont_ec941c-Illustration-1-light.svg" | relative_url }}" alt="Claude Vorilhon contact 1973 illustration 1" data-theme-src-dark="{{ "/assets/images/Claude_Vorilhon_cont_ec941c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Claude_Vorilhon_cont_ec941c-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Claude_Vorilhon_cont_ec941c-Illustration-1-dark.svg" | relative_url }}" alt="Claude Vorilhon contact 1973 illustration 1" data-theme-src-dark="{{ "/assets/images/Claude_Vorilhon_cont_ec941c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Claude_Vorilhon_cont_ec941c-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What evidence exists, and what is missing
 
 The evidential base is narrow. The case depends overwhelmingly on Vorilhon’s own account, later movement publications, and the religious structure built around them. There is no widely cited body of independent photographs, radar data, trace evidence, medical records, contemporaneous multi-witness testimony, or official UFO-investigation file that verifies a landed craft at Puy de Lassolas in December 1973.
@@ -810,7 +810,7 @@ That blend helps explain the appeal of the narrative. It did not ask followers t
 For readers assessing the 1973 episode, this means the message cannot be separated from the encounter. The event is not merely “a man saw a UFO”; it is a conversion story in which a marginal sighting becomes the foundation for a full worldview.
 
 
-<img src="{{ "/assets/images/Claude_Vorilhon_cont_ec941c-Illustration-2-light.svg" | relative_url }}" alt="Claude Vorilhon contact 1973 illustration 2" data-theme-src-dark="{{ "/assets/images/Claude_Vorilhon_cont_ec941c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Claude_Vorilhon_cont_ec941c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Claude_Vorilhon_cont_ec941c-Illustration-2-dark.svg" | relative_url }}" alt="Claude Vorilhon contact 1973 illustration 2" data-theme-src-dark="{{ "/assets/images/Claude_Vorilhon_cont_ec941c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Claude_Vorilhon_cont_ec941c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Witness credibility and corroboration
 
 Vorilhon was not an anonymous figure. Before Raëlism, he had worked as a singer under the name Claude Celler and as a motor-sport journalist, and the Raëlian movement’s own biography emphasises his racing and magazine background. That public profile helped him promote the story, appear in media, publish, and gather an audience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rael.org/rael/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rael.org">[RAEL.ORG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rael.org</span><span class="citation-popover-title">The Last Prophet, Rael</span><span class="citation-popover-snippet">The Last Prophet, Rael</span></span></span>
@@ -820,7 +820,7 @@ At the same time, public profile is not corroboration. The 1973 claim rests on h
 The case is also complicated by later controversies around the movement. France’s 1995 parliamentary report listed the Raëlian movement among groups considered sectarian, and later legal and public controversies continued to shape public perception. The European Court of Human Rights case involving the Swiss Raëlian movement also records official concern about Raëlian public campaigns, including issues around cloning and public order, even though such legal controversies do not directly prove or disprove the 1973 encounter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.assemblee-nationale.fr/rap-enq/r2468.asp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assemblee-nationale.fr">[National Assembly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assemblee-nationale.fr</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hudoc.echr.coe.int/eng?i=001-102826" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hudoc.echr.coe.int">[HUDOC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hudoc.echr.coe.int</span><span class="citation-popover-title">HUDOCMOUVEMENT RAËLIEN SUISSE c. SUISSE</span><span class="citation-popover-snippet">HUDOCMOUVEMENT RAËLIEN SUISSE c. SUISSE</span></span></span>
 
 
-<img src="{{ "/assets/images/Claude_Vorilhon_cont_ec941c-Illustration-3-light.svg" | relative_url }}" alt="Claude Vorilhon contact 1973 illustration 3" data-theme-src-dark="{{ "/assets/images/Claude_Vorilhon_cont_ec941c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Claude_Vorilhon_cont_ec941c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Claude_Vorilhon_cont_ec941c-Illustration-3-dark.svg" | relative_url }}" alt="Claude Vorilhon contact 1973 illustration 3" data-theme-src-dark="{{ "/assets/images/Claude_Vorilhon_cont_ec941c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Claude_Vorilhon_cont_ec941c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Competing interpretations
 
 The main interpretations of the 1973 contact fall into three broad categories.

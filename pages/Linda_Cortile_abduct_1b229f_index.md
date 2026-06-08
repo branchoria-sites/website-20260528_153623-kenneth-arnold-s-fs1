@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /linda-cortile-abduct-1b229f-index/
 description: Focused pages that expand on Linda Cortile abduction 1989.
-date: '2026-05-29'
+date: '2026-06-08'
 layout: default
 parent_basename: Linda_Cortile_abduct_1b229f
 parent_title: Linda Cortile abduction 1989

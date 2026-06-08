@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /valensole-incident-1-63f5cf-index/
 description: Focused pages that expand on Valensole incident 1965.
-date: '2026-05-29'
+date: '2026-06-08'
 layout: default
 parent_basename: Valensole_incident_1_63f5cf
 parent_title: Valensole incident 1965

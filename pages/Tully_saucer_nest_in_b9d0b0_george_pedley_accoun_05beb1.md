@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /tully-saucer-nest-incident-1966/
 nav_short_title: Witness Account
 title: George Pedley's Tully UFO Sighting Explained
-title_full: George Pedley's Tully UFO Sighting Explained | TullyUFO
+title_full: George Pedley's Tully UFO Sighting Explained | Tully UFO
 display_title_short: Witness Account
 display_title: Witness Account
 heading_title: George Pedley's Tully UFO Sighting Explained
@@ -197,20 +197,20 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: TullyUFO
+parent_title: Tully UFO
 parent_permalink: /tully-saucer-nest-incident-1966/
-parent_nav_short_title: TullyUFO
+parent_nav_short_title: Tully UFO
 parent_heading_title: What Really Happened at Tully in 1966?
 ancestor_links:
 - basename: Tully_saucer_nest_in_b9d0b0
-  title: TullyUFO
+  title: Tully UFO
   permalink: /tully-saucer-nest-incident-1966/
-  short_title: TullyUFO
+  short_title: Tully UFO
 breadcrumb_links:
 - basename: Tully_saucer_nest_in_b9d0b0
-  title: TullyUFO
+  title: Tully UFO
   permalink: /tully-saucer-nest-incident-1966/
-  short_title: TullyUFO
+  short_title: Tully UFO
 sibling_links:
 - basename: Tully_saucer_nest_in_b9d0b0_tully_investigations_7e5799
   title: Investigations | What Really Happened at Tully in 1966?
@@ -224,16 +224,16 @@ sibling_links:
   heading_title: Investigating the Tully Saucer Nest Formation
 up_link:
   basename: Tully_saucer_nest_in_b9d0b0
-  title: TullyUFO
+  title: Tully UFO
   permalink: /tully-saucer-nest-incident-1966/
-  short_title: TullyUFO
+  short_title: Tully UFO
 prev_link:
   basename: Tully_saucer_nest_in_b9d0b0_saucer_nest_trace_b19bc8
   title: Physical Trace | What Really Happened at Tully in 1966?
   permalink: /physical-trace/
   short_title: Physical Trace
   heading_title: Investigating the Tully Saucer Nest Formation
-date: '2026-05-29 12:24:08 '
+date: '2026-06-08 23:40:45 '
 header:
   og_image: /assets/images/Tully_saucer_nest_in_b9d0b0_george_pedley_accoun_05beb1-Illustration-1-social.jpg
   preview_image: /assets/images/Tully_saucer_nest_in_b9d0b0_george_pedley_accoun_05beb1-Illustration-1.webp
@@ -245,7 +245,7 @@ image: /assets/images/Tully_saucer_nest_in_b9d0b0_george_pedley_accoun_05beb1-Il
 On the *morning of 19 January 1966*, farmer **George Alfred Pedley**, then 28 and working near Horseshoe Lagoon on a sugar cane property near Tully in far north Queensland, reported an extraordinary sighting that would anchor the now‑famous *Tully “saucer nest” incident*. His firsthand observation of a strange object rising from a swampy lagoon, followed by his close inspection of unusual [physical traces]({{ 'physical-trace/' | relative_url }}), made his account the core eyewitness testimony in one of Australia’s most debated UFO cases. Pedley’s experience was documented contemporaneously by local police and later by the Royal Australian Air Force (RAAF), giving his testimony unusual evidential traction among UFO reports of the era. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thenightskyii.org/tully.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenightskyii.org">[The Night Sky II]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenightskyii.org</span><span class="citation-popover-title">The Night Sky IITully Flying Saucer Nest</span><span class="citation-popover-snippet">January 19, 1966...</span><span class="citation-popover-meta">Published: January 19, 1966</span></span></span>
 
 
-<img src="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_george_pedley_accoun_05beb1-Illustration-1-light.svg" | relative_url }}" alt="Witness Account illustration 1" data-theme-src-dark="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_george_pedley_accoun_05beb1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_george_pedley_accoun_05beb1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_george_pedley_accoun_05beb1-Illustration-1-dark.svg" | relative_url }}" alt="Witness Account illustration 1" data-theme-src-dark="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_george_pedley_accoun_05beb1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_george_pedley_accoun_05beb1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Eyewitness Description of the Object
 
 At around **9:00 a.m.** on a clear, calm morning, Pedley was driving his tractor toward Horseshoe Lagoon on the neighbouring *Albert Pennisi* property when something in the environment caught his attention. He heard a *distinct hissing sound* above the tractor noise, momentarily thinking it might be a tyre problem. Before he could investigate further, he suddenly saw an object rise out of the swamp about **25 yards ahead of him**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thenightskyii.org/tully.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenightskyii.org">[The Night Sky II]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenightskyii.org</span><span class="citation-popover-title">The Night Sky IITully Flying Saucer Nest</span><span class="citation-popover-snippet">January 19, 1966...</span><span class="citation-popover-meta">Published: January 19, 1966</span></span></span>
@@ -268,7 +268,7 @@ Pedley did not make an immediate media claim. He returned later in the day to th
 When pressed by the press in the days that followed, Pedley explained that he had *not* initially believed in flying saucers until that moment — a reflection he shared candidly with journalists: his experience had changed his view in a matter of minutes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkaboutitdocs.com/the-1966-tully-saucer-nest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">the 1966 tully saucer nest</span><span class="citation-popover-snippet">Think About It Docs1966: The Tully Saucer Nest...</span></span></span>
 
 
-<img src="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_george_pedley_accoun_05beb1-Illustration-2-light.svg" | relative_url }}" alt="Witness Account illustration 2" data-theme-src-dark="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_george_pedley_accoun_05beb1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_george_pedley_accoun_05beb1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_george_pedley_accoun_05beb1-Illustration-2-dark.svg" | relative_url }}" alt="Witness Account illustration 2" data-theme-src-dark="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_george_pedley_accoun_05beb1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_george_pedley_accoun_05beb1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Impact on Pedley and Local Community
 
 Pedley’s testimony and the trace evidence transformed what might have been a private sighting into a *regional spectacle*. Within days, local and international media had relayed the story of a daylight UFO sighting accompanied by a mysterious physical imprint — sometimes referred to as a “saucer nest.” Curious visitors and UFO enthusiasts descended on the area, walking through the farms and lagoon, photographing the site and discussing the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/cover-ups/the-tully-nest-affair" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">the tully nest affair</span><span class="citation-popover-snippet">UFO InsightThe Tully Nest Affair And The 1966 Wave Of UFO Sightings Across Australia - UFO InsightApril 26, 2022...</span><span class="citation-popover-meta">Published: April 26, 2022</span></span></span>
@@ -288,7 +288,7 @@ The wider community’s reaction was mixed. Some locals accepted Pedley’s acco
 George Pedley’s eyewitness account remains the *foundation of the Tully “saucer nest” incident narrative*. Whether one views it as a genuine unexplained aerial encounter or a misinterpretation of natural phenomena, his description of the object, its movements, and the subsequent physical anomaly in the swamp make his report uniquely central among UFO sighting cases of the 1960s. Because his testimony was recorded contemporaneously with [physical trace]({{ 'physical-trace/' | relative_url }}) investigation and passed along official channels rather than only being shared in hindsight, Pedley’s experience continues to be referenced at the core of historical and sceptical analyses of the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkaboutitdocs.com/the-1966-tully-saucer-nest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">the 1966 tully saucer nest</span><span class="citation-popover-snippet">Think About It Docs1966: The Tully Saucer Nest...</span></span></span>
 
 
-<img src="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_george_pedley_accoun_05beb1-Illustration-3-light.svg" | relative_url }}" alt="Witness Account illustration 3" data-theme-src-dark="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_george_pedley_accoun_05beb1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_george_pedley_accoun_05beb1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_george_pedley_accoun_05beb1-Illustration-3-dark.svg" | relative_url }}" alt="Witness Account illustration 3" data-theme-src-dark="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_george_pedley_accoun_05beb1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_george_pedley_accoun_05beb1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell fr-section-shell-fallback">

@@ -233,7 +233,7 @@ next_link:
   permalink: /newhouse-film/
   short_title: Newhouse Film
   heading_title: Why Newhouse's Film Was Taken Seriously
-date: '2026-05-29 11:57:43 '
+date: '2026-06-08 23:24:20 '
 header:
   og_image: /assets/images/Tremonton_Utah_film_79b5ee_gull_explanation_lim_4a803e-Illustration-1-social.jpg
   preview_image: /assets/images/Tremonton_Utah_film_79b5ee_gull_explanation_lim_4a803e-Illustration-1.webp
@@ -245,7 +245,7 @@ image: /assets/images/Tremonton_Utah_film_79b5ee_gull_explanation_lim_4a803e-Ill
 The later “gull explanation” for the Tremonton, Utah film became important not because it solved every question in the case, but because it exposed a central weakness in UFO film analysis: when an object is only a tiny bright point on film, almost every dramatic conclusion depends on assumed distance. If the objects in the 1952 footage were distant craft, their apparent motion could imply remarkable speeds and manoeuvres. If they were nearby birds reflecting sunlight, the same motions become ordinary. The Tremonton film therefore became less a debate about alien craft than a lesson in the limits of photographic interpretation when scale, focus and range are unknown. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 49: Tremonton, Utah - Movie FilmThere was no reference point in the sky and it was impossible for me to make any esti...</span></span></span>
 
 
-<img src="{{ "/assets/images/Tremonton_Utah_film_79b5ee_gull_explanation_lim_4a803e-Illustration-1-light.svg" | relative_url }}" alt="Bird Theory illustration 1" data-theme-src-dark="{{ "/assets/images/Tremonton_Utah_film_79b5ee_gull_explanation_lim_4a803e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tremonton_Utah_film_79b5ee_gull_explanation_lim_4a803e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Tremonton_Utah_film_79b5ee_gull_explanation_lim_4a803e-Illustration-1-dark.svg" | relative_url }}" alt="Bird Theory illustration 1" data-theme-src-dark="{{ "/assets/images/Tremonton_Utah_film_79b5ee_gull_explanation_lim_4a803e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tremonton_Utah_film_79b5ee_gull_explanation_lim_4a803e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 By the late 1960s, the University of Colorado UFO study led by physicist Edward Condon concluded that birds, most likely gulls, were the most probable explanation. That conclusion did not arise from a casual dismissal. It emerged from frame-by-frame examination, photogrammetry and the recognition that the film never captured identifiable shapes at all — only bright unresolved spots. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 49: Tremonton, Utah - Movie FilmThere was no reference point in the sky and it was impossible for me to make any esti...</span></span></span>
 
 ## Could Bright Gulls Explain the UFO Film?
@@ -302,7 +302,7 @@ Hartmann argued that if the objects were gulls, they had to be far enough away t
 This created a subtle but important point: the bird explanation did not claim the objects were obviously visible birds. It claimed they were distant enough to lose recognisable detail while still producing bright reflected highlights.
 
 
-<img src="{{ "/assets/images/Tremonton_Utah_film_79b5ee_gull_explanation_lim_4a803e-Illustration-2-light.svg" | relative_url }}" alt="Bird Theory illustration 2" data-theme-src-dark="{{ "/assets/images/Tremonton_Utah_film_79b5ee_gull_explanation_lim_4a803e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tremonton_Utah_film_79b5ee_gull_explanation_lim_4a803e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Tremonton_Utah_film_79b5ee_gull_explanation_lim_4a803e-Illustration-2-dark.svg" | relative_url }}" alt="Bird Theory illustration 2" data-theme-src-dark="{{ "/assets/images/Tremonton_Utah_film_79b5ee_gull_explanation_lim_4a803e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tremonton_Utah_film_79b5ee_gull_explanation_lim_4a803e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Exposure and contrast limitations
 
 Bright reflective objects against an open sky can exceed the resolving capability of film emulsions, especially in 1950s amateur equipment. Once the reflected light saturates part of the frame, the image tends to “bloom” into a featureless bright patch rather than preserve fine structure.
@@ -365,7 +365,7 @@ That lesson influenced later UFO investigations far beyond the Tremonton inciden
 In that sense, the gull explanation did not merely offer a mundane answer. It reframed the entire evidential standard for UFO photography. The Tremonton film remains historically important precisely because it sits at the boundary between apparent anomaly and ordinary optical ambiguity, where interpretation depends less on what the film visibly shows than on what observers assume about distance and scale.
 
 
-<img src="{{ "/assets/images/Tremonton_Utah_film_79b5ee_gull_explanation_lim_4a803e-Illustration-3-light.svg" | relative_url }}" alt="Bird Theory illustration 3" data-theme-src-dark="{{ "/assets/images/Tremonton_Utah_film_79b5ee_gull_explanation_lim_4a803e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tremonton_Utah_film_79b5ee_gull_explanation_lim_4a803e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Tremonton_Utah_film_79b5ee_gull_explanation_lim_4a803e-Illustration-3-dark.svg" | relative_url }}" alt="Bird Theory illustration 3" data-theme-src-dark="{{ "/assets/images/Tremonton_Utah_film_79b5ee_gull_explanation_lim_4a803e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tremonton_Utah_film_79b5ee_gull_explanation_lim_4a803e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell fr-section-shell-fallback">

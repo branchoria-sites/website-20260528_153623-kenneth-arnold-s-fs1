@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /cisco-grove-incident-1964/
 nav_short_title: Official Inquiry
 title: Scientific and Military Handling of Cisco Grove UFO
-title_full: Scientific and Military Handling of Cisco Grove UFO | CiscoGrove1964
+title_full: Scientific and Military Handling of Cisco Grove UFO | Cisco Grove1964
 display_title_short: Official Inquiry
 display_title: Official Inquiry
 heading_title: Scientific and Military Handling of Cisco Grove UFO
@@ -197,20 +197,20 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: CiscoGrove1964
+parent_title: Cisco Grove1964
 parent_permalink: /cisco-grove-incident-1964/
-parent_nav_short_title: CiscoGrove1964
+parent_nav_short_title: Cisco Grove1964
 parent_heading_title: What Really Happened During the Cisco Grove UFO Sighting?
 ancestor_links:
 - basename: Cisco_Grove_incident_29820a
-  title: CiscoGrove1964
+  title: Cisco Grove1964
   permalink: /cisco-grove-incident-1964/
-  short_title: CiscoGrove1964
+  short_title: Cisco Grove1964
 breadcrumb_links:
 - basename: Cisco_Grove_incident_29820a
-  title: CiscoGrove1964
+  title: Cisco Grove1964
   permalink: /cisco-grove-incident-1964/
-  short_title: CiscoGrove1964
+  short_title: Cisco Grove1964
 sibling_links:
 - basename: Cisco_Grove_incident_29820a_physical_documentary_63d428
   title: Evidence Review | What Really Happened During the Cisco Grove UFO...
@@ -224,9 +224,9 @@ sibling_links:
   heading_title: Inside Donald Shrum's Night in the Tree
 up_link:
   basename: Cisco_Grove_incident_29820a
-  title: CiscoGrove1964
+  title: Cisco Grove1964
   permalink: /cisco-grove-incident-1964/
-  short_title: CiscoGrove1964
+  short_title: Cisco Grove1964
 prev_link:
   basename: Cisco_Grove_incident_29820a_physical_documentary_63d428
   title: Evidence Review | What Really Happened During the Cisco Grove UFO...
@@ -239,7 +239,7 @@ next_link:
   permalink: /shrum-s-encounter/
   short_title: Shrum s Encounter
   heading_title: Inside Donald Shrum's Night in the Tree
-date: '2026-05-29 12:17:17 '
+date: '2026-06-08 23:36:08 '
 header:
   og_image: /assets/images/Cisco_Grove_incident_29820a_official_scientific_837808-Illustration-1-social.jpg
   preview_image: /assets/images/Cisco_Grove_incident_29820a_official_scientific_837808-Illustration-1.webp
@@ -251,7 +251,7 @@ image: /assets/images/Cisco_Grove_incident_29820a_official_scientific_837808-Ill
 The [Cisco Grove incident]({{ 'cisco-grove-incident-1964/' | relative_url }}) entered UFO literature during a period when the United States Air Force was still formally investigating unidentified aerial reports through Project Blue Book. Unlike some better-known Cold War sightings involving radar returns or multiple military witnesses, the Cisco Grove case depended heavily on the testimony of one civilian witness, Donald Shrum, who claimed that humanoid figures and machine-like entities surrounded him overnight in the Sierra Nevada wilderness in September 1964. The official and scientific scrutiny applied to the incident therefore focused less on confirming extraordinary technology and more on evaluating witness reliability, evidential gaps and the broader problem of how UFO reports should be investigated at all.
 
 
-<img src="{{ "/assets/images/Cisco_Grove_incident_29820a_official_scientific_837808-Illustration-1-light.svg" | relative_url }}" alt="Official Inquiry illustration 1" data-theme-src-dark="{{ "/assets/images/Cisco_Grove_incident_29820a_official_scientific_837808-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cisco_Grove_incident_29820a_official_scientific_837808-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Cisco_Grove_incident_29820a_official_scientific_837808-Illustration-1-dark.svg" | relative_url }}" alt="Official Inquiry illustration 1" data-theme-src-dark="{{ "/assets/images/Cisco_Grove_incident_29820a_official_scientific_837808-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cisco_Grove_incident_29820a_official_scientific_837808-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 What makes the case historically important is not that it produced a decisive official finding. It did not. Instead, Cisco Grove became part of the larger debate that eventually surrounded Project Blue Book, J. Allen Hynek’s changing views on UFO investigation and the later Condon Report’s conclusion that UFO research was unlikely to produce major scientific discoveries. The incident survives mainly through UFO research organisations, later books and archival traces rather than through any strong official evidential record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">J. Allen Hynek</span><span class="citation-popover-snippet">August 1, 2004 — Josef Allen Hynek (May 1, 1910 – April 27, 1986) was an American astronomer, professor, and ufologist. He is perhaps bes...</span><span class="citation-popover-meta">Published: August 1, 2004</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Condon CommitteeThe Condon Committee was the informal name of the University of Colorado UFO Project, a group funded by the United States...</span></span></span>
 
 ## How the case entered the UFO investigation system
@@ -308,7 +308,7 @@ Cisco Grove became a useful example for both camps:
 This disagreement reflected a larger methodological dispute. Scientists trained in empirical investigation generally regarded extraordinary humanoid-contact stories as weak evidence without independent corroboration. UFO researchers often countered that close-encounter reports were being excluded precisely because they challenged conventional expectations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2013/01/the-secret-life-of-j-allen-hynek/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerThe Secret Life of J. Allen HynekAccording to legend, the astronomer J. Allen Hynek was a skeptic before becoming an ou...</span></span></span>
 
 
-<img src="{{ "/assets/images/Cisco_Grove_incident_29820a_official_scientific_837808-Illustration-2-light.svg" | relative_url }}" alt="Official Inquiry illustration 2" data-theme-src-dark="{{ "/assets/images/Cisco_Grove_incident_29820a_official_scientific_837808-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cisco_Grove_incident_29820a_official_scientific_837808-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Cisco_Grove_incident_29820a_official_scientific_837808-Illustration-2-dark.svg" | relative_url }}" alt="Official Inquiry illustration 2" data-theme-src-dark="{{ "/assets/images/Cisco_Grove_incident_29820a_official_scientific_837808-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cisco_Grove_incident_29820a_official_scientific_837808-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Skeptical interpretations and competing explanations
 
 Several non-extraterrestrial explanations have been proposed for the Cisco Grove account over the decades, though none can be conclusively demonstrated because of the limited surviving evidence.
@@ -349,7 +349,7 @@ For Cisco Grove specifically, researchers face a fragmented historical trail. Mu
 This creates an important historical distinction. Cisco Grove is well known in UFO storytelling culture, but comparatively weakly documented in the type of official investigative paperwork historians prefer when reconstructing Cold War aerospace incidents.
 
 
-<img src="{{ "/assets/images/Cisco_Grove_incident_29820a_official_scientific_837808-Illustration-3-light.svg" | relative_url }}" alt="Official Inquiry illustration 3" data-theme-src-dark="{{ "/assets/images/Cisco_Grove_incident_29820a_official_scientific_837808-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cisco_Grove_incident_29820a_official_scientific_837808-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Cisco_Grove_incident_29820a_official_scientific_837808-Illustration-3-dark.svg" | relative_url }}" alt="Official Inquiry illustration 3" data-theme-src-dark="{{ "/assets/images/Cisco_Grove_incident_29820a_official_scientific_837808-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cisco_Grove_incident_29820a_official_scientific_837808-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Historical reputation of the case
 
 Today, the Cisco Grove incident occupies an unusual middle ground in UFO history. It is too elaborate and bizarre to fit comfortably into conventional aviation investigation, yet too weakly evidenced to gain broad scientific credibility.

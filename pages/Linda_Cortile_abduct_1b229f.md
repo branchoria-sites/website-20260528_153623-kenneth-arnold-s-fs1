@@ -345,7 +345,7 @@ sibling_links:
   short_title: Higdon Contact
 - basename: CashLandrum_incident_7ad7d9
   title: Cash Landrum
-  permalink: /cashlandrum-incident-1980/
+  permalink: /cash-landrum-incident-1980/
   short_title: Cash Landrum
 - basename: Cedric_Allingham_enc_2c7f6b
   title: Allingham
@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: CiscoGrove1964
+  title: Cisco Grove1964
   permalink: /cisco-grove-incident-1964/
-  short_title: CiscoGrove1964
+  short_title: Cisco Grove1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -432,9 +432,9 @@ sibling_links:
   permalink: /fred-m-johnson-sighting-1947/
   short_title: Johnson Sighting
 - basename: Gary_Wilcox_encounte_6de9ff
-  title: WilcoxUFO
+  title: Wilcox UFO
   permalink: /gary-wilcox-encounter-1964/
-  short_title: WilcoxUFO
+  short_title: Wilcox UFO
 - basename: Gemini_4_sighting_19_9c351d
   title: Gemini 4 Sighting
   permalink: /gemini-4-sighting-1965/
@@ -524,21 +524,21 @@ sibling_links:
   permalink: /levelland-texas-incident-1957/
   short_title: Levelland UFO
 - basename: Livingston_incident_b2c293
-  title: LivingstonUFO
+  title: Livingston UFO
   permalink: /livingston-incident-1979/
-  short_title: LivingstonUFO
+  short_title: Livingston UFO
 - basename: Loch_Raven_Dam_incid_b0e5b6
-  title: LochRavenUFO
+  title: Loch Raven UFO
   permalink: /loch-raven-dam-incident-1958/
-  short_title: LochRavenUFO
+  short_title: Loch Raven UFO
 - basename: Lubbock_Lights_sight_4eabd8
   title: Lubbock Lights
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: MagentaCrash1933
+  title: Magenta Crash1933
   permalink: /magenta-italy-crash-1933/
-  short_title: MagentaCrash1933
+  short_title: Magenta Crash1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -548,9 +548,9 @@ sibling_links:
   permalink: /maury-island-incident-1947/
   short_title: Maury Island
 - basename: McMinnville_photogra_4e1af3
-  title: McMinnville Photos
-  permalink: /mcminnville-photographs-1950/
-  short_title: McMinnville Photos
+  title: Mc Minnville Photos
+  permalink: /mc-minnville-photographs-1950/
+  short_title: Mc Minnville Photos
 - basename: Middle_East_UAP_vide_4a6c55
   title: Middle East Orb
   permalink: /middle-east-uap-video-2022/
@@ -568,9 +568,9 @@ sibling_links:
   permalink: /oloron-angel-hair-incident-1952/
   short_title: Oloron Angel Hair
 - basename: Operation_Mainbrace_06bcd8
-  title: MainbraceSightings
+  title: Mainbrace Sightings
   permalink: /operation-mainbrace-sightings-1952/
-  short_title: MainbraceSightings
+  short_title: Mainbrace Sightings
 - basename: Orfeo_Angelucci_enco_bef29a
   title: Angelucci
   permalink: /orfeo-angelucci-encounter-1955/
@@ -620,17 +620,17 @@ sibling_links:
   permalink: /socorro-sighting-by-lonnie-zamora-1964/
   short_title: Socorro UFO
 - basename: SpaurNeff_Ravenna_si_4977ac
-  title: RavennaUFO
-  permalink: /spaurneff-ravenna-sighting-1966/
-  short_title: RavennaUFO
+  title: Ravenna UFO
+  permalink: /spaur-neff-ravenna-sighting-1966/
+  short_title: Ravenna UFO
 - basename: Stanford_Kentucky_ab_a91f06
   title: Stanford Abduction
   permalink: /stanford-kentucky-abduction-1976/
   short_title: Stanford Abduction
 - basename: Stephen_Darbishire_p_f80223
-  title: DarbishireUFO
+  title: Darbishire UFO
   permalink: /stephen-darbishire-photograph-1954/
-  short_title: DarbishireUFO
+  short_title: Darbishire UFO
 - basename: Steven_Michalak_enco_1bbf94
   title: Falcon Lake
   permalink: /steven-michalak-encounter-1967/
@@ -644,9 +644,9 @@ sibling_links:
   permalink: /thomas-f-mantell-incident-1948/
   short_title: Mantell
 - basename: Topcliffe_incident_1_80cbf4
-  title: TopcliffeUFO
+  title: Topcliffe UFO
   permalink: /topcliffe-incident-1952/
-  short_title: TopcliffeUFO
+  short_title: Topcliffe UFO
 - basename: Trans-en-Provence_en_439c97
   title: Trans en Provence
   permalink: /trans-en-provence-encounter-1981/
@@ -668,9 +668,9 @@ sibling_links:
   permalink: /truman-bethurum-contact-1954/
   short_title: Bethurum
 - basename: Tully_saucer_nest_in_b9d0b0
-  title: TullyUFO
+  title: Tully UFO
   permalink: /tully-saucer-nest-incident-1966/
-  short_title: TullyUFO
+  short_title: Tully UFO
 - basename: Tunguska_event_1908_efda6f
   title: Tunguska
   permalink: /tunguska-event-1908/
@@ -680,9 +680,9 @@ sibling_links:
   permalink: /ubatuba-incident-1957/
   short_title: Ubatuba
 - basename: USS_Nimitz_Tic_Tac_v_83266a
-  title: NimitzUAP
+  title: Nimitz UAP
   permalink: /uss-nimitz-tic-tac-video-2004/
-  short_title: NimitzUAP
+  short_title: Nimitz UAP
 - basename: USS_Russell_video_20_3188a1
   title: USS Russell
   permalink: /uss-russell-video-2019/
@@ -704,9 +704,9 @@ sibling_links:
   permalink: /valentich-disappearance-1978/
   short_title: Valentich
 - basename: Voronezh_Russia_land_e13f34
-  title: VoronezhLanding
+  title: Voronezh Landing
   permalink: /voronezh-russia-landing-1989/
-  short_title: VoronezhLanding
+  short_title: Voronezh Landing
 - basename: Walesville_Incident_cbceb2
   title: Walesville
   permalink: /walesville-incident-1954/
@@ -717,12 +717,12 @@ sibling_links:
   short_title: Washington Saucers
 - basename: WellingtonKaikoura_i_c1d17f
   title: Kaikoura Lights
-  permalink: /wellingtonkaikoura-incident-1978/
+  permalink: /wellington-kaikoura-incident-1978/
   short_title: Kaikoura Lights
 - basename: Ummo_photographs_196_ed7563
-  title: UmmoPhotos
+  title: Ummo Photos
   permalink: /were-the-1967-ummo-photographs-real-or-a/
-  short_title: UmmoPhotos
+  short_title: Ummo Photos
 child_links:
 - basename: Linda_Cortile_abduct_1b229f_hopkins_hypnosis_47c88d
   title: Hopkins | Linda Cortile abduction 1989
@@ -746,10 +746,10 @@ prev_link:
   short_title: Levelland UFO
 next_link:
   basename: Livingston_incident_b2c293
-  title: LivingstonUFO
+  title: Livingston UFO
   permalink: /livingston-incident-1979/
-  short_title: LivingstonUFO
-date: '2026-05-29 12:02:31 '
+  short_title: Livingston UFO
+date: '2026-06-08 23:28:00 '
 header:
   og_image: /assets/images/Linda_Cortile_abduct_1b229f-overview-social.jpg
   preview_image: /assets/images/Linda_Cortile_abduct_1b229f-overview.webp
@@ -783,7 +783,7 @@ Napolitano also described earlier and later experiences. According to later summ
 That wider framework cuts both ways. For believers, repeated experiences and family reports may suggest a persistent phenomenon. For sceptics, the broader narrative creates more opportunities for memory contamination, expectation, role reinforcement, and investigator-led interpretation, especially when hypnosis and support-group settings are involved.
 
 
-<img src="{{ "/assets/images/Linda_Cortile_abduct_1b229f-Illustration-1-light.svg" | relative_url }}" alt="Linda Cortile abduction 1989 illustration 1" data-theme-src-dark="{{ "/assets/images/Linda_Cortile_abduct_1b229f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Linda_Cortile_abduct_1b229f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Linda_Cortile_abduct_1b229f-Illustration-1-dark.svg" | relative_url }}" alt="Linda Cortile abduction 1989 illustration 1" data-theme-src-dark="{{ "/assets/images/Linda_Cortile_abduct_1b229f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Linda_Cortile_abduct_1b229f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The witness claims: the case’s most important support and biggest weakness
 
 Hopkins’s case depended heavily on the claim that Napolitano’s abduction had external witnesses. The most dramatic version says more than 20 people saw something connected with the event; some accounts put the number at 23. The alleged witnesses included people on the Brooklyn Bridge and two security officers, commonly referred to as “Richard” and “Dan”, who were said to have been guarding an unnamed world figure. PBS <span class="citation-chip-wrap"><a class="citation-chip" href="https://english.elpais.com/culture/2024-11-07/abducted-in-front-of-23-witnesses-and-a-un-secretary-general-the-most-famous-ufo-file-is-resurrected-on-netflix.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.elpais.com">[2EL PAÍS English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.elpais.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -828,7 +828,7 @@ The dispute has also become personal and legal. Napolitano sued Netflix before t
 That legal conflict does not prove or disprove the 1989 claim. It does, however, show that the modern public record is itself contested. The case is no longer only about what allegedly happened in Manhattan; it is also about who controlled the archive, who shaped the narrative, and whether the original investigation can be trusted.
 
 
-<img src="{{ "/assets/images/Linda_Cortile_abduct_1b229f-Illustration-2-light.svg" | relative_url }}" alt="Linda Cortile abduction 1989 illustration 2" data-theme-src-dark="{{ "/assets/images/Linda_Cortile_abduct_1b229f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Linda_Cortile_abduct_1b229f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Linda_Cortile_abduct_1b229f-Illustration-2-dark.svg" | relative_url }}" alt="Linda Cortile abduction 1989 illustration 2" data-theme-src-dark="{{ "/assets/images/Linda_Cortile_abduct_1b229f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Linda_Cortile_abduct_1b229f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why hypnosis and memory are central to the assessment
 
 Hypnosis is one of the central problems in the Cortile/Napolitano case because Hopkins used it as part of his abduction research. For many abduction researchers of that era, hypnosis was treated as a way to recover hidden memories. For many psychologists and sceptics, it is a serious weakness because hypnosis can increase confidence in memories without proving that those memories are accurate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.netflix.com/tudum/articles/the-manhattan-alien-abduction-release-date-news" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: netflix.com">[Netflix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">netflix.com</span><span class="citation-popover-title">The Manhattan Alien Abduction: True Story and Plot Explained</span><span class="citation-popover-snippet">The Manhattan Alien Abduction: True Story and Plot Explained</span></span></span>
@@ -840,7 +840,7 @@ This is a crucial distinction. A person can be sincere, distressed, and physiolo
 The Cortile/Napolitano case is not neatly explained as a simple sleep-paralysis episode because it includes alleged external witnesses and later incidents. But the hypnosis issue still matters because some of the case’s most vivid experiential details sit inside an investigative culture already committed to alien abduction as an explanatory frame.
 
 
-<img src="{{ "/assets/images/Linda_Cortile_abduct_1b229f-Illustration-3-light.svg" | relative_url }}" alt="Linda Cortile abduction 1989 illustration 3" data-theme-src-dark="{{ "/assets/images/Linda_Cortile_abduct_1b229f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Linda_Cortile_abduct_1b229f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Linda_Cortile_abduct_1b229f-Illustration-3-dark.svg" | relative_url }}" alt="Linda Cortile abduction 1989 illustration 3" data-theme-src-dark="{{ "/assets/images/Linda_Cortile_abduct_1b229f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Linda_Cortile_abduct_1b229f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Competing interpretations
 
 The case is best understood as a contest between three broad interpretations rather than a simple believer-versus-sceptic split.
@@ -912,7 +912,7 @@ The fairest assessment is therefore cautious. The Cortile/Napolitano case is his
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -921,78 +921,94 @@ The fairest assessment is therefore cautious. The Cortile/Napolitano case is his
       </div>
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+abduction+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-ufo-abduction-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cat UFO Abduction Monster Enamel Pin Set Pinback Collectible Lapel Accessory"><img src="{{ '/assets/images/marketplace-covers/defd6b25f7dbc656bd90.jpg' | relative_url }}" alt="Listing image for Cat UFO Abduction Monster Enamel Pin Set Pinback Collectible Lapel Accessory" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+abduction+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-ufo-abduction-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Cat UFO Abduction Monster Enamel Pin Set Pinback Collectible Lapel Accessory</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+abduction+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-ufo-abduction-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo abduction collectible">Search <span data-ebay-domain-label>eBay.com</span>: ufo abduction collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+abduction+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-ufo-abduction-collectible-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+abduction+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-ufo-abduction-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jose Trujillo Fine Art PRINT 16x20&quot; Collectible Artist UFO Abduction"><img src="{{ '/assets/images/marketplace-covers/5701c696a00cab2b8799.jpg' | relative_url }}" alt="Listing image for Jose Trujillo Fine Art PRINT 16x20&quot; Collectible Artist UFO Abduction" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+abduction+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-ufo-abduction-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jose Trujillo Fine Art PRINT 16x20&quot; Collectible Artist UFO Abduction</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+abduction+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-ufo-abduction-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo abduction collectible">Search <span data-ebay-domain-label>eBay.com</span>: ufo abduction collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+abduction+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-ufo-abduction-collectible-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+abduction+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-ufo-abduction-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jose Trujillo Fine Art PRINT 16x20&quot; Collectible Artist Painting UFO Abduction"><img src="{{ '/assets/images/marketplace-covers/002fda721ab63965d8f7.jpg' | relative_url }}" alt="Listing image for Jose Trujillo Fine Art PRINT 16x20&quot; Collectible Artist Painting UFO Abduction" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+abduction+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-ufo-abduction-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jose Trujillo Fine Art PRINT 16x20&quot; Collectible Artist Painting UFO Abduction</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+abduction+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-ufo-abduction-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo abduction collectible">Search <span data-ebay-domain-label>eBay.com</span>: ufo abduction collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+abduction+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-ufo-abduction-collectible-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+abduction+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-ufo-abduction-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 5 oz .999 Fine Copper Alien UFO Abduction Round Bullion Collectible"><img src="{{ '/assets/images/marketplace-covers/fda0df5ade7ea598ed75.jpg' | relative_url }}" alt="Listing image for 5 oz .999 Fine Copper Alien UFO Abduction Round Bullion Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+abduction+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-ufo-abduction-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">5 oz .999 Fine Copper Alien UFO Abduction Round Bullion Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+abduction+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-ufo-abduction-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo abduction collectible">Search <span data-ebay-domain-label>eBay.com</span>: ufo abduction collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+abduction+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-ufo-abduction-collectible-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+abduction+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-ufo-abduction-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="linda-cortile-abduction-1989-was-the-brooklyn-bridge-abduction-witnessed-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -1068,17 +1084,31 @@ The fairest assessment is therefore cautious. The Cortile/Napolitano case is his
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -1091,42 +1121,73 @@ The fairest assessment is therefore cautious. The Cortile/Napolitano case is his
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -1141,12 +1202,17 @@ The fairest assessment is therefore cautious. The Cortile/Napolitano case is his
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>

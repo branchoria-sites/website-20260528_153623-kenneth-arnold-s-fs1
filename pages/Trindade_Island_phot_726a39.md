@@ -345,7 +345,7 @@ sibling_links:
   short_title: Higdon Contact
 - basename: CashLandrum_incident_7ad7d9
   title: Cash Landrum
-  permalink: /cashlandrum-incident-1980/
+  permalink: /cash-landrum-incident-1980/
   short_title: Cash Landrum
 - basename: Cedric_Allingham_enc_2c7f6b
   title: Allingham
@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: CiscoGrove1964
+  title: Cisco Grove1964
   permalink: /cisco-grove-incident-1964/
-  short_title: CiscoGrove1964
+  short_title: Cisco Grove1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -432,9 +432,9 @@ sibling_links:
   permalink: /fred-m-johnson-sighting-1947/
   short_title: Johnson Sighting
 - basename: Gary_Wilcox_encounte_6de9ff
-  title: WilcoxUFO
+  title: Wilcox UFO
   permalink: /gary-wilcox-encounter-1964/
-  short_title: WilcoxUFO
+  short_title: Wilcox UFO
 - basename: Gemini_4_sighting_19_9c351d
   title: Gemini 4 Sighting
   permalink: /gemini-4-sighting-1965/
@@ -528,21 +528,21 @@ sibling_links:
   permalink: /linda-cortile-abduction-1989/
   short_title: Cortile Case
 - basename: Livingston_incident_b2c293
-  title: LivingstonUFO
+  title: Livingston UFO
   permalink: /livingston-incident-1979/
-  short_title: LivingstonUFO
+  short_title: Livingston UFO
 - basename: Loch_Raven_Dam_incid_b0e5b6
-  title: LochRavenUFO
+  title: Loch Raven UFO
   permalink: /loch-raven-dam-incident-1958/
-  short_title: LochRavenUFO
+  short_title: Loch Raven UFO
 - basename: Lubbock_Lights_sight_4eabd8
   title: Lubbock Lights
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: MagentaCrash1933
+  title: Magenta Crash1933
   permalink: /magenta-italy-crash-1933/
-  short_title: MagentaCrash1933
+  short_title: Magenta Crash1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -552,9 +552,9 @@ sibling_links:
   permalink: /maury-island-incident-1947/
   short_title: Maury Island
 - basename: McMinnville_photogra_4e1af3
-  title: McMinnville Photos
-  permalink: /mcminnville-photographs-1950/
-  short_title: McMinnville Photos
+  title: Mc Minnville Photos
+  permalink: /mc-minnville-photographs-1950/
+  short_title: Mc Minnville Photos
 - basename: Middle_East_UAP_vide_4a6c55
   title: Middle East Orb
   permalink: /middle-east-uap-video-2022/
@@ -572,9 +572,9 @@ sibling_links:
   permalink: /oloron-angel-hair-incident-1952/
   short_title: Oloron Angel Hair
 - basename: Operation_Mainbrace_06bcd8
-  title: MainbraceSightings
+  title: Mainbrace Sightings
   permalink: /operation-mainbrace-sightings-1952/
-  short_title: MainbraceSightings
+  short_title: Mainbrace Sightings
 - basename: Orfeo_Angelucci_enco_bef29a
   title: Angelucci
   permalink: /orfeo-angelucci-encounter-1955/
@@ -624,17 +624,17 @@ sibling_links:
   permalink: /socorro-sighting-by-lonnie-zamora-1964/
   short_title: Socorro UFO
 - basename: SpaurNeff_Ravenna_si_4977ac
-  title: RavennaUFO
-  permalink: /spaurneff-ravenna-sighting-1966/
-  short_title: RavennaUFO
+  title: Ravenna UFO
+  permalink: /spaur-neff-ravenna-sighting-1966/
+  short_title: Ravenna UFO
 - basename: Stanford_Kentucky_ab_a91f06
   title: Stanford Abduction
   permalink: /stanford-kentucky-abduction-1976/
   short_title: Stanford Abduction
 - basename: Stephen_Darbishire_p_f80223
-  title: DarbishireUFO
+  title: Darbishire UFO
   permalink: /stephen-darbishire-photograph-1954/
-  short_title: DarbishireUFO
+  short_title: Darbishire UFO
 - basename: Steven_Michalak_enco_1bbf94
   title: Falcon Lake
   permalink: /steven-michalak-encounter-1967/
@@ -648,9 +648,9 @@ sibling_links:
   permalink: /thomas-f-mantell-incident-1948/
   short_title: Mantell
 - basename: Topcliffe_incident_1_80cbf4
-  title: TopcliffeUFO
+  title: Topcliffe UFO
   permalink: /topcliffe-incident-1952/
-  short_title: TopcliffeUFO
+  short_title: Topcliffe UFO
 - basename: Trans-en-Provence_en_439c97
   title: Trans en Provence
   permalink: /trans-en-provence-encounter-1981/
@@ -668,9 +668,9 @@ sibling_links:
   permalink: /truman-bethurum-contact-1954/
   short_title: Bethurum
 - basename: Tully_saucer_nest_in_b9d0b0
-  title: TullyUFO
+  title: Tully UFO
   permalink: /tully-saucer-nest-incident-1966/
-  short_title: TullyUFO
+  short_title: Tully UFO
 - basename: Tunguska_event_1908_efda6f
   title: Tunguska
   permalink: /tunguska-event-1908/
@@ -680,9 +680,9 @@ sibling_links:
   permalink: /ubatuba-incident-1957/
   short_title: Ubatuba
 - basename: USS_Nimitz_Tic_Tac_v_83266a
-  title: NimitzUAP
+  title: Nimitz UAP
   permalink: /uss-nimitz-tic-tac-video-2004/
-  short_title: NimitzUAP
+  short_title: Nimitz UAP
 - basename: USS_Russell_video_20_3188a1
   title: USS Russell
   permalink: /uss-russell-video-2019/
@@ -704,9 +704,9 @@ sibling_links:
   permalink: /valentich-disappearance-1978/
   short_title: Valentich
 - basename: Voronezh_Russia_land_e13f34
-  title: VoronezhLanding
+  title: Voronezh Landing
   permalink: /voronezh-russia-landing-1989/
-  short_title: VoronezhLanding
+  short_title: Voronezh Landing
 - basename: Walesville_Incident_cbceb2
   title: Walesville
   permalink: /walesville-incident-1954/
@@ -717,12 +717,12 @@ sibling_links:
   short_title: Washington Saucers
 - basename: WellingtonKaikoura_i_c1d17f
   title: Kaikoura Lights
-  permalink: /wellingtonkaikoura-incident-1978/
+  permalink: /wellington-kaikoura-incident-1978/
   short_title: Kaikoura Lights
 - basename: Ummo_photographs_196_ed7563
-  title: UmmoPhotos
+  title: Ummo Photos
   permalink: /were-the-1967-ummo-photographs-real-or-a/
-  short_title: UmmoPhotos
+  short_title: Ummo Photos
 child_links:
 - basename: Trindade_Island_phot_726a39_barauna_hoax_debate_94ec10
   title: Hoax Debate | Trindade Island photographs 1958
@@ -749,7 +749,7 @@ next_link:
   title: Bethurum
   permalink: /truman-bethurum-contact-1954/
   short_title: Bethurum
-date: '2026-05-29 11:56:20 '
+date: '2026-06-08 23:22:44 '
 header:
   og_image: /assets/images/Trindade_Island_phot_726a39-overview-social.jpg
   preview_image: /assets/images/Trindade_Island_phot_726a39-overview.webp
@@ -777,7 +777,7 @@ The case also attracted high-level public attention. The same archival packet sa
 That distinction matters. “The Navy did not block release” is not the same as “the Navy proved an extraterrestrial craft”. In the best-supported reading, official Brazilian sources accepted that there had been a reported incident and treated the photographs as serious enough to release or discuss, while stopping short of an identification.
 
 
-<img src="{{ "/assets/images/Trindade_Island_phot_726a39-Illustration-1-light.svg" | relative_url }}" alt="Trindade Island photographs 1958 illustration 1" data-theme-src-dark="{{ "/assets/images/Trindade_Island_phot_726a39-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Trindade_Island_phot_726a39-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Trindade_Island_phot_726a39-Illustration-1-dark.svg" | relative_url }}" alt="Trindade Island photographs 1958 illustration 1" data-theme-src-dark="{{ "/assets/images/Trindade_Island_phot_726a39-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Trindade_Island_phot_726a39-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The strongest pro-authenticity arguments
 
 The pro-authenticity case usually rests on three linked claims: several people saw an object, the film was developed soon after the sighting, and technical examination did not show obvious montage. The archival summary says Baraúna removed the film from the camera in the presence of Commander Bacellar and other officers, went with Bacellar to the ship’s photo laboratory, and that processing took about ten minutes. It further says Bacellar saw the object on the negatives from the first examination, though details became clearer only after later enlargements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://imagem.sian.an.gov.br/acervo/derivadas/br_dfanbsb_arx/0/0/0161/br_dfanbsb_arx_0_0_0161_d0001de0002.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imagem.sian.an.gov.br">[Arquivo Nacional]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imagem.sian.an.gov.br</span><span class="citation-popover-snippet">Arquivo Nacional</span></span></span>
@@ -798,7 +798,7 @@ That does not prove fraud by itself. It does, however, seriously reduces the val
 The more careful sceptical argument is not that every early witness lied. It is that the photographic record was vulnerable at exactly the point where it needed to be strongest. A later analysis quoted by Além da Ciência states that the Cruzeiro do Sul work excluded a later photomontage, but could not prove either the existence or non-existence of a prior montage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alemdaciencia.com/caso-ilha-da-trindade-o-que-nao-querem-que-voce-saiba-parte-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alemdaciencia.com">[Além da Ciência]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alemdaciencia.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That is a narrower and less triumphant conclusion than “the photos were proven real”.
 
 
-<img src="{{ "/assets/images/Trindade_Island_phot_726a39-Illustration-2-light.svg" | relative_url }}" alt="Trindade Island photographs 1958 illustration 2" data-theme-src-dark="{{ "/assets/images/Trindade_Island_phot_726a39-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Trindade_Island_phot_726a39-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Trindade_Island_phot_726a39-Illustration-2-dark.svg" | relative_url }}" alt="Trindade Island photographs 1958 illustration 2" data-theme-src-dark="{{ "/assets/images/Trindade_Island_phot_726a39-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Trindade_Island_phot_726a39-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Baraúna’s credibility became central
 
 Almiro Baraúna was not an anonymous amateur. He was a skilled photographer, known for underwater work and for photographic tricks. This cuts both ways: he had the competence to capture a difficult image quickly, but he also had the competence to fake one. Clark’s pro-case article acknowledges that Baraúna had prepared humorous trick photographs for an article explaining how a publicised 1952 Brazilian flying-saucer photograph could have been created. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/Trindade/Trindade_Clark_article.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
@@ -825,7 +825,7 @@ The main interpretations of the Trindade photographs fall into four broad camps.
 **A balloon or missile.** Contemporary Navy-linked commentary was already addressing this possibility. The archived summary reports a Brazilian hydrography and navigation official saying the object was not the meteorological balloon launched that day, because that balloon had been released earlier, tracked until it burst, and differed in colour from the reported object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://imagem.sian.an.gov.br/acervo/derivadas/br_dfanbsb_arx/0/0/0161/br_dfanbsb_arx_0_0_0161_d0001de0002.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imagem.sian.an.gov.br">[Arquivo Nacional]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imagem.sian.an.gov.br</span><span class="citation-popover-snippet">Arquivo Nacional</span></span></span> This rules out one reported shipboard balloon in that narrative, but does not by itself identify the photographed image.
 
 
-<img src="{{ "/assets/images/Trindade_Island_phot_726a39-Illustration-3-light.svg" | relative_url }}" alt="Trindade Island photographs 1958 illustration 3" data-theme-src-dark="{{ "/assets/images/Trindade_Island_phot_726a39-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Trindade_Island_phot_726a39-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Trindade_Island_phot_726a39-Illustration-3-dark.svg" | relative_url }}" alt="Trindade Island photographs 1958 illustration 3" data-theme-src-dark="{{ "/assets/images/Trindade_Island_phot_726a39-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Trindade_Island_phot_726a39-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What can and cannot be concluded
 
 Trindade is a strong historical UFO case in the sense that it generated official correspondence, press attention, congressional interest and decades of technical debate. It is not a strong evidentiary case in the stricter sense required to prove an extraordinary aerial object. The early record is too dependent on summaries, press reports and recollections; the witness count is disputed; and the photographic chain of custody is not clean enough for the images to bear the weight placed on them.

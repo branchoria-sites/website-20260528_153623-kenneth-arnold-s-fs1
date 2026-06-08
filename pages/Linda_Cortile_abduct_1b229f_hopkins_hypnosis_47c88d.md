@@ -233,7 +233,7 @@ next_link:
   permalink: /implant/
   short_title: Implant
   heading_title: Was There Any Physical Evidence?
-date: '2026-05-29 12:02:43 '
+date: '2026-06-08 23:28:08 '
 header:
   og_image: /assets/images/Linda_Cortile_abduct_1b229f_hopkins_hypnosis_47c88d-Illustration-1-social.jpg
   preview_image: /assets/images/Linda_Cortile_abduct_1b229f_hopkins_hypnosis_47c88d-Illustration-1.webp
@@ -245,7 +245,7 @@ image: /assets/images/Linda_Cortile_abduct_1b229f_hopkins_hypnosis_47c88d-Illust
 The Linda Cortile, later Linda Napolitano, abduction case became famous not only because of the extraordinary claims attached to it, but because of the way UFO investigator Budd Hopkins constructed and defended the narrative around it. Hopkins was already the most influential promoter of alien-abduction accounts in the United States when Napolitano approached him in 1989. By the time he published *Witnessed: The True Story of the Brooklyn Bridge UFO Abductions* in 1997, he had turned the case into what supporters called the “abduction of the century”. Critics, however, argued that the case also exposed the weaknesses of hypnosis-based UFO investigation, including suggestive questioning, confirmation bias, anonymous [witnesses]({{ 'witnesses-011357/' | relative_url }}), and the blending of therapy-like methods with paranormal belief systems. Wikipedia Time The controversy surrounding Hopkins is therefore larger than the question of whether Napolitano experienced something unusual. It concerns ho <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/7160509/the-manhattan-alien-abduction-netflix-true-story/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[time.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">the manhattan alien abduction netflix true story</span><span class="citation-popover-snippet">TimeThe Manhattan Alien Abduction: True Story Behind Netflix...Oct 31, 2024 — The three-part series presents conflicting accounts of the...</span></span></span> w memories were elicited, how witness testimony was validated, and whether an investigator deeply committed to the reality of alien abductions could reliably separate evidence from narrative reinforcement. The Cortile/Napolitano case remains one of the clearest examples of that debate.
 
 
-<img src="{{ "/assets/images/Linda_Cortile_abduct_1b229f_hopkins_hypnosis_47c88d-Illustration-1-light.svg" | relative_url }}" alt="Hopkins illustration 1" data-theme-src-dark="{{ "/assets/images/Linda_Cortile_abduct_1b229f_hopkins_hypnosis_47c88d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Linda_Cortile_abduct_1b229f_hopkins_hypnosis_47c88d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Linda_Cortile_abduct_1b229f_hopkins_hypnosis_47c88d-Illustration-1-dark.svg" | relative_url }}" alt="Hopkins illustration 1" data-theme-src-dark="{{ "/assets/images/Linda_Cortile_abduct_1b229f_hopkins_hypnosis_47c88d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Linda_Cortile_abduct_1b229f_hopkins_hypnosis_47c88d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Hopkins Entered the Case
 
 Before the Manhattan incident, Hopkins had already become a central figure in modern abduction research through books such as *Missing Time* and *Intruders*. He believed that many people experienced alien encounters that were partially repressed or obscured in memory and that hypnosis could recover hidden details. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Budd_Hopkins" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Budd Hopkins</span><span class="citation-popover-snippet">Budd Hopkins</span></span></span>
@@ -299,7 +299,7 @@ The case also expanded in ways that intensified scepticism. Hopkins eventually p
 To believers, the complexity suggested authenticity because the story became stranger and harder to fabricate. To critics, the escalating layers resembled narrative embellishment rather than disciplined investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tricksterbook.com/ArticlesOnline/LindaCase.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tricksterbook.com">[tricksterbook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tricksterbook.com</span><span class="citation-popover-snippet">Linda also claimed that in subsequent hypnotic regressions she...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/7160509/the-manhattan-alien-abduction-netflix-true-story/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">the manhattan alien abduction netflix true story</span><span class="citation-popover-snippet">TimeThe Manhattan Alien Abduction: True Story Behind Netflix...Oct 31, 2024 — The three-part series presents conflicting accounts of the...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4TQIiVlHYxY" title="The Brooklyn Bridge UFO | The Weirdest Story You&#x27;ll Ever Hear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4TQIiVlHYxY" target="_blank" rel="noopener noreferrer">The Brooklyn Bridge UFO | The Weirdest Story You&#x27;ll Ever Hear</a></p><p class="youtube-embed-meta">Channel: The Why Files &middot; Views: 4.3M &middot; Uploaded: January 2023 &middot; Length: 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4TQIiVlHYxY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4TQIiVlHYxY">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BVytd28dTYU" title="714: The Manhattan Alien Abduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BVytd28dTYU" target="_blank" rel="noopener noreferrer">714: The Manhattan Alien Abduction</a></p><p class="youtube-embed-meta">Channel: Morbid | Podcast &middot; Views: 6.4K &middot; Uploaded: October 2025 &middot; Length: 1 hour 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BVytd28dTYU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BVytd28dTYU">Open on YouTube</a></p></div></div></div>
 
 ## Why Hypnosis Became the Central Controversy
 
@@ -328,7 +328,7 @@ Psychologist Elizabeth Loftus, one of the best-known researchers on false memory
 The concern was not necessarily deliberate fraud. The larger issue was whether sincere investigators could unintentionally create increasingly vivid but unreliable memories through repeated reinforcement.
 
 
-<img src="{{ "/assets/images/Linda_Cortile_abduct_1b229f_hopkins_hypnosis_47c88d-Illustration-2-light.svg" | relative_url }}" alt="Hopkins illustration 2" data-theme-src-dark="{{ "/assets/images/Linda_Cortile_abduct_1b229f_hopkins_hypnosis_47c88d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Linda_Cortile_abduct_1b229f_hopkins_hypnosis_47c88d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Linda_Cortile_abduct_1b229f_hopkins_hypnosis_47c88d-Illustration-2-dark.svg" | relative_url }}" alt="Hopkins illustration 2" data-theme-src-dark="{{ "/assets/images/Linda_Cortile_abduct_1b229f_hopkins_hypnosis_47c88d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Linda_Cortile_abduct_1b229f_hopkins_hypnosis_47c88d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Support Groups and Reinforcement Effects
 
 Hopkins’s abductee groups became another major point of contention.
@@ -352,7 +352,7 @@ The Napolitano case became especially vulnerable to this criticism because she w
 This does not automatically disprove her claims, but it complicates arguments that the case represented an isolated, independently emerging event.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dpoHdjDxCwQ" title="Linda Napolitano: The Manhattan Alien Abduction Story - Lights Out Podcast #13" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dpoHdjDxCwQ" target="_blank" rel="noopener noreferrer">Linda Napolitano: The Manhattan Alien Abduction Story - Lights Out Podcast #13</a></p><p class="youtube-embed-meta">Channel: Lights Out &middot; Views: 375.2K &middot; Uploaded: July 2020 &middot; Length: 1 hour 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dpoHdjDxCwQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dpoHdjDxCwQ">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4TQIiVlHYxY" title="The Brooklyn Bridge UFO | The Weirdest Story You&#x27;ll Ever Hear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4TQIiVlHYxY" target="_blank" rel="noopener noreferrer">The Brooklyn Bridge UFO | The Weirdest Story You&#x27;ll Ever Hear</a></p><p class="youtube-embed-meta">Channel: The Why Files &middot; Views: 4.3M &middot; Uploaded: January 2023 &middot; Length: 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4TQIiVlHYxY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4TQIiVlHYxY">Open on YouTube</a></p></div></div></div>
 
 ## The Problem of Anonymous Witnesses
 
@@ -375,7 +375,7 @@ Hopkins regarded the correspondence as compelling corroboration. Critics argued 
 Sceptical investigators also questioned whether Hopkins became emotionally invested in preserving the case’s significance. By the early 1990s, he had publicly presented the incident as perhaps the strongest abduction case ever documented. That commitment, critics said, may have reduced his willingness to aggressively challenge weak or contradictory evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tricksterbook.com/ArticlesOnline/LindaCase.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tricksterbook.com">[tricksterbook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tricksterbook.com</span><span class="citation-popover-snippet">Linda also claimed that in subsequent hypnotic regressions she...Read more...</span></span></span>
 
 
-<img src="{{ "/assets/images/Linda_Cortile_abduct_1b229f_hopkins_hypnosis_47c88d-Illustration-3-light.svg" | relative_url }}" alt="Hopkins illustration 3" data-theme-src-dark="{{ "/assets/images/Linda_Cortile_abduct_1b229f_hopkins_hypnosis_47c88d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Linda_Cortile_abduct_1b229f_hopkins_hypnosis_47c88d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Linda_Cortile_abduct_1b229f_hopkins_hypnosis_47c88d-Illustration-3-dark.svg" | relative_url }}" alt="Hopkins illustration 3" data-theme-src-dark="{{ "/assets/images/Linda_Cortile_abduct_1b229f_hopkins_hypnosis_47c88d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Linda_Cortile_abduct_1b229f_hopkins_hypnosis_47c88d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Carol Rainey’s Later Doubts
 
 The most damaging criticism came from inside Hopkins’s own circle.
@@ -395,7 +395,7 @@ For believers, Hopkins remains a pioneering investigator who took traumatised wi
 That unresolved tension is one reason the case still attracts attention decades later. The debate is no longer only about whether Linda Napolitano floated from a Manhattan window. It is also about how people construct certainty around experiences that cannot easily be tested, reproduced, or independently confirmed.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BVytd28dTYU" title="714: The Manhattan Alien Abduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BVytd28dTYU" target="_blank" rel="noopener noreferrer">714: The Manhattan Alien Abduction</a></p><p class="youtube-embed-meta">Channel: Morbid | Podcast &middot; Views: 6.4K &middot; Uploaded: October 2025 &middot; Length: 1 hour 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BVytd28dTYU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BVytd28dTYU">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dpoHdjDxCwQ" title="Linda Napolitano: The Manhattan Alien Abduction Story - Lights Out Podcast #13" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dpoHdjDxCwQ" target="_blank" rel="noopener noreferrer">Linda Napolitano: The Manhattan Alien Abduction Story - Lights Out Podcast #13</a></p><p class="youtube-embed-meta">Channel: Lights Out &middot; Views: 375.2K &middot; Uploaded: July 2020 &middot; Length: 1 hour 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dpoHdjDxCwQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dpoHdjDxCwQ">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -442,7 +442,7 @@ That unresolved tension is one reason the case still attracts attention decades 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -451,78 +451,94 @@ That unresolved tension is one reason the case still attracts attention decades 
       </div>
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=alien+abduction+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-alien-abduction-art-print-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Abduction Beam ACEO Print | UFO Folk Art | Forest Road Sci-Fi Card"><img src="{{ '/assets/images/marketplace-covers/58b4699b0bacb972654d.jpg' | relative_url }}" alt="Listing image for Alien Abduction Beam ACEO Print | UFO Folk Art | Forest Road Sci-Fi Card" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=alien+abduction+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-alien-abduction-art-print-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Abduction Beam ACEO Print | UFO Folk Art | Forest Road Sci-Fi Card</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=alien+abduction+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-alien-abduction-art-print-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction art print">Search <span data-ebay-domain-label>eBay.com</span>: alien abduction art print</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=alien+abduction+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-alien-abduction-art-print-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=alien+abduction+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-alien-abduction-art-print-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mantis Alien Examination ACEO Print | UFO Abduction Folk Art | Sci-Fi"><img src="{{ '/assets/images/marketplace-covers/03fc0129b6795e21bce2.jpg' | relative_url }}" alt="Listing image for Mantis Alien Examination ACEO Print | UFO Abduction Folk Art | Sci-Fi" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=alien+abduction+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-alien-abduction-art-print-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Mantis Alien Examination ACEO Print | UFO Abduction Folk Art | Sci-Fi</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=alien+abduction+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-alien-abduction-art-print-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction art print">Search <span data-ebay-domain-label>eBay.com</span>: alien abduction art print</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=alien+abduction+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-alien-abduction-art-print-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=alien+abduction+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-alien-abduction-art-print-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Aliens Alien Abduction Attack Lonely Road Trees Dark Clouds Art Print"><img src="{{ '/assets/images/marketplace-covers/7ca16f1c1db3965ff875.jpg' | relative_url }}" alt="Listing image for UFO UAP Aliens Alien Abduction Attack Lonely Road Trees Dark Clouds Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=alien+abduction+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-alien-abduction-art-print-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Aliens Alien Abduction Attack Lonely Road Trees Dark Clouds Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=alien+abduction+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-alien-abduction-art-print-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction art print">Search <span data-ebay-domain-label>eBay.com</span>: alien abduction art print</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=alien+abduction+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-alien-abduction-art-print-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=alien+abduction+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-alien-abduction-art-print-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Grey Alien Bedroom ACEO Print | UFO Abduction Folk Art | Sleeping Boy"><img src="{{ '/assets/images/marketplace-covers/edf1de512a04aa20605e.jpg' | relative_url }}" alt="Listing image for Grey Alien Bedroom ACEO Print | UFO Abduction Folk Art | Sleeping Boy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=alien+abduction+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-alien-abduction-art-print-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Grey Alien Bedroom ACEO Print | UFO Abduction Folk Art | Sleeping Boy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=alien+abduction+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-alien-abduction-art-print-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction art print">Search <span data-ebay-domain-label>eBay.com</span>: alien abduction art print</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=alien+abduction+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-alien-abduction-art-print-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=alien+abduction+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-alien-abduction-art-print-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -598,17 +614,31 @@ That unresolved tension is one reason the case still attracts attention decades 
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -621,42 +651,73 @@ That unresolved tension is one reason the case still attracts attention decades 
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -671,12 +732,17 @@ That unresolved tension is one reason the case still attracts attention decades 
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>

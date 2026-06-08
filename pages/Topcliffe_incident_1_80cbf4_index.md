@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /topcliffe-incident-1-80cbf4-index/
 description: Focused pages that expand on Topcliffe incident 1952.
-date: '2026-05-29'
+date: '2026-06-08'
 layout: default
 parent_basename: Topcliffe_incident_1_80cbf4
 parent_title: Topcliffe incident 1952

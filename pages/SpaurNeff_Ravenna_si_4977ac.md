@@ -114,15 +114,15 @@ sibling_basenames:
 - Washington_National_ee59a4
 - WellingtonKaikoura_i_c1d17f
 tags:
-- spaurneff-ravenna-sighting-1966
+- spaur-neff-ravenna-sighting-1966
 keywords:
-- spaurneff-ravenna-sighting-1966
-affiliate_category: spaurneff-ravenna-sighting-1966
+- spaur-neff-ravenna-sighting-1966
+affiliate_category: spaur-neff-ravenna-sighting-1966
 show_ads: true
 description: The Spaur/Neff Ravenna sighting of 17 April 1966 is best understood as a contested police-witness UFO case, not as a settled demonstration of either an...
 hero_summary: The Spaur/Neff Ravenna sighting of 17 April 1966 is best understood as a contested police-witness UFO case, not as a settled demonstration of either an extraordinary craft or a simple astronomical mistake.
 layout: default
-permalink: /spaurneff-ravenna-sighting-1966/
+permalink: /spaur-neff-ravenna-sighting-1966/
 nav_short_title: What Really Happened During the Ravenna UFO Chase?
 title: What Really Happened During the Ravenna UFO Chase?
 title_full: What Really Happened During the Ravenna UFO Chase?
@@ -132,9 +132,9 @@ heading_title: What Really Happened During the Ravenna UFO Chase?
 page_heading_title: What Really Happened During the Ravenna UFO Chase?
 source_count: 52
 infographic_count: 3
-page_website_name: RavennaUFO
+page_website_name: Ravenna UFO
 page_banner_line: Detailed exploration of the 1966 Ravenna police UFO sighting
-site_website_name: RavennaUFO
+site_website_name: Ravenna UFO
 site_banner_line: Detailed exploration of the 1966 Ravenna police UFO sighting
 site_image_description: Two uniformed police officers observing a bright, low-flying object in the pre-dawn sky near Ohio trees with patrol cars parked...
 output_language: English
@@ -345,7 +345,7 @@ sibling_links:
   short_title: Higdon Contact
 - basename: CashLandrum_incident_7ad7d9
   title: Cash Landrum
-  permalink: /cashlandrum-incident-1980/
+  permalink: /cash-landrum-incident-1980/
   short_title: Cash Landrum
 - basename: Cedric_Allingham_enc_2c7f6b
   title: Allingham
@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: CiscoGrove1964
+  title: Cisco Grove1964
   permalink: /cisco-grove-incident-1964/
-  short_title: CiscoGrove1964
+  short_title: Cisco Grove1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -432,9 +432,9 @@ sibling_links:
   permalink: /fred-m-johnson-sighting-1947/
   short_title: Johnson Sighting
 - basename: Gary_Wilcox_encounte_6de9ff
-  title: WilcoxUFO
+  title: Wilcox UFO
   permalink: /gary-wilcox-encounter-1964/
-  short_title: WilcoxUFO
+  short_title: Wilcox UFO
 - basename: Gemini_4_sighting_19_9c351d
   title: Gemini 4 Sighting
   permalink: /gemini-4-sighting-1965/
@@ -528,21 +528,21 @@ sibling_links:
   permalink: /linda-cortile-abduction-1989/
   short_title: Cortile Case
 - basename: Livingston_incident_b2c293
-  title: LivingstonUFO
+  title: Livingston UFO
   permalink: /livingston-incident-1979/
-  short_title: LivingstonUFO
+  short_title: Livingston UFO
 - basename: Loch_Raven_Dam_incid_b0e5b6
-  title: LochRavenUFO
+  title: Loch Raven UFO
   permalink: /loch-raven-dam-incident-1958/
-  short_title: LochRavenUFO
+  short_title: Loch Raven UFO
 - basename: Lubbock_Lights_sight_4eabd8
   title: Lubbock Lights
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: MagentaCrash1933
+  title: Magenta Crash1933
   permalink: /magenta-italy-crash-1933/
-  short_title: MagentaCrash1933
+  short_title: Magenta Crash1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -552,9 +552,9 @@ sibling_links:
   permalink: /maury-island-incident-1947/
   short_title: Maury Island
 - basename: McMinnville_photogra_4e1af3
-  title: McMinnville Photos
-  permalink: /mcminnville-photographs-1950/
-  short_title: McMinnville Photos
+  title: Mc Minnville Photos
+  permalink: /mc-minnville-photographs-1950/
+  short_title: Mc Minnville Photos
 - basename: Middle_East_UAP_vide_4a6c55
   title: Middle East Orb
   permalink: /middle-east-uap-video-2022/
@@ -572,9 +572,9 @@ sibling_links:
   permalink: /oloron-angel-hair-incident-1952/
   short_title: Oloron Angel Hair
 - basename: Operation_Mainbrace_06bcd8
-  title: MainbraceSightings
+  title: Mainbrace Sightings
   permalink: /operation-mainbrace-sightings-1952/
-  short_title: MainbraceSightings
+  short_title: Mainbrace Sightings
 - basename: Orfeo_Angelucci_enco_bef29a
   title: Angelucci
   permalink: /orfeo-angelucci-encounter-1955/
@@ -628,9 +628,9 @@ sibling_links:
   permalink: /stanford-kentucky-abduction-1976/
   short_title: Stanford Abduction
 - basename: Stephen_Darbishire_p_f80223
-  title: DarbishireUFO
+  title: Darbishire UFO
   permalink: /stephen-darbishire-photograph-1954/
-  short_title: DarbishireUFO
+  short_title: Darbishire UFO
 - basename: Steven_Michalak_enco_1bbf94
   title: Falcon Lake
   permalink: /steven-michalak-encounter-1967/
@@ -644,9 +644,9 @@ sibling_links:
   permalink: /thomas-f-mantell-incident-1948/
   short_title: Mantell
 - basename: Topcliffe_incident_1_80cbf4
-  title: TopcliffeUFO
+  title: Topcliffe UFO
   permalink: /topcliffe-incident-1952/
-  short_title: TopcliffeUFO
+  short_title: Topcliffe UFO
 - basename: Trans-en-Provence_en_439c97
   title: Trans en Provence
   permalink: /trans-en-provence-encounter-1981/
@@ -668,9 +668,9 @@ sibling_links:
   permalink: /truman-bethurum-contact-1954/
   short_title: Bethurum
 - basename: Tully_saucer_nest_in_b9d0b0
-  title: TullyUFO
+  title: Tully UFO
   permalink: /tully-saucer-nest-incident-1966/
-  short_title: TullyUFO
+  short_title: Tully UFO
 - basename: Tunguska_event_1908_efda6f
   title: Tunguska
   permalink: /tunguska-event-1908/
@@ -680,9 +680,9 @@ sibling_links:
   permalink: /ubatuba-incident-1957/
   short_title: Ubatuba
 - basename: USS_Nimitz_Tic_Tac_v_83266a
-  title: NimitzUAP
+  title: Nimitz UAP
   permalink: /uss-nimitz-tic-tac-video-2004/
-  short_title: NimitzUAP
+  short_title: Nimitz UAP
 - basename: USS_Russell_video_20_3188a1
   title: USS Russell
   permalink: /uss-russell-video-2019/
@@ -704,9 +704,9 @@ sibling_links:
   permalink: /valentich-disappearance-1978/
   short_title: Valentich
 - basename: Voronezh_Russia_land_e13f34
-  title: VoronezhLanding
+  title: Voronezh Landing
   permalink: /voronezh-russia-landing-1989/
-  short_title: VoronezhLanding
+  short_title: Voronezh Landing
 - basename: Walesville_Incident_cbceb2
   title: Walesville
   permalink: /walesville-incident-1954/
@@ -717,25 +717,25 @@ sibling_links:
   short_title: Washington Saucers
 - basename: WellingtonKaikoura_i_c1d17f
   title: Kaikoura Lights
-  permalink: /wellingtonkaikoura-incident-1978/
+  permalink: /wellington-kaikoura-incident-1978/
   short_title: Kaikoura Lights
 - basename: Ummo_photographs_196_ed7563
-  title: UmmoPhotos
+  title: Ummo Photos
   permalink: /were-the-1967-ummo-photographs-real-or-a/
-  short_title: UmmoPhotos
+  short_title: Ummo Photos
 child_links:
 - basename: SpaurNeff_Ravenna_si_4977ac_project_blue_book_ra_e57cfe
-  title: Official Report | SpaurNeff Ravenna sighting 1966
+  title: Official Report | Spaur Neff Ravenna sighting 1966
   permalink: /official-report/
   short_title: Official Report
   heading_title: What Did Project Blue Book Conclude About Ravenna?
 - basename: SpaurNeff_Ravenna_si_4977ac_buchert_photograph_a_9a4c90
-  title: Photograph Debate | SpaurNeff Ravenna sighting 1966
+  title: Photograph Debate | Spaur Neff Ravenna sighting 1966
   permalink: /photograph-debate/
   short_title: Photograph Debate
   heading_title: Do the Ravenna UFO Photographs Prove an Unknown Object?
 - basename: SpaurNeff_Ravenna_si_4977ac_witness_testimony_an_49ba11
-  title: Witness Testimony | SpaurNeff Ravenna sighting 1966
+  title: Witness Testimony | Spaur Neff Ravenna sighting 1966
   permalink: /witness-testimony/
   short_title: Witness Testimony
   heading_title: How Credible Were the Ravenna UFO Witnesses?
@@ -749,7 +749,7 @@ next_link:
   title: Stanford Abduction
   permalink: /stanford-kentucky-abduction-1976/
   short_title: Stanford Abduction
-date: '2026-05-29 12:14:24 '
+date: '2026-06-08 23:34:24 '
 header:
   og_image: /assets/images/SpaurNeff_Ravenna_si_4977ac-overview-social.jpg
   preview_image: /assets/images/SpaurNeff_Ravenna_si_4977ac-overview.webp
@@ -761,7 +761,7 @@ image: /assets/images/SpaurNeff_Ravenna_si_4977ac-overview-social.jpg
 The core incident began in the early morning of Sunday, 17 April 1966, near Ravenna and Mantua, Ohio. Portage County Deputy Sheriff Dale Spaur and fellow officer Wilbur Neff were on duty when they reported seeing a luminous object. Later retellings and local accounts describe the officers as checking an abandoned vehicle near U.S. Route 224 when they heard a humming sound and saw a bright object above or near the trees. Spaur’s later description, as preserved in local coverage, was of something roughly “40 feet across” and close enough to illuminate the area beneath it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/the-portager/seeing-a-ufo-ruined-dale-spaurs-life-f86bab152368" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">Seeing a UFO ruined Dale Spaur’s life | by Ben Wolford | The Portager | Medium</span><span class="citation-popover-snippet">MediumSeeing a UFO ruined Dale Spaur’s life | by Ben Wolford | The Portager | Medium...</span></span></span>
 
 
-<img src="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac-overview.webp" | relative_url }}" alt="Overview image for SpaurNeff Ravenna sighting 1966" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac-overview.webp" | relative_url }}" alt="Overview image for Spaur Neff Ravenna sighting 1966" loading="eager" decoding="sync" fetchpriority="high">
 The reported chase is what made the case famous. Spaur and Neff said they followed the object eastwards at high speed, eventually crossing from Ohio towards western Pennsylvania. A later Tribune Chronicle retrospective, summarising the contemporary local record, stated that Spaur and Neff chased the object for about an hour and a half from near Ravenna to Conway, Pennsylvania, and that Spaur reported speeds up to 103 miles per hour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tribtoday.com/news/local-news/2016/04/ufos-spotted-in-ravenna-in-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tribtoday.com">[tribtoday.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tribtoday.com</span><span class="citation-popover-title">ufos spotted in ravenna in 1966</span><span class="citation-popover-snippet">ufos spotted in ravenna in 1966</span></span></span>
 
 The case did not rest on Spaur and Neff alone. Officer Wayne Huston of East Palestine, Ohio, is commonly identified as joining the pursuit near the Ohio-Pennsylvania border, and Mantua police chief Gerald Buchert was reported to have seen and photographed an object from Mantua. The Cleveland Scene’s 2004 reconstruction describes Buchert leaving his patrol, waking his wife, and photographing an object he believed resembled two saucers joined together; it also places Spaur, Neff, Huston and Pennsylvania officer Frank Panzanella in the later phase of the incident near Conway. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.clevescene.com/news/strangers-in-the-night-1485939/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clevescene.com">[Cleveland Scene]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clevescene.com</span><span class="citation-popover-title">Cleveland Scene Strangers in the Night</span><span class="citation-popover-snippet">Cleveland Scene Strangers in the Night</span></span></span>
@@ -775,7 +775,7 @@ The Blue Book archive entry for the Ravenna-Mantua case lists it as case number 
 For readers trying to weigh the case, the most striking feature is the mismatch between categories of evidence. The eyewitness evidence points to proximity, structure, motion, and apparent manoeuvring. The official explanation points to known sky objects and flawed photographic material. Those are not just competing labels; they imply different kinds of event. Either the officers badly misread ordinary lights under stressful conditions, or the official reconstruction failed to account for key features of the testimony.
 
 
-<img src="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac-Illustration-1-light.svg" | relative_url }}" alt="SpaurNeff Ravenna sighting 1966 illustration 1" data-theme-src-dark="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac-Illustration-1-dark.svg" | relative_url }}" alt="Spaur Neff Ravenna sighting 1966 illustration 1" data-theme-src-dark="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The official Air Force explanation
 
 Project Blue Book’s public and archival handling of the case placed it within the Air Force’s broader UFO evaluation system. The National Archives’ copy of the later Air Force fact sheet says Blue Book collected 12,618 sightings from 1947 to 1969, of which 701 remained “Unidentified”, and that the Air Force concluded there was no evidence that unidentified sightings represented a national-security threat, advanced technology beyond known science, or extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
@@ -785,7 +785,7 @@ For Ravenna-Mantua specifically, the archived case page records the official exp
 Quintanilla also acknowledged the social difficulty of the case. In his own account, he noted that the witnesses were police officers, that Ohio newspapers covered the story for days, and that Spaur, local officials and NICAP disliked the evaluation. He said political pressure led to a re-investigation interview at the Portage County courthouse, though he believed later inconsistencies did not change his original conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/ufos-an-air-force-dilemma/quintanilla_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;UFO&#x27;s: An Air Force Dilemma</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;UFO&#x27;s: An Air Force Dilemma</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OoKm417zKOA" title="10 Cases From Project Blue Book: The CIA&#x27;s Hunt For UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OoKm417zKOA" target="_blank" rel="noopener noreferrer">10 Cases From Project Blue Book: The CIA&#x27;s Hunt For UFOs</a></p><p class="youtube-embed-meta">Channel: TopTenz &middot; Views: 271.1K &middot; Uploaded: February 2019 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OoKm417zKOA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OoKm417zKOA">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9tws_LsIQkk" title="The Portage County Ohio UFO Chase &amp; Police Encounter in 1966 - FindingUFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9tws_LsIQkk" target="_blank" rel="noopener noreferrer">The Portage County Ohio UFO Chase &amp; Police Encounter in 1966 - FindingUFO</a></p><p class="youtube-embed-meta">Channel: FindingUFO &middot; Views: 16.7K &middot; Uploaded: September 2016 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9tws_LsIQkk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9tws_LsIQkk">Open on YouTube</a></p></div></div></div>
 
 ## Why many critics rejected the Venus-and-satellite answer
 
@@ -796,7 +796,7 @@ A second problem is the multiple-witness narrative. Mantua police chief Gerald B
 The most defensible sceptical version is therefore not “the officers saw nothing unusual”. It is that a confusing sequence of observations may have been compressed into one dramatic pursuit: an initial misidentified light or satellite, followed by Venus, heightened by fatigue, pre-dawn visibility, vehicle motion, radio reinforcement, and public pressure. That explanation is plausible in broad psychological terms, but it still has to discount or reinterpret the witnesses’ claims of low altitude, structure, illumination, sound and apparent manoeuvring.
 
 
-<img src="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac-Illustration-2-light.svg" | relative_url }}" alt="SpaurNeff Ravenna sighting 1966 illustration 2" data-theme-src-dark="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac-Illustration-2-dark.svg" | relative_url }}" alt="Spaur Neff Ravenna sighting 1966 illustration 2" data-theme-src-dark="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The photographs: intriguing, but not decisive
 
 The photographs associated with Mantua police chief Gerald Buchert are among the most discussed parts of the case, but they do not resolve it. The Blue Book archive’s summary explicitly labels the photo element as “processing defects”, meaning the Air Force did not treat the images as reliable physical evidence of an unknown object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bluebookfiles.org/doc/12495" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebookfiles.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebookfiles.org</span><span class="citation-popover-snippet">Project Blue Book Archive1966-04-7104469-Ravenna-Mantua-Ohio (1966) - Blue Book Archive...</span></span></span>
@@ -806,7 +806,7 @@ Later local reporting continued to treat the [Buchert photograph]({{ 'photograph
 The cautious conclusion is that the photographs add historical interest but not proof. Without an independently preserved negative, clear chain of custody, camera settings, exact timing, and expert analysis available in a transparent form, the image evidence cannot carry the case. It is best read as corroborative context for what Buchert said he saw, not as a stand-alone demonstration of a craft.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9tws_LsIQkk" title="The Portage County Ohio UFO Chase &amp; Police Encounter in 1966 - FindingUFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9tws_LsIQkk" target="_blank" rel="noopener noreferrer">The Portage County Ohio UFO Chase &amp; Police Encounter in 1966 - FindingUFO</a></p><p class="youtube-embed-meta">Channel: FindingUFO &middot; Views: 16.7K &middot; Uploaded: September 2016 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9tws_LsIQkk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9tws_LsIQkk">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OoKm417zKOA" title="10 Cases From Project Blue Book: The CIA&#x27;s Hunt For UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OoKm417zKOA" target="_blank" rel="noopener noreferrer">10 Cases From Project Blue Book: The CIA&#x27;s Hunt For UFOs</a></p><p class="youtube-embed-meta">Channel: TopTenz &middot; Views: 271.1K &middot; Uploaded: February 2019 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OoKm417zKOA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OoKm417zKOA">Open on YouTube</a></p></div></div></div>
 
 ## Witness credibility and human cost
 
@@ -817,7 +817,7 @@ That human aftermath matters, but it must be handled carefully. A witness suffer
 The case also shows how quickly official explanations can become reputational judgements. Once the Air Force explanation reached the press, the practical public meaning was that trained officers had chased Venus or a satellite for many miles. Even if the Air Force intended a technical identification, the result was social humiliation for the witnesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/ufos-an-air-force-dilemma/quintanilla_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;UFO&#x27;s: An Air Force Dilemma</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;UFO&#x27;s: An Air Force Dilemma</span></span></span>
 
 
-<img src="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac-Illustration-3-light.svg" | relative_url }}" alt="SpaurNeff Ravenna sighting 1966 illustration 3" data-theme-src-dark="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac-Illustration-3-dark.svg" | relative_url }}" alt="Spaur Neff Ravenna sighting 1966 illustration 3" data-theme-src-dark="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What can and cannot be concluded
 
 The Ravenna sighting has enough documentation to be more than folklore. It has named witnesses, police involvement, local and national press attention, a Blue Book case file, an official explanation, and later historical reporting. It is also narrow enough that its main evidential tension is clear: the official explanation accounts for ordinary sky objects being present, while the witness reports describe behaviour and proximity that those objects do not naturally explain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bluebookfiles.org/doc/12495" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebookfiles.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebookfiles.org</span><span class="citation-popover-snippet">Project Blue Book Archive1966-04-7104469-Ravenna-Mantua-Ohio (1966) - Blue Book Archive...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>

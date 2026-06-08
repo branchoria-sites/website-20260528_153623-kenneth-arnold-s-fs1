@@ -239,7 +239,7 @@ next_link:
   permalink: /timeline/
   short_title: Timeline
   heading_title: How the Route 3 Night Unfolded
-date: '2026-05-29 11:49:49 '
+date: '2026-06-08 23:18:34 '
 header:
   og_image: /assets/images/Betty_and_Barney_Hil_3bcafa_hypnosis_abduction_m_458784-Illustration-1-social.jpg
   preview_image: /assets/images/Betty_and_Barney_Hil_3bcafa_hypnosis_abduction_m_458784-Illustration-1.webp
@@ -251,7 +251,7 @@ image: /assets/images/Betty_and_Barney_Hil_3bcafa_hypnosis_abduction_m_458784-Il
 The most influential part of the [Betty and Barney]({{ 'betty-and-barney-hill-abduction-1961/' | relative_url }}) Hill case did not come from the couple’s first UFO report in 1961. It emerged later, during psychiatric hypnosis sessions conducted by Dr Benjamin Simon in 1964. Under hypnosis, the Hills described being taken aboard a craft, medically examined by humanoid beings, and shown what Betty Hill later drew as a “star map”. Those sessions transformed an unusual UFO sighting into what many people now recognise as the first modern alien-abduction narrative. At the same time, they also created the case’s greatest evidential weakness: hypnosis is highly vulnerable to suggestion, confabulation, emotional reinforcement, and the creation of false memories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mcgill.ca/oss/article/critical-thinking-pseudoscience/alien-abduction-hardly-convincing-one" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mcgill.ca">[McGill University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mcgill.ca</span><span class="citation-popover-title">Mc Gill University An Alien Abduction?</span><span class="citation-popover-snippet">Hardly a Convincing One.1 Sept 2023 — Benjamin Simon, specializing in hypnosis. Perhaps under hypnosis the couple could recall what actua...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://library.unh.edu/find/archives/collections/betty-barney-hill-papers-1961-2006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.unh.edu">[Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.unh.edu</span><span class="citation-popover-snippet">Library | University of New HampshireBetty and Barney Hill Papers, 1961-2006 - UNH LibraryAbout a year after their abduction, Betty and B...</span></span></span> | University of New Hampshire
 
 
-<img src="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa_hypnosis_abduction_m_458784-Illustration-1-light.svg" | relative_url }}" alt="Hypnosis illustration 1" data-theme-src-dark="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa_hypnosis_abduction_m_458784-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa_hypnosis_abduction_m_458784-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa_hypnosis_abduction_m_458784-Illustration-1-dark.svg" | relative_url }}" alt="Hypnosis illustration 1" data-theme-src-dark="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa_hypnosis_abduction_m_458784-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa_hypnosis_abduction_m_458784-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The debate over the Hill story therefore became less about whether the couple saw something strange in the New Hampshire sky and more about whether hypnosis can recover buried truth at all. Supporters view the sessions as emotionally authentic recollections of trauma. Critics argue that the hypnotic process itself may have shaped or even manufactured the abduction memories that later defined UFO culture.
 
 ## Why the hypnosis sessions mattered so much
@@ -310,7 +310,7 @@ Simon himself eventually concluded that Betty’s dreams likely influenced Barne
 This matters because modern psychology generally treats hypnotic regression with extreme caution. Research on memory has repeatedly shown that hypnosis can increase confidence in memories without increasing accuracy. A hypnotised person may sincerely believe an imagined or distorted event is real.
 
 
-<img src="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa_hypnosis_abduction_m_458784-Illustration-2-light.svg" | relative_url }}" alt="Hypnosis illustration 2" data-theme-src-dark="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa_hypnosis_abduction_m_458784-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa_hypnosis_abduction_m_458784-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa_hypnosis_abduction_m_458784-Illustration-2-dark.svg" | relative_url }}" alt="Hypnosis illustration 2" data-theme-src-dark="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa_hypnosis_abduction_m_458784-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa_hypnosis_abduction_m_458784-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why hypnosis became controversial
 
 The Hill case arrived before the major “false memory” debates of the 1980s and 1990s, when psychologists increasingly warned that suggestive interviewing techniques could unintentionally create elaborate but inaccurate recollections.
@@ -335,7 +335,7 @@ Believers counter that Simon attempted to reduce suggestion by separating the co
 The case therefore sits at the centre of a larger unresolved question: can hypnosis recover hidden traumatic memories, or does it mainly help people construct persuasive narratives from fear, dreams, and fragmented recollections?
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SmDxXcRCkN4" title="The Truth About Betty Hill&#x27;s UFO Star Map | UFO: The Lost Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SmDxXcRCkN4" target="_blank" rel="noopener noreferrer">The Truth About Betty Hill&#x27;s UFO Star Map | UFO: The Lost Evidence</a></p><p class="youtube-embed-meta">Channel: Discovery UK &middot; Views: 234.0K &middot; Uploaded: August 2019 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SmDxXcRCkN4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SmDxXcRCkN4">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TNGOaSGVwDg" title="Barney Hill Hypnosis - Complete" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TNGOaSGVwDg" target="_blank" rel="noopener noreferrer">Barney Hill Hypnosis - Complete</a></p><p class="youtube-embed-meta">Channel: rtuckertow &middot; Views: 118.1K &middot; Uploaded: December 2012 &middot; Length: 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TNGOaSGVwDg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TNGOaSGVwDg">Open on YouTube</a></p></div></div></div>
 
 ## The star map and the Zeta Reticuli claim
 
@@ -358,7 +358,7 @@ Even some UFO enthusiasts eventually acknowledged that the original match was le
 The controversy over the map mirrors the wider hypnosis debate itself. Supporters see a striking pattern unlikely to arise by chance. Critics see a vague sketch interpreted after the fact through selective fitting and cultural expectation.
 
 
-<img src="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa_hypnosis_abduction_m_458784-Illustration-3-light.svg" | relative_url }}" alt="Hypnosis illustration 3" data-theme-src-dark="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa_hypnosis_abduction_m_458784-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa_hypnosis_abduction_m_458784-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa_hypnosis_abduction_m_458784-Illustration-3-dark.svg" | relative_url }}" alt="Hypnosis illustration 3" data-theme-src-dark="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa_hypnosis_abduction_m_458784-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa_hypnosis_abduction_m_458784-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the Hill hypnosis shaped later alien-abduction stories
 
 The Hill case became the prototype for modern abduction narratives largely because the hypnosis sessions supplied a dramatic structure that later cases repeated. Before the Hills, UFO reports typically focused on lights, discs, or close encounters with strange craft. After the Hills, abduction stories increasingly centred on missing time, medical procedures, telepathy, reproductive themes, and psychological trauma. <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcasts.happyscribe.com/stuff-you-should-know/the-alien-abduction-phenomenon-of-the-mid-20th-century" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcasts.happyscribe.com">[Podcasts - Your Podcast Transcripts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcasts.happyscribe.com</span><span class="citation-popover-snippet">Podcasts - Your Podcast TranscriptsThe Alien Abduction Phenomenon of the Mid-20th CenturyIt started with New Hampshire couple Betty and B...</span></span></span>
@@ -383,7 +383,7 @@ Sceptics argue that the hypnosis sessions demonstrate the exact dangers associat
 That unresolved tension is why the Hills still matter. The case is not only about UFOs. It is also about memory itself: how people remember frightening experiences, how stories become culturally reinforced, and how emotionally powerful testimony can remain convincing even when the evidential foundation is fragile.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TNGOaSGVwDg" title="Barney Hill Hypnosis - Complete" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TNGOaSGVwDg" target="_blank" rel="noopener noreferrer">Barney Hill Hypnosis - Complete</a></p><p class="youtube-embed-meta">Channel: rtuckertow &middot; Views: 118.1K &middot; Uploaded: December 2012 &middot; Length: 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TNGOaSGVwDg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TNGOaSGVwDg">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SmDxXcRCkN4" title="The Truth About Betty Hill&#x27;s UFO Star Map | UFO: The Lost Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SmDxXcRCkN4" target="_blank" rel="noopener noreferrer">The Truth About Betty Hill&#x27;s UFO Star Map | UFO: The Lost Evidence</a></p><p class="youtube-embed-meta">Channel: Discovery UK &middot; Views: 234.0K &middot; Uploaded: August 2019 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SmDxXcRCkN4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SmDxXcRCkN4">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -428,337 +428,6 @@ That unresolved tension is why the Hills still matter. The case is not only abou
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-can-hypnosis-recover-alien-memories-betty-and-barney-hill-abduction-1961-alien-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 1979 Japan Movie Poster Ridley Scott Sigourney Weaver Aliens 19&quot;x13&quot;"><img src="{{ '/assets/images/marketplace-covers/0a54e1d1b3b9eeb57f05.jpg' | relative_url }}" alt="Listing image for Alien 1979 Japan Movie Poster Ridley Scott Sigourney Weaver Aliens 19&quot;x13&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-can-hypnosis-recover-alien-memories-betty-and-barney-hill-abduction-1961-alien-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien 1979 Japan Movie Poster Ridley Scott Sigourney Weaver Aliens 19&quot;x13&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-can-hypnosis-recover-alien-memories-betty-and-barney-hill-abduction-1961-alien-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.com</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-can-hypnosis-recover-alien-memories-betty-and-barney-hill-abduction-1961-alien-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-can-hypnosis-recover-alien-memories-betty-and-barney-hill-abduction-1961-alien-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN (1979) &quot;In Space No One Can Hear You Scream&quot; Movie Poster Sci Fi Horror"><img src="{{ '/assets/images/marketplace-covers/e4dc310107e6cf6e0f4d.jpg' | relative_url }}" alt="Listing image for ALIEN (1979) &quot;In Space No One Can Hear You Scream&quot; Movie Poster Sci Fi Horror" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-can-hypnosis-recover-alien-memories-betty-and-barney-hill-abduction-1961-alien-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">ALIEN (1979) &quot;In Space No One Can Hear You Scream&quot; Movie Poster Sci Fi Horror</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-can-hypnosis-recover-alien-memories-betty-and-barney-hill-abduction-1961-alien-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.com</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-can-hypnosis-recover-alien-memories-betty-and-barney-hill-abduction-1961-alien-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-can-hypnosis-recover-alien-memories-betty-and-barney-hill-abduction-1961-alien-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 1979 Alternative Movie Poster Ridley Scott Sigourney Weaver Aliens 19&quot;x13&quot;"><img src="{{ '/assets/images/marketplace-covers/f077f661d651c8e31007.jpg' | relative_url }}" alt="Listing image for Alien 1979 Alternative Movie Poster Ridley Scott Sigourney Weaver Aliens 19&quot;x13&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-can-hypnosis-recover-alien-memories-betty-and-barney-hill-abduction-1961-alien-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien 1979 Alternative Movie Poster Ridley Scott Sigourney Weaver Aliens 19&quot;x13&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-can-hypnosis-recover-alien-memories-betty-and-barney-hill-abduction-1961-alien-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.com</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-can-hypnosis-recover-alien-memories-betty-and-barney-hill-abduction-1961-alien-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-can-hypnosis-recover-alien-memories-betty-and-barney-hill-abduction-1961-alien-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 1979 Japan Movie Poster Ridley Scott Sigourney Weaver Aliens 19&quot;x13&quot;"><img src="{{ '/assets/images/marketplace-covers/083c0cb22784d22838b9.jpg' | relative_url }}" alt="Listing image for Alien 1979 Japan Movie Poster Ridley Scott Sigourney Weaver Aliens 19&quot;x13&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-can-hypnosis-recover-alien-memories-betty-and-barney-hill-abduction-1961-alien-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien 1979 Japan Movie Poster Ridley Scott Sigourney Weaver Aliens 19&quot;x13&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-can-hypnosis-recover-alien-memories-betty-and-barney-hill-abduction-1961-alien-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.com</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-can-hypnosis-recover-alien-memories-betty-and-barney-hill-abduction-1961-alien-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-can-hypnosis-recover-alien-memories-betty-and-barney-hill-abduction-1961-alien-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-can-hypnosis-recover-alien-memories-betty-and-barney-hill-abduction-1961-alien-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien/Aliens Movie Posters &amp; Canvases, Framed/Unframed, Sizes A0 ,MAXI,A1,A2...."><img src="{{ '/assets/images/marketplace-covers/b890da874fffc4717b2b.jpg' | relative_url }}" alt="Listing image for Alien/Aliens Movie Posters &amp; Canvases, Framed/Unframed, Sizes A0 ,MAXI,A1,A2...." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-can-hypnosis-recover-alien-memories-betty-and-barney-hill-abduction-1961-alien-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien/Aliens Movie Posters &amp; Canvases, Framed/Unframed, Sizes A0 ,MAXI,A1,A2....</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-can-hypnosis-recover-alien-memories-betty-and-barney-hill-abduction-1961-alien-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-can-hypnosis-recover-alien-memories-betty-and-barney-hill-abduction-1961-alien-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-can-hypnosis-recover-alien-memories-betty-and-barney-hill-abduction-1961-alien-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 1979 Movie Poster A5 A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/d6aa9c4204a047bec601.jpg' | relative_url }}" alt="Listing image for Alien 1979 Movie Poster A5 A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-can-hypnosis-recover-alien-memories-betty-and-barney-hill-abduction-1961-alien-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien 1979 Movie Poster A5 A4 A3 A2 A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-can-hypnosis-recover-alien-memories-betty-and-barney-hill-abduction-1961-alien-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-can-hypnosis-recover-alien-memories-betty-and-barney-hill-abduction-1961-alien-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-can-hypnosis-recover-alien-memories-betty-and-barney-hill-abduction-1961-alien-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PREDATOR / BADLANDS / ALIENS POSTER ART PRINTS A4 A3 SIZE - BUY 2 GET ANY 2 FREE"><img src="{{ '/assets/images/marketplace-covers/d36e3ebcf7ff5c84331e.jpg' | relative_url }}" alt="Listing image for PREDATOR / BADLANDS / ALIENS POSTER ART PRINTS A4 A3 SIZE - BUY 2 GET ANY 2 FREE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-can-hypnosis-recover-alien-memories-betty-and-barney-hill-abduction-1961-alien-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">PREDATOR / BADLANDS / ALIENS POSTER ART PRINTS A4 A3 SIZE - BUY 2 GET ANY 2 FREE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-can-hypnosis-recover-alien-memories-betty-and-barney-hill-abduction-1961-alien-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-can-hypnosis-recover-alien-memories-betty-and-barney-hill-abduction-1961-alien-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-can-hypnosis-recover-alien-memories-betty-and-barney-hill-abduction-1961-alien-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM MOVIE POSTER ALIEN FILM TV CLASSIC PRINT LARGE ART SIZE A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/4b51086b6e0f30a899b6.jpg' | relative_url }}" alt="Listing image for ALIENS FILM MOVIE POSTER ALIEN FILM TV CLASSIC PRINT LARGE ART SIZE A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-can-hypnosis-recover-alien-memories-betty-and-barney-hill-abduction-1961-alien-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM MOVIE POSTER ALIEN FILM TV CLASSIC PRINT LARGE ART SIZE A4 A3 A2 A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-can-hypnosis-recover-alien-memories-betty-and-barney-hill-abduction-1961-alien-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-can-hypnosis-recover-alien-memories-betty-and-barney-hill-abduction-1961-alien-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-can-hypnosis-recover-alien-memories-betty-and-barney-hill-abduction-1961-alien-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
-(function () {
-  if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
-  function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
-  }
-  function localeMatches() {
-    var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
-    try {
-      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
-      else if (navigator.language) languages = [navigator.language];
-    } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
-      var normalized = normalize(languages[i]);
-      if (!normalized) continue;
-      if (localeMarketMap[normalized]) {
-        exactMarket = localeMarketMap[normalized];
-        break;
-      }
-      var languageOnly = normalized.split('-')[0];
-      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
-    }
-    return { exact: exactMarket, language: languageMarket };
-  }
-  function inferFromLocale() {
-    var matches = localeMatches();
-    return matches.exact || matches.language || '';
-  }
-  function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
-      var rule = timezoneRules[i] || {};
-      try {
-        if (new RegExp(rule.pattern).test(tz)) return rule.market;
-      } catch (err) {}
-    }
-    return '';
-  }
-  function inferMarket(available, options) {
-    available = Array.isArray(available) ? available : [];
-    options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
-    try {
-      var saved = window.localStorage && localStorage.getItem(storageKey);
-      if (saved && available.indexOf(saved) >= 0) return saved;
-    } catch (err) {}
-    var timezoneMarket = inferFromTimezone();
-    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
-    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
-    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
-  }
-  window.PhoenixAffiliateLocation = {
-    normalize: normalize,
-    inferMarket: inferMarket,
-    inferFromLocale: inferFromLocale,
-    inferFromTimezone: inferFromTimezone
-  };
-})();
-</script>
-  <script type="text/javascript">
-(function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
-  if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
-  }
-  function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
-  }
-  function closeMenu(section) {
-    var menu = section.querySelector('[data-ebay-market-menu]');
-    var trigger = section.querySelector('[data-ebay-market-trigger]');
-    var picker = section.querySelector('.fr-ebay-market-picker');
-    if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
-    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
-  }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
-    var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
-    }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
-    });
-    var trigger = section.querySelector('[data-ebay-market-trigger]');
-    var menu = section.querySelector('[data-ebay-market-menu]');
-    if (trigger && menu) {
-      trigger.addEventListener('click', function (event) {
-        event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
-        menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
-        var picker = trigger.closest('.fr-ebay-market-picker');
-        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
-      });
-      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.addEventListener('click', function (event) {
-          event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
-        });
-      });
-      document.addEventListener('click', function () { closeMenu(section); });
-    }
-    selectMarket(inferMarket(available), false);
-  });
-})();
-</script>
 </section>
 
 ## Endnotes

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /incident-at-exeter-1-781528-index/
 description: Focused pages that expand on Incident at Exeter 1965.
-date: '2026-05-29'
+date: '2026-06-08'
 layout: default
 parent_basename: Incident_at_Exeter_1_781528
 parent_title: Incident at Exeter 1965

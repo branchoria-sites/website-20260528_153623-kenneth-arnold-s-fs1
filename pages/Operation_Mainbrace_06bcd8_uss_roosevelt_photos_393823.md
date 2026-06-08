@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /operation-mainbrace-sightings-1952/
 nav_short_title: USS Roosevelt Photos
 title: Do USS Franklin D. Roosevelt UFO Photos Reveal a Balloon or Something Else?
-title_full: Do USS Franklin D. Roosevelt UFO Photos Reveal a Balloon or Something Else? | MainbraceSightings
+title_full: Do USS Franklin D. Roosevelt UFO Photos Reveal a Balloon or Something Else? | Mainbrace Sightings
 display_title_short: USS Roosevelt Photos
 display_title: USS Roosevelt Photos
 heading_title: Do USS Franklin D. Roosevelt UFO Photos Reveal a Balloon or Something Else?
@@ -197,20 +197,20 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: MainbraceSightings
+parent_title: Mainbrace Sightings
 parent_permalink: /operation-mainbrace-sightings-1952/
-parent_nav_short_title: MainbraceSightings
+parent_nav_short_title: Mainbrace Sightings
 parent_heading_title: What Really Happened During the 1952 Mainbrace UFO Sightings?
 ancestor_links:
 - basename: Operation_Mainbrace_06bcd8
-  title: MainbraceSightings
+  title: Mainbrace Sightings
   permalink: /operation-mainbrace-sightings-1952/
-  short_title: MainbraceSightings
+  short_title: Mainbrace Sightings
 breadcrumb_links:
 - basename: Operation_Mainbrace_06bcd8
-  title: MainbraceSightings
+  title: Mainbrace Sightings
   permalink: /operation-mainbrace-sightings-1952/
-  short_title: MainbraceSightings
+  short_title: Mainbrace Sightings
 sibling_links:
 - basename: Operation_Mainbrace_06bcd8_mainbrace_policy_imp_ffa62a
   title: Policy Impact | What Really Happened During the 1952 Mainbrace UFO...
@@ -224,16 +224,16 @@ sibling_links:
   heading_title: How Did the RAF Topcliffe UFO Encounter Unfold?
 up_link:
   basename: Operation_Mainbrace_06bcd8
-  title: MainbraceSightings
+  title: Mainbrace Sightings
   permalink: /operation-mainbrace-sightings-1952/
-  short_title: MainbraceSightings
+  short_title: Mainbrace Sightings
 prev_link:
   basename: Operation_Mainbrace_06bcd8_raf_topcliffe_sighti_ef5ce0
   title: Topcliffe Sighting | What Really Happened During the 1952 Mainbrace UFO...
   permalink: /topcliffe-sighting/
   short_title: Topcliffe Sighting
   heading_title: How Did the RAF Topcliffe UFO Encounter Unfold?
-date: '2026-05-29 12:21:02 '
+date: '2026-06-08 23:38:46 '
 header:
   og_image: /assets/images/Operation_Mainbrace_06bcd8_uss_roosevelt_photos_393823-Illustration-1-social.jpg
   preview_image: /assets/images/Operation_Mainbrace_06bcd8_uss_roosevelt_photos_393823-Illustration-1.webp
@@ -245,7 +245,7 @@ image: /assets/images/Operation_Mainbrace_06bcd8_uss_roosevelt_photos_393823-Ill
 In the mosaic of sightings linked to *[Operation Mainbrace]({{ 'operation-mainbrace-sightings-1952/' | relative_url }})* in September 1952, one episode stands apart for its *photographic documentation*: a set of colour images taken from aboard the U.S. Navy aircraft carrier **USS Franklin D. Roosevelt** (CVB‑42). Unlike many Mainbrace reports that survive only through later summaries or witness statements, these photographs — captured by reporter **Wallace Litwin** — are the rare instance where visual material accompanies an onboard naval sighting. What was photographed, why the images are significant to the broader Mainbrace case, and how official and subsequent narratives have interpreted them remain matters of debate and ambiguity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://theufodatabase.com/photos/operation-mainbrace-uss-roosevelt-litwin-photo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufodatabase.com">[The UFO Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufodatabase.com</span><span class="citation-popover-title">The UFO Database USS Franklin D. Roosevelt</span><span class="citation-popover-snippet">The UFO DatabaseUSS Franklin D. Roosevelt - Operation Mainbrace, September 19, 1952 | The UFO DatabaseSeptember 19, 1952...</span><span class="citation-popover-meta">Published: September 19, 1952</span></span></span>
 
 
-<img src="{{ "/assets/images/Operation_Mainbrace_06bcd8_uss_roosevelt_photos_393823-Illustration-1-light.svg" | relative_url }}" alt="USS Roosevelt Photos illustration 1" data-theme-src-dark="{{ "/assets/images/Operation_Mainbrace_06bcd8_uss_roosevelt_photos_393823-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Operation_Mainbrace_06bcd8_uss_roosevelt_photos_393823-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Operation_Mainbrace_06bcd8_uss_roosevelt_photos_393823-Illustration-1-dark.svg" | relative_url }}" alt="USS Roosevelt Photos illustration 1" data-theme-src-dark="{{ "/assets/images/Operation_Mainbrace_06bcd8_uss_roosevelt_photos_393823-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Operation_Mainbrace_06bcd8_uss_roosevelt_photos_393823-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Photographs and Naval Context
 
 During *Operation Mainbrace* — a large NATO naval and air exercise involving dozens of warships and aircraft in the North Sea — personnel aboard the USS Franklin D. Roosevelt reportedly observed a **silvery, spherical object** drifting across the sky on *20 September 1952*. News reporter Wallace Litwin, who was aboard the carrier at the time, took **a series of colour photographs** of this object from the ship’s flight deck. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/ncp/ncp-mainbrace.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">ncp mainbrace</span><span class="citation-popover-snippet">NICAPOperation Mainbrace Sightings 1952...</span></span></span>
@@ -266,7 +266,7 @@ Nevertheless, secondary sources and later ufological commentary highlight that, 
 It is also notable that only *poor prints* or low‑resolution scans of the originals appear in the archived Blue Book materials, and there is no widely circulated formal analytical report publicising detailed photographic analysis. The absence of clear imagery or comprehensive technical evaluation means that canonical statements on object size, altitude, scale, or motion remain scarce in official records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/520920norway-denmark_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">Image IMCAT Case Directory Category 08, Photographic / Video Images Preliminary Rating: 5 | | Image Object Photographed During Operation...</span></span></span>
 
 
-<img src="{{ "/assets/images/Operation_Mainbrace_06bcd8_uss_roosevelt_photos_393823-Illustration-2-light.svg" | relative_url }}" alt="USS Roosevelt Photos illustration 2" data-theme-src-dark="{{ "/assets/images/Operation_Mainbrace_06bcd8_uss_roosevelt_photos_393823-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Operation_Mainbrace_06bcd8_uss_roosevelt_photos_393823-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Operation_Mainbrace_06bcd8_uss_roosevelt_photos_393823-Illustration-2-dark.svg" | relative_url }}" alt="USS Roosevelt Photos illustration 2" data-theme-src-dark="{{ "/assets/images/Operation_Mainbrace_06bcd8_uss_roosevelt_photos_393823-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Operation_Mainbrace_06bcd8_uss_roosevelt_photos_393823-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Later Interpretations and Ambiguities
 
 In the decades following Operation Mainbrace, the Roosevelt photographs have been referenced — often second‑hand — in UFO literature as one of the handful of “photo‑documented” sightings from the early Cold War period. Many UFO retrospectivists view the images as important because they originated in a structured military context, with trained observers and institutional scrutiny, which contrasts with some civilian photo cases that have been later debunked. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1952NEW.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">new1952December 15, 2005 — ` ` The 1952 Sighting Wave Radar-Visual Sightings Establish UFOs As A Serious Mystery Image By Richard Hall (R...</span><span class="citation-popover-meta">Published: December 15, 2005</span></span></span>
@@ -276,10 +276,10 @@ At the same time, sceptical interpretations emphasise the *balloon hypothesis* d
 Moreover, the Roosevelt photos sit within a broader cluster of Mainbrace sightings that range from well‑documented (RAF radar and pilot pursuit cases) to enigmatic and poorly sourced. While the Roosevelt images offer a rare visual record, they do not *on their own* resolve questions about the nature or origin of the objects seen during the exercise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/ncp/ncp-mainbrace.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">ncp mainbrace</span><span class="citation-popover-snippet">NICAPOperation Mainbrace Sightings 1952...</span></span></span>
 
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/i4FG3k3izyI" title="OPERATION &quot;MAINBRACE&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=i4FG3k3izyI" target="_blank" rel="noopener noreferrer">OPERATION &quot;MAINBRACE&quot;</a></p><p class="youtube-embed-meta">Channel: British Movietone &middot; Views: 4.8K &middot; Uploaded: July 2015 &middot; Length: 1 minute 33 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=i4FG3k3izyI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=i4FG3k3izyI">Open on YouTube</a></p></div></div></div>
+
+
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9vE2fNgwi8g" title="1952 REPORT OF THE U.S. NAVY GLOBAL OPERATIONS / KOREAN WAR 28474" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9vE2fNgwi8g" target="_blank" rel="noopener noreferrer">1952 REPORT OF THE U.S. NAVY GLOBAL OPERATIONS / KOREAN WAR 28474</a></p><p class="youtube-embed-meta">Channel: PeriscopeFilm &middot; Views: 5.8K &middot; Uploaded: November 2017 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9vE2fNgwi8g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9vE2fNgwi8g">Open on YouTube</a></p></div></div></div>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WlzXp4ELP4k" title="Inside Project Blue Book: Operation Mainbrace (Season 2) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WlzXp4ELP4k" target="_blank" rel="noopener noreferrer">Inside Project Blue Book: Operation Mainbrace (Season 2) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 95.5K &middot; Uploaded: March 2020 &middot; Length: 4 minutes 6 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WlzXp4ELP4k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WlzXp4ELP4k">Open on YouTube</a></p></div></div></div>
 
 ## Legacy Within Mainbrace Documentation
 
@@ -288,7 +288,7 @@ The USS Franklin D. Roosevelt photographs remain an intriguing facet of th
 Their role in the overall Mainbrace narrative is dual: they provide **tangible photographic evidence from a military environment**, but they also illustrate the **limits of declassified documentation** from this period. Neither a clear identification nor an enduring mystery has been settled by these photographs alone; instead, they sit at the intersection of naval observation, early Cold War intelligence procedures, and evolving UFO historiography. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/uk-ufos-mainbrace-nato" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">The UFO Sightings that Pushed the UK to Take &#x27;Flying</span><span class="citation-popover-snippet">Between 1947 and 1969, a small, top-secret Air Force team called Project Blue Book scientifically investigated some 12,000 UFO...</span></span></span>
 
 
-<img src="{{ "/assets/images/Operation_Mainbrace_06bcd8_uss_roosevelt_photos_393823-Illustration-3-light.svg" | relative_url }}" alt="USS Roosevelt Photos illustration 3" data-theme-src-dark="{{ "/assets/images/Operation_Mainbrace_06bcd8_uss_roosevelt_photos_393823-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Operation_Mainbrace_06bcd8_uss_roosevelt_photos_393823-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Operation_Mainbrace_06bcd8_uss_roosevelt_photos_393823-Illustration-3-dark.svg" | relative_url }}" alt="USS Roosevelt Photos illustration 3" data-theme-src-dark="{{ "/assets/images/Operation_Mainbrace_06bcd8_uss_roosevelt_photos_393823-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Operation_Mainbrace_06bcd8_uss_roosevelt_photos_393823-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell fr-section-shell-fallback">
@@ -332,246 +332,6 @@ Their role in the overall Mainbrace narrative is dual: they provide **tangible p
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
-
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-roosevelt-photos-do-uss-franklin-d-roosevelt-ufo-photos-reveal-a-balloon-or-something-else-o-ufo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-roosevelt-photos-do-uss-franklin-d-roosevelt-ufo-photos-reveal-a-balloon-or-something-else-o-ufo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-roosevelt-photos-do-uss-franklin-d-roosevelt-ufo-photos-reveal-a-balloon-or-something-else-o-ufo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-roosevelt-photos-do-uss-franklin-d-roosevelt-ufo-photos-reveal-a-balloon-or-something-else-o-ufo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-roosevelt-photos-do-uss-franklin-d-roosevelt-ufo-photos-reveal-a-balloon-or-something-else-o-ufo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Vintage Style Retro Trippy Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6e7f576e7ee51f364c6c.jpg' | relative_url }}" alt="Listing image for UFO Vintage Style Retro Trippy Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-roosevelt-photos-do-uss-franklin-d-roosevelt-ufo-photos-reveal-a-balloon-or-something-else-o-ufo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Vintage Style Retro Trippy Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-roosevelt-photos-do-uss-franklin-d-roosevelt-ufo-photos-reveal-a-balloon-or-something-else-o-ufo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-roosevelt-photos-do-uss-franklin-d-roosevelt-ufo-photos-reveal-a-balloon-or-something-else-o-ufo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-roosevelt-photos-do-uss-franklin-d-roosevelt-ufo-photos-reveal-a-balloon-or-something-else-o-ufo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-roosevelt-photos-do-uss-franklin-d-roosevelt-ufo-photos-reveal-a-balloon-or-something-else-o-ufo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-roosevelt-photos-do-uss-franklin-d-roosevelt-ufo-photos-reveal-a-balloon-or-something-else-o-ufo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-roosevelt-photos-do-uss-franklin-d-roosevelt-ufo-photos-reveal-a-balloon-or-something-else-o-ufo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-roosevelt-photos-do-uss-franklin-d-roosevelt-ufo-photos-reveal-a-balloon-or-something-else-o-ufo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-roosevelt-photos-do-uss-franklin-d-roosevelt-ufo-photos-reveal-a-balloon-or-something-else-o-ufo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-roosevelt-photos-do-uss-franklin-d-roosevelt-ufo-photos-reveal-a-balloon-or-something-else-o-ufo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-roosevelt-photos-do-uss-franklin-d-roosevelt-ufo-photos-reveal-a-balloon-or-something-else-o-ufo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-roosevelt-photos-do-uss-franklin-d-roosevelt-ufo-photos-reveal-a-balloon-or-something-else-o-ufo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
-(function () {
-  if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
-  function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
-  }
-  function localeMatches() {
-    var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
-    try {
-      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
-      else if (navigator.language) languages = [navigator.language];
-    } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
-      var normalized = normalize(languages[i]);
-      if (!normalized) continue;
-      if (localeMarketMap[normalized]) {
-        exactMarket = localeMarketMap[normalized];
-        break;
-      }
-      var languageOnly = normalized.split('-')[0];
-      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
-    }
-    return { exact: exactMarket, language: languageMarket };
-  }
-  function inferFromLocale() {
-    var matches = localeMatches();
-    return matches.exact || matches.language || '';
-  }
-  function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
-      var rule = timezoneRules[i] || {};
-      try {
-        if (new RegExp(rule.pattern).test(tz)) return rule.market;
-      } catch (err) {}
-    }
-    return '';
-  }
-  function inferMarket(available, options) {
-    available = Array.isArray(available) ? available : [];
-    options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
-    try {
-      var saved = window.localStorage && localStorage.getItem(storageKey);
-      if (saved && available.indexOf(saved) >= 0) return saved;
-    } catch (err) {}
-    var timezoneMarket = inferFromTimezone();
-    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
-    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
-    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
-  }
-  window.PhoenixAffiliateLocation = {
-    normalize: normalize,
-    inferMarket: inferMarket,
-    inferFromLocale: inferFromLocale,
-    inferFromTimezone: inferFromTimezone
-  };
-})();
-</script>
-  <script type="text/javascript">
-(function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
-  if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
-  }
-  function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
-  }
-  function closeMenu(section) {
-    var menu = section.querySelector('[data-ebay-market-menu]');
-    var trigger = section.querySelector('[data-ebay-market-trigger]');
-    var picker = section.querySelector('.fr-ebay-market-picker');
-    if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
-    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
-  }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
-    var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
-    }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
-    });
-    var trigger = section.querySelector('[data-ebay-market-trigger]');
-    var menu = section.querySelector('[data-ebay-market-menu]');
-    if (trigger && menu) {
-      trigger.addEventListener('click', function (event) {
-        event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
-        menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
-        var picker = trigger.closest('.fr-ebay-market-picker');
-        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
-      });
-      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.addEventListener('click', function (event) {
-          event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
-        });
-      });
-      document.addEventListener('click', function () { closeMenu(section); });
-    }
-    selectMarket(inferMarket(available), false);
-  });
-})();
-</script>
 </section>
 
 ## Endnotes

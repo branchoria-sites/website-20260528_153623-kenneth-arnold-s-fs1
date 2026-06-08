@@ -239,7 +239,7 @@ next_link:
   permalink: /witness-trail-d77493/
   short_title: Witness Trail
   heading_title: Can the Witness Record Carry the Case?
-date: '2026-05-29 12:06:12 '
+date: '2026-06-08 23:29:57 '
 header:
   og_image: /assets/images/Rex_Heflin_photograp_32bdf2_investigation_verdic_3f7479-Illustration-1-social.jpg
   preview_image: /assets/images/Rex_Heflin_photograp_32bdf2_investigation_verdic_3f7479-Illustration-1.webp
@@ -251,7 +251,7 @@ image: /assets/images/Rex_Heflin_photograp_32bdf2_investigation_verdic_3f7479-Il
 The Rex Heflin photographs became one of the most disputed UFO cases of the 1960s not because anyone proved the images genuine or fake beyond doubt, but because three influential investigations reached markedly different conclusions. Project Blue Book, the US Air Force’s official UFO study programme, treated the photographs as a probable hoax. The University of Colorado study that later fed into the Condon Report refused to endorse that conclusion and instead called the evidence inconclusive. Meanwhile, the civilian UFO organisation NICAP defended Heflin’s credibility and argued that official scepticism relied on weak assumptions rather than hard proof. Together, those conflicting verdicts helped turn the Heflin case into a long-running argument over how UFO evidence should be judged in the first place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-title">Reanalysis of the 1965 Heflin UFO Photos Society for Scientific</span><span class="citation-popover-snippet">Tustin Area Historical SocietyReanalysis of the 1965 Heflin UFO Photosby ANN DRUFFEL · 2000 · Cited by 3 — Blue Book was, at the time, th...</span></span></span> 2nicap.org
 
 
-<img src="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_investigation_verdic_3f7479-Illustration-1-light.svg" | relative_url }}" alt="Verdicts illustration 1" data-theme-src-dark="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_investigation_verdic_3f7479-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_investigation_verdic_3f7479-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_investigation_verdic_3f7479-Illustration-1-dark.svg" | relative_url }}" alt="Verdicts illustration 1" data-theme-src-dark="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_investigation_verdic_3f7479-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_investigation_verdic_3f7479-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The disagreement also exposed deeper tensions inside 1960s UFO research. Blue Book was under pressure to reduce public concern. The Condon Committee was trying to determine whether UFO study had scientific value at all. NICAP, led by advocates who believed many sightings represented genuine unexplained phenomena, saw cases like Heflin as evidence that the Air Force dismissed difficult reports too quickly. The result was not a neat verdict, but a layered dispute that still shapes how the Heflin photographs are discussed today. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_resa_021269.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[2kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-snippet">UFOs and the Condon Report - A Scientist&#x27;s Critiqueby JE McDonald · Cited by 2 — The Report analyses only about ninety cases, a tiny frac...</span></span></span>
 
 
@@ -275,7 +275,7 @@ The Air Force position also reflected the broader institutional culture of Blue 
 One important detail is that Blue Book never produced a universally accepted reconstruction proving fraud. Sceptical explanations existed, but no demonstration conclusively replicated every claimed feature of the sequence, especially the timing between photographs and the smoke-ring image. That gap became central to later criticism of the Air Force verdict. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-title">Reanalysis of the 1965 Heflin UFO Photos Society for Scientific</span><span class="citation-popover-snippet">Tustin Area Historical SocietyReanalysis of the 1965 Heflin UFO Photosby ANN DRUFFEL · 2000 · Cited by 3 — Blue Book was, at the time, th...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/z25NfZ0Ea9c" title="Ep. 2 | Flying Saucer UFOs | Roswell, Kenneth Arnold, McMinnville, Rex Heflin | The Basement Office" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=z25NfZ0Ea9c" target="_blank" rel="noopener noreferrer">Ep. 2 | Flying Saucer UFOs | Roswell, Kenneth Arnold, McMinnville, Rex Heflin | The Basement Office</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 487.9K &middot; Uploaded: June 2019 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=z25NfZ0Ea9c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=z25NfZ0Ea9c">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2ATBDJCV5es" title="Secrecy surrounds UFO studies since 1940s -- Part 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2ATBDJCV5es" target="_blank" rel="noopener noreferrer">Secrecy surrounds UFO studies since 1940s -- Part 3</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 80.0K &middot; Uploaded: November 2019 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2ATBDJCV5es" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2ATBDJCV5es">Open on YouTube</a></p></div></div></div>
 
 ## Why the Condon Report Stopped Short of Debunking
 
@@ -299,7 +299,7 @@ That distinction mattered enormously in later UFO debates. Supporters of the cas
 The broader reputation of the Condon Report complicated the issue further. UFO proponents often accused the Colorado study of institutional bias against UFO claims in general, citing critics such as physicist James E. McDonald. Yet even within that sceptical atmosphere, the Heflin case survived as one of the reports the committee did not fully explain away. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_resa_021269.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-snippet">UFOs and the Condon Report - A Scientist&#x27;s Critiqueby JE McDonald · Cited by 2 — The Report analyses only about ninety cases, a tiny frac...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/ufo-government7.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">ufo government7</span><span class="citation-popover-snippet">Condon Report on UFOs1 Feb 2008 — The Condon Report on UFOs - Edward Condon wrote the Condon Report to review Air Force research on UFOs...</span></span></span>
 
 
-<img src="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_investigation_verdic_3f7479-Illustration-2-light.svg" | relative_url }}" alt="Verdicts illustration 2" data-theme-src-dark="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_investigation_verdic_3f7479-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_investigation_verdic_3f7479-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_investigation_verdic_3f7479-Illustration-2-dark.svg" | relative_url }}" alt="Verdicts illustration 2" data-theme-src-dark="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_investigation_verdic_3f7479-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_investigation_verdic_3f7479-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## NICAP and the Pro-UFO Defence
 
 NICAP — the National Investigations Committee on Aerial Phenomena — became the strongest institutional defender of the Heflin photographs. Rather than treating the case as a likely fraud, NICAP argued that Heflin’s behaviour, employment background, and consistency under questioning supported his credibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/650803santaana_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
@@ -317,7 +317,7 @@ Later pro-UFO analysts tried to rebut the technical objections raised by Blue Bo
 Still, NICAP’s defence succeeded in preserving the Heflin case as one of the classic “unresolved” UFO photo incidents rather than allowing it to disappear into the category of obviously exposed hoaxes. The organisation repeatedly contrasted Heflin with known fraud cases by stressing the absence of confession, motive, or definitive reconstruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/casework/2012indexes/2012oct/650803santaana_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/650803santaana_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2ATBDJCV5es" title="Secrecy surrounds UFO studies since 1940s -- Part 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2ATBDJCV5es" target="_blank" rel="noopener noreferrer">Secrecy surrounds UFO studies since 1940s -- Part 3</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 80.0K &middot; Uploaded: November 2019 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2ATBDJCV5es" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2ATBDJCV5es">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/z25NfZ0Ea9c" title="Ep. 2 | Flying Saucer UFOs | Roswell, Kenneth Arnold, McMinnville, Rex Heflin | The Basement Office" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=z25NfZ0Ea9c" target="_blank" rel="noopener noreferrer">Ep. 2 | Flying Saucer UFOs | Roswell, Kenneth Arnold, McMinnville, Rex Heflin | The Basement Office</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 487.9K &middot; Uploaded: June 2019 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=z25NfZ0Ea9c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=z25NfZ0Ea9c">Open on YouTube</a></p></div></div></div>
 
 ## Why the Three Verdicts Still Matter
 
@@ -337,7 +337,7 @@ The three verdicts can be summarised this way:
 That spread of conclusions explains why the Heflin photographs never settled into a single accepted narrative. They were neither conclusively authenticated nor decisively exposed. Instead, they became a durable case study in how the same body of evidence can produce radically different interpretations depending on investigative assumptions and institutional priorities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/237243956_Reanalysis_of_the_1965_Heflin_UFO_Photos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">237243956 Reanalysis of the 1965 Heflin UFO Photos</span><span class="citation-popover-snippet">Reanalysis of the 1965 Heflin UFO PhotosThe Heflin photos, taken in Santa Ana, California, in 1965 were regarded as most probably genuine...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society 3nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-title">Reanalysis of the 1965 Heflin UFO Photos Society for Scientific</span><span class="citation-popover-snippet">Tustin Area Historical SocietyReanalysis of the 1965 Heflin UFO Photosby ANN DRUFFEL · 2000 · Cited by 3 — Blue Book was, at the time, th...</span></span></span>
 
 
-<img src="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_investigation_verdic_3f7479-Illustration-3-light.svg" | relative_url }}" alt="Verdicts illustration 3" data-theme-src-dark="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_investigation_verdic_3f7479-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_investigation_verdic_3f7479-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_investigation_verdic_3f7479-Illustration-3-dark.svg" | relative_url }}" alt="Verdicts illustration 3" data-theme-src-dark="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_investigation_verdic_3f7479-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_investigation_verdic_3f7479-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell fr-section-shell-fallback">
@@ -381,337 +381,6 @@ That spread of conclusions explains why the Heflin photographs never settled int
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verdicts-was-heflin-debunked-or-left-unsolved-rex-heflin-photographs-1965-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verdicts-was-heflin-debunked-or-left-unsolved-rex-heflin-photographs-1965-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verdicts-was-heflin-debunked-or-left-unsolved-rex-heflin-photographs-1965-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verdicts-was-heflin-debunked-or-left-unsolved-rex-heflin-photographs-1965-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verdicts-was-heflin-debunked-or-left-unsolved-rex-heflin-photographs-1965-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Vintage Style Retro Trippy Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6e7f576e7ee51f364c6c.jpg' | relative_url }}" alt="Listing image for UFO Vintage Style Retro Trippy Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verdicts-was-heflin-debunked-or-left-unsolved-rex-heflin-photographs-1965-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Vintage Style Retro Trippy Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verdicts-was-heflin-debunked-or-left-unsolved-rex-heflin-photographs-1965-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verdicts-was-heflin-debunked-or-left-unsolved-rex-heflin-photographs-1965-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verdicts-was-heflin-debunked-or-left-unsolved-rex-heflin-photographs-1965-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verdicts-was-heflin-debunked-or-left-unsolved-rex-heflin-photographs-1965-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verdicts-was-heflin-debunked-or-left-unsolved-rex-heflin-photographs-1965-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verdicts-was-heflin-debunked-or-left-unsolved-rex-heflin-photographs-1965-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verdicts-was-heflin-debunked-or-left-unsolved-rex-heflin-photographs-1965-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verdicts-was-heflin-debunked-or-left-unsolved-rex-heflin-photographs-1965-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verdicts-was-heflin-debunked-or-left-unsolved-rex-heflin-photographs-1965-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verdicts-was-heflin-debunked-or-left-unsolved-rex-heflin-photographs-1965-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verdicts-was-heflin-debunked-or-left-unsolved-rex-heflin-photographs-1965-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verdicts-was-heflin-debunked-or-left-unsolved-rex-heflin-photographs-1965-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verdicts-was-heflin-debunked-or-left-unsolved-rex-heflin-photographs-1965-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verdicts-was-heflin-debunked-or-left-unsolved-rex-heflin-photographs-1965-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verdicts-was-heflin-debunked-or-left-unsolved-rex-heflin-photographs-1965-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verdicts-was-heflin-debunked-or-left-unsolved-rex-heflin-photographs-1965-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verdicts-was-heflin-debunked-or-left-unsolved-rex-heflin-photographs-1965-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verdicts-was-heflin-debunked-or-left-unsolved-rex-heflin-photographs-1965-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verdicts-was-heflin-debunked-or-left-unsolved-rex-heflin-photographs-1965-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verdicts-was-heflin-debunked-or-left-unsolved-rex-heflin-photographs-1965-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verdicts-was-heflin-debunked-or-left-unsolved-rex-heflin-photographs-1965-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verdicts-was-heflin-debunked-or-left-unsolved-rex-heflin-photographs-1965-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verdicts-was-heflin-debunked-or-left-unsolved-rex-heflin-photographs-1965-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verdicts-was-heflin-debunked-or-left-unsolved-rex-heflin-photographs-1965-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verdicts-was-heflin-debunked-or-left-unsolved-rex-heflin-photographs-1965-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verdicts-was-heflin-debunked-or-left-unsolved-rex-heflin-photographs-1965-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verdicts-was-heflin-debunked-or-left-unsolved-rex-heflin-photographs-1965-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verdicts-was-heflin-debunked-or-left-unsolved-rex-heflin-photographs-1965-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
-(function () {
-  if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
-  function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
-  }
-  function localeMatches() {
-    var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
-    try {
-      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
-      else if (navigator.language) languages = [navigator.language];
-    } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
-      var normalized = normalize(languages[i]);
-      if (!normalized) continue;
-      if (localeMarketMap[normalized]) {
-        exactMarket = localeMarketMap[normalized];
-        break;
-      }
-      var languageOnly = normalized.split('-')[0];
-      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
-    }
-    return { exact: exactMarket, language: languageMarket };
-  }
-  function inferFromLocale() {
-    var matches = localeMatches();
-    return matches.exact || matches.language || '';
-  }
-  function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
-      var rule = timezoneRules[i] || {};
-      try {
-        if (new RegExp(rule.pattern).test(tz)) return rule.market;
-      } catch (err) {}
-    }
-    return '';
-  }
-  function inferMarket(available, options) {
-    available = Array.isArray(available) ? available : [];
-    options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
-    try {
-      var saved = window.localStorage && localStorage.getItem(storageKey);
-      if (saved && available.indexOf(saved) >= 0) return saved;
-    } catch (err) {}
-    var timezoneMarket = inferFromTimezone();
-    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
-    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
-    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
-  }
-  window.PhoenixAffiliateLocation = {
-    normalize: normalize,
-    inferMarket: inferMarket,
-    inferFromLocale: inferFromLocale,
-    inferFromTimezone: inferFromTimezone
-  };
-})();
-</script>
-  <script type="text/javascript">
-(function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
-  if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
-  }
-  function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
-  }
-  function closeMenu(section) {
-    var menu = section.querySelector('[data-ebay-market-menu]');
-    var trigger = section.querySelector('[data-ebay-market-trigger]');
-    var picker = section.querySelector('.fr-ebay-market-picker');
-    if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
-    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
-  }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
-    var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
-    }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
-    });
-    var trigger = section.querySelector('[data-ebay-market-trigger]');
-    var menu = section.querySelector('[data-ebay-market-menu]');
-    if (trigger && menu) {
-      trigger.addEventListener('click', function (event) {
-        event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
-        menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
-        var picker = trigger.closest('.fr-ebay-market-picker');
-        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
-      });
-      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.addEventListener('click', function (event) {
-          event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
-        });
-      });
-      document.addEventListener('click', function () { closeMenu(section); });
-    }
-    selectMarket(inferMarket(available), false);
-  });
-})();
-</script>
 </section>
 
 ## Endnotes

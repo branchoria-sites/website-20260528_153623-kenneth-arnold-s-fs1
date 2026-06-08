@@ -233,7 +233,7 @@ next_link:
   permalink: /the-pancakes/
   short_title: The Pancakes
   heading_title: What Did The UFO Pancakes Really Show?
-date: '2026-05-29 12:00:56 '
+date: '2026-06-08 23:26:40 '
 header:
   og_image: /assets/images/Eagle_River_encounte_9b53c8_blue_book_finding_ae6c6a-Illustration-1-social.jpg
   preview_image: /assets/images/Eagle_River_encounte_9b53c8_blue_book_finding_ae6c6a-Illustration-1.webp
@@ -245,7 +245,7 @@ image: /assets/images/Eagle_River_encounte_9b53c8_blue_book_finding_ae6c6a-Illus
 Project Blue Book called the Eagle River encounter a hallucination because the case had a striking story but weak independent support: Joe Simonton was the sole direct witness, the alleged craft left no verified physical trace, and the “space pancakes” tested as ordinary terrestrial food. That finding was understandable within the Air Force’s evidence standards, but it did not settle every reader’s question. It explained why Blue Book rejected an extraordinary landing claim; it did not fully reconstruct how a quiet Wisconsin plumber came to possess the cakes, tell the story, and maintain it under ridicule. The result is a case where the official conclusion is plausible, but still feels incomplete to many UFO historians and readers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — Project BLUE BOOK has been declassified and the records...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.the-sun.com/news/7625220/us-air-forces-secret-probe-alien-pancakes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-sun.com">[2U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-sun.com</span><span class="citation-popover-title">us air forces secret probe alien pancakes</span><span class="citation-popover-snippet">us air forces secret probe alien pancakes</span></span></span>
 
 
-<img src="{{ "/assets/images/Eagle_River_encounte_9b53c8_blue_book_finding_ae6c6a-Illustration-1-light.svg" | relative_url }}" alt="Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/Eagle_River_encounte_9b53c8_blue_book_finding_ae6c6a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eagle_River_encounte_9b53c8_blue_book_finding_ae6c6a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Eagle_River_encounte_9b53c8_blue_book_finding_ae6c6a-Illustration-1-dark.svg" | relative_url }}" alt="Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/Eagle_River_encounte_9b53c8_blue_book_finding_ae6c6a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eagle_River_encounte_9b53c8_blue_book_finding_ae6c6a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How the case reached Air Force investigators
 
 The Eagle River incident entered official UFO history because it was more than a sighting report. On 18 April 1961, Simonton said a saucer-like object appeared near his rural home outside Eagle River, Wisconsin; short occupants asked for water; and one gave him several small cakes or pancakes before the object departed. Later catalogues of Project Blue Book-linked cases preserved the core elements: a whining sound, an object roughly 30 feet across and 12 feet high, a water exchange, three ordinary pancakes, and take-off. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns</span><span class="citation-popover-snippet">11 a.m. Joe Simonton heard a whining sound and saw an object, 30 ft in diameter, 12 ft high, with exhaust pipes around...Read more...</span></span></span>
@@ -253,9 +253,6 @@ The Eagle River incident entered official UFO history because it was more than a
 That made the report awkward for Blue Book. The Air Force programme was created to collect and classify UFO reports, not to validate contact stories involving humanoid visitors. Its official position, reiterated after the programme closed, was that no investigated UFO report had shown evidence of a national-security threat, technology beyond modern science, or extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.the-sun.com/news/7625220/us-air-forces-secret-probe-alien-pancakes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-sun.com">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-sun.com</span><span class="citation-popover-title">us air forces secret probe alien pancakes</span><span class="citation-popover-snippet">us air forces secret probe alien pancakes</span></span></span>
 
 The Eagle River case sat in the most uncomfortable part of that system. It was too strange to treat as a routine aircraft or astronomical misidentification, but too thinly corroborated to leave as a strong unknown. A “hallucination” classification allowed Blue Book to reject the literal claim without necessarily calling Simonton a deliberate hoaxer.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MaKZPy9NPYk" title="We Found Missing Evidence from the Weirdest UFO Encounter | Episode 21 | Haunted Objects Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MaKZPy9NPYk" target="_blank" rel="noopener noreferrer">We Found Missing Evidence from the Weirdest UFO Encounter | Episode 21 | Haunted Objects Podcast</a></p><p class="youtube-embed-meta">Channel: Planet Weird &middot; Views: 92.7K &middot; Uploaded: July 2024 &middot; Length: 1 hour 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MaKZPy9NPYk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MaKZPy9NPYk">Open on YouTube</a></p></div></div></div>
 
 ## Hynek’s Wisconsin inquiry and sample trail
 
@@ -266,7 +263,7 @@ The reported laboratory result was mundane. Accounts drawing on the Blue Book re
 That finding did most of the official work. If the one physical artefact was ordinary food, Blue Book had no material reason to treat the case as evidence of exotic technology. But the test also had limits: it addressed the composition of the cakes, not the full chain of events at Simonton’s home.
 
 
-<img src="{{ "/assets/images/Eagle_River_encounte_9b53c8_blue_book_finding_ae6c6a-Illustration-2-light.svg" | relative_url }}" alt="Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/Eagle_River_encounte_9b53c8_blue_book_finding_ae6c6a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eagle_River_encounte_9b53c8_blue_book_finding_ae6c6a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Eagle_River_encounte_9b53c8_blue_book_finding_ae6c6a-Illustration-2-dark.svg" | relative_url }}" alt="Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/Eagle_River_encounte_9b53c8_blue_book_finding_ae6c6a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eagle_River_encounte_9b53c8_blue_book_finding_ae6c6a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why “hallucination” was a bureaucratic fit
 
 The hallucination finding made sense inside Blue Book’s classification culture. Contact claims were especially difficult for the Air Force because they were vivid, public-facing and often embarrassing, yet rarely supported by multiple witnesses or technical data. Earlier Blue Book-era practice distinguished stronger “unknown” cases from reports weakened by poor observation, unreliable circumstances or insufficient corroboration. Edward Ruppelt, an early Blue Book director, wrote that contact-style claims were not treated as good UFO reports by Blue Book standards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -286,7 +283,8 @@ For Eagle River, the weak points were clear:
 The “hallucination” label therefore worked as an administrative closure. It said, in effect, that the report was not a hoax proven by evidence, but an experience Blue Book did not regard as externally real.
 
 
-<img src="{{ "/assets/images/Eagle_River_encounte_9b53c8_blue_book_finding_ae6c6a-Illustration-3-light.svg" | relative_url }}" alt="Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/Eagle_River_encounte_9b53c8_blue_book_finding_ae6c6a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eagle_River_encounte_9b53c8_blue_book_finding_ae6c6a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PXw0AN9S_5A" title="WEIRD WISCONSIN: Eagle River &amp; Joe Simonton&#x27;s BIZARRE UFO Pancakes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PXw0AN9S_5A" target="_blank" rel="noopener noreferrer">WEIRD WISCONSIN: Eagle River &amp; Joe Simonton&#x27;s BIZARRE UFO Pancakes</a></p><p class="youtube-embed-meta">Channel: SightseeingSally &middot; Views: 7.2K &middot; Uploaded: September 2025 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PXw0AN9S_5A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PXw0AN9S_5A">Open on YouTube</a></p></div></div></div>
+
 ## What the finding answered and missed
 
 The official explanation answered the strongest evidential objection to the extraordinary claim: the only testable object was not extraordinary. It also fitted the lack of corroboration. A government investigator did not need to prove a detailed alternative story in order to decline an extraterrestrial interpretation.
@@ -296,8 +294,7 @@ What it missed was the human and procedural residue of the case. Simonton was of
 That is why the case remains debated. Sceptics can fairly say Blue Book had no good reason to classify Eagle River as an unexplained craft encounter. UFO writers can fairly reply that “hallucination” was a conclusion more than a demonstrated reconstruction. The most balanced reading is that Blue Book’s finding fits the evidence threshold of an official investigation, while leaving open the narrower question of what ordinary sequence of perception, memory, food samples and local publicity produced the story.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PXw0AN9S_5A" title="WEIRD WISCONSIN: Eagle River &amp; Joe Simonton&#x27;s BIZARRE UFO Pancakes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PXw0AN9S_5A" target="_blank" rel="noopener noreferrer">WEIRD WISCONSIN: Eagle River &amp; Joe Simonton&#x27;s BIZARRE UFO Pancakes</a></p><p class="youtube-embed-meta">Channel: SightseeingSally &middot; Views: 7.2K &middot; Uploaded: September 2025 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PXw0AN9S_5A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PXw0AN9S_5A">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Eagle_River_encounte_9b53c8_blue_book_finding_ae6c6a-Illustration-3-dark.svg" | relative_url }}" alt="Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/Eagle_River_encounte_9b53c8_blue_book_finding_ae6c6a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eagle_River_encounte_9b53c8_blue_book_finding_ae6c6a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell fr-section-shell-fallback">
@@ -343,7 +340,7 @@ That is why the case remains debated. Sceptics can fairly say Blue Book had no g
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -352,78 +349,94 @@ That is why the case remains debated. Sceptics can fairly say Blue Book had no g
       </div>
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Testors Area 51 UFO Vintage Model Kit Sci Fi Bob Lazar w/ 7&quot; Alien SEALED"><img src="{{ '/assets/images/marketplace-covers/fa8140d02961cafca1bb.jpg' | relative_url }}" alt="Listing image for Testors Area 51 UFO Vintage Model Kit Sci Fi Bob Lazar w/ 7&quot; Alien SEALED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Testors Area 51 UFO Vintage Model Kit Sci Fi Bob Lazar w/ 7&quot; Alien SEALED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model kit">Search <span data-ebay-domain-label>eBay.com</span>: ufo model kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-model-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lindberg AREA 51 UFO 1/48 Model Kit 91006 Top Secret new in sealed box"><img src="{{ '/assets/images/marketplace-covers/1177d1c9b10369578976.jpg' | relative_url }}" alt="Listing image for Lindberg AREA 51 UFO 1/48 Model Kit 91006 Top Secret new in sealed box" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Lindberg AREA 51 UFO 1/48 Model Kit 91006 Top Secret new in sealed box</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model kit">Search <span data-ebay-domain-label>eBay.com</span>: ufo model kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-model-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pegasus Area 51 UFO AE-341.15B Flying Saucer Plastic Model Kit 1/72 9100 New"><img src="{{ '/assets/images/marketplace-covers/ee994547e5a1ab29ef78.jpg' | relative_url }}" alt="Listing image for Pegasus Area 51 UFO AE-341.15B Flying Saucer Plastic Model Kit 1/72 9100 New" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Pegasus Area 51 UFO AE-341.15B Flying Saucer Plastic Model Kit 1/72 9100 New</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model kit">Search <span data-ebay-domain-label>eBay.com</span>: ufo model kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-model-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Stellar Raiders mechanical DIY model kit"><img src="{{ '/assets/images/marketplace-covers/bf221c979e316a01375a.jpg' | relative_url }}" alt="Listing image for UFO Stellar Raiders mechanical DIY model kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Stellar Raiders mechanical DIY model kit</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model kit">Search <span data-ebay-domain-label>eBay.com</span>: ufo model kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-model-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -499,17 +512,31 @@ That is why the case remains debated. Sceptics can fairly say Blue Book had no g
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -522,42 +549,73 @@ That is why the case remains debated. Sceptics can fairly say Blue Book had no g
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -572,12 +630,17 @@ That is why the case remains debated. Sceptics can fairly say Blue Book had no g
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>

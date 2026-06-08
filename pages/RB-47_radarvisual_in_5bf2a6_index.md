@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /rb-47-radarvisual-in-5bf2a6-index/
 description: Focused pages that expand on RB 47 radarvisual incident 1957.
-date: '2026-05-29'
+date: '2026-06-08'
 layout: default
 parent_basename: RB-47_radarvisual_in_5bf2a6
 parent_title: RB 47 radarvisual incident 1957

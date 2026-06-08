@@ -233,7 +233,7 @@ next_link:
   permalink: /verdicts/
   short_title: Verdicts
   heading_title: Was Heflin Debunked or Left Unsolved?
-date: '2026-05-29 12:06:13 '
+date: '2026-06-08 23:30:03 '
 header:
   og_image: /assets/images/Rex_Heflin_photograp_32bdf2_photo_sequence_smoke_aa9673-Illustration-1-social.jpg
   preview_image: /assets/images/Rex_Heflin_photograp_32bdf2_photo_sequence_smoke_aa9673-Illustration-1.webp
@@ -245,7 +245,7 @@ image: /assets/images/Rex_Heflin_photograp_32bdf2_photo_sequence_smoke_aa9673-Il
 The Rex Heflin case became famous because it did not stop at three photographs of a disc-shaped object. The fourth image — a dark, ring-like cloud or vapour formation allegedly left behind after the object accelerated away — transformed the incident into a much larger argument about sequence, timing, location and physical aftermath. More than sixty years later, the “smoke-ring photo” still sits at the centre of debates over whether the Heflin photographs show an unexplained aerial object, a carefully staged hoax, or a mixture of genuine photography and later embellishment. Tustin Area Historical Society [YUMPU Unlike many classic UFO photographs](#endnote-1 "Snippet: YUMPUReanalysis of the 1965 Heflin UFO Photos - Society for...6 Apr 2014 — The presence <strong>of</strong> smoke in <strong>Heflin</str..."), the Heflin series was taken as a rapid sequence with a Polaroid camera while Heflin was performing road department work near Myford Road in Orange County, California, on 3 August 1965. The first three images appear to show the same domed object at slightly different positions and angles. The fourth image contains no visible craft at all, only a floating ring-shaped formation against a cloudy sky. That final frame is exactly what keeps the case alive: if the smoke ring genuinely followed the object, the event becomes harder to dismiss as a simple suspended model or tossed object. If the fourth image was unrelated or staged separately, the evidential value of the whole sequence changes sharply. Tustin Area Historical Society [2Three-Dollar Kit](#endnote-12 "Snippet: Three-Dollar KitAll Aboard with Rex HeflinEdit: I've written about the fourth photo (the smoke ring) here. References. ​Druffel, A., Wood...")
 
 
-<img src="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_photo_sequence_smoke_aa9673-Illustration-1-light.svg" | relative_url }}" alt="Photo Sequence illustration 1" data-theme-src-dark="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_photo_sequence_smoke_aa9673-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_photo_sequence_smoke_aa9673-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_photo_sequence_smoke_aa9673-Illustration-1-dark.svg" | relative_url }}" alt="Photo Sequence illustration 1" data-theme-src-dark="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_photo_sequence_smoke_aa9673-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_photo_sequence_smoke_aa9673-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the first three disc photos show
 
 The first three Polaroids form the core visual record of the Heflin sighting. According to Heflin’s account, he was driving slowly along Myford Road when he noticed a metallic-looking object moving from left to right. He grabbed his Polaroid camera and took successive photographs through the windscreen and side window of his county vehicle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-title">Reanalysis of the 1965 Heflin UFO Photos Society for Scientific</span><span class="citation-popover-snippet">Tustin Area Historical SocietyReanalysis of the 1965 Heflin UFO Photosby ANN DRUFFEL · 2000 · Cited by 3 — Heflin drove north on Myford R...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/doc/164052774/Ufo-Photographs-Portraits-of-a-Myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">ScribdRex Heflin UFO Photo Analysis | PDF | Young AdultShortly after noon, August 3, 1965, Rex Heflin, a highway traffic inspector, took...</span><span class="citation-popover-meta">Published: August 3, 1965</span></span></span>
@@ -302,7 +302,7 @@ The Colorado UFO study associated with the Condon era treated this as a crucial 
 In practical terms, the smoke-ring photograph became a paradox: it was potentially the strongest piece of evidence in the sequence, but also the hardest to verify.
 
 
-<img src="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_photo_sequence_smoke_aa9673-Illustration-2-light.svg" | relative_url }}" alt="Photo Sequence illustration 2" data-theme-src-dark="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_photo_sequence_smoke_aa9673-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_photo_sequence_smoke_aa9673-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_photo_sequence_smoke_aa9673-Illustration-2-dark.svg" | relative_url }}" alt="Photo Sequence illustration 2" data-theme-src-dark="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_photo_sequence_smoke_aa9673-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_photo_sequence_smoke_aa9673-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The weather and cloud dispute
 
 One of the longest-running arguments about the fourth photograph concerns the sky itself. Critics noticed that the cloud conditions in the smoke-ring image appeared different from those in the first three photographs. This raised the possibility that the fourth frame was taken separately or at a different time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/fe1q6u/in_1965_rex_heflin_saw_this_and_took_four_photos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">in 1965 rex heflin saw this and took four photos</span><span class="citation-popover-snippet">5, 2020 — The photos were deemed a &quot;hoax&quot; by Blue Book, but the USAF investigator deemed them legitimate. A later 2000 analys...</span><span class="citation-popover-meta">Published: March 5, 2020</span></span></span>
@@ -329,7 +329,7 @@ This is why the smoke-ring photograph still attracts attention from both believe
 The controversy also shows the limits of photographic evidence before digital metadata existed. Modern investigators would expect timestamps, GPS data, continuous video or multiple witnesses with smartphones. Heflin’s Polaroids instead rely heavily on witness credibility, chain of custody and later interpretation.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/z25NfZ0Ea9c" title="Ep. 2 | Flying Saucer UFOs | Roswell, Kenneth Arnold, McMinnville, Rex Heflin | The Basement Office" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=z25NfZ0Ea9c" target="_blank" rel="noopener noreferrer">Ep. 2 | Flying Saucer UFOs | Roswell, Kenneth Arnold, McMinnville, Rex Heflin | The Basement Office</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 487.9K &middot; Uploaded: June 2019 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=z25NfZ0Ea9c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=z25NfZ0Ea9c">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uaSY2Zc0goQ" title="Ep. 1 | USS Nimitz, Tic Tac UFO, AATIP, FAA, the Navy and Pentagon | The Basement Office |" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uaSY2Zc0goQ" target="_blank" rel="noopener noreferrer">Ep. 1 | USS Nimitz, Tic Tac UFO, AATIP, FAA, the Navy and Pentagon | The Basement Office |</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 1.8M &middot; Uploaded: May 2019 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uaSY2Zc0goQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uaSY2Zc0goQ">Open on YouTube</a></p></div></div></div>
 
 ## What the photos cannot prove alone
 
@@ -359,7 +359,7 @@ What keeps the sequence historically important is therefore not definitive proof
 </div>
 
 
-<img src="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_photo_sequence_smoke_aa9673-Illustration-3-light.svg" | relative_url }}" alt="Photo Sequence illustration 3" data-theme-src-dark="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_photo_sequence_smoke_aa9673-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_photo_sequence_smoke_aa9673-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_photo_sequence_smoke_aa9673-Illustration-3-dark.svg" | relative_url }}" alt="Photo Sequence illustration 3" data-theme-src-dark="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_photo_sequence_smoke_aa9673-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_photo_sequence_smoke_aa9673-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the smoke-ring photo still matters
 
 The fourth Heflin photograph remains influential because it forces investigators to confront a difficult evidential threshold. Three unusual photographs might be dismissed as a clever visual trick. A fourth image suggesting an environmental effect raises the standard for any complete explanation.
@@ -369,7 +369,7 @@ Yet the smoke-ring frame also demonstrates how quickly ambiguity enters photogra
 That unresolved tension explains why the Heflin sequence still appears in discussions of classic UFO evidence. The case is neither a clean debunking nor a universally accepted unknown. The smoke-ring photograph, more than any other element, is the reason it remains suspended between those two positions.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uaSY2Zc0goQ" title="Ep. 1 | USS Nimitz, Tic Tac UFO, AATIP, FAA, the Navy and Pentagon | The Basement Office |" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uaSY2Zc0goQ" target="_blank" rel="noopener noreferrer">Ep. 1 | USS Nimitz, Tic Tac UFO, AATIP, FAA, the Navy and Pentagon | The Basement Office |</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 1.8M &middot; Uploaded: May 2019 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uaSY2Zc0goQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uaSY2Zc0goQ">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IaYfsxbiKsM" title="Ep. 6 | PART 2: Rendlesham Forest UFO encounter | Binary Code &amp; Jim Penniston | The Basement Office" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IaYfsxbiKsM" target="_blank" rel="noopener noreferrer">Ep. 6 | PART 2: Rendlesham Forest UFO encounter | Binary Code &amp; Jim Penniston | The Basement Office</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 2.2M &middot; Uploaded: July 2019 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IaYfsxbiKsM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IaYfsxbiKsM">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -414,246 +414,6 @@ That unresolved tension explains why the Heflin sequence still appears in discus
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
-
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT"><img src="{{ '/assets/images/marketplace-covers/c4fa2fd111d52b7bddcf.jpg' | relative_url }}" alt="Listing image for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display"><img src="{{ '/assets/images/marketplace-covers/27c78e3de724e607809d.jpg' | relative_url }}" alt="Listing image for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop"><img src="{{ '/assets/images/marketplace-covers/183496016ebe9190ac36.jpg' | relative_url }}" alt="Listing image for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥"><img src="{{ '/assets/images/marketplace-covers/3d1cb53e423d90dd8ac5.jpg' | relative_url }}" alt="Listing image for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
-(function () {
-  if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
-  function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
-  }
-  function localeMatches() {
-    var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
-    try {
-      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
-      else if (navigator.language) languages = [navigator.language];
-    } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
-      var normalized = normalize(languages[i]);
-      if (!normalized) continue;
-      if (localeMarketMap[normalized]) {
-        exactMarket = localeMarketMap[normalized];
-        break;
-      }
-      var languageOnly = normalized.split('-')[0];
-      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
-    }
-    return { exact: exactMarket, language: languageMarket };
-  }
-  function inferFromLocale() {
-    var matches = localeMatches();
-    return matches.exact || matches.language || '';
-  }
-  function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
-      var rule = timezoneRules[i] || {};
-      try {
-        if (new RegExp(rule.pattern).test(tz)) return rule.market;
-      } catch (err) {}
-    }
-    return '';
-  }
-  function inferMarket(available, options) {
-    available = Array.isArray(available) ? available : [];
-    options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
-    try {
-      var saved = window.localStorage && localStorage.getItem(storageKey);
-      if (saved && available.indexOf(saved) >= 0) return saved;
-    } catch (err) {}
-    var timezoneMarket = inferFromTimezone();
-    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
-    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
-    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
-  }
-  window.PhoenixAffiliateLocation = {
-    normalize: normalize,
-    inferMarket: inferMarket,
-    inferFromLocale: inferFromLocale,
-    inferFromTimezone: inferFromTimezone
-  };
-})();
-</script>
-  <script type="text/javascript">
-(function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
-  if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
-  }
-  function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
-  }
-  function closeMenu(section) {
-    var menu = section.querySelector('[data-ebay-market-menu]');
-    var trigger = section.querySelector('[data-ebay-market-trigger]');
-    var picker = section.querySelector('.fr-ebay-market-picker');
-    if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
-    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
-  }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
-    var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
-    }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
-    });
-    var trigger = section.querySelector('[data-ebay-market-trigger]');
-    var menu = section.querySelector('[data-ebay-market-menu]');
-    if (trigger && menu) {
-      trigger.addEventListener('click', function (event) {
-        event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
-        menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
-        var picker = trigger.closest('.fr-ebay-market-picker');
-        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
-      });
-      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.addEventListener('click', function (event) {
-          event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
-        });
-      });
-      document.addEventListener('click', function () { closeMenu(section); });
-    }
-    selectMarket(inferMarket(available), false);
-  });
-})();
-</script>
 </section>
 
 ## Endnotes

@@ -239,7 +239,7 @@ next_link:
   permalink: /evidence/
   short_title: Evidence
   heading_title: What Witnesses and Trees Reveal
-date: '2026-05-29 11:52:40 '
+date: '2026-06-08 23:20:41 '
 header:
   og_image: /assets/images/Tunguska_event_1908_efda6f_lake_cheko_exotic_cl_30a10b-Illustration-1-social.jpg
   preview_image: /assets/images/Tunguska_event_1908_efda6f_lake_cheko_exotic_cl_30a10b-Illustration-1.webp
@@ -251,7 +251,7 @@ image: /assets/images/Tunguska_event_1908_efda6f_lake_cheko_exotic_cl_30a10b-Ill
 The Tunguska explosion of 1908 is famous partly because it left behind enormous destruction without a clear impact crater. That absence created a long-running scientific puzzle and, eventually, a breeding ground for more speculative ideas. One of the most debated claims emerged nearly a century later around Lake Cheko, a small Siberian lake roughly 8 kilometres from the main blast zone. Some researchers argued that the lake might actually be a hidden impact crater created by a surviving fragment of the Tunguska object. Critics responded that the lake is older than the event and naturally formed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Tunguska_event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Tunguska event</span><span class="citation-popover-snippet">Tunguska event</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://tunguska.tsc.ru/files/4780/MainPart/cheko-2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tunguska.tsc.ru">[2tunguska.tsc.ru]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tunguska.tsc.ru</span><span class="citation-popover-title">cheko 2009</span><span class="citation-popover-snippet">Sediments from Lake Cheko (Siberia), a possible impact...by L Gasperini · 2009 · Cited by 43 — These data may indicate that the Cheko ba...</span></span></span>
 
 
-<img src="{{ "/assets/images/Tunguska_event_1908_efda6f_lake_cheko_exotic_cl_30a10b-Illustration-1-light.svg" | relative_url }}" alt="Claims illustration 1" data-theme-src-dark="{{ "/assets/images/Tunguska_event_1908_efda6f_lake_cheko_exotic_cl_30a10b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tunguska_event_1908_efda6f_lake_cheko_exotic_cl_30a10b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Tunguska_event_1908_efda6f_lake_cheko_exotic_cl_30a10b-Illustration-1-dark.svg" | relative_url }}" alt="Claims illustration 1" data-theme-src-dark="{{ "/assets/images/Tunguska_event_1908_efda6f_lake_cheko_exotic_cl_30a10b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tunguska_event_1908_efda6f_lake_cheko_exotic_cl_30a10b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The dispute matters because it touches the central mystery of Tunguska itself. If Lake Cheko really formed in 1908, then at least part of the incoming body survived the atmospheric explosion and struck the ground. If not, Tunguska remains primarily an [airburst]({{ 'airburst/' | relative_url }}) event with little surviving debris. The uncertainty has also helped fuel a wider culture of exotic explanations ranging from antimatter and miniature black holes to alien spacecraft and Nikola Tesla “death ray” stories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://origins.osu.edu/milestones/june-2018-1908-tunguska-event-and-threats-tomorrow" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origins.osu.edu">[Origins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origins.osu.edu</span><span class="citation-popover-snippet">OriginsThe 1908 Tunguska Event and the Threats of Tomorrow | OriginsFrom this point forward, endless explanations were offered about alie...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://teslauniverse.com/nikola-tesla/articles/death-ray-nikola-tesla" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teslauniverse.com">[Tesla Universe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teslauniverse.com</span><span class="citation-popover-snippet">The Death Ray of Nikola TeslaAlternative versions of the disaster see a renegade mini-black hole or an alien space ship crashing into the...</span></span></span>
 
 ## The Lake Cheko impact claim
@@ -323,7 +323,7 @@ Several conditions encouraged this:
 Those gaps created space for theories that ranged far beyond conventional asteroid science. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/davidbressan/2019/06/29/for-more-than-111-years-scientist-puzzled-over-the-tunguska-event/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">ForbesFor Almost 100 Years, Scientists Puzzled Over The...Jun 29, 2019 — Kulik suggested that an iron meteorite exploded in the atmosphe...</span></span></span>
 
 
-<img src="{{ "/assets/images/Tunguska_event_1908_efda6f_lake_cheko_exotic_cl_30a10b-Illustration-2-light.svg" | relative_url }}" alt="Claims illustration 2" data-theme-src-dark="{{ "/assets/images/Tunguska_event_1908_efda6f_lake_cheko_exotic_cl_30a10b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tunguska_event_1908_efda6f_lake_cheko_exotic_cl_30a10b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Tunguska_event_1908_efda6f_lake_cheko_exotic_cl_30a10b-Illustration-2-dark.svg" | relative_url }}" alt="Claims illustration 2" data-theme-src-dark="{{ "/assets/images/Tunguska_event_1908_efda6f_lake_cheko_exotic_cl_30a10b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tunguska_event_1908_efda6f_lake_cheko_exotic_cl_30a10b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### UFO crash stories
 
 The most famous fringe interpretation claims Tunguska involved an alien spacecraft. Versions differ wildly: some describe a crashed UFO, others a self-destructing craft that intentionally exploded to save Earth from impact. Soviet-era science fiction and later UFO literature helped popularise these narratives. Space <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticink.com/gps/2014/11/19/what-happened-in-the-skies-above-tunguska-in-1908/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticink.com">[Skeptic Ink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticink.com</span><span class="citation-popover-title">what happened in the skies above tunguska in 1908</span><span class="citation-popover-snippet">Tesla and an exploding alien spacecraft, an idea taken by a few journalists as a real hypothesis from Russian UFOlogist and author Alexan...</span></span></span>
@@ -361,7 +361,7 @@ The difficulty is that such events should have produced additional detectable ef
 No convincing evidence for those effects exists. Modern planetary science treats these hypotheses as speculative curiosities rather than serious competing explanations.
 
 
-<img src="{{ "/assets/images/Tunguska_event_1908_efda6f_lake_cheko_exotic_cl_30a10b-Illustration-3-light.svg" | relative_url }}" alt="Claims illustration 3" data-theme-src-dark="{{ "/assets/images/Tunguska_event_1908_efda6f_lake_cheko_exotic_cl_30a10b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tunguska_event_1908_efda6f_lake_cheko_exotic_cl_30a10b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Tunguska_event_1908_efda6f_lake_cheko_exotic_cl_30a10b-Illustration-3-dark.svg" | relative_url }}" alt="Claims illustration 3" data-theme-src-dark="{{ "/assets/images/Tunguska_event_1908_efda6f_lake_cheko_exotic_cl_30a10b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tunguska_event_1908_efda6f_lake_cheko_exotic_cl_30a10b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Tesla “death ray” claims
 
 A persistent legend claims inventor Nikola Tesla accidentally caused Tunguska through experiments in wireless energy transmission or a secret directed-energy weapon. The story became especially popular after the Cold War, when conspiracy literature linked Tunguska to Tesla’s experiments at Wardenclyffe Tower. <span class="citation-chip-wrap"><a class="citation-chip" href="https://origins.osu.edu/milestones/june-2018-1908-tunguska-event-and-threats-tomorrow" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origins.osu.edu">[Origins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origins.osu.edu</span><span class="citation-popover-snippet">OriginsThe 1908 Tunguska Event and the Threats of Tomorrow | OriginsFrom this point forward, endless explanations were offered about alie...</span></span></span>
@@ -388,7 +388,7 @@ At the same time, the theory remains disputed enough that it continues to functi
 The wider scientific consensus still favours a high-altitude airburst caused by an asteroid or cometary body exploding before ground impact. Even some researchers open to surviving fragments do not necessarily accept Lake Cheko itself as the crater. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Tunguska_event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Tunguska event</span><span class="citation-popover-snippet">Tunguska event</span></span></span> ScienceDirect That leaves Lake Cheko less as a solved discovery than as a case study in how scientific uncertainty evolves. Tunguska’s missing debris probl <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0019103523004244" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">•. Lake Cheko is not an impact crater because outside the most likely strewn field. Abstract. On June 30, 1908, at...Read more...</span><span class="citation-popover-meta">Published: June 30, 1908</span></span></span> em created a vacuum that invited both legitimate investigation and increasingly exotic storytelling. More than a century later, the debate continues because the event combined dramatic physical evidence with just enough ambiguity to resist a perfectly clean explanation.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/L2d9pgAhpq4" title="Russia’s Greatest Unsolved Explosion (Season 5) | The UnXplained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=L2d9pgAhpq4" target="_blank" rel="noopener noreferrer">Russia’s Greatest Unsolved Explosion (Season 5) | The UnXplained</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 20.7K &middot; Uploaded: January 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=L2d9pgAhpq4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=L2d9pgAhpq4">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IImrX2G-SlY" title="The Tunguska Mystery Explosion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IImrX2G-SlY" target="_blank" rel="noopener noreferrer">The Tunguska Mystery Explosion</a></p><p class="youtube-embed-meta">Channel: Origins OSU &middot; Views: 9.0K &middot; Uploaded: March 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IImrX2G-SlY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IImrX2G-SlY">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -435,7 +435,7 @@ The wider scientific consensus still favours a high-altitude airburst caused by 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -445,111 +445,36 @@ The wider scientific consensus still favours a high-altitude airburst caused by 
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=have+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-have-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HAVE A DAY 24x36 POSTER COLLEGE HUMOR ART COMEDY SMILEY FACES FUNNY GIFT COOL!!!"><img src="{{ '/assets/images/marketplace-covers/4e514e0c4229981397b3.jpg' | relative_url }}" alt="Listing image for HAVE A DAY 24x36 POSTER COLLEGE HUMOR ART COMEDY SMILEY FACES FUNNY GIFT COOL!!!" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=have+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-have-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">HAVE A DAY 24x36 POSTER COLLEGE HUMOR ART COMEDY SMILEY FACES FUNNY GIFT COOL!!!</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=have+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-have-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for have poster">Search <span data-ebay-domain-label>eBay.com</span>: have poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=have+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-have-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=have+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-have-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Have A Nice Dab Blacklight Poster 23 x 35"><img src="{{ '/assets/images/marketplace-covers/32ae9b99e9f8eb7f43cc.jpg' | relative_url }}" alt="Listing image for Have A Nice Dab Blacklight Poster 23 x 35" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=have+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-have-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Have A Nice Dab Blacklight Poster 23 x 35</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=have+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-have-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for have poster">Search <span data-ebay-domain-label>eBay.com</span>: have poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=have+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-have-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=have+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-have-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro I Have To Succeed Because I Like Expensive Shit Poster, Trendy Poster"><img src="{{ '/assets/images/marketplace-covers/acd88173e394dc9ed9b9.jpg' | relative_url }}" alt="Listing image for Retro I Have To Succeed Because I Like Expensive Shit Poster, Trendy Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=have+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-have-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Retro I Have To Succeed Because I Like Expensive Shit Poster, Trendy Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=have+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-have-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for have poster">Search <span data-ebay-domain-label>eBay.com</span>: have poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=have+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-have-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=have+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-have-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Good Luck Have Fun Dont Die Movie Poster February 2026"><img src="{{ '/assets/images/marketplace-covers/42cb9fc5601949da8090.jpg' | relative_url }}" alt="Listing image for Good Luck Have Fun Dont Die Movie Poster February 2026" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=have+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-have-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Good Luck Have Fun Dont Die Movie Poster February 2026</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=have+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-have-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for have poster">Search <span data-ebay-domain-label>eBay.com</span>: have poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=have+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-have-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=have+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-have-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=have+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-have-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE HAVE A WALL&#x27;S ICE CREAM ADVERTISING A4 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/6792ab0f7c904a04be66.jpg' | relative_url }}" alt="Listing image for VINTAGE HAVE A WALL&#x27;S ICE CREAM ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=have+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-have-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE HAVE A WALL&#x27;S ICE CREAM ADVERTISING A4 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=have+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-have-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for have poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: have poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=have+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-have-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -557,15 +482,47 @@ The wider scientific consensus still favours a high-altitude airburst caused by 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=have+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-have-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE HAVE A WALL&#x27;S ICE CREAM ADVERTISING A3 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/31af3716aa4b858e36dc.jpg' | relative_url }}" alt="Listing image for VINTAGE HAVE A WALL&#x27;S ICE CREAM ADVERTISING A3 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=have+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-have-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE HAVE A WALL&#x27;S ICE CREAM ADVERTISING A3 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=have+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-have-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for have poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: have poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=have+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-have-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -573,7 +530,7 @@ The wider scientific consensus still favours a high-altitude airburst caused by 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=have+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-have-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -650,17 +607,31 @@ The wider scientific consensus still favours a high-altitude airburst caused by 
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -673,42 +644,73 @@ The wider scientific consensus still favours a high-altitude airburst caused by 
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -723,12 +725,17 @@ The wider scientific consensus still favours a high-altitude airburst caused by 
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>

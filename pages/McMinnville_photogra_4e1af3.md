@@ -114,27 +114,27 @@ sibling_basenames:
 - Washington_National_ee59a4
 - WellingtonKaikoura_i_c1d17f
 tags:
-- mcminnville-photographs-1950
+- mc-minnville-photographs-1950
 keywords:
-- mcminnville-photographs-1950
-affiliate_category: mcminnville-photographs-1950
+- mc-minnville-photographs-1950
+affiliate_category: mc-minnville-photographs-1950
 show_ads: true
 description: The McMinnville photographs are two black-and-white images taken in Oregon on 11 May 1950 by farmer Paul Trent after his wife, Evelyn Trent, reported seeing...
 hero_summary: The McMinnville photographs are two black-and-white images taken in Oregon on 11 May 1950 by farmer Paul Trent after his wife, Evelyn Trent, reported seeing a metallic, disc-shaped object near their farm.
 layout: default
-permalink: /mcminnville-photographs-1950/
-nav_short_title: Were the McMinnville UFO Photos Real?
-title: Were the McMinnville UFO Photos Real?
-title_full: Were the McMinnville UFO Photos Real?
-display_title_short: Were the McMinnville UFO Photos Real?
-display_title: Were the McMinnville UFO Photos Real?
-heading_title: Were the McMinnville UFO Photos Real?
-page_heading_title: Were the McMinnville UFO Photos Real?
+permalink: /mc-minnville-photographs-1950/
+nav_short_title: Were the Mc Minnville UFO Photos Real?
+title: Were the Mc Minnville UFO Photos Real?
+title_full: Were the Mc Minnville UFO Photos Real?
+display_title_short: Were the Mc Minnville UFO Photos Real?
+display_title: Were the Mc Minnville UFO Photos Real?
+heading_title: Were the Mc Minnville UFO Photos Real?
+page_heading_title: Were the Mc Minnville UFO Photos Real?
 source_count: 87
 infographic_count: 3
-page_website_name: McMinnville Photos
+page_website_name: Mc Minnville Photos
 page_banner_line: A grounded look at the Oregon UFO photos, witnesses, and model-hoax debate.
-site_website_name: McMinnville Photos
+site_website_name: Mc Minnville Photos
 site_banner_line: A grounded look at the Oregon UFO photos, witnesses, and model-hoax debate.
 site_image_description: A rural Oregon farmhouse yard with overhead utility wires, a small dark disc-shaped object in the cloudy sky, and a box camera on a...
 output_language: English
@@ -345,7 +345,7 @@ sibling_links:
   short_title: Higdon Contact
 - basename: CashLandrum_incident_7ad7d9
   title: Cash Landrum
-  permalink: /cashlandrum-incident-1980/
+  permalink: /cash-landrum-incident-1980/
   short_title: Cash Landrum
 - basename: Cedric_Allingham_enc_2c7f6b
   title: Allingham
@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: CiscoGrove1964
+  title: Cisco Grove1964
   permalink: /cisco-grove-incident-1964/
-  short_title: CiscoGrove1964
+  short_title: Cisco Grove1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -432,9 +432,9 @@ sibling_links:
   permalink: /fred-m-johnson-sighting-1947/
   short_title: Johnson Sighting
 - basename: Gary_Wilcox_encounte_6de9ff
-  title: WilcoxUFO
+  title: Wilcox UFO
   permalink: /gary-wilcox-encounter-1964/
-  short_title: WilcoxUFO
+  short_title: Wilcox UFO
 - basename: Gemini_4_sighting_19_9c351d
   title: Gemini 4 Sighting
   permalink: /gemini-4-sighting-1965/
@@ -528,21 +528,21 @@ sibling_links:
   permalink: /linda-cortile-abduction-1989/
   short_title: Cortile Case
 - basename: Livingston_incident_b2c293
-  title: LivingstonUFO
+  title: Livingston UFO
   permalink: /livingston-incident-1979/
-  short_title: LivingstonUFO
+  short_title: Livingston UFO
 - basename: Loch_Raven_Dam_incid_b0e5b6
-  title: LochRavenUFO
+  title: Loch Raven UFO
   permalink: /loch-raven-dam-incident-1958/
-  short_title: LochRavenUFO
+  short_title: Loch Raven UFO
 - basename: Lubbock_Lights_sight_4eabd8
   title: Lubbock Lights
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: MagentaCrash1933
+  title: Magenta Crash1933
   permalink: /magenta-italy-crash-1933/
-  short_title: MagentaCrash1933
+  short_title: Magenta Crash1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -568,9 +568,9 @@ sibling_links:
   permalink: /oloron-angel-hair-incident-1952/
   short_title: Oloron Angel Hair
 - basename: Operation_Mainbrace_06bcd8
-  title: MainbraceSightings
+  title: Mainbrace Sightings
   permalink: /operation-mainbrace-sightings-1952/
-  short_title: MainbraceSightings
+  short_title: Mainbrace Sightings
 - basename: Orfeo_Angelucci_enco_bef29a
   title: Angelucci
   permalink: /orfeo-angelucci-encounter-1955/
@@ -620,17 +620,17 @@ sibling_links:
   permalink: /socorro-sighting-by-lonnie-zamora-1964/
   short_title: Socorro UFO
 - basename: SpaurNeff_Ravenna_si_4977ac
-  title: RavennaUFO
-  permalink: /spaurneff-ravenna-sighting-1966/
-  short_title: RavennaUFO
+  title: Ravenna UFO
+  permalink: /spaur-neff-ravenna-sighting-1966/
+  short_title: Ravenna UFO
 - basename: Stanford_Kentucky_ab_a91f06
   title: Stanford Abduction
   permalink: /stanford-kentucky-abduction-1976/
   short_title: Stanford Abduction
 - basename: Stephen_Darbishire_p_f80223
-  title: DarbishireUFO
+  title: Darbishire UFO
   permalink: /stephen-darbishire-photograph-1954/
-  short_title: DarbishireUFO
+  short_title: Darbishire UFO
 - basename: Steven_Michalak_enco_1bbf94
   title: Falcon Lake
   permalink: /steven-michalak-encounter-1967/
@@ -644,9 +644,9 @@ sibling_links:
   permalink: /thomas-f-mantell-incident-1948/
   short_title: Mantell
 - basename: Topcliffe_incident_1_80cbf4
-  title: TopcliffeUFO
+  title: Topcliffe UFO
   permalink: /topcliffe-incident-1952/
-  short_title: TopcliffeUFO
+  short_title: Topcliffe UFO
 - basename: Trans-en-Provence_en_439c97
   title: Trans en Provence
   permalink: /trans-en-provence-encounter-1981/
@@ -668,9 +668,9 @@ sibling_links:
   permalink: /truman-bethurum-contact-1954/
   short_title: Bethurum
 - basename: Tully_saucer_nest_in_b9d0b0
-  title: TullyUFO
+  title: Tully UFO
   permalink: /tully-saucer-nest-incident-1966/
-  short_title: TullyUFO
+  short_title: Tully UFO
 - basename: Tunguska_event_1908_efda6f
   title: Tunguska
   permalink: /tunguska-event-1908/
@@ -680,9 +680,9 @@ sibling_links:
   permalink: /ubatuba-incident-1957/
   short_title: Ubatuba
 - basename: USS_Nimitz_Tic_Tac_v_83266a
-  title: NimitzUAP
+  title: Nimitz UAP
   permalink: /uss-nimitz-tic-tac-video-2004/
-  short_title: NimitzUAP
+  short_title: Nimitz UAP
 - basename: USS_Russell_video_20_3188a1
   title: USS Russell
   permalink: /uss-russell-video-2019/
@@ -704,9 +704,9 @@ sibling_links:
   permalink: /valentich-disappearance-1978/
   short_title: Valentich
 - basename: Voronezh_Russia_land_e13f34
-  title: VoronezhLanding
+  title: Voronezh Landing
   permalink: /voronezh-russia-landing-1989/
-  short_title: VoronezhLanding
+  short_title: Voronezh Landing
 - basename: Walesville_Incident_cbceb2
   title: Walesville
   permalink: /walesville-incident-1954/
@@ -717,25 +717,25 @@ sibling_links:
   short_title: Washington Saucers
 - basename: WellingtonKaikoura_i_c1d17f
   title: Kaikoura Lights
-  permalink: /wellingtonkaikoura-incident-1978/
+  permalink: /wellington-kaikoura-incident-1978/
   short_title: Kaikoura Lights
 - basename: Ummo_photographs_196_ed7563
-  title: UmmoPhotos
+  title: Ummo Photos
   permalink: /were-the-1967-ummo-photographs-real-or-a/
-  short_title: UmmoPhotos
+  short_title: Ummo Photos
 child_links:
 - basename: McMinnville_photogra_4e1af3_condon_photo_analysi_4b5bfe
-  title: Condon Report | McMinnville photographs 1950
+  title: Condon Report | Mc Minnville photographs 1950
   permalink: /condon-report-2a4d06/
   short_title: Condon Report
   heading_title: Why the Official Study Did Not Settle It
 - basename: McMinnville_photogra_4e1af3_model_wire_debunking_fa29b6
-  title: Hoax Theory | McMinnville photographs 1950
+  title: Hoax Theory | Mc Minnville photographs 1950
   permalink: /hoax-theory/
   short_title: Hoax Theory
   heading_title: Could It Have Been a Hanging Model?
 - basename: McMinnville_photogra_4e1af3_trent_witness_timeli_0d9d5c
-  title: Witness Story | McMinnville photographs 1950
+  title: Witness Story | Mc Minnville photographs 1950
   permalink: /witness-story-6d88b4/
   short_title: Witness Story
   heading_title: What Did the Trents Say Happened?
@@ -749,7 +749,7 @@ next_link:
   title: Middle East Orb
   permalink: /middle-east-uap-video-2022/
   short_title: Middle East Orb
-date: '2026-05-29 12:07:44 '
+date: '2026-06-08 23:30:52 '
 header:
   og_image: /assets/images/McMinnville_photogra_4e1af3-overview-social.jpg
   preview_image: /assets/images/McMinnville_photogra_4e1af3-overview.webp
@@ -761,7 +761,7 @@ image: /assets/images/McMinnville_photogra_4e1af3-overview-social.jpg
 The incident is normally called the McMinnville UFO case, but the sighting was reported from the Trent farm roughly ten miles south-west of McMinnville, in rural Oregon. In the [Condon Report]({{ 'condon-report-2a4d06/' | relative_url }})’s case file, investigator William K. Hartmann recorded the location, date, weather, and broad witness account: the sighting occurred on 11 May 1950, in rolling farm country, under dull overcast conditions, around 7.30 to 7.45 p.m. Pacific time. Evelyn Trent was said to have been near the back yard after feeding animals when she saw the object; Paul Trent then obtained the camera and took two photographs before the object disappeared. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case46.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Photographic Case Studies: Cases 46 - 59...</span></span></span>
 
 
-<img src="{{ "/assets/images/McMinnville_photogra_4e1af3-overview.webp" | relative_url }}" alt="Overview image for McMinnville photographs 1950" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/McMinnville_photogra_4e1af3-overview.webp" | relative_url }}" alt="Overview image for Mc Minnville photographs 1950" loading="eager" decoding="sync" fetchpriority="high">
 The witness narrative is simple but not perfectly uniform. Hartmann noted that some accounts had Evelyn calling Paul from inside the house, while one account said both Trents had already been in the back yard and saw the object at the same time. That discrepancy has become part of the later debate: supporters tend to see it as the ordinary messiness of human recollection and newspaper retelling, while sceptics treat it as one of several warning signs in a case built almost entirely on witness honesty and two images. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case46.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Photographic Case Studies: Cases 46 - 59...</span></span></span>
 
 The physical sequence also had an unusual feature for a sensational UFO claim: the film was not immediately developed. According to later sceptical summaries and the Condon case history, the exposed roll stayed in the camera until other family photographs were taken, rather than being rushed to a newspaper or authority. This delay can be read in two opposing ways. It may suggest the Trents were not publicity seekers; it also means there was no immediate independent observation of the film at the moment of the claimed event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2015/01/the-trent-ufo-photosbest-of-all-timefinally-busted/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -775,7 +775,7 @@ From there, the images travelled quickly. Reports were carried beyond Oregon, an
 That early publicity shaped the case in two lasting ways. First, the photos became famous before modern standards of image authentication existed. Secondly, the public story quickly fused witness character, small-town newspaper confidence, and photographic ambiguity into one package. The debate was never just about two frames of film; it was about whether apparently ordinary witnesses could have staged a convincing UFO image at a time when “flying saucers” were becoming a national fascination.
 
 
-<img src="{{ "/assets/images/McMinnville_photogra_4e1af3-Illustration-1-light.svg" | relative_url }}" alt="McMinnville photographs 1950 illustration 1" data-theme-src-dark="{{ "/assets/images/McMinnville_photogra_4e1af3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/McMinnville_photogra_4e1af3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/McMinnville_photogra_4e1af3-Illustration-1-dark.svg" | relative_url }}" alt="Mc Minnville photographs 1950 illustration 1" data-theme-src-dark="{{ "/assets/images/McMinnville_photogra_4e1af3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/McMinnville_photogra_4e1af3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the official Condon study found
 
 The strongest pro-authenticity statement in the case comes from William K. Hartmann’s analysis for the University of Colorado’s Condon Report, an Air Force-funded scientific review of UFO reports. Hartmann did not simply say “unexplained”; he argued that several kinds of evidence seemed mutually consistent: the photographs appeared to show the same object from two viewpoints, the object appeared physical rather than optically drawn or double-exposed, and aspects of its brightness could be interpreted as suggesting a shiny object at some distance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case46.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Photographic Case Studies: Cases 46 - 59...</span></span></span>
@@ -800,7 +800,7 @@ Bruce Maccabee, an optical physicist and UFO researcher, later revisited the cas
 Maccabee’s work is important because it did not merely repeat witness testimony. It tried to answer the most technical version of the question: could the image brightness be explained by a small object close to the camera? His answer was that the photometry favoured distance. Critics disagree with that conclusion, but it remains the strongest reason serious UFO writers continue to treat the McMinnville photographs as more than a simple newspaper curiosity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/500511mcminnville_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
 
-<img src="{{ "/assets/images/McMinnville_photogra_4e1af3-Illustration-2-light.svg" | relative_url }}" alt="McMinnville photographs 1950 illustration 2" data-theme-src-dark="{{ "/assets/images/McMinnville_photogra_4e1af3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/McMinnville_photogra_4e1af3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/McMinnville_photogra_4e1af3-Illustration-2-dark.svg" | relative_url }}" alt="Mc Minnville photographs 1950 illustration 2" data-theme-src-dark="{{ "/assets/images/McMinnville_photogra_4e1af3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/McMinnville_photogra_4e1af3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The case for a staged model
 
 The sceptical case also has three main components: the object’s suspicious alignment with overhead wires, inconsistencies in the narrative, and later image analyses that claim to detect a suspension thread. The wire issue was not invented decades later; Hartmann himself highlighted it in the Condon Report. He wrote that the model-suspended-from-wire possibility was strengthened because the object appeared under roughly the same part of the wires in both photographs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case46.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Photographic Case Studies: Cases 46 - 59...</span></span></span>
@@ -827,7 +827,7 @@ The witness-credibility question is also limited. The Trents’ lack of obvious 
 The strongest cautious judgement is that the McMinnville photographs remain historically important but are no longer among the cleanest unresolved photographic cases once the wire and thread analyses are included. The case is not worthless: it is a valuable example of how a UFO photograph can look compelling, survive casual debunking, and still remain vulnerable to a simple physical setup.
 
 
-<img src="{{ "/assets/images/McMinnville_photogra_4e1af3-Illustration-3-light.svg" | relative_url }}" alt="McMinnville photographs 1950 illustration 3" data-theme-src-dark="{{ "/assets/images/McMinnville_photogra_4e1af3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/McMinnville_photogra_4e1af3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/McMinnville_photogra_4e1af3-Illustration-3-dark.svg" | relative_url }}" alt="Mc Minnville photographs 1950 illustration 3" data-theme-src-dark="{{ "/assets/images/McMinnville_photogra_4e1af3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/McMinnville_photogra_4e1af3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the case still has a public life
 
 McMinnville’s modern UFO identity grew out of the Trent photographs. The city’s UFO Festival began as a way to honour the 1950 sighting, and local organisers still present the event as rooted in the famous Trent case. The Downtown McMinnville Association describes the festival as founded in 2000 at the historic McMenamins Hotel Oregon property and as an event that brings thousands of visitors to the city. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufofest.com/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofest.com">[ufofest.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofest.com</span><span class="citation-popover-snippet">Open source on ufofest.com.</span></span></span>
@@ -850,7 +850,7 @@ The McMinnville photographs are among the most historically significant UFO imag
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Were the McMinnville UFO Photos Real?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">No matched book cards were available for Were the Mc Minnville UFO Photos Real?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
     <div class="fr-search-grid">
 

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /battle-of-los-angele-969c9e-index/
 description: Focused pages that expand on Battle of Los Angeles 1942.
-date: '2026-05-29'
+date: '2026-06-08'
 layout: default
 parent_basename: Battle_of_Los_Angele_969c9e
 parent_title: Battle of Los Angeles 1942

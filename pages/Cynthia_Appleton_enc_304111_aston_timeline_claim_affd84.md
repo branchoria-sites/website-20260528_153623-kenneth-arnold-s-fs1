@@ -239,7 +239,7 @@ next_link:
   permalink: /venus-baby/
   short_title: Venus Baby
   heading_title: Why Did the Venus Baby Claim Matter?
-date: '2026-05-29 12:19:09 '
+date: '2026-06-08 23:37:20 '
 header:
   og_image: /assets/images/Cynthia_Appleton_enc_304111_aston_timeline_claim_affd84-Illustration-1-social.jpg
   preview_image: /assets/images/Cynthia_Appleton_enc_304111_aston_timeline_claim_affd84-Illustration-1.webp
@@ -251,7 +251,7 @@ image: /assets/images/Cynthia_Appleton_enc_304111_aston_timeline_claim_affd84-Il
 Between late 1957 and 1960, the **Aston encounters** attributed to [Cynthia Appleton]({{ 'cynthia-appleton-encounter-1957/' | relative_url }}) evolved from a single claimed sighting into a series of progressively more elaborate assertions. What began in UFO‑centred literature as an isolated “materialisation” in a Birmingham sitting room later expanded into repeated visitations, increasingly extraordinary narratives about visitor behaviour, changes in how they arrived, and ultimately a widely reported **“space baby” prediction**. This page reconstructs the **chronology of Appleton’s claims** and highlights how the narrative changed over time — showing the shift from a simple encounter report to a complex contactee story that captured public imagination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://isaackoi.com/ufo-history/ufo/19571118-cynthia-appleton-encounters/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isaackoi.com">[Isaac Koi Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isaackoi.com</span><span class="citation-popover-title">19571118 cynthia appleton encounters</span><span class="citation-popover-snippet">Isaac Koi Archive1957.1118 Cynthia Appleton encounters | Isaac Koi Archive...</span></span></span>
 
 
-<img src="{{ "/assets/images/Cynthia_Appleton_enc_304111_aston_timeline_claim_affd84-Illustration-1-light.svg" | relative_url }}" alt="Timeline illustration 1" data-theme-src-dark="{{ "/assets/images/Cynthia_Appleton_enc_304111_aston_timeline_claim_affd84-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cynthia_Appleton_enc_304111_aston_timeline_claim_affd84-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Cynthia_Appleton_enc_304111_aston_timeline_claim_affd84-Illustration-1-dark.svg" | relative_url }}" alt="Timeline illustration 1" data-theme-src-dark="{{ "/assets/images/Cynthia_Appleton_enc_304111_aston_timeline_claim_affd84-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cynthia_Appleton_enc_304111_aston_timeline_claim_affd84-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## First reported manifestation: November 1957
 
 On **18 November 1957** — the date most UFO case compilations standardise — Mrs Cynthia Appleton, then a 27‑year‑old housewife in Aston, Birmingham, said she experienced a sudden and bizarre encounter in her home. According to case summaries circulated in UFO literature, she reported that as she tended to her children a **tall, blond‑haired man in a silvery suit appeared to materialise** near the fireplace after a strange whistling sound and unusual atmospheric sensations in the room. <span class="citation-chip-wrap"><a class="citation-chip" href="https://isaackoi.com/ufo-history/ufo/19571118-cynthia-appleton-encounters/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isaackoi.com">[Isaac Koi Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isaackoi.com</span><span class="citation-popover-title">19571118 cynthia appleton encounters</span><span class="citation-popover-snippet">Isaac Koi Archive1957.1118 Cynthia Appleton encounters | Isaac Koi Archive...</span></span></span>
@@ -272,7 +272,7 @@ This phase of the narrative also features accounts of visits where the beings ar
 Additional episodes — including claims of a February encounter involving a visitor with a burned hand, subsequent healing, and his departure in a “black limousine” — emerged in UFO literature and were incorporated into the chronology by authors such as Charles Bowen and Jenny Randles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.seniorennet.be/peter2011/archief.php?ID=1602781" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.seniorennet.be">[SeniorenNet Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.seniorennet.be</span><span class="citation-popover-snippet">SeniorenNet BlogsUFO&#x27;S of UAP&#x27;S, ASTRONOMIE, RUIMTEVAART, ARCHEOLOGIE, OUDHEIDKUNDE, SF-SNUFJES EN ANDERE ESOTERISCHE WETENSCHAPPEN - DE...</span></span></span>
 
 
-<img src="{{ "/assets/images/Cynthia_Appleton_enc_304111_aston_timeline_claim_affd84-Illustration-2-light.svg" | relative_url }}" alt="Timeline illustration 2" data-theme-src-dark="{{ "/assets/images/Cynthia_Appleton_enc_304111_aston_timeline_claim_affd84-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cynthia_Appleton_enc_304111_aston_timeline_claim_affd84-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Cynthia_Appleton_enc_304111_aston_timeline_claim_affd84-Illustration-2-dark.svg" | relative_url }}" alt="Timeline illustration 2" data-theme-src-dark="{{ "/assets/images/Cynthia_Appleton_enc_304111_aston_timeline_claim_affd84-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cynthia_Appleton_enc_304111_aston_timeline_claim_affd84-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 1959 pregnancy story and aftermath
 
 As the timeline moves into **1958 and 1959**, the Appleton narrative acquires its most sensational element: a **prediction of pregnancy and birth details** attributed to her alleged visitors. In this phase, publications recount that Appleton was told she would conceive and give birth to a **boy of a specific weight and appearance**, with telepathically communicated details reportedly appearing in newspapers such as *The People* in May 1959. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rune.ws/spesBoker/Cynthia_Appleton_Contacts_1957on.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rune.ws">[Rune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rune.ws</span><span class="citation-popover-title">Australian UFO Researcher</span><span class="citation-popover-snippet">RuneAustralian UFO ResearcherNovember 1, 2025...</span><span class="citation-popover-meta">Published: November 1, 2025</span></span></span>
@@ -293,7 +293,7 @@ Across the roughly two‑year span covered by UFO compendia and later retellings
 These changes reflect not only the unfolding of Appleton’s own claims as reported in secondary sources but also how UFO literature often elaborates on initial reports with additional detail through interviews, speculative narrative, and retrospective interpretation.
 
 
-<img src="{{ "/assets/images/Cynthia_Appleton_enc_304111_aston_timeline_claim_affd84-Illustration-3-light.svg" | relative_url }}" alt="Timeline illustration 3" data-theme-src-dark="{{ "/assets/images/Cynthia_Appleton_enc_304111_aston_timeline_claim_affd84-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cynthia_Appleton_enc_304111_aston_timeline_claim_affd84-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Cynthia_Appleton_enc_304111_aston_timeline_claim_affd84-Illustration-3-dark.svg" | relative_url }}" alt="Timeline illustration 3" data-theme-src-dark="{{ "/assets/images/Cynthia_Appleton_enc_304111_aston_timeline_claim_affd84-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cynthia_Appleton_enc_304111_aston_timeline_claim_affd84-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Reader takeaway
 
 The **timeline of the Aston encounters** shows a clear progression from an isolated 1957 claim to a multi‑episode narrative with increasingly complex assertions. While UFO‑centred sources present this chronology as a coherent series of events, critical readers should note the **absence of contemporaneous official documentation**, the reliance on later UFO writing and press reports, and the **evolving character of the claims themselves**. These shifts — from materialisation to doorstep visits to public pregnancy prophecy — illustrate how contactee narratives can grow in scope and detail over time, especially when filtered through secondary retellings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://isaackoi.com/ufo-history/ufo/19571118-cynthia-appleton-encounters/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isaackoi.com">[Isaac Koi Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isaackoi.com</span><span class="citation-popover-title">19571118 cynthia appleton encounters</span><span class="citation-popover-snippet">Isaac Koi Archive1957.1118 Cynthia Appleton encounters | Isaac Koi Archive...</span></span></span>
@@ -346,7 +346,7 @@ The **timeline of the Aston encounters** shows a clear progression from an isola
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -355,78 +355,94 @@ The **timeline of the Aston encounters** shows a clear progression from an isola
       </div>
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=UFO+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-ufo-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lindberg AREA 51 UFO 1/48 Model Kit 91006 Top Secret new in sealed box"><img src="{{ '/assets/images/marketplace-covers/1177d1c9b10369578976.jpg' | relative_url }}" alt="Listing image for Lindberg AREA 51 UFO 1/48 Model Kit 91006 Top Secret new in sealed box" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=UFO+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-ufo-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Lindberg AREA 51 UFO 1/48 Model Kit 91006 Top Secret new in sealed box</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=UFO+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-ufo-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model kit">Search <span data-ebay-domain-label>eBay.com</span>: UFO model kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=UFO+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-ufo-model-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=UFO+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-ufo-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Stellar Raiders mechanical DIY model kit"><img src="{{ '/assets/images/marketplace-covers/bf221c979e316a01375a.jpg' | relative_url }}" alt="Listing image for UFO Stellar Raiders mechanical DIY model kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=UFO+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-ufo-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Stellar Raiders mechanical DIY model kit</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=UFO+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-ufo-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model kit">Search <span data-ebay-domain-label>eBay.com</span>: UFO model kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=UFO+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-ufo-model-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=UFO+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-ufo-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Testors Area 51 UFO Vintage Model Kit Sci Fi Bob Lazar w/ 7&quot; Alien SEALED"><img src="{{ '/assets/images/marketplace-covers/fa8140d02961cafca1bb.jpg' | relative_url }}" alt="Listing image for Testors Area 51 UFO Vintage Model Kit Sci Fi Bob Lazar w/ 7&quot; Alien SEALED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=UFO+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-ufo-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Testors Area 51 UFO Vintage Model Kit Sci Fi Bob Lazar w/ 7&quot; Alien SEALED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=UFO+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-ufo-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model kit">Search <span data-ebay-domain-label>eBay.com</span>: UFO model kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=UFO+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-ufo-model-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=UFO+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-ufo-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/72 Squadron Models Haunebu II German Flying Saucer UFO Model Kit"><img src="{{ '/assets/images/marketplace-covers/8395085ee11b22fddb74.jpg' | relative_url }}" alt="Listing image for 1/72 Squadron Models Haunebu II German Flying Saucer UFO Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=UFO+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-ufo-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">1/72 Squadron Models Haunebu II German Flying Saucer UFO Model Kit</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=UFO+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-ufo-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model kit">Search <span data-ebay-domain-label>eBay.com</span>: UFO model kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=UFO+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-ufo-model-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=UFO+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-ufo-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-2e3880-how-did-the-appleton-story-grow-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -502,17 +518,31 @@ The **timeline of the Aston encounters** shows a clear progression from an isola
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -525,42 +555,73 @@ The **timeline of the Aston encounters** shows a clear progression from an isola
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -575,12 +636,17 @@ The **timeline of the Aston encounters** shows a clear progression from an isola
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>

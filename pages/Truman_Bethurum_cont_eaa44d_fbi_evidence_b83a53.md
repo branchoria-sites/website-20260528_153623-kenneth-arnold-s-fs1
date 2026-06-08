@@ -239,7 +239,7 @@ next_link:
   permalink: /public-trail/
   short_title: Public Trail
   heading_title: How a Desert Story Became a Public Case
-date: '2026-05-29 11:58:13 '
+date: '2026-06-08 23:24:53 '
 header:
   og_image: /assets/images/Truman_Bethurum_cont_eaa44d_fbi_evidence_b83a53-Illustration-1-social.jpg
   preview_image: /assets/images/Truman_Bethurum_cont_eaa44d_fbi_evidence_b83a53-Illustration-1.webp
@@ -251,7 +251,7 @@ image: /assets/images/Truman_Bethurum_cont_eaa44d_fbi_evidence_b83a53-Illustrati
 The FBI did not validate Truman Bethurum’s claim that he travelled aboard a flying saucer from the hidden planet Clarion. What the surviving federal records actually show is narrower and more revealing: by 1954, Bethurum’s lectures, advertisements, and public claims had become prominent enough to attract official attention because of concerns about publicity, possible fraud, and public reaction. The gap between “the FBI had a file” and “the FBI confirmed the story” is central to understanding the evidence problem around the Bethurum case.
 
 
-<img src="{{ "/assets/images/Truman_Bethurum_cont_eaa44d_fbi_evidence_b83a53-Illustration-1-light.svg" | relative_url }}" alt="Evidence Check illustration 1" data-theme-src-dark="{{ "/assets/images/Truman_Bethurum_cont_eaa44d_fbi_evidence_b83a53-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Truman_Bethurum_cont_eaa44d_fbi_evidence_b83a53-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Truman_Bethurum_cont_eaa44d_fbi_evidence_b83a53-Illustration-1-dark.svg" | relative_url }}" alt="Evidence Check illustration 1" data-theme-src-dark="{{ "/assets/images/Truman_Bethurum_cont_eaa44d_fbi_evidence_b83a53-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Truman_Bethurum_cont_eaa44d_fbi_evidence_b83a53-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters because the Bethurum contact narrative has often been presented in later UFO culture as if government interest itself implied authenticity. The documentary trail does not support that conclusion. The FBI memoranda concern public events, promoters, correspondence, and allegations; they do not provide evidence that Bethurum met extraterrestrials, visited a spacecraft, or received verifiable information from Clarion. At the same time, the surviving records expose how weak the evidential foundation of the case remained even during its peak popularity in 1954. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/fbifiles/paranormal/trumanbethurum-fbi1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">trumanbethurum fbi1</span><span class="citation-popover-snippet">Bethurum, Truman25 Aug 2021 — Kehoe, the author of If Flying Saucers in Outer Spaoe&quot; was a fraud and that information is available in Was...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/search?SearchableText=flying+saucers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-snippet">FBI61 items matching your search termsThese files detail the FBI&#x27;s investigations into Newton&#x27;s fraudulent activities between 1951 and 19...</span></span></span>
 
 ## What the FBI file actually records
@@ -278,7 +278,7 @@ The same confusion appears elsewhere in 1950s saucer culture. FBI and Air Force 
 In Bethurum’s case, no federal record has surfaced showing that the FBI authenticated Clarion, verified a landing site, confirmed contact with Aura Rhanes, or endorsed Bethurum’s descriptions of a hidden planet orbiting beyond the Moon. The file instead documents a social phenomenon: a contactee story gaining enough public traction to draw scrutiny. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/fbifiles/paranormal/georgehuntwilliamson-fbi1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">georgehuntwilliamson fbi1</span><span class="citation-popover-snippet">Department of Justice Federal Bureau of Investigation...28 Aug 2020 — Although we retained a version of the records previously processed...</span></span></span>
 
 
-<img src="{{ "/assets/images/Truman_Bethurum_cont_eaa44d_fbi_evidence_b83a53-Illustration-2-light.svg" | relative_url }}" alt="Evidence Check illustration 2" data-theme-src-dark="{{ "/assets/images/Truman_Bethurum_cont_eaa44d_fbi_evidence_b83a53-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Truman_Bethurum_cont_eaa44d_fbi_evidence_b83a53-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Truman_Bethurum_cont_eaa44d_fbi_evidence_b83a53-Illustration-2-dark.svg" | relative_url }}" alt="Evidence Check illustration 2" data-theme-src-dark="{{ "/assets/images/Truman_Bethurum_cont_eaa44d_fbi_evidence_b83a53-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Truman_Bethurum_cont_eaa44d_fbi_evidence_b83a53-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Missing physical and witness corroboration
 
 The evidence problem becomes sharper when the case is examined beyond the mere existence of FBI paperwork. Bethurum’s claims depended overwhelmingly on his own testimony.
@@ -313,7 +313,7 @@ This mattered because Clarion was not a side detail. It was foundational to Beth
 Critics inside and outside UFO research therefore argued that the failure of the Clarion premise severely damaged the overall reliability of Bethurum’s testimony. Some sceptics went further, portraying the story as deliberate fabrication or commercially motivated myth-making. Others took a softer position, suggesting that Bethurum may have believed his own experiences while interpreting dreams, fantasies, or altered states through the lens of 1950s flying saucer culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://avalonlibrary.net/David_M_Jacobs/Jacobs%2C%20David%20M%20-%201973%20PhD%20-%20The%20Controversy%20Over%20Unidentified%20Flying%20Objects%20in%20America.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[Avalon Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-title">Avalon Library The Controversy Over Unidentified Flying Objects in America</span><span class="citation-popover-snippet">Avalon LibraryThe Controversy Over Unidentified Flying Objects in AmericaNovember 3, 2018 — In spite o f the exposes, Angelucci, Adamsk...</span><span class="citation-popover-meta">Published: November 3, 2018</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/49358610/The_Mammoth_Encyclopedia_of_Extraterrestrial_Encounters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[2academia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">The Mammoth Encyclopedia of Extraterrestrial Encounters</span><span class="citation-popover-snippet">Clarion. Bethurum offered no evidence to substantiate these claims, and most UFO researchers regard him as a charlatan. Truman Bethurum B...</span></span></span>
 
 
-<img src="{{ "/assets/images/Truman_Bethurum_cont_eaa44d_fbi_evidence_b83a53-Illustration-3-light.svg" | relative_url }}" alt="Evidence Check illustration 3" data-theme-src-dark="{{ "/assets/images/Truman_Bethurum_cont_eaa44d_fbi_evidence_b83a53-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Truman_Bethurum_cont_eaa44d_fbi_evidence_b83a53-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Truman_Bethurum_cont_eaa44d_fbi_evidence_b83a53-Illustration-3-dark.svg" | relative_url }}" alt="Evidence Check illustration 3" data-theme-src-dark="{{ "/assets/images/Truman_Bethurum_cont_eaa44d_fbi_evidence_b83a53-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Truman_Bethurum_cont_eaa44d_fbi_evidence_b83a53-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The larger lesson of the Bethurum file
 
 The Bethurum FBI records remain historically valuable, but mainly as evidence of how seriously flying saucer culture penetrated American public life during the early Cold War.
@@ -333,7 +333,7 @@ For the Bethurum case specifically, the core evidential picture remains thin:
 </div>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RXXKJ6SqjY4" title="1958: Interviews at UFO Truther Rally" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RXXKJ6SqjY4" target="_blank" rel="noopener noreferrer">1958: Interviews at UFO Truther Rally</a></p><p class="youtube-embed-meta">Channel: Frontline by ITN &middot; Views: 4.8K &middot; Uploaded: August 2022 &middot; Length: 1 minute 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RXXKJ6SqjY4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RXXKJ6SqjY4">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a-KHXfvR61o" title="California&#x27;s Gold S11E11 Giant Rock" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a-KHXfvR61o" target="_blank" rel="noopener noreferrer">California&#x27;s Gold S11E11 Giant Rock</a></p><p class="youtube-embed-meta">Channel: CA&#x27;s Gold Fan &middot; Views: 1.9K &middot; Uploaded: February 2024 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a-KHXfvR61o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a-KHXfvR61o">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -380,7 +380,7 @@ For the Bethurum case specifically, the core evidential picture remains thin:
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -390,111 +390,36 @@ For the Bethurum case specifically, the core evidential picture remains thin:
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=claim+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-claim-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Claim Riders Western Poster or Canvas Fine Wall Art Home Decor Print"><img src="{{ '/assets/images/marketplace-covers/3e38d055abdf5e75a853.jpg' | relative_url }}" alt="Listing image for Claim Riders Western Poster or Canvas Fine Wall Art Home Decor Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=claim+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-claim-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Claim Riders Western Poster or Canvas Fine Wall Art Home Decor Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=claim+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-claim-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for claim poster">Search <span data-ebay-domain-label>eBay.com</span>: claim poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=claim+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-claim-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=claim+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-claim-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Movie Art Poster - Silent Claim (Psychedelic Trippy Retro Cartoon Film Print)"><img src="{{ '/assets/images/marketplace-covers/69a9f8dd5daceac2fe4b.jpg' | relative_url }}" alt="Listing image for Movie Art Poster - Silent Claim (Psychedelic Trippy Retro Cartoon Film Print)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=claim+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-claim-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Movie Art Poster - Silent Claim (Psychedelic Trippy Retro Cartoon Film Print)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=claim+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-claim-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for claim poster">Search <span data-ebay-domain-label>eBay.com</span>: claim poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=claim+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-claim-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=claim+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-claim-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Claim - original movie poster 27x40 D/S 2001 Wes Bentley"><img src="{{ '/assets/images/marketplace-covers/52711a0344c17eefd061.jpg' | relative_url }}" alt="Listing image for The Claim - original movie poster 27x40 D/S 2001 Wes Bentley" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=claim+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-claim-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">The Claim - original movie poster 27x40 D/S 2001 Wes Bentley</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=claim+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-claim-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for claim poster">Search <span data-ebay-domain-label>eBay.com</span>: claim poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=claim+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-claim-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=claim+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-claim-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Film Poster,&quot; The Claim “UK Quad size, 2000, full size"><img src="{{ '/assets/images/marketplace-covers/b520aa38b6ba97008b7b.jpg' | relative_url }}" alt="Listing image for Original Film Poster,&quot; The Claim “UK Quad size, 2000, full size" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=claim+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-claim-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Original Film Poster,&quot; The Claim “UK Quad size, 2000, full size</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=claim+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-claim-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for claim poster">Search <span data-ebay-domain-label>eBay.com</span>: claim poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=claim+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-claim-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=claim+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-claim-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=claim+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-claim-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Claim this Pebble, typography Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/473c77e734d2e75edea2.jpg' | relative_url }}" alt="Listing image for I Claim this Pebble, typography Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=claim+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-claim-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Claim this Pebble, typography Fra Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=claim+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-claim-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for claim poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: claim poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=claim+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-claim-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -502,15 +427,15 @@ For the Bethurum case specifically, the core evidential picture remains thin:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=claim+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-claim-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for If you claim to love Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e0632b735a3fa62c8036.jpg' | relative_url }}" alt="Listing image for If you claim to love Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=claim+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-claim-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">If you claim to love Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=claim+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-claim-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for claim poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: claim poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=claim+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-claim-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -518,15 +443,15 @@ For the Bethurum case specifically, the core evidential picture remains thin:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=claim+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-claim-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for This Claim Has Been Disputed Funny Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/8fcb01a052f42b4c38fa.jpg' | relative_url }}" alt="Listing image for This Claim Has Been Disputed Funny Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=claim+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-claim-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">This Claim Has Been Disputed Funny Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=claim+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-claim-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for claim poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: claim poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=claim+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-claim-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -534,15 +459,15 @@ For the Bethurum case specifically, the core evidential picture remains thin:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=claim+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-claim-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE CLAIM UK QUAD (30&quot;x 40&quot;) ROLLED POSTER WES BENTLEY MILLA JOVOVICH 2000"><img src="{{ '/assets/images/marketplace-covers/ff3e295c56c1ab559111.jpg' | relative_url }}" alt="Listing image for THE CLAIM UK QUAD (30&quot;x 40&quot;) ROLLED POSTER WES BENTLEY MILLA JOVOVICH 2000" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=claim+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-claim-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">THE CLAIM UK QUAD (30&quot;x 40&quot;) ROLLED POSTER WES BENTLEY MILLA JOVOVICH 2000</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=claim+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-claim-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for claim poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: claim poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=claim+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-claim-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -550,7 +475,7 @@ For the Bethurum case specifically, the core evidential picture remains thin:
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=claim+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-claim-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-check-did-the-fbi-validate-bethurum-s-saucer-claim-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -627,17 +552,31 @@ For the Bethurum case specifically, the core evidential picture remains thin:
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -650,42 +589,73 @@ For the Bethurum case specifically, the core evidential picture remains thin:
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -700,12 +670,17 @@ For the Bethurum case specifically, the core evidential picture remains thin:
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>

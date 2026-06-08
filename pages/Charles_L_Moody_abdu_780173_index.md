@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /charles-l-moody-abdu-780173-index/
 description: Focused pages that expand on Charles L Moody abduction 1975.
-date: '2026-05-29'
+date: '2026-06-08'
 layout: default
 parent_basename: Charles_L_Moody_abdu_780173
 parent_title: Charles L Moody abduction 1975

@@ -239,7 +239,7 @@ next_link:
   permalink: /the-claim-db591c/
   short_title: The Claim
   heading_title: Why the Lossiemouth Saucer Story Caught On
-date: '2026-05-29 12:17:51 '
+date: '2026-06-08 23:36:27 '
 header:
   og_image: /assets/images/Cedric_Allingham_enc_2c7f6b_moore_davies_hoax_6a7589-Illustration-1-social.jpg
   preview_image: /assets/images/Cedric_Allingham_enc_2c7f6b_moore_davies_hoax_6a7589-Illustration-1.webp
@@ -251,7 +251,7 @@ image: /assets/images/Cedric_Allingham_enc_2c7f6b_moore_davies_hoax_6a7589-Illus
 The 1954 *Flying Saucer from Mars* narrative attributed to **[Cedric Allingham]({{ 'cedric-allingham-encounter-1954/' | relative_url }})** sat at the heart of one of British ufology’s most enduring curiosities: an apparently independent eyewitness account of a flying saucer landing in Scotland. While the immediate details of the [Lossiemouth claim]({{ 'the-claim-db591c/' | relative_url }}) were notable at the time, it is the later reconstruction of the case that has come to define its place in UFO history. Over three decades after the book’s publication, researchers tied the *Allingham* persona not to an actual contactee but to figures within British astronomy and scepticism — chiefly **Sir Patrick Moore**, the celebrated amateur astronomer and science communicator, and his friend **Peter Davies**. The subsequent hoax reconstruction reframes the encounter not as a credible sighting but as an intentional fabrication that exploited the era’s UFO boom. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cedric Allingham</span><span class="citation-popover-snippet">Cedric Allingham</span></span></span>
 
 
-<img src="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b_moore_davies_hoax_6a7589-Illustration-1-light.svg" | relative_url }}" alt="Hoax Case illustration 1" data-theme-src-dark="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b_moore_davies_hoax_6a7589-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b_moore_davies_hoax_6a7589-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b_moore_davies_hoax_6a7589-Illustration-1-dark.svg" | relative_url }}" alt="Hoax Case illustration 1" data-theme-src-dark="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b_moore_davies_hoax_6a7589-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b_moore_davies_hoax_6a7589-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The 1986 Magonia Investigation: Unpicking the Persona
 
 The most comprehensive modern analysis of the Allingham affair was published in the July 1986 issue of the sceptical journal *Magonia* by researchers Christopher Allan and Steuart Campbell. Their work began from several persistent anomalies: the author *Allingham* was untraceable, the advocated corroborating witness (a local fisherman named James Duncan) could not be located, and attempts to follow up on his claims repeatedly stalled. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wearethemutants.com/2016/08/30/flying-saucers-common-sense-and-the-enigma-of-cedric-allingham/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wearethemutants.com">[We Are the Mutants]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wearethemutants.com</span><span class="citation-popover-snippet">We Are the MutantsFlying Saucers, Common Sense, and the Enigma of Cedric AllinghamAugust 30, 2016...</span><span class="citation-popover-meta">Published: August 30, 2016</span></span></span>
@@ -259,7 +259,7 @@ The most comprehensive modern analysis of the Allingham affair was published in 
 Allan and Campbell compared the writing style of *Flying Saucer from Mars* with known published works by British astronomer Patrick Moore. They found linguistic parallels suggestive of a common hand, indicating that the text might not originate from an independent traveller’s account at all. Their investigation also traced the elusive “Allingham” to someone surprisingly close to Moore: his acquaintance **Peter Davies**. Davies eventually admitted involvement in the book — specifically that he had worked on the manuscript to disguise the style of its original author — but he declined to name that person. Davies also acknowledged that he himself had appeared at a UFO club lecture attributed to Allingham, disguised with a false moustache. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/allingham-cedric" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">Allingham, Cedric | Encyclopedia.com</span><span class="citation-popover-snippet">Allingham, Cedric | Encyclopedia.com</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fuCnwkGv_cg" title="The Lossiemouth Incident Part 1: A Man From Another Planet (Paranormal &amp; Mystery)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fuCnwkGv_cg" target="_blank" rel="noopener noreferrer">The Lossiemouth Incident Part 1: A Man From Another Planet (Paranormal &amp; Mystery)</a></p><p class="youtube-embed-meta">Channel: Liath Wolf &middot; Views: 9.9K &middot; Uploaded: January 2021 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fuCnwkGv_cg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fuCnwkGv_cg">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qKZyMHqwOKU" title="In conversation with Bill Moffat about the 1954 Stephen Darbishire UFO photograph" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qKZyMHqwOKU" target="_blank" rel="noopener noreferrer">In conversation with Bill Moffat about the 1954 Stephen Darbishire UFO photograph</a></p><p class="youtube-embed-meta">Channel: Rory Wilmer &middot; Views: 296 &middot; Uploaded: December 2020 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qKZyMHqwOKU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qKZyMHqwOKU">Open on YouTube</a></p></div></div></div>
 
 ## Peter Davies and the Disguised Author Photograph
 
@@ -268,12 +268,10 @@ One of the defining pieces of physical “evidence” in *Flying Saucer from Mar
 Davies’ admissions extended to the public events connected to the book’s promotion. At the single documented lecture — in Tunbridge Wells — it was Davies in disguise who addressed the local UFO club, accompanied by a knowledgeable “assistant” whom Davies refused to name. Taken together, these revelations strongly indicate that the *Allingham* persona was not simply a missing author but a carefully constructed identity with staged public engagements and deliberately misleading documentary support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://studylib.net/doc/25882701/occultism-and-parapsychology-vol.1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studylib.net">[studylib.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studylib.net</span><span class="citation-popover-title">Encyclopedia of Occultism &amp; Parapsychology, 5th Ed, Vol 1</span><span class="citation-popover-snippet">Encyclopedia of Occultism &amp; Parapsychology, 5th Ed, Vol 1</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_ycVLUrymwg" title="The Lossiemouth Incident Part 2: The Author (Paranormal &amp; Mystery)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_ycVLUrymwg" target="_blank" rel="noopener noreferrer">The Lossiemouth Incident Part 2: The Author (Paranormal &amp; Mystery)</a></p><p class="youtube-embed-meta">Channel: Liath Wolf &middot; Views: 3.8K &middot; Uploaded: January 2021 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_ycVLUrymwg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_ycVLUrymwg">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yuRmpG-pJ3s" title="The Man From Venus and the Alien Contactee George Adamski" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yuRmpG-pJ3s" target="_blank" rel="noopener noreferrer">The Man From Venus and the Alien Contactee George Adamski</a></p><p class="youtube-embed-meta">Channel: Data1B4 &middot; Views: 824 &middot; Uploaded: November 2024 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yuRmpG-pJ3s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yuRmpG-pJ3s">Open on YouTube</a></p></div></div></div>
 
 
-<img src="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b_moore_davies_hoax_6a7589-Illustration-3-light.svg" | relative_url }}" alt="Hoax Case illustration 3" data-theme-src-dark="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b_moore_davies_hoax_6a7589-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b_moore_davies_hoax_6a7589-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
-<img src="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b_moore_davies_hoax_6a7589-Illustration-2-light.svg" | relative_url }}" alt="Hoax Case illustration 2" data-theme-src-dark="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b_moore_davies_hoax_6a7589-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b_moore_davies_hoax_6a7589-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b_moore_davies_hoax_6a7589-Illustration-2-dark.svg" | relative_url }}" alt="Hoax Case illustration 2" data-theme-src-dark="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b_moore_davies_hoax_6a7589-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b_moore_davies_hoax_6a7589-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Patrick Moore’s Disputed Role and Unanswered Questions
 
 Sir Patrick Moore was, by the mid‑1950s, already a well‑known figure in British astronomy. He most famously fronted the BBC’s long‑running programme *The Sky at Night* and was a prolific author of popular science works. In later official biographical summaries, it is noted that Moore was identified in 1986 as co‑author of *Flying Saucer from Mars*, implying the book was intended as a “practical joke” on UFO believers. However, Moore **never publicly acknowledged** authorship and consistently **denied responsibility** for the hoax, even threatening legal action against those who suggested otherwise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Patrick_Moore" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Patrick Moore</span><span class="citation-popover-snippet">Patrick Moore</span></span></span>
@@ -283,8 +281,7 @@ This reticence complicates the historical picture. If Moore conceived or signifi
 The enduring consensus among UFO historians and sceptical researchers is that **Cedric Allingham never existed as a real person**, and that the *Lossiemouth encounter* was a constructed narrative crafted and promoted by Davies and likely at least one other individual — very probably Moore himself. The hoax’s later exposure underscores the critical importance of source provenance and witness verification in the historical assessment of UFO claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cedric Allingham</span><span class="citation-popover-snippet">Cedric Allingham</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qKZyMHqwOKU" title="In conversation with Bill Moffat about the 1954 Stephen Darbishire UFO photograph" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qKZyMHqwOKU" target="_blank" rel="noopener noreferrer">In conversation with Bill Moffat about the 1954 Stephen Darbishire UFO photograph</a></p><p class="youtube-embed-meta">Channel: Rory Wilmer &middot; Views: 296 &middot; Uploaded: December 2020 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qKZyMHqwOKU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qKZyMHqwOKU">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b_moore_davies_hoax_6a7589-Illustration-3-dark.svg" | relative_url }}" alt="Hoax Case illustration 3" data-theme-src-dark="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b_moore_davies_hoax_6a7589-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b_moore_davies_hoax_6a7589-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell fr-section-shell-fallback">
@@ -328,6 +325,312 @@ The enduring consensus among UFO historians and sceptical researchers is that **
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
+</section>
+
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
 </section>
 
 ## Endnotes

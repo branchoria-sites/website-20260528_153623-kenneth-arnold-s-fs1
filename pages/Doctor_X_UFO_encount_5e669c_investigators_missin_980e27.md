@@ -239,7 +239,7 @@ next_link:
   permalink: /sighting/
   short_title: Sighting
   heading_title: What Did Doctor X Say He Saw?
-date: '2026-05-29 12:16:26 '
+date: '2026-06-08 23:35:25 '
 header:
   og_image: /assets/images/Doctor_X_UFO_encount_5e669c_investigators_missin_980e27-Illustration-1-social.jpg
   preview_image: /assets/images/Doctor_X_UFO_encount_5e669c_investigators_missin_980e27-Illustration-1.webp
@@ -251,7 +251,7 @@ image: /assets/images/Doctor_X_UFO_encount_5e669c_investigators_missin_980e27-Il
 The “Doctor X” UFO encounter became influential not because it produced hard proof, but because it sat in an uncomfortable space between serious investigation and permanent unverifiability. Supportive French ufologists treated the case as unusually credible: the witness was said to be a physician holding an important official position, notes and sketches were reportedly made immediately after the event, and investigators claimed to have examined both the witness and later physical symptoms. Yet almost every element that might have settled the case publicly remained hidden, anonymous, incomplete, or inaccessible. No official report surfaced. No named hospital file became available. No independent scientific record confirmed the [sighting]({{ 'sighting/' | relative_url }}). The result is a classic UFO dispute built around trust in intermediaries rather than direct public evidence.
 
 
-<img src="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_investigators_missin_980e27-Illustration-1-light.svg" | relative_url }}" alt="Records illustration 1" data-theme-src-dark="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_investigators_missin_980e27-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_investigators_missin_980e27-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_investigators_missin_980e27-Illustration-1-dark.svg" | relative_url }}" alt="Records illustration 1" data-theme-src-dark="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_investigators_missin_980e27-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_investigators_missin_980e27-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That tension explains why the case still appears in debates over UFO evidence. Believers point to respected investigators such as Aimé Michel and later Jacques Vallée. Skeptics point to the anonymous witness, missing documentation, and decades of retelling through sympathetic UFO literature rather than transparent archival records. The case survives largely because it cannot be conclusively verified or conclusively disproved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/TheAnomalyArchives/posts/case-1969-the-strange-case-of-dr-x-ufo-investigation-by-aime-michel-and-jacques-/1257117487803690/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">The Strange Case of Dr</span><span class="citation-popover-snippet">X - UFO investigation by Aime Michel...Vallee describes the case of “Doctor X” that demonstrates how a UFO encounter can be associated w...</span></span></span>
 
 ## Why Aimé Michel Treated The Case Seriously
@@ -307,7 +307,7 @@ The result is a paradox common in UFO history: the witness supposedly deserved p
 Some later accounts suggested that only a limited number of investigators knew the witness’s identity. Even if true, that does not solve the public evidential problem. It merely transfers trust from the witness to the intermediary investigators.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sP10HPJkJ4Q" title="Jacques Vallee: Implications of UFO Phenomena (excerpt) - Thinking Allowed w/ Jeffrey Mishlove" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sP10HPJkJ4Q" target="_blank" rel="noopener noreferrer">Jacques Vallee: Implications of UFO Phenomena (excerpt) - Thinking Allowed w/ Jeffrey Mishlove</a></p><p class="youtube-embed-meta">Channel: ThinkingAllowedTV &middot; Views: 74.7K &middot; Uploaded: May 2011 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sP10HPJkJ4Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sP10HPJkJ4Q">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vZEcVY2iZsk" title="Joe Rogan Experience #2288 - Jacques Vallée" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vZEcVY2iZsk" target="_blank" rel="noopener noreferrer">Joe Rogan Experience #2288 - Jacques Vallée</a></p><p class="youtube-embed-meta">Channel: PowerfulJRE &middot; Views: 1.8M &middot; Uploaded: March 2025 &middot; Length: 2 hours 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vZEcVY2iZsk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vZEcVY2iZsk">Open on YouTube</a></p></div></div></div>
 
 ### The Missing Medical Documentation
 
@@ -335,7 +335,7 @@ This absence does not prove fraud. Medical privacy laws and professional confide
 For skeptics, this is decisive. Extraordinary medical claims require unusually strong documentation. For believers, the missing records are frustrating but not fatal because they see the investigators’ testimony as sufficient to establish that something unusual happened.
 
 
-<img src="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_investigators_missin_980e27-Illustration-2-light.svg" | relative_url }}" alt="Records illustration 2" data-theme-src-dark="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_investigators_missin_980e27-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_investigators_missin_980e27-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_investigators_missin_980e27-Illustration-2-dark.svg" | relative_url }}" alt="Records illustration 2" data-theme-src-dark="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_investigators_missin_980e27-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_investigators_missin_980e27-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Official Silence Matters
 
 One reason the case remains obscure outside UFO literature is that no clear official investigation appears to have emerged.
@@ -360,7 +360,7 @@ Supporters sometimes interpret the silence as indirect support for authenticity.
 The lack of official corroboration also weakens timeline reconstruction. Many details now repeated online come from later retellings that differ in emphasis or wording. Without a stable archival base, the story gradually accumulated layers of interpretation.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vZEcVY2iZsk" title="Joe Rogan Experience #2288 - Jacques Vallée" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vZEcVY2iZsk" target="_blank" rel="noopener noreferrer">Joe Rogan Experience #2288 - Jacques Vallée</a></p><p class="youtube-embed-meta">Channel: PowerfulJRE &middot; Views: 1.8M &middot; Uploaded: March 2025 &middot; Length: 2 hours 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vZEcVY2iZsk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vZEcVY2iZsk">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sP10HPJkJ4Q" title="Jacques Vallee: Implications of UFO Phenomena (excerpt) - Thinking Allowed w/ Jeffrey Mishlove" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sP10HPJkJ4Q" target="_blank" rel="noopener noreferrer">Jacques Vallee: Implications of UFO Phenomena (excerpt) - Thinking Allowed w/ Jeffrey Mishlove</a></p><p class="youtube-embed-meta">Channel: ThinkingAllowedTV &middot; Views: 74.7K &middot; Uploaded: May 2011 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sP10HPJkJ4Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sP10HPJkJ4Q">Open on YouTube</a></p></div></div></div>
 
 ## The Main Skeptical Readings
 
@@ -388,7 +388,7 @@ Features especially vulnerable to narrative inflation include:
 Because the original primary documents are not broadly accessible, later versions often became more influential than the earliest testimony.
 
 
-<img src="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_investigators_missin_980e27-Illustration-3-light.svg" | relative_url }}" alt="Records illustration 3" data-theme-src-dark="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_investigators_missin_980e27-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_investigators_missin_980e27-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_investigators_missin_980e27-Illustration-3-dark.svg" | relative_url }}" alt="Records illustration 3" data-theme-src-dark="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_investigators_missin_980e27-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_investigators_missin_980e27-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Psychosomatic Or Misinterpreted Recovery
 
 The alleged healing is one of the hardest elements to evaluate because spontaneous or perceived improvement can occur for many reasons.
@@ -415,7 +415,7 @@ Accounts of the sighting place it during stormy weather and poor visibility. Ske
 This does not neatly explain every reported detail, especially the structured descriptions and merging objects, but it offers a conventional starting point. UFO investigators counter that the witness was medically trained and reportedly accustomed to careful observation.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6F2C-4IL5f4" title="Legendary UFO Expert Jacques Valle Details Overlooked UFO Sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6F2C-4IL5f4" target="_blank" rel="noopener noreferrer">Legendary UFO Expert Jacques Valle Details Overlooked UFO Sightings</a></p><p class="youtube-embed-meta">Channel: JRE Clips &middot; Views: 885.4K &middot; Uploaded: March 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6F2C-4IL5f4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6F2C-4IL5f4">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BVH9wu28yEQ" title="The Strange Case of Dr X: UFOs and &quot;Miracle&quot; Healings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BVH9wu28yEQ" target="_blank" rel="noopener noreferrer">The Strange Case of Dr X: UFOs and &quot;Miracle&quot; Healings</a></p><p class="youtube-embed-meta">Channel: Think Anomalous &middot; Views: 86.7K &middot; Uploaded: April 2019 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BVH9wu28yEQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BVH9wu28yEQ">Open on YouTube</a></p></div></div></div>
 
 ### The Problem Of Investigator Bias
 
@@ -487,7 +487,7 @@ In UFO history, many famous incidents survive not because they are proven, but b
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -496,78 +496,94 @@ In UFO history, many famous incidents survive not because they are proven, but b
       </div>
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-ufo-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lindberg AREA 51 UFO 1/48 Model Kit 91006 Top Secret new in sealed box"><img src="{{ '/assets/images/marketplace-covers/1177d1c9b10369578976.jpg' | relative_url }}" alt="Listing image for Lindberg AREA 51 UFO 1/48 Model Kit 91006 Top Secret new in sealed box" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-ufo-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Lindberg AREA 51 UFO 1/48 Model Kit 91006 Top Secret new in sealed box</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-ufo-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model kit">Search <span data-ebay-domain-label>eBay.com</span>: ufo model kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-ufo-model-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-ufo-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pegasus Area-51 UFO A.E.-341.15B - Science Fiction Plastic Model Kit - 1/72"><img src="{{ '/assets/images/marketplace-covers/ea5b8bd3bcd061cd3a9f.jpg' | relative_url }}" alt="Listing image for Pegasus Area-51 UFO A.E.-341.15B - Science Fiction Plastic Model Kit - 1/72" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-ufo-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Pegasus Area-51 UFO A.E.-341.15B - Science Fiction Plastic Model Kit - 1/72</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-ufo-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model kit">Search <span data-ebay-domain-label>eBay.com</span>: ufo model kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-ufo-model-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-ufo-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Testors Area 51 UFO Vintage Model Kit Sci Fi Bob Lazar w/ 7&quot; Alien SEALED"><img src="{{ '/assets/images/marketplace-covers/fa8140d02961cafca1bb.jpg' | relative_url }}" alt="Listing image for Testors Area 51 UFO Vintage Model Kit Sci Fi Bob Lazar w/ 7&quot; Alien SEALED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-ufo-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Testors Area 51 UFO Vintage Model Kit Sci Fi Bob Lazar w/ 7&quot; Alien SEALED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-ufo-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model kit">Search <span data-ebay-domain-label>eBay.com</span>: ufo model kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-ufo-model-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-ufo-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pegasus Area 51 UFO AE-341.15B Flying Saucer Plastic Model Kit 1/72 9100 New"><img src="{{ '/assets/images/marketplace-covers/ee994547e5a1ab29ef78.jpg' | relative_url }}" alt="Listing image for Pegasus Area 51 UFO AE-341.15B Flying Saucer Plastic Model Kit 1/72 9100 New" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-ufo-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Pegasus Area 51 UFO AE-341.15B Flying Saucer Plastic Model Kit 1/72 9100 New</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-ufo-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model kit">Search <span data-ebay-domain-label>eBay.com</span>: ufo model kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-ufo-model-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-ufo-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -643,17 +659,31 @@ In UFO history, many famous incidents survive not because they are proven, but b
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -666,42 +696,73 @@ In UFO history, many famous incidents survive not because they are proven, but b
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -716,12 +777,17 @@ In UFO history, many famous incidents survive not because they are proven, but b
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>

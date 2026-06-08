@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /voronezh-russia-landing-1989/
 nav_short_title: Physical Evidence
 title: What Physical Evidence Was Claimed in Voronezh and Does It Hold Up?
-title_full: What Physical Evidence Was Claimed in Voronezh and Does It Hold Up? | VoronezhLanding
+title_full: What Physical Evidence Was Claimed in Voronezh and Does It Hold Up? | Voronezh Landing
 display_title_short: Physical Evidence
 display_title: Physical Evidence
 heading_title: What Physical Evidence Was Claimed in Voronezh and Does It Hold Up?
@@ -197,20 +197,20 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: VoronezhLanding
+parent_title: Voronezh Landing
 parent_permalink: /voronezh-russia-landing-1989/
-parent_nav_short_title: VoronezhLanding
+parent_nav_short_title: Voronezh Landing
 parent_heading_title: What Really Happened in Voronezh, Russia in 1989?
 ancestor_links:
 - basename: Voronezh_Russia_land_e13f34
-  title: VoronezhLanding
+  title: Voronezh Landing
   permalink: /voronezh-russia-landing-1989/
-  short_title: VoronezhLanding
+  short_title: Voronezh Landing
 breadcrumb_links:
 - basename: Voronezh_Russia_land_e13f34
-  title: VoronezhLanding
+  title: Voronezh Landing
   permalink: /voronezh-russia-landing-1989/
-  short_title: VoronezhLanding
+  short_title: Voronezh Landing
 sibling_links:
 - basename: Voronezh_Russia_land_e13f34_eyewitness_media_vor_5583ef
   title: Eyewitness & Media | What Really Happened in Voronezh, Russia in 1989?
@@ -224,16 +224,16 @@ sibling_links:
   heading_title: How Scientists and Officials Responded to the Voronezh UFO Reports
 up_link:
   basename: Voronezh_Russia_land_e13f34
-  title: VoronezhLanding
+  title: Voronezh Landing
   permalink: /voronezh-russia-landing-1989/
-  short_title: VoronezhLanding
+  short_title: Voronezh Landing
 prev_link:
   basename: Voronezh_Russia_land_e13f34_official_scientific_975a6c
   title: Official & Scientific | What Really Happened in Voronezh, Russia in 1989?
   permalink: /official-scientific/
   short_title: Official & Scientific
   heading_title: How Scientists and Officials Responded to the Voronezh UFO Reports
-date: '2026-05-29 12:18:47 '
+date: '2026-06-08 23:37:14 '
 header:
   og_image: /assets/images/Voronezh_Russia_land_e13f34_physical_evidence_vo_15e245-Illustration-1-social.jpg
   preview_image: /assets/images/Voronezh_Russia_land_e13f34_physical_evidence_vo_15e245-Illustration-1.webp
@@ -245,7 +245,7 @@ image: /assets/images/Voronezh_Russia_land_e13f34_physical_evidence_vo_15e245-Il
 The Voronezh landing story became internationally famous because Soviet media claimed there was more than eyewitness testimony behind it. Reports circulated that investigators had found landing traces in a city park, unusual rocks, radar confirmation, and even laboratory indications of anomalous material. Those claims helped transform what might otherwise have remained a local children’s story into a supposed “scientifically verified” UFO case. Yet when the evidence is examined closely, the physical record proves far weaker than the headlines suggested.
 
 
-<img src="{{ "/assets/images/Voronezh_Russia_land_e13f34_physical_evidence_vo_15e245-Illustration-1-light.svg" | relative_url }}" alt="Physical Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/Voronezh_Russia_land_e13f34_physical_evidence_vo_15e245-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Voronezh_Russia_land_e13f34_physical_evidence_vo_15e245-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Voronezh_Russia_land_e13f34_physical_evidence_vo_15e245-Illustration-1-dark.svg" | relative_url }}" alt="Physical Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/Voronezh_Russia_land_e13f34_physical_evidence_vo_15e245-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Voronezh_Russia_land_e13f34_physical_evidence_vo_15e245-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Most of the alleged evidence from Voronezh falls into three categories: ground traces at the reported landing site, stones or mineral samples collected nearby, and claims of instrumental confirmation such as radar or geophysical anomalies. Each category became controversial almost immediately. Soviet journalists, local researchers, and UFO enthusiasts often described the findings in dramatic terms, while sceptics and later investigators argued that the evidence was either ordinary, poorly documented, or never independently verified at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/3475954/voronezh-ufo-report-1989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">Why &#x27;Aliens&#x27; &#x27;Landed&#x27; in Russia 25 Years Ago</span><span class="citation-popover-snippet">27 of that year, according to the official report, tall three-eyed aliens with small heads showed up in the city of Voronezh, arriving...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.upi.com/Archives/1989/10/11/Soviet-UFO-experts-doubt-nocturnal-space-visit-reported-by-Tass/7209624081600/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Soviet UFO experts doubt nocturnal space visit reported by Tass</span><span class="citation-popover-snippet">UPISoviet UFO experts doubt nocturnal space visit reported by TassOct 11, 1989 — Tass appeared to launch a damage-control mission Wednesd...</span></span></span>
 
 ## What Was Actually Claimed at the Landing Site?
@@ -364,7 +364,7 @@ The difficulty is that these claims were usually described second-hand through j
 Without those details, it is impossible to evaluate the significance of the reported anomalies.
 
 
-<img src="{{ "/assets/images/Voronezh_Russia_land_e13f34_physical_evidence_vo_15e245-Illustration-2-light.svg" | relative_url }}" alt="Physical Evidence illustration 2" data-theme-src-dark="{{ "/assets/images/Voronezh_Russia_land_e13f34_physical_evidence_vo_15e245-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Voronezh_Russia_land_e13f34_physical_evidence_vo_15e245-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Voronezh_Russia_land_e13f34_physical_evidence_vo_15e245-Illustration-2-dark.svg" | relative_url }}" alt="Physical Evidence illustration 2" data-theme-src-dark="{{ "/assets/images/Voronezh_Russia_land_e13f34_physical_evidence_vo_15e245-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Voronezh_Russia_land_e13f34_physical_evidence_vo_15e245-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### “Biolocation” and Soviet Paranormal Culture
 
 The late Soviet period also saw increased public interest in parapsychology, psychic research, and fringe scientific ideas during glasnost. Some UFO investigations in the USSR incorporated methods that mainstream science would not consider reliable, including “biolocation” techniques similar to dowsing or intuitive energy detection.
@@ -380,7 +380,7 @@ Another quasi-physical form of evidence involved drawings made by children who c
 While this was presented as corroboration, it is not physical evidence in a forensic sense. Memory conformity, shared discussion among witnesses, media exposure, and suggestion effects can all influence drawings after unusual events. The fact that the children already knew each other and had discussed the experience weakens the evidential value of matching sketches.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qdPS04bh0mQ" title="The Terrifying Voronezh UFO Incident: Strange Otherworldly Beings Invaded The USSR - Lights Out #123" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qdPS04bh0mQ" target="_blank" rel="noopener noreferrer">The Terrifying Voronezh UFO Incident: Strange Otherworldly Beings Invaded The USSR - Lights Out #123</a></p><p class="youtube-embed-meta">Channel: Lights Out &middot; Views: 138.1K &middot; Uploaded: October 2022 &middot; Length: 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qdPS04bh0mQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qdPS04bh0mQ">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/g4oPoFfOntM" title="Soviet Russia&#x27;s Strangest Alien Encounter: Voronezh UFO landing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=g4oPoFfOntM" target="_blank" rel="noopener noreferrer">Soviet Russia&#x27;s Strangest Alien Encounter: Voronezh UFO landing</a></p><p class="youtube-embed-meta">Channel: Lately &middot; Views: 43.6K &middot; Uploaded: April 2026 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=g4oPoFfOntM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=g4oPoFfOntM">Open on YouTube</a></p></div></div></div>
 
 ## Radar Data and Instrumental Claims
 
@@ -413,7 +413,7 @@ That ambiguity produced contradictory messaging:
 As a result, the radar story became part of the mythology of Voronezh without ever developing into well-documented technical evidence.
 
 
-<img src="{{ "/assets/images/Voronezh_Russia_land_e13f34_physical_evidence_vo_15e245-Illustration-3-light.svg" | relative_url }}" alt="Physical Evidence illustration 3" data-theme-src-dark="{{ "/assets/images/Voronezh_Russia_land_e13f34_physical_evidence_vo_15e245-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Voronezh_Russia_land_e13f34_physical_evidence_vo_15e245-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Voronezh_Russia_land_e13f34_physical_evidence_vo_15e245-Illustration-3-dark.svg" | relative_url }}" alt="Physical Evidence illustration 3" data-theme-src-dark="{{ "/assets/images/Voronezh_Russia_land_e13f34_physical_evidence_vo_15e245-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Voronezh_Russia_land_e13f34_physical_evidence_vo_15e245-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Physical Evidence Failed to Convince Most Investigators
 
 ### The Evidence Never Became Independent
@@ -430,7 +430,7 @@ That creates a circular problem:
 Without independently verifiable material, the case never escaped that loop.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/g4oPoFfOntM" title="Soviet Russia&#x27;s Strangest Alien Encounter: Voronezh UFO landing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=g4oPoFfOntM" target="_blank" rel="noopener noreferrer">Soviet Russia&#x27;s Strangest Alien Encounter: Voronezh UFO landing</a></p><p class="youtube-embed-meta">Channel: Lately &middot; Views: 43.6K &middot; Uploaded: April 2026 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=g4oPoFfOntM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=g4oPoFfOntM">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pYnDYLv1NPo" title="Secret UFO files smuggled out of Russia released | Jesse Weber Live" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pYnDYLv1NPo" target="_blank" rel="noopener noreferrer">Secret UFO files smuggled out of Russia released | Jesse Weber Live</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 281.9K &middot; Uploaded: February 2026 &middot; Length: 4 minutes 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pYnDYLv1NPo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pYnDYLv1NPo">Open on YouTube</a></p></div></div></div>
 
 ### No Reproducible Scientific Findings
 
@@ -493,7 +493,7 @@ The references to scientists, laboratories, and traces gave the story an aura of
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -503,111 +503,36 @@ The references to scientists, laboratories, and traces gave the story an aura of
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=physical+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-physical-memorabilia-bo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rare WWII Memorabilia Army ID, Ration Card, &amp; Notice To Appear For Physical Exam"><img src="{{ '/assets/images/marketplace-covers/02202be9ec22bb6fbe2c.jpg' | relative_url }}" alt="Listing image for Rare WWII Memorabilia Army ID, Ration Card, &amp; Notice To Appear For Physical Exam" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=physical+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-physical-memorabilia-bo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Rare WWII Memorabilia Army ID, Ration Card, &amp; Notice To Appear For Physical Exam</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=physical+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-physical-memorabilia-bo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for physical memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: physical memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=physical+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-physical-memorabilia-bo&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=physical+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-physical-memorabilia-bo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Led Zeppelin - Physical Graffiti / Memorabilia / LP / Souvenir in black frame"><img src="{{ '/assets/images/marketplace-covers/df519187c39424e74714.jpg' | relative_url }}" alt="Listing image for Led Zeppelin - Physical Graffiti / Memorabilia / LP / Souvenir in black frame" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=physical+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-physical-memorabilia-bo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Led Zeppelin - Physical Graffiti / Memorabilia / LP / Souvenir in black frame</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=physical+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-physical-memorabilia-bo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for physical memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: physical memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=physical+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-physical-memorabilia-bo&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=physical+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-physical-memorabilia-bo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alex Warren Personalised Memorabilia Physical Concert Ticket"><img src="{{ '/assets/images/marketplace-covers/42e234b62623992d9070.jpg' | relative_url }}" alt="Listing image for Alex Warren Personalised Memorabilia Physical Concert Ticket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=physical+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-physical-memorabilia-bo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alex Warren Personalised Memorabilia Physical Concert Ticket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=physical+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-physical-memorabilia-bo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for physical memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: physical memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=physical+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-physical-memorabilia-bo&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=physical+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-physical-memorabilia-bo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MEMORABILIA ,GALLENKAMP &amp; CO , TECHNICAL SERIES of PHYSICAL APPARATUS , 1910"><img src="{{ '/assets/images/marketplace-covers/916b193e7d3046318087.jpg' | relative_url }}" alt="Listing image for MEMORABILIA ,GALLENKAMP &amp; CO , TECHNICAL SERIES of PHYSICAL APPARATUS , 1910" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=physical+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-physical-memorabilia-bo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MEMORABILIA ,GALLENKAMP &amp; CO , TECHNICAL SERIES of PHYSICAL APPARATUS , 1910</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=physical+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-physical-memorabilia-bo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for physical memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: physical memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=physical+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-physical-memorabilia-bo&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=physical+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-physical-memorabilia-bo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=physical+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-physical-memorabilia-bo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Led Zeppelin - Physical Graffiti / Gold Disc Memorabilia"><img src="{{ '/assets/images/marketplace-covers/4c23b612f4f94b25ec07.jpg' | relative_url }}" alt="Listing image for Led Zeppelin - Physical Graffiti / Gold Disc Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=physical+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-physical-memorabilia-bo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Led Zeppelin - Physical Graffiti / Gold Disc Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=physical+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-physical-memorabilia-bo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for physical memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: physical memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=physical+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-physical-memorabilia-bo&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -615,15 +540,15 @@ The references to scientists, laboratories, and traces gave the story an aura of
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=physical+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-physical-memorabilia-bo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hunter X Hunter Risky Dice Card &amp; Physical Dice Joystation Box anime memorabilia"><img src="{{ '/assets/images/marketplace-covers/d42dd4ddab9842b1e56d.jpg' | relative_url }}" alt="Listing image for Hunter X Hunter Risky Dice Card &amp; Physical Dice Joystation Box anime memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=physical+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-physical-memorabilia-bo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Hunter X Hunter Risky Dice Card &amp; Physical Dice Joystation Box anime memorabilia</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=physical+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-physical-memorabilia-bo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for physical memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: physical memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=physical+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-physical-memorabilia-bo&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -631,15 +556,15 @@ The references to scientists, laboratories, and traces gave the story an aura of
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=physical+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-physical-memorabilia-bo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MEMORABILIA AUSTRALIAN MILITARY FORCES 1916 BOOKLET ,COURSE of PHYSICAL EXERCISE"><img src="{{ '/assets/images/marketplace-covers/22e4f363535df509fe86.jpg' | relative_url }}" alt="Listing image for MEMORABILIA AUSTRALIAN MILITARY FORCES 1916 BOOKLET ,COURSE of PHYSICAL EXERCISE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=physical+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-physical-memorabilia-bo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MEMORABILIA AUSTRALIAN MILITARY FORCES 1916 BOOKLET ,COURSE of PHYSICAL EXERCISE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=physical+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-physical-memorabilia-bo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for physical memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: physical memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=physical+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-physical-memorabilia-bo&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -647,15 +572,15 @@ The references to scientists, laboratories, and traces gave the story an aura of
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=physical+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-physical-memorabilia-bo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Led Zeppelin - Physical Graffiti / Memorabilia / CD / Souvenir in black frame"><img src="{{ '/assets/images/marketplace-covers/06aed9c84c97844eddd7.jpg' | relative_url }}" alt="Listing image for Led Zeppelin - Physical Graffiti / Memorabilia / CD / Souvenir in black frame" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=physical+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-physical-memorabilia-bo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Led Zeppelin - Physical Graffiti / Memorabilia / CD / Souvenir in black frame</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=physical+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-physical-memorabilia-bo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for physical memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: physical memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=physical+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-physical-memorabilia-bo&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -663,7 +588,7 @@ The references to scientists, laboratories, and traces gave the story an aura of
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=physical+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-physical-memorabilia-bo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="physical-evidence-b4f77c-what-physical-evidence-was-claimed-in-voronezh-and-does-it-hold-up-voro-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -740,17 +665,31 @@ The references to scientists, laboratories, and traces gave the story an aura of
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -763,42 +702,73 @@ The references to scientists, laboratories, and traces gave the story an aura of
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -813,12 +783,17 @@ The references to scientists, laboratories, and traces gave the story an aura of
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>

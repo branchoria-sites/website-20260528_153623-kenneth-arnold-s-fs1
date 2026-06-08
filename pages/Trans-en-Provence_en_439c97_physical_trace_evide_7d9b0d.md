@@ -239,7 +239,7 @@ next_link:
   permalink: /the-witness-bb3f71/
   short_title: The Witness
   heading_title: How Strong Was Nicolai's Testimony?
-date: '2026-05-29 12:10:17 '
+date: '2026-06-08 23:32:18 '
 header:
   og_image: /assets/images/Trans-en-Provence_en_439c97_physical_trace_evide_7d9b0d-Illustration-1-social.jpg
   preview_image: /assets/images/Trans-en-Provence_en_439c97_physical_trace_evide_7d9b0d-Illustration-1.webp
@@ -251,7 +251,7 @@ image: /assets/images/Trans-en-Provence_en_439c97_physical_trace_evide_7d9b0d-Il
 The Trans-en-Provence encounter became famous less because of the reported object itself than because investigators claimed to find measurable physical traces afterwards. In January 1981, French gendarmes photographed a circular ground mark, collected soil samples and took alfalfa plants for laboratory analysis within roughly a day of the reported event. GEPAN, the French government UFO study group operating under CNES, later argued that the site showed signs of compression, heating and abnormal plant stress. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[2cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">missions methodes et resultats</span><span class="citation-popover-snippet">Mission &amp; Geipan | GEIPAN... 1981 Trans-En-Provence case (a person witnessing a saucer landing and taking off from the edge of his garden...</span></span></span>
 
 
-<img src="{{ "/assets/images/Trans-en-Provence_en_439c97_physical_trace_evide_7d9b0d-Illustration-1-light.svg" | relative_url }}" alt="The Traces illustration 1" data-theme-src-dark="{{ "/assets/images/Trans-en-Provence_en_439c97_physical_trace_evide_7d9b0d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Trans-en-Provence_en_439c97_physical_trace_evide_7d9b0d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Trans-en-Provence_en_439c97_physical_trace_evide_7d9b0d-Illustration-1-dark.svg" | relative_url }}" alt="The Traces illustration 1" data-theme-src-dark="{{ "/assets/images/Trans-en-Provence_en_439c97_physical_trace_evide_7d9b0d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Trans-en-Provence_en_439c97_physical_trace_evide_7d9b0d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Those findings gave the case unusual status in UFO history because they appeared to move beyond testimony into laboratory evidence. Yet the central question has never been fully resolved: did the traces demonstrate the landing of an unknown craft, or only that something physically disturbed the site? The distinction matters. The Trans-en-Provence file is strongest as a documented trace case, but much weaker as proof of an extraordinary mechanism.
 
 ## The Circular Mark and Soil Findings
@@ -278,9 +278,6 @@ However, the actual evidential strength of those findings is more limited than l
 Another important complication is the geometry of the mark itself. Critics later noted that the photographed traces did not form a perfectly clean circle. Some sceptical investigators argued that the overlapping curved impressions resembled tyre tracks more than the footprint of a structured landing apparatus. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Transgender" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">TransgenderA transgender (often shortened to trans) person has a gender identity different from that typically associated with the sex...</span></span></span>
 
 That criticism did not necessarily invalidate the laboratory work, but it challenged the assumption that the traces uniquely matched [the witness]({{ 'the-witness-bb3f71/' | relative_url }}) description.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UuptR_x1tRU" title="Trans-en-Provence Case" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UuptR_x1tRU" target="_blank" rel="noopener noreferrer">Trans-en-Provence Case</a></p><p class="youtube-embed-meta">Channel: Wiki4All &middot; Views: 456 &middot; Uploaded: January 2021 &middot; Length: 1 minute 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UuptR_x1tRU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UuptR_x1tRU">Open on YouTube</a></p></div></div></div>
 
 ## The Alfalfa and Biochemical Results
 
@@ -316,7 +313,7 @@ An additional difficulty is reproducibility. The Trans-en-Provence samples repre
 Despite the limitations, the case did possess qualities rarely available in UFO reports.
 
 
-<img src="{{ "/assets/images/Trans-en-Provence_en_439c97_physical_trace_evide_7d9b0d-Illustration-2-light.svg" | relative_url }}" alt="The Traces illustration 2" data-theme-src-dark="{{ "/assets/images/Trans-en-Provence_en_439c97_physical_trace_evide_7d9b0d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Trans-en-Provence_en_439c97_physical_trace_evide_7d9b0d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Trans-en-Provence_en_439c97_physical_trace_evide_7d9b0d-Illustration-2-dark.svg" | relative_url }}" alt="The Traces illustration 2" data-theme-src-dark="{{ "/assets/images/Trans-en-Provence_en_439c97_physical_trace_evide_7d9b0d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Trans-en-Provence_en_439c97_physical_trace_evide_7d9b0d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Rapid evidence collection
 
 The gendarmerie visited quickly, photographed the site and secured samples before the location was heavily disturbed. That procedural speed reduced the risk of complete contamination and gave the case more credibility than stories reported weeks or months later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkaboutitdocs.com/trans-en-provence-physical-trace-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">trans en provence physical trace case</span><span class="citation-popover-snippet">Think About It Docs1981: Trans-en-Provence Physical Trace Case8 Apr 2013 — The gendarmes interviewed Nicolai and collected soil and plant...</span></span></span>
@@ -340,7 +337,7 @@ The file combined several categories of data:
 That layering helped the case survive for decades in UFO literature. Even sceptics often acknowledge that it was investigated more seriously than most sightings.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q9sQ2HCiSBE" title="[Today in History] 8 January 1981 – UFO Sighting in Trans-en-Provence, France" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q9sQ2HCiSBE" target="_blank" rel="noopener noreferrer">[Today in History] 8 January 1981 – UFO Sighting in Trans-en-Provence, France</a></p><p class="youtube-embed-meta">Channel: Qrio &middot; Views: 119 &middot; Uploaded: January 2025 &middot; Length: 2 minutes 53 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q9sQ2HCiSBE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q9sQ2HCiSBE">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HslixQUxOfc" title="&quot;Unlocking the Mystery: The Trans-en-Provence UFO Case Explained! 🚀🛸&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HslixQUxOfc" target="_blank" rel="noopener noreferrer">&quot;Unlocking the Mystery: The Trans-en-Provence UFO Case Explained! 🚀🛸&quot;</a></p><p class="youtube-embed-meta">Channel: Zyloio &middot; Views: 2 &middot; Uploaded: May 2026 &middot; Length: 1 minute 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HslixQUxOfc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HslixQUxOfc">Open on YouTube</a></p></div></div></div>
 
 ### Official institutional involvement
 
@@ -365,7 +362,7 @@ This is why sceptical writers focused heavily on mundane alternatives. Vehicle t
 Importantly, sceptics did not necessarily have to prove a complete alternative reconstruction. Their narrower argument was that the evidence failed to eliminate ordinary causes with sufficient rigour.
 
 
-<img src="{{ "/assets/images/Trans-en-Provence_en_439c97_physical_trace_evide_7d9b0d-Illustration-3-light.svg" | relative_url }}" alt="The Traces illustration 3" data-theme-src-dark="{{ "/assets/images/Trans-en-Provence_en_439c97_physical_trace_evide_7d9b0d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Trans-en-Provence_en_439c97_physical_trace_evide_7d9b0d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Trans-en-Provence_en_439c97_physical_trace_evide_7d9b0d-Illustration-3-dark.svg" | relative_url }}" alt="The Traces illustration 3" data-theme-src-dark="{{ "/assets/images/Trans-en-Provence_en_439c97_physical_trace_evide_7d9b0d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Trans-en-Provence_en_439c97_physical_trace_evide_7d9b0d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Traces Actually Prove
 
 The Trans-en-Provence traces remain important because they show how a UFO case can move from anecdote into partially testable evidence without reaching a definitive conclusion.
@@ -387,10 +384,6 @@ The weakest claim is also the most popular in sensational retellings: that the t
 In practice, the case occupies an uncomfortable middle ground. It is stronger than a simple sighting report because physical samples were examined. But it is weaker than a controlled scientific event because the original cause was never independently verified, the environmental conditions could not be recreated, and alternative terrestrial explanations were not conclusively excluded.
 
 That unresolved tension is exactly why Trans-en-Provence still appears in discussions of physical-trace UFO cases decades later. The traces were real enough to investigate seriously, but not decisive enough to settle what happened.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HslixQUxOfc" title="&quot;Unlocking the Mystery: The Trans-en-Provence UFO Case Explained! 🚀🛸&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HslixQUxOfc" target="_blank" rel="noopener noreferrer">&quot;Unlocking the Mystery: The Trans-en-Provence UFO Case Explained! 🚀🛸&quot;</a></p><p class="youtube-embed-meta">Channel: Zyloio &middot; Views: 2 &middot; Uploaded: May 2026 &middot; Length: 1 minute 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HslixQUxOfc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HslixQUxOfc">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell fr-section-shell-fallback">
@@ -436,7 +429,7 @@ That unresolved tension is exactly why Trans-en-Provence still appears in discus
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -445,78 +438,94 @@ That unresolved tension is exactly why Trans-en-Provence still appears in discus
       </div>
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+landing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Landing in Alien Landscape Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/5faf84c513ea093cf668.jpg' | relative_url }}" alt="Listing image for UFO Landing in Alien Landscape Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+landing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Landing in Alien Landscape Poster 18x24in</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+landing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo landing poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo landing poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+landing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+landing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Midnight Visitors Poster – UFO Landing Farm Documentary Print"><img src="{{ '/assets/images/marketplace-covers/97c9bd63f39f44eeb336.jpg' | relative_url }}" alt="Listing image for Midnight Visitors Poster – UFO Landing Farm Documentary Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+landing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Midnight Visitors Poster – UFO Landing Farm Documentary Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+landing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo landing poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo landing poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+landing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+landing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Soviet Movie Poster Alien Ship Sci-fi Space Dog Sputnik Landing Ufo"><img src="{{ '/assets/images/marketplace-covers/8163b7bd4dbd7c8725ea.jpg' | relative_url }}" alt="Listing image for Original Soviet Movie Poster Alien Ship Sci-fi Space Dog Sputnik Landing Ufo" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+landing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Original Soviet Movie Poster Alien Ship Sci-fi Space Dog Sputnik Landing Ufo</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+landing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo landing poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo landing poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+landing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+landing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Visitors Mabuhay Gardens Original Concert Poster Moscow Spy Tunnel Ufo Landing"><img src="{{ '/assets/images/marketplace-covers/1eaadf9e7e0104a78fcb.jpg' | relative_url }}" alt="Listing image for Visitors Mabuhay Gardens Original Concert Poster Moscow Spy Tunnel Ufo Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+landing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Visitors Mabuhay Gardens Original Concert Poster Moscow Spy Tunnel Ufo Landing</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+landing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo landing poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo landing poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+landing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+landing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -592,17 +601,31 @@ That unresolved tension is exactly why Trans-en-Provence still appears in discus
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -615,42 +638,73 @@ That unresolved tension is exactly why Trans-en-Provence still appears in discus
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -665,12 +719,17 @@ That unresolved tension is exactly why Trans-en-Provence still appears in discus
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>

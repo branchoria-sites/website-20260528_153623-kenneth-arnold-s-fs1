@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /tully-saucer-nest-incident-1966/
 nav_short_title: Investigations
 title: RAAF and Skeptical Analyses of Tully UFO
-title_full: RAAF and Skeptical Analyses of Tully UFO | TullyUFO
+title_full: RAAF and Skeptical Analyses of Tully UFO | Tully UFO
 display_title_short: Investigations
 display_title: Investigations
 heading_title: RAAF and Skeptical Analyses of Tully UFO
@@ -197,20 +197,20 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: TullyUFO
+parent_title: Tully UFO
 parent_permalink: /tully-saucer-nest-incident-1966/
-parent_nav_short_title: TullyUFO
+parent_nav_short_title: Tully UFO
 parent_heading_title: What Really Happened at Tully in 1966?
 ancestor_links:
 - basename: Tully_saucer_nest_in_b9d0b0
-  title: TullyUFO
+  title: Tully UFO
   permalink: /tully-saucer-nest-incident-1966/
-  short_title: TullyUFO
+  short_title: Tully UFO
 breadcrumb_links:
 - basename: Tully_saucer_nest_in_b9d0b0
-  title: TullyUFO
+  title: Tully UFO
   permalink: /tully-saucer-nest-incident-1966/
-  short_title: TullyUFO
+  short_title: Tully UFO
 sibling_links:
 - basename: Tully_saucer_nest_in_b9d0b0_saucer_nest_trace_b19bc8
   title: Physical Trace | What Really Happened at Tully in 1966?
@@ -224,16 +224,16 @@ sibling_links:
   heading_title: George Pedley's Tully UFO Sighting Explained
 up_link:
   basename: Tully_saucer_nest_in_b9d0b0
-  title: TullyUFO
+  title: Tully UFO
   permalink: /tully-saucer-nest-incident-1966/
-  short_title: TullyUFO
+  short_title: Tully UFO
 next_link:
   basename: Tully_saucer_nest_in_b9d0b0_saucer_nest_trace_b19bc8
   title: Physical Trace | What Really Happened at Tully in 1966?
   permalink: /physical-trace/
   short_title: Physical Trace
   heading_title: Investigating the Tully Saucer Nest Formation
-date: '2026-05-29 12:24:11 '
+date: '2026-06-08 23:40:51 '
 header:
   og_image: /assets/images/Tully_saucer_nest_in_b9d0b0_tully_investigations_7e5799-Illustration-1-social.jpg
   preview_image: /assets/images/Tully_saucer_nest_in_b9d0b0_tully_investigations_7e5799-Illustration-1.webp
@@ -245,7 +245,7 @@ image: /assets/images/Tully_saucer_nest_in_b9d0b0_tully_investigations_7e5799-Il
 The **Tully “saucer nest” incident of 19 January 1966** has intrigued both UFO enthusiasts and sceptical investigators for decades not merely because of the brief sighting itself, but because of the **follow‑up official inquiries and proposed explanations** for the unusual circular disturbance found in swamp reeds at Horseshoe Lagoon, near Tully in north Queensland. While some UFO researchers have treated the case as one of the rare “[physical trace]({{ 'physical-trace/' | relative_url }})” sightings, official bodies and naturalistic commentators have offered far more prosaic interpretations, ranging from weather‑related whirlwinds to submerged reed decay. This page examines the **Royal Australian Air Force (RAAF) inquiry, subsequent scientific assessments, and the competing natural and conventional hypotheses** that have been put forward to explain the Tully sighting and its physical evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slq.qld.gov.au">[State Library of Queensland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slq.qld.gov.au</span><span class="citation-popover-snippet">State Library of QueenslandThe Truth Is Out There - Queensland UFO related periodicalsJuly 2, 2015 — 2 Jul 2015 — The RAAF did some tests...</span><span class="citation-popover-meta">Published: July 2, 2015</span></span></span>
 
 
-<img src="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_tully_investigations_7e5799-Illustration-1-light.svg" | relative_url }}" alt="Investigations illustration 1" data-theme-src-dark="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_tully_investigations_7e5799-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_tully_investigations_7e5799-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_tully_investigations_7e5799-Illustration-1-dark.svg" | relative_url }}" alt="Investigations illustration 1" data-theme-src-dark="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_tully_investigations_7e5799-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_tully_investigations_7e5799-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## RAAF Inquiry and Official Findings
 
 Shortly after George Pedley reported seeing a disc‑shaped object rise from the swamp at about 9 a.m., Queensland police recorded the physical evidence—a roughly circular depression of flattened reeds about 32 feet by 25 feet, laid down in curved patterns and with roots pulled from the mud at Horseshoe Lagoon. These reports and samples were forwarded to the **Royal Australian Air Force (RAAF)** and to scientific bodies for assessment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/Australian_Flying_Saucer_Review_1966_11_no_9_UFOIC/Australian_Flying_Saucer_Review_1966_11_no_9_UFOIC_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Australian Flying Saucer Review 1966 11 no 9 UFOIC djvu.txt</span><span class="citation-popover-snippet">to the U. S. Air Force reached 646 in the first seven months of 1966.Read more...</span></span></span>
@@ -268,7 +268,7 @@ Sceptics and naturalists have drawn attention to the **lack of corroborative evi
 Another point of sceptical analysis relates to the **rapid discolouration of the reeds**. While the RAAF noted that submersion can kill reed stems, local researchers at the time pointed out that reeds typically take several days to turn brown when submerged—contrasting with the claimed observation that the Tully reeds looked brown within hours—an inconsistency that has been seized upon in debates over whether simple flooding alone can explain the changes seen.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slq.qld.gov.au">[State Library of Queensland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slq.qld.gov.au</span><span class="citation-popover-snippet">State Library of QueenslandThe Truth Is Out There - Queensland UFO related periodicalsJuly 2, 2015 — 2 Jul 2015 — The RAAF did some tests...</span><span class="citation-popover-meta">Published: July 2, 2015</span></span></span>
 
 
-<img src="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_tully_investigations_7e5799-Illustration-2-light.svg" | relative_url }}" alt="Investigations illustration 2" data-theme-src-dark="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_tully_investigations_7e5799-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_tully_investigations_7e5799-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_tully_investigations_7e5799-Illustration-2-dark.svg" | relative_url }}" alt="Investigations illustration 2" data-theme-src-dark="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_tully_investigations_7e5799-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_tully_investigations_7e5799-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Competing Interpretations and Continued Debate
 
 In UFO research circles, the Tully case is sometimes linked with early reports of “crop circles” or regarded as a rare instance where a physical trace corresponds to a sighting. Proponents of this view argue that **natural wind explanations cannot fully account for the neatness of the circle, the root removal, or the brief sighting of an object** directly above the disturbance. They also note that additional, smaller “nests” were found in the lagoon in subsequent days and years—although none were directly tied to another sighting event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/cover-ups/the-tully-nest-affair" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">the tully nest affair</span><span class="citation-popover-snippet">UFO InsightThe Tully Nest Affair And The 1966 Wave Of UFO Sightings Across Australia - UFO InsightApril 26, 2022...</span><span class="citation-popover-meta">Published: April 26, 2022</span></span></span>
@@ -286,7 +286,7 @@ However, mainstream scientists and meteorologists remain unconvinced that the ev
 The Tully “saucer nest” case remains officially **unresolved** in terms of establishing an extraordinary cause, but the **RAAF investigation and scientific assessments leaned strongly toward natural explanations** such as small whirlwind action (“willy willies”), water turbulence, and the normal ecological decay of reeds after submersion. While some UFO researchers continue to question whether these explanations fully address all aspects of the case, the **lack of definitive anomalous evidence in official records** and the plausibility of natural phenomena account for why mainstream interpretations have stayed grounded in conventional atmospheric and environmental processes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slq.qld.gov.au">[State Library of Queensland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slq.qld.gov.au</span><span class="citation-popover-snippet">State Library of QueenslandThe Truth Is Out There - Queensland UFO related periodicalsJuly 2, 2015 — 2 Jul 2015 — The RAAF did some tests...</span><span class="citation-popover-meta">Published: July 2, 2015</span></span></span>
 
 
-<img src="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_tully_investigations_7e5799-Illustration-3-light.svg" | relative_url }}" alt="Investigations illustration 3" data-theme-src-dark="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_tully_investigations_7e5799-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_tully_investigations_7e5799-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_tully_investigations_7e5799-Illustration-3-dark.svg" | relative_url }}" alt="Investigations illustration 3" data-theme-src-dark="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_tully_investigations_7e5799-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_tully_investigations_7e5799-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell fr-section-shell-fallback">

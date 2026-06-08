@@ -345,7 +345,7 @@ sibling_links:
   short_title: Higdon Contact
 - basename: CashLandrum_incident_7ad7d9
   title: Cash Landrum
-  permalink: /cashlandrum-incident-1980/
+  permalink: /cash-landrum-incident-1980/
   short_title: Cash Landrum
 - basename: Cedric_Allingham_enc_2c7f6b
   title: Allingham
@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: CiscoGrove1964
+  title: Cisco Grove1964
   permalink: /cisco-grove-incident-1964/
-  short_title: CiscoGrove1964
+  short_title: Cisco Grove1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -432,9 +432,9 @@ sibling_links:
   permalink: /fred-m-johnson-sighting-1947/
   short_title: Johnson Sighting
 - basename: Gary_Wilcox_encounte_6de9ff
-  title: WilcoxUFO
+  title: Wilcox UFO
   permalink: /gary-wilcox-encounter-1964/
-  short_title: WilcoxUFO
+  short_title: Wilcox UFO
 - basename: Gemini_4_sighting_19_9c351d
   title: Gemini 4 Sighting
   permalink: /gemini-4-sighting-1965/
@@ -528,21 +528,21 @@ sibling_links:
   permalink: /linda-cortile-abduction-1989/
   short_title: Cortile Case
 - basename: Livingston_incident_b2c293
-  title: LivingstonUFO
+  title: Livingston UFO
   permalink: /livingston-incident-1979/
-  short_title: LivingstonUFO
+  short_title: Livingston UFO
 - basename: Loch_Raven_Dam_incid_b0e5b6
-  title: LochRavenUFO
+  title: Loch Raven UFO
   permalink: /loch-raven-dam-incident-1958/
-  short_title: LochRavenUFO
+  short_title: Loch Raven UFO
 - basename: Lubbock_Lights_sight_4eabd8
   title: Lubbock Lights
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: MagentaCrash1933
+  title: Magenta Crash1933
   permalink: /magenta-italy-crash-1933/
-  short_title: MagentaCrash1933
+  short_title: Magenta Crash1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -552,9 +552,9 @@ sibling_links:
   permalink: /maury-island-incident-1947/
   short_title: Maury Island
 - basename: McMinnville_photogra_4e1af3
-  title: McMinnville Photos
-  permalink: /mcminnville-photographs-1950/
-  short_title: McMinnville Photos
+  title: Mc Minnville Photos
+  permalink: /mc-minnville-photographs-1950/
+  short_title: Mc Minnville Photos
 - basename: Middle_East_UAP_vide_4a6c55
   title: Middle East Orb
   permalink: /middle-east-uap-video-2022/
@@ -572,9 +572,9 @@ sibling_links:
   permalink: /oloron-angel-hair-incident-1952/
   short_title: Oloron Angel Hair
 - basename: Operation_Mainbrace_06bcd8
-  title: MainbraceSightings
+  title: Mainbrace Sightings
   permalink: /operation-mainbrace-sightings-1952/
-  short_title: MainbraceSightings
+  short_title: Mainbrace Sightings
 - basename: Orfeo_Angelucci_enco_bef29a
   title: Angelucci
   permalink: /orfeo-angelucci-encounter-1955/
@@ -620,17 +620,17 @@ sibling_links:
   permalink: /socorro-sighting-by-lonnie-zamora-1964/
   short_title: Socorro UFO
 - basename: SpaurNeff_Ravenna_si_4977ac
-  title: RavennaUFO
-  permalink: /spaurneff-ravenna-sighting-1966/
-  short_title: RavennaUFO
+  title: Ravenna UFO
+  permalink: /spaur-neff-ravenna-sighting-1966/
+  short_title: Ravenna UFO
 - basename: Stanford_Kentucky_ab_a91f06
   title: Stanford Abduction
   permalink: /stanford-kentucky-abduction-1976/
   short_title: Stanford Abduction
 - basename: Stephen_Darbishire_p_f80223
-  title: DarbishireUFO
+  title: Darbishire UFO
   permalink: /stephen-darbishire-photograph-1954/
-  short_title: DarbishireUFO
+  short_title: Darbishire UFO
 - basename: Steven_Michalak_enco_1bbf94
   title: Falcon Lake
   permalink: /steven-michalak-encounter-1967/
@@ -644,9 +644,9 @@ sibling_links:
   permalink: /thomas-f-mantell-incident-1948/
   short_title: Mantell
 - basename: Topcliffe_incident_1_80cbf4
-  title: TopcliffeUFO
+  title: Topcliffe UFO
   permalink: /topcliffe-incident-1952/
-  short_title: TopcliffeUFO
+  short_title: Topcliffe UFO
 - basename: Trans-en-Provence_en_439c97
   title: Trans en Provence
   permalink: /trans-en-provence-encounter-1981/
@@ -668,9 +668,9 @@ sibling_links:
   permalink: /truman-bethurum-contact-1954/
   short_title: Bethurum
 - basename: Tully_saucer_nest_in_b9d0b0
-  title: TullyUFO
+  title: Tully UFO
   permalink: /tully-saucer-nest-incident-1966/
-  short_title: TullyUFO
+  short_title: Tully UFO
 - basename: Tunguska_event_1908_efda6f
   title: Tunguska
   permalink: /tunguska-event-1908/
@@ -680,9 +680,9 @@ sibling_links:
   permalink: /ubatuba-incident-1957/
   short_title: Ubatuba
 - basename: USS_Nimitz_Tic_Tac_v_83266a
-  title: NimitzUAP
+  title: Nimitz UAP
   permalink: /uss-nimitz-tic-tac-video-2004/
-  short_title: NimitzUAP
+  short_title: Nimitz UAP
 - basename: USS_Russell_video_20_3188a1
   title: USS Russell
   permalink: /uss-russell-video-2019/
@@ -704,9 +704,9 @@ sibling_links:
   permalink: /valentich-disappearance-1978/
   short_title: Valentich
 - basename: Voronezh_Russia_land_e13f34
-  title: VoronezhLanding
+  title: Voronezh Landing
   permalink: /voronezh-russia-landing-1989/
-  short_title: VoronezhLanding
+  short_title: Voronezh Landing
 - basename: Walesville_Incident_cbceb2
   title: Walesville
   permalink: /walesville-incident-1954/
@@ -717,12 +717,12 @@ sibling_links:
   short_title: Washington Saucers
 - basename: WellingtonKaikoura_i_c1d17f
   title: Kaikoura Lights
-  permalink: /wellingtonkaikoura-incident-1978/
+  permalink: /wellington-kaikoura-incident-1978/
   short_title: Kaikoura Lights
 - basename: Ummo_photographs_196_ed7563
-  title: UmmoPhotos
+  title: Ummo Photos
   permalink: /were-the-1967-ummo-photographs-real-or-a/
-  short_title: UmmoPhotos
+  short_title: Ummo Photos
 child_links:
 - basename: Roswell_1947_c36fe7_flying_disc_press_re_464ced
   title: 1947 Timeline | Roswell 1947
@@ -749,7 +749,7 @@ next_link:
   title: Salem UFO Photo
   permalink: /salem-massachusetts-photograph-1952/
   short_title: Salem UFO Photo
-date: '2026-05-29 11:50:07 '
+date: '2026-06-08 23:18:49 '
 header:
   og_image: /assets/images/Roswell_1947_c36fe7-overview-social.jpg
   preview_image: /assets/images/Roswell_1947_c36fe7-overview.webp
@@ -781,7 +781,7 @@ The 1995 GAO review did not find a hidden alien-recovery file. It reported an ex
 There is, however, a record problem that should not be ignored. The GAO found that some Roswell Army Air Field administrative records and outgoing messages from the late 1940s had been destroyed, and that the disposition form did not show who destroyed them, when, or under what authority. That gap is often cited by Roswell proponents. It is a real archival weakness, but by itself it does not establish the existence of a recovered extraterrestrial craft; it mainly limits how complete any official reconstruction can be. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/emd-81-40.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">emd 81 40</span><span class="citation-popover-snippet">emd 81 40</span></span></span>
 
 
-<img src="{{ "/assets/images/Roswell_1947_c36fe7-Illustration-1-light.svg" | relative_url }}" alt="Roswell 1947 illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_1947_c36fe7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_1947_c36fe7-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Roswell_1947_c36fe7-Illustration-1-dark.svg" | relative_url }}" alt="Roswell 1947 illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_1947_c36fe7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_1947_c36fe7-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The witnesses: strong memories, weak timing
 
 Roswell’s later force comes largely from witnesses and second-hand accounts, especially those revived from the late 1970s onward. Jesse Marcel, the intelligence officer associated with the recovery, became central after interviews in which he challenged the weather-balloon explanation and suggested the debris was extraordinary. His later testimony helped move Roswell from a brief 1947 news oddity into the centre of modern UFO culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/3916193/roswell-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">roswell history</span><span class="citation-popover-snippet">roswell history</span></span></span>
@@ -823,7 +823,7 @@ Yet the explanation is emotionally unsatisfying to many readers because the gove
 This distinction is central to any fair reading of Roswell. “The government concealed something” is well supported. “The government concealed an alien spacecraft” is not. Confusing those two claims is one of the main reasons the case remains powerful.
 
 
-<img src="{{ "/assets/images/Roswell_1947_c36fe7-Illustration-2-light.svg" | relative_url }}" alt="Roswell 1947 illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_1947_c36fe7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_1947_c36fe7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Roswell_1947_c36fe7-Illustration-2-dark.svg" | relative_url }}" alt="Roswell 1947 illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_1947_c36fe7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_1947_c36fe7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The alien-body claims and the 1997 report
 
 Alien-body claims are not the foundation of the earliest Roswell record; they are later additions. The Air Force’s 1997 “Case Closed” report tried to account for these stories by pointing to anthropomorphic test dummies carried by high-altitude balloons, recovery operations in the New Mexico desert, a 1956 KC-97 aircraft accident, and a 1959 manned balloon mishap. According to the Air Force, events spread across years were later compressed into a supposed two- or three-day sequence in July 1947. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">The Roswell Report...</span></span></span>
@@ -863,7 +863,7 @@ But unresolved details are not the same as unresolved central cause. The central
 The most careful conclusion is therefore neither “nothing happened” nor “the case is solved in every detail”. Something did happen near Roswell in 1947: unusual debris was recovered, the military mishandled its public explanation, and later secrecy made the incident durable. The best-supported cause remains Project Mogul or closely related balloon-borne equipment, while the alien-craft interpretation remains historically influential but evidentially weak.
 
 
-<img src="{{ "/assets/images/Roswell_1947_c36fe7-Illustration-3-light.svg" | relative_url }}" alt="Roswell 1947 illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_1947_c36fe7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_1947_c36fe7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Roswell_1947_c36fe7-Illustration-3-dark.svg" | relative_url }}" alt="Roswell 1947 illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_1947_c36fe7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_1947_c36fe7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Bottom line
 
 Roswell (1947) is best understood as a Cold War balloon-recovery incident that became a UFO legend because of a mistaken or misleading press release, classified military work, incomplete records, and decades of later testimony and retelling. The official record is not flawless, and the government’s early public explanation was not fully candid. But the available documentary and technical evidence supports a classified balloon explanation far more strongly than a recovered extraterrestrial craft.

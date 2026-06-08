@@ -345,7 +345,7 @@ sibling_links:
   short_title: Higdon Contact
 - basename: CashLandrum_incident_7ad7d9
   title: Cash Landrum
-  permalink: /cashlandrum-incident-1980/
+  permalink: /cash-landrum-incident-1980/
   short_title: Cash Landrum
 - basename: Cedric_Allingham_enc_2c7f6b
   title: Allingham
@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: CiscoGrove1964
+  title: Cisco Grove1964
   permalink: /cisco-grove-incident-1964/
-  short_title: CiscoGrove1964
+  short_title: Cisco Grove1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -432,9 +432,9 @@ sibling_links:
   permalink: /fred-m-johnson-sighting-1947/
   short_title: Johnson Sighting
 - basename: Gary_Wilcox_encounte_6de9ff
-  title: WilcoxUFO
+  title: Wilcox UFO
   permalink: /gary-wilcox-encounter-1964/
-  short_title: WilcoxUFO
+  short_title: Wilcox UFO
 - basename: Gemini_4_sighting_19_9c351d
   title: Gemini 4 Sighting
   permalink: /gemini-4-sighting-1965/
@@ -524,21 +524,21 @@ sibling_links:
   permalink: /linda-cortile-abduction-1989/
   short_title: Cortile Case
 - basename: Livingston_incident_b2c293
-  title: LivingstonUFO
+  title: Livingston UFO
   permalink: /livingston-incident-1979/
-  short_title: LivingstonUFO
+  short_title: Livingston UFO
 - basename: Loch_Raven_Dam_incid_b0e5b6
-  title: LochRavenUFO
+  title: Loch Raven UFO
   permalink: /loch-raven-dam-incident-1958/
-  short_title: LochRavenUFO
+  short_title: Loch Raven UFO
 - basename: Lubbock_Lights_sight_4eabd8
   title: Lubbock Lights
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: MagentaCrash1933
+  title: Magenta Crash1933
   permalink: /magenta-italy-crash-1933/
-  short_title: MagentaCrash1933
+  short_title: Magenta Crash1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -548,9 +548,9 @@ sibling_links:
   permalink: /maury-island-incident-1947/
   short_title: Maury Island
 - basename: McMinnville_photogra_4e1af3
-  title: McMinnville Photos
-  permalink: /mcminnville-photographs-1950/
-  short_title: McMinnville Photos
+  title: Mc Minnville Photos
+  permalink: /mc-minnville-photographs-1950/
+  short_title: Mc Minnville Photos
 - basename: Middle_East_UAP_vide_4a6c55
   title: Middle East Orb
   permalink: /middle-east-uap-video-2022/
@@ -568,9 +568,9 @@ sibling_links:
   permalink: /oloron-angel-hair-incident-1952/
   short_title: Oloron Angel Hair
 - basename: Operation_Mainbrace_06bcd8
-  title: MainbraceSightings
+  title: Mainbrace Sightings
   permalink: /operation-mainbrace-sightings-1952/
-  short_title: MainbraceSightings
+  short_title: Mainbrace Sightings
 - basename: Orfeo_Angelucci_enco_bef29a
   title: Angelucci
   permalink: /orfeo-angelucci-encounter-1955/
@@ -620,17 +620,17 @@ sibling_links:
   permalink: /socorro-sighting-by-lonnie-zamora-1964/
   short_title: Socorro UFO
 - basename: SpaurNeff_Ravenna_si_4977ac
-  title: RavennaUFO
-  permalink: /spaurneff-ravenna-sighting-1966/
-  short_title: RavennaUFO
+  title: Ravenna UFO
+  permalink: /spaur-neff-ravenna-sighting-1966/
+  short_title: Ravenna UFO
 - basename: Stanford_Kentucky_ab_a91f06
   title: Stanford Abduction
   permalink: /stanford-kentucky-abduction-1976/
   short_title: Stanford Abduction
 - basename: Stephen_Darbishire_p_f80223
-  title: DarbishireUFO
+  title: Darbishire UFO
   permalink: /stephen-darbishire-photograph-1954/
-  short_title: DarbishireUFO
+  short_title: Darbishire UFO
 - basename: Steven_Michalak_enco_1bbf94
   title: Falcon Lake
   permalink: /steven-michalak-encounter-1967/
@@ -644,9 +644,9 @@ sibling_links:
   permalink: /thomas-f-mantell-incident-1948/
   short_title: Mantell
 - basename: Topcliffe_incident_1_80cbf4
-  title: TopcliffeUFO
+  title: Topcliffe UFO
   permalink: /topcliffe-incident-1952/
-  short_title: TopcliffeUFO
+  short_title: Topcliffe UFO
 - basename: Trans-en-Provence_en_439c97
   title: Trans en Provence
   permalink: /trans-en-provence-encounter-1981/
@@ -668,9 +668,9 @@ sibling_links:
   permalink: /truman-bethurum-contact-1954/
   short_title: Bethurum
 - basename: Tully_saucer_nest_in_b9d0b0
-  title: TullyUFO
+  title: Tully UFO
   permalink: /tully-saucer-nest-incident-1966/
-  short_title: TullyUFO
+  short_title: Tully UFO
 - basename: Tunguska_event_1908_efda6f
   title: Tunguska
   permalink: /tunguska-event-1908/
@@ -680,9 +680,9 @@ sibling_links:
   permalink: /ubatuba-incident-1957/
   short_title: Ubatuba
 - basename: USS_Nimitz_Tic_Tac_v_83266a
-  title: NimitzUAP
+  title: Nimitz UAP
   permalink: /uss-nimitz-tic-tac-video-2004/
-  short_title: NimitzUAP
+  short_title: Nimitz UAP
 - basename: USS_Russell_video_20_3188a1
   title: USS Russell
   permalink: /uss-russell-video-2019/
@@ -704,9 +704,9 @@ sibling_links:
   permalink: /valentich-disappearance-1978/
   short_title: Valentich
 - basename: Voronezh_Russia_land_e13f34
-  title: VoronezhLanding
+  title: Voronezh Landing
   permalink: /voronezh-russia-landing-1989/
-  short_title: VoronezhLanding
+  short_title: Voronezh Landing
 - basename: Walesville_Incident_cbceb2
   title: Walesville
   permalink: /walesville-incident-1954/
@@ -717,12 +717,12 @@ sibling_links:
   short_title: Washington Saucers
 - basename: WellingtonKaikoura_i_c1d17f
   title: Kaikoura Lights
-  permalink: /wellingtonkaikoura-incident-1978/
+  permalink: /wellington-kaikoura-incident-1978/
   short_title: Kaikoura Lights
 - basename: Ummo_photographs_196_ed7563
-  title: UmmoPhotos
+  title: Ummo Photos
   permalink: /were-the-1967-ummo-photographs-real-or-a/
-  short_title: UmmoPhotos
+  short_title: Ummo Photos
 child_links:
 - basename: Gordon_Cooper_sighti_93b9f6_faith7_record_vs_leg_b210c8
   title: Faith 7 Record | Gordon Cooper sightings 1963
@@ -749,7 +749,7 @@ next_link:
   title: Gorman Dogfight
   permalink: /gorman-dogfight-near-fargo-1948/
   short_title: Gorman Dogfight
-date: '2026-05-29 12:16:54 '
+date: '2026-06-08 23:35:37 '
 header:
   og_image: /assets/images/Gordon_Cooper_sighti_93b9f6-overview-social.jpg
   preview_image: /assets/images/Gordon_Cooper_sighti_93b9f6-overview.webp
@@ -773,7 +773,7 @@ The primary source for any alleged in-flight sighting is the MA-9 communications
 That matters because the transcript does not show Cooper reporting a saucer, structured craft, intelligently controlled object, or UFO. Searches within the transcript for terms such as “UFO”, “object”, “unidentified” and “bogey” return no matching text. The relevant strange-looking observation in the first orbit is his remark that he was seeing “John’s fireflies” drifting away from the spacecraft, with some appearing “white, very whitish, almost a green”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/wp-content/uploads/2025/07/cooperlg-5-21-98.pdf?emrc=b20bd9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">INTERVIEW TRANSCRIPT</span><span class="citation-popover-snippet">INTERVIEW TRANSCRIPT</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/history/coopers-faith-7-mission-closes-out-project-mercury/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">coopers faith 7 mission closes out project mercury</span><span class="citation-popover-snippet">coopers faith 7 mission closes out project mercury</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/category/missions/project-mercury/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">project mercury</span><span class="citation-popover-snippet">project mercury</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/wp-content/uploads/2023/02/mercury-program-subject-files-collection-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">mercury program subject files collection 1</span><span class="citation-popover-snippet">mercury program subject files collection 1</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/wp-content/uploads/2026/01/ma09-tec.pdf?emrc=786b5f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">FO R MERCURY-ATLASNO. 9 (MA-O)PART I</span><span class="citation-popover-snippet">FO R MERCURY-ATLASNO. 9 (MA-O)PART I</span></span></span>
 
 
-<img src="{{ "/assets/images/Gordon_Cooper_sighti_93b9f6-Illustration-1-light.svg" | relative_url }}" alt="Gordon Cooper sightings 1963 illustration 1" data-theme-src-dark="{{ "/assets/images/Gordon_Cooper_sighti_93b9f6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gordon_Cooper_sighti_93b9f6-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Gordon_Cooper_sighti_93b9f6-Illustration-1-dark.svg" | relative_url }}" alt="Gordon Cooper sightings 1963 illustration 1" data-theme-src-dark="{{ "/assets/images/Gordon_Cooper_sighti_93b9f6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gordon_Cooper_sighti_93b9f6-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The “fireflies” were not a new UFO report
 
 The most concrete 1963 sighting language in the record concerns the “fireflies”. Cooper’s phrasing is important: he did not introduce them as an unknown craft. He called them “John’s fireflies”, a reference to John Glenn’s earlier orbital observations during Friendship 7. In Faith 7’s transcript, Cooper said the particles appeared to depart from the spacecraft and drift rearwards; later in the flight he again described fireflies coming off the spacecraft, and at one point said thruster firings produced a shower of them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/category/missions/gemini/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
@@ -794,7 +794,7 @@ Cooper’s later public image therefore created fertile ground for a misleading 
 A second source of confusion is the 1957 Edwards Air Force Base story. In Cooper’s later accounts, while stationed at Edwards, a camera crew allegedly filmed a saucer-like object landing on a dry lake bed; Cooper said he viewed the film before it was sent up official channels and never saw it again. That claim is often cited in UFO literature, but it was not a 1963 spaceflight event. It belongs to a separate earlier branch of the Cooper dossier and should not be merged with Faith 7 unless clearly labelled as background.
 
 
-<img src="{{ "/assets/images/Gordon_Cooper_sighti_93b9f6-Illustration-2-light.svg" | relative_url }}" alt="Gordon Cooper sightings 1963 illustration 2" data-theme-src-dark="{{ "/assets/images/Gordon_Cooper_sighti_93b9f6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gordon_Cooper_sighti_93b9f6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Gordon_Cooper_sighti_93b9f6-Illustration-2-dark.svg" | relative_url }}" alt="Gordon Cooper sightings 1963 illustration 2" data-theme-src-dark="{{ "/assets/images/Gordon_Cooper_sighti_93b9f6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gordon_Cooper_sighti_93b9f6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What official investigations can and cannot settle
 
 Project Blue Book is relevant to the Cooper story, but mostly as context rather than as a decisive record for the 1963 Mercury claim. The United States Air Force says that from 1947 to 1969 it investigated UFO reports under Project Blue Book, headquartered at Wright-Patterson Air Force Base, and that 701 of 12,618 reports remained “unidentified” when the project ended. The National Archives confirms that textual Project Blue Book records, with names excluded, are available for research. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">briefing guide 12 07 12</span><span class="citation-popover-snippet">briefing guide 12 07 12</span></span></span>
@@ -815,7 +815,7 @@ The difficulty is that many of the strongest UFO-related Cooper stories rest on 
 That does not justify dismissing Cooper as a person or astronaut. It does justify separating his mission-era records from later UFO narratives. The higher the claim — a suppressed astronaut UFO sighting in orbit — the more important it becomes to ask whether there is a dated transcript entry, mission report, photograph, radar record, or independent corroborating witness. For the 1963 Mercury claim, that evidential chain is missing.
 
 
-<img src="{{ "/assets/images/Gordon_Cooper_sighti_93b9f6-Illustration-3-light.svg" | relative_url }}" alt="Gordon Cooper sightings 1963 illustration 3" data-theme-src-dark="{{ "/assets/images/Gordon_Cooper_sighti_93b9f6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gordon_Cooper_sighti_93b9f6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Gordon_Cooper_sighti_93b9f6-Illustration-3-dark.svg" | relative_url }}" alt="Gordon Cooper sightings 1963 illustration 3" data-theme-src-dark="{{ "/assets/images/Gordon_Cooper_sighti_93b9f6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gordon_Cooper_sighti_93b9f6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Best-supported reading of the 1963 sightings
 
 The most defensible conclusion is that the “Gordon Cooper sightings (1963)” label is misleading if it implies a confirmed UFO encounter during Faith 7. What is documented is a landmark Mercury flight during which Cooper observed “fireflies” near the spacecraft, described them in ordinary mission communications, and did not report a structured unidentified craft. NASA’s mission facts and communications transcript support that limited account. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/wp-content/uploads/static/history/rg_finding_aids/rg_9_authors_march2020.xlsx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/wp-content/uploads/2023/04/sp-4003.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">sp 4003</span><span class="citation-popover-snippet">sp 4003</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/people/leroy-gordon-cooper-jr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">Leroy Gordon Cooper, Jr.Born</span><span class="citation-popover-snippet">Leroy Gordon Cooper, Jr.Born</span></span></span>

@@ -7,22 +7,22 @@ sibling_basenames:
 - SpaurNeff_Ravenna_si_4977ac_buchert_photograph_a_9a4c90
 - SpaurNeff_Ravenna_si_4977ac_witness_testimony_an_49ba11
 tags:
-- spaurneff-ravenna-sighting-1966
+- spaur-neff-ravenna-sighting-1966
 - official-report
 keywords:
-- spaurneff-ravenna-sighting-1966
+- spaur-neff-ravenna-sighting-1966
 - official-report
-affiliate_category: spaurneff-ravenna-sighting-1966
+affiliate_category: spaur-neff-ravenna-sighting-1966
 show_ads: true
 description: Review the Air Force's investigation, satellite, Venus, and photographic defect explanations for the Ravenna sighting.
 hero_summary: Review the Air Force's investigation, satellite, Venus, and photographic defect explanations for the Ravenna sighting.
 layout: default
 permalink: /official-report/
 sidebar_expanded_urls:
-- /spaurneff-ravenna-sighting-1966/
+- /spaur-neff-ravenna-sighting-1966/
 nav_short_title: Official Report
 title: What Did Project Blue Book Conclude About Ravenna?
-title_full: What Did Project Blue Book Conclude About Ravenna? | RavennaUFO
+title_full: What Did Project Blue Book Conclude About Ravenna? | Ravenna UFO
 display_title_short: Official Report
 display_title: Official Report
 heading_title: What Did Project Blue Book Conclude About Ravenna?
@@ -197,20 +197,20 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: RavennaUFO
-parent_permalink: /spaurneff-ravenna-sighting-1966/
-parent_nav_short_title: RavennaUFO
+parent_title: Ravenna UFO
+parent_permalink: /spaur-neff-ravenna-sighting-1966/
+parent_nav_short_title: Ravenna UFO
 parent_heading_title: What Really Happened During the Ravenna UFO Chase?
 ancestor_links:
 - basename: SpaurNeff_Ravenna_si_4977ac
-  title: RavennaUFO
-  permalink: /spaurneff-ravenna-sighting-1966/
-  short_title: RavennaUFO
+  title: Ravenna UFO
+  permalink: /spaur-neff-ravenna-sighting-1966/
+  short_title: Ravenna UFO
 breadcrumb_links:
 - basename: SpaurNeff_Ravenna_si_4977ac
-  title: RavennaUFO
-  permalink: /spaurneff-ravenna-sighting-1966/
-  short_title: RavennaUFO
+  title: Ravenna UFO
+  permalink: /spaur-neff-ravenna-sighting-1966/
+  short_title: Ravenna UFO
 sibling_links:
 - basename: SpaurNeff_Ravenna_si_4977ac_buchert_photograph_a_9a4c90
   title: Photograph Debate | What Really Happened During the Ravenna UFO Chase?
@@ -224,16 +224,16 @@ sibling_links:
   heading_title: How Credible Were the Ravenna UFO Witnesses?
 up_link:
   basename: SpaurNeff_Ravenna_si_4977ac
-  title: RavennaUFO
-  permalink: /spaurneff-ravenna-sighting-1966/
-  short_title: RavennaUFO
+  title: Ravenna UFO
+  permalink: /spaur-neff-ravenna-sighting-1966/
+  short_title: Ravenna UFO
 next_link:
   basename: SpaurNeff_Ravenna_si_4977ac_buchert_photograph_a_9a4c90
   title: Photograph Debate | What Really Happened During the Ravenna UFO Chase?
   permalink: /photograph-debate/
   short_title: Photograph Debate
   heading_title: Do the Ravenna UFO Photographs Prove an Unknown Object?
-date: '2026-05-29 12:14:38 '
+date: '2026-06-08 23:34:35 '
 header:
   og_image: /assets/images/SpaurNeff_Ravenna_si_4977ac_project_blue_book_ra_e57cfe-Illustration-1-social.jpg
   preview_image: /assets/images/SpaurNeff_Ravenna_si_4977ac_project_blue_book_ra_e57cfe-Illustration-1.webp
@@ -245,7 +245,7 @@ image: /assets/images/SpaurNeff_Ravenna_si_4977ac_project_blue_book_ra_e57cfe-Il
 In the aftermath of the early‑morning **17 April 1966 Ravenna/Mantua (Ohio) sighting**, the U.S. Air Force’s **Project Blue Book** — its official UFO investigation programme — produced a formal case file and attempted to account for the extraordinary reports by police officers. The resulting Blue Book conclusion remains one of the central controversies in this incident’s history, precisely because the official explanations (satellite, Venus, and photographic defects) appear to diverge sharply from the detailed observations and alarms expressed by law‑enforcement witnesses. This page examines **what Project Blue Book concluded about Ravenna**, how those explanations were derived, and how they were received publicly and critically within the UFO research community.
 
 
-<img src="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac_project_blue_book_ra_e57cfe-Illustration-1-light.svg" | relative_url }}" alt="Official Report illustration 1" data-theme-src-dark="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac_project_blue_book_ra_e57cfe-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac_project_blue_book_ra_e57cfe-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac_project_blue_book_ra_e57cfe-Illustration-1-dark.svg" | relative_url }}" alt="Official Report illustration 1" data-theme-src-dark="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac_project_blue_book_ra_e57cfe-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac_project_blue_book_ra_e57cfe-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Blue Book Case 7104469: The Official File
 
 Project Blue Book’s **Case 7104469** records the Portage County chase and related witness material in a 90‑page document archived in the U.S. National Archives. The sighting reports were submitted by Deputy Sheriffs **Dale F. Spaur** and **Wilbur L. Neff**, along with additional eyewitness statements and a civilian photograph taken by Mantua Police Chief **Gerald F. Buchert**. The file documents a multi‑hour event in which officers reported tracking a bright, silvery object that moved at varying speed and altitude over an extended route from Ohio into Pennsylvania. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoscans.com/1966-04-7104469-ravenna-mantua-ohio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoscans.com">[UFOScans.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoscans.com</span><span class="citation-popover-title">1966 04 7104469 ravenna mantua ohio</span><span class="citation-popover-snippet">Project 10073 Record: UFO Sighting 17 April 1966, Ravenna, Mantua, Ohio | UFOScans.comApril 17, 1966...</span><span class="citation-popover-meta">Published: April 17, 1966</span></span></span>
@@ -268,7 +268,7 @@ The photographic evidence submitted by Chief Buchert was another key factor in t
 This aspect of the official explanation illustrates how Project Blue Book often treated visual material that did not meet its internal criteria for analytical clarity: ambiguous photographs, unless clearly tied to an identifiable object, were frequently explained via technical flaws rather than unusual aerial phenomena.
 
 
-<img src="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac_project_blue_book_ra_e57cfe-Illustration-2-light.svg" | relative_url }}" alt="Official Report illustration 2" data-theme-src-dark="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac_project_blue_book_ra_e57cfe-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac_project_blue_book_ra_e57cfe-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac_project_blue_book_ra_e57cfe-Illustration-2-dark.svg" | relative_url }}" alt="Official Report illustration 2" data-theme-src-dark="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac_project_blue_book_ra_e57cfe-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac_project_blue_book_ra_e57cfe-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Hector Quintanilla’s Role and Blue Book’s Investigative Approach
 
 At the time of the Ravenna sighting, **Major Hector Quintanilla** was director of Project Blue Book, a period in Blue Book’s history often criticised by UFO researchers for its decisiveness in favouring conventional identifications. According to historical accounts of Blue Book operations, Quintanilla’s leadership was associated with what some have characterised as a debunking emphasis — swift closure on cases with non‑extraordinary explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
@@ -285,7 +285,7 @@ The Air Force explanation of a satellite and Venus — combined with a dismissal
 Within UFO research circles, the Ravenna case has been repeatedly cited as an example of **Project Blue Book’s overly rapid or unsatisfactory closure practices**, especially when confronting credible witnesses such as police officers. Analysts have contrasted the rich, detailed testimony and apparent movement characteristics with the simplicity of the official identification, noting that a fixed astronomical object like Venus could not account for the range of observed behaviours reported by Spaur and his colleagues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
 
-<img src="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac_project_blue_book_ra_e57cfe-Illustration-3-light.svg" | relative_url }}" alt="Official Report illustration 3" data-theme-src-dark="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac_project_blue_book_ra_e57cfe-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac_project_blue_book_ra_e57cfe-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac_project_blue_book_ra_e57cfe-Illustration-3-dark.svg" | relative_url }}" alt="Official Report illustration 3" data-theme-src-dark="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac_project_blue_book_ra_e57cfe-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac_project_blue_book_ra_e57cfe-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Official Explanation versus Witness Claims
 
 Blue Book’s “satellite followed by Venus” explanation, alongside a photographic defect ruling, represents the Air Force’s attempt to reconcile the incident within known natural and man‑made phenomena. However, this official account remains contested because:
@@ -321,27 +321,27 @@ Although Project Blue Book itself was terminated in 1969 and its records archive
 
     <article class="fr-search-card">
       <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Ravenna UFO guide</h4>
+      <h4 class="fr-search-title">UFO investigation books</h4>
       <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Ravenna+UFO+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
       </a>
     </article>
 
     <article class="fr-search-card">
       <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO research books</h4>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
       <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
       </a>
     </article>
 
     <article class="fr-search-card">
       <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
+      <h4 class="fr-search-title">UAP investigation books</h4>
       <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
       </a>
     </article>

@@ -239,7 +239,7 @@ next_link:
   permalink: /witness-report/
   short_title: Witness Report
   heading_title: How Strong Was Carter's UFO Report?
-date: '2026-05-29 11:57:16 '
+date: '2026-06-08 23:23:42 '
 header:
   og_image: /assets/images/Jimmy_Carter_sightin_759215_date_timeline_deeb30-Illustration-1-social.jpg
   preview_image: /assets/images/Jimmy_Carter_sightin_759215_date_timeline_deeb30-Illustration-1.webp
@@ -251,7 +251,7 @@ image: /assets/images/Jimmy_Carter_sightin_759215_date_timeline_deeb30-Illustrat
 The most important factual correction in the Jimmy Carter UFO case is probably not about what was seen, but when it was seen. Carter’s 1973 UFO report placed the event in October 1969. Later investigators, however, found strong evidence that the sighting almost certainly occurred on 6 January 1969 instead. That shift matters because astronomical positions, weather conditions, and military launch activity can only be checked accurately against a specific date and time. Once the timeline moved from a vague autumn evening to a likely January night in southwest Georgia, the case became far easier to test against real-world [explanations]({{ 'explanations-4b988c/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span>
 
 
-<img src="{{ "/assets/images/Jimmy_Carter_sightin_759215_date_timeline_deeb30-Illustration-1-light.svg" | relative_url }}" alt="Timeline illustration 1" data-theme-src-dark="{{ "/assets/images/Jimmy_Carter_sightin_759215_date_timeline_deeb30-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jimmy_Carter_sightin_759215_date_timeline_deeb30-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Jimmy_Carter_sightin_759215_date_timeline_deeb30-Illustration-1-dark.svg" | relative_url }}" alt="Timeline illustration 1" data-theme-src-dark="{{ "/assets/images/Jimmy_Carter_sightin_759215_date_timeline_deeb30-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jimmy_Carter_sightin_759215_date_timeline_deeb30-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The date correction also changes how the reliability of the testimony is interpreted. Carter’s account remains notable because he was a future US president, a trained naval officer, and a witness who openly acknowledged uncertainty rather than insisting on extraterrestrial conclusions. But the chronology problem demonstrates how retrospective memory can drift over several years, even when the witness is sincere. In this case, a mistaken month may have unintentionally transformed an explainable sky event into a more mysterious one.
 
 ## The October Date in Carter’s Report
@@ -308,7 +308,7 @@ Supporters of the Venus explanation point to several features in Carter’s own 
 Critics of the Venus theory counter that Carter reported apparent approach-and-retreat motion and believed multiple observers watched the object for many minutes. But apparent movement is common in astronomical misidentifications, especially when viewers observe a bright object against sparse nighttime reference points.
 
 
-<img src="{{ "/assets/images/Jimmy_Carter_sightin_759215_date_timeline_deeb30-Illustration-2-light.svg" | relative_url }}" alt="Timeline illustration 2" data-theme-src-dark="{{ "/assets/images/Jimmy_Carter_sightin_759215_date_timeline_deeb30-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jimmy_Carter_sightin_759215_date_timeline_deeb30-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Jimmy_Carter_sightin_759215_date_timeline_deeb30-Illustration-2-dark.svg" | relative_url }}" alt="Timeline illustration 2" data-theme-src-dark="{{ "/assets/images/Jimmy_Carter_sightin_759215_date_timeline_deeb30-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jimmy_Carter_sightin_759215_date_timeline_deeb30-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The barium cloud hypothesis
 
 The January correction also opened the door to a more specialised explanation involving atmospheric experiments launched from Eglin Air Force Base in Florida.
@@ -358,7 +358,7 @@ The Carter case therefore occupies an unusual middle ground:
 That balance explains why the sighting remains historically interesting even though many investigators regard it as probably resolved.
 
 
-<img src="{{ "/assets/images/Jimmy_Carter_sightin_759215_date_timeline_deeb30-Illustration-3-light.svg" | relative_url }}" alt="Timeline illustration 3" data-theme-src-dark="{{ "/assets/images/Jimmy_Carter_sightin_759215_date_timeline_deeb30-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jimmy_Carter_sightin_759215_date_timeline_deeb30-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Jimmy_Carter_sightin_759215_date_timeline_deeb30-Illustration-3-dark.svg" | relative_url }}" alt="Timeline illustration 3" data-theme-src-dark="{{ "/assets/images/Jimmy_Carter_sightin_759215_date_timeline_deeb30-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jimmy_Carter_sightin_759215_date_timeline_deeb30-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the January Correction Reshaped the Case
 
 Before the chronology revision, the Carter sighting could be treated as an open-ended mystery with limited opportunities for verification. After the correction, the event became a testable historical incident tied to a specific evening, location, and documented schedule.

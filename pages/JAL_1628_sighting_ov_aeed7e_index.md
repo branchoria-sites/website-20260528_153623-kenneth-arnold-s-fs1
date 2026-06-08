@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /jal-1628-sighting-ov-aeed7e-index/
 description: Focused pages that expand on JAL 1628 sighting over Alaska 1986.
-date: '2026-05-29'
+date: '2026-06-08'
 layout: default
 parent_basename: JAL_1628_sighting_ov_aeed7e
 parent_title: JAL 1628 sighting over Alaska 1986

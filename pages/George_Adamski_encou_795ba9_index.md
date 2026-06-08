@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /george-adamski-encou-795ba9-index/
 description: Focused pages that expand on George Adamski encounters 1953.
-date: '2026-05-29'
+date: '2026-06-08'
 layout: default
 parent_basename: George_Adamski_encou_795ba9
 parent_title: George Adamski encounters 1953

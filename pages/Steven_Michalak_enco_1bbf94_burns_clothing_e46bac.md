@@ -233,7 +233,7 @@ next_link:
   permalink: /landing-site/
   short_title: Landing Site
   heading_title: Why the Landing Site Remains So Contested
-date: '2026-05-29 12:02:00 '
+date: '2026-06-08 23:27:38 '
 header:
   og_image: /assets/images/Steven_Michalak_enco_1bbf94_burns_clothing_e46bac-Illustration-1-social.jpg
   preview_image: /assets/images/Steven_Michalak_enco_1bbf94_burns_clothing_e46bac-Illustration-1.webp
@@ -245,7 +245,7 @@ image: /assets/images/Steven_Michalak_enco_1bbf94_burns_clothing_e46bac-Illustra
 The Falcon Lake incident became famous largely because Steven Michalak did not just describe a strange object: he showed investigators visible burns, reported weeks of illness, and preserved damaged clothing that appeared to support part of his story. Those injuries gave the case a seriousness that many UFO claims lack. Police officers, doctors, reporters and later investigators all confirmed that Michalak had genuine physical damage shortly after the alleged encounter in May 1967. What remains disputed is not whether he was hurt, but what caused those injuries.
 
 
-<img src="{{ "/assets/images/Steven_Michalak_enco_1bbf94_burns_clothing_e46bac-Illustration-1-light.svg" | relative_url }}" alt="Burn Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/Steven_Michalak_enco_1bbf94_burns_clothing_e46bac-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Steven_Michalak_enco_1bbf94_burns_clothing_e46bac-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Steven_Michalak_enco_1bbf94_burns_clothing_e46bac-Illustration-1-dark.svg" | relative_url }}" alt="Burn Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/Steven_Michalak_enco_1bbf94_burns_clothing_e46bac-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Steven_Michalak_enco_1bbf94_burns_clothing_e46bac-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Supporters of the case point to the unusual pattern of burns, the persistence of symptoms and the survival of the scorched shirt as evidence that something extraordinary happened near Falcon Lake. Skeptics counter that the injuries were real but not necessarily mysterious, and that later retellings exaggerated aspects of the medical evidence. The burns therefore sit at the centre of the case: compelling enough to keep the incident alive for decades, but not strong enough to settle what actually happened. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/canadian-ufo-collection-falcon-lake-incident.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">canadian ufo collection falcon lake incident</span><span class="citation-popover-snippet">SpaceThousands of Government UFO Reports Now Available at...14 Dec 2019 — The attack set Michalak&#x27;s shirt and hat ablaze, and left him w...</span></span></span>
 
 ## What doctors and investigators actually recorded
@@ -278,7 +278,7 @@ The garments prove that heat damage occurred. They do not independently prove th
 Another complication is that accounts of the clothing evolved over time. Early reports focused mainly on scorching and burns. Later popular retellings increasingly described precise matching patterns between the vent and Michalak’s injuries. That shift does not necessarily mean the story was fabricated, but it illustrates how memorable visual elements can become sharper and more dramatic through repetition over decades.
 
 
-<img src="{{ "/assets/images/Steven_Michalak_enco_1bbf94_burns_clothing_e46bac-Illustration-2-light.svg" | relative_url }}" alt="Burn Evidence illustration 2" data-theme-src-dark="{{ "/assets/images/Steven_Michalak_enco_1bbf94_burns_clothing_e46bac-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Steven_Michalak_enco_1bbf94_burns_clothing_e46bac-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Steven_Michalak_enco_1bbf94_burns_clothing_e46bac-Illustration-2-dark.svg" | relative_url }}" alt="Burn Evidence illustration 2" data-theme-src-dark="{{ "/assets/images/Steven_Michalak_enco_1bbf94_burns_clothing_e46bac-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Steven_Michalak_enco_1bbf94_burns_clothing_e46bac-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The grid-burn claim in later retellings
 
 The “grid burns” became the defining image of the Falcon Lake case. Photographs showing rows of circular or square-like marks on Michalak’s abdomen appeared in newspapers, television documentaries and UFO books for decades afterwards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolved.com/gallery/falcon-lake-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Falcon Lake Ufo</span><span class="citation-popover-snippet">No one could explain the source of the strange burns on his torso. Six weeks after...Read more...</span></span></span>
@@ -328,7 +328,7 @@ Several problems limit how strongly the burns can be interpreted:
 That unresolved tension is precisely why the Falcon Lake incident remains influential. The evidence is strong enough to sustain decades of debate, but incomplete enough that both believers and skeptics can still point to genuine gaps in the record.
 
 
-<img src="{{ "/assets/images/Steven_Michalak_enco_1bbf94_burns_clothing_e46bac-Illustration-3-light.svg" | relative_url }}" alt="Burn Evidence illustration 3" data-theme-src-dark="{{ "/assets/images/Steven_Michalak_enco_1bbf94_burns_clothing_e46bac-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Steven_Michalak_enco_1bbf94_burns_clothing_e46bac-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Steven_Michalak_enco_1bbf94_burns_clothing_e46bac-Illustration-3-dark.svg" | relative_url }}" alt="Burn Evidence illustration 3" data-theme-src-dark="{{ "/assets/images/Steven_Michalak_enco_1bbf94_burns_clothing_e46bac-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Steven_Michalak_enco_1bbf94_burns_clothing_e46bac-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell fr-section-shell-fallback">

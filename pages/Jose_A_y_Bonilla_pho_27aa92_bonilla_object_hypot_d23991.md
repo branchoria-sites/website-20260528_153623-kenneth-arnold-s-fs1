@@ -239,7 +239,7 @@ next_link:
   permalink: /photographic-evidence/
   short_title: Photographic Evidence
   heading_title: What Do the 1883 Bonilla Photographs Show?
-date: '2026-05-29 12:20:08 '
+date: '2026-06-08 23:38:03 '
 header:
   og_image: /assets/images/Jose_A_y_Bonilla_pho_27aa92_bonilla_object_hypot_d23991-Illustration-1-social.jpg
   preview_image: /assets/images/Jose_A_y_Bonilla_pho_27aa92_bonilla_object_hypot_d23991-Illustration-1.webp
@@ -251,7 +251,7 @@ image: /assets/images/Jose_A_y_Bonilla_pho_27aa92_bonilla_object_hypot_d23991-Il
 The question that has animated more than a century of discussion about the Bonilla observation pertains not to UFO folklore but to the physical nature of the hundreds of small bodies recorded by Mexican astronomer José A. y Bonilla on **12–13 August 1883**. What did Bonilla’s photographs actually show? Researchers have proposed competing explanations that range from mundane atmospheric artefacts to dramatic celestial events. This article examines these competing hypotheses, assesses their plausibility, and considers the scientific debates around them.
 
 
-<img src="{{ "/assets/images/Jose_A_y_Bonilla_pho_27aa92_bonilla_object_hypot_d23991-Illustration-1-light.svg" | relative_url }}" alt="Object Hypotheses illustration 1" data-theme-src-dark="{{ "/assets/images/Jose_A_y_Bonilla_pho_27aa92_bonilla_object_hypot_d23991-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jose_A_y_Bonilla_pho_27aa92_bonilla_object_hypot_d23991-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Jose_A_y_Bonilla_pho_27aa92_bonilla_object_hypot_d23991-Illustration-1-dark.svg" | relative_url }}" alt="Object Hypotheses illustration 1" data-theme-src-dark="{{ "/assets/images/Jose_A_y_Bonilla_pho_27aa92_bonilla_object_hypot_d23991-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jose_A_y_Bonilla_pho_27aa92_bonilla_object_hypot_d23991-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Skeptical Interpretations: Birds, Insects and Dust
 
 When Bonilla’s observations were first published in the French astronomy journal *L’Astronomie* in **1886**, the editorial response was cautious and dismissive of exotic interpretation. The journal’s editors suggested that Bonilla may simply have seen **birds, insects, or high-altitude dust** passing close to the telescope’s objective, appearing against the solar disc owing to projection or optical artefacts. This reflected a conservative approach to unexplained transits in an era before modern solar imaging and space-based observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bonilla_observation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bonilla observation</span><span class="citation-popover-snippet">Bonilla observation</span></span></span>
@@ -284,7 +284,7 @@ The essence of the fragmented‑comet model is straightforward:
 This hypothesis attempts to account for the **large number of discrete objects**, their misty appearance (cometary material typically has a surrounding coma of gas and dust), and the absence of corroboration from other observatories due to alignment geometry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaas.org/taxonomy/term/10/did-comet-almost-cause-doomsday-1883" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaas.org">[AAAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaas.org</span><span class="citation-popover-title">did comet almost cause doomsday 1883</span><span class="citation-popover-snippet">AAASDid a comet almost cause Doomsday in 1883? | American Association for the Advancement of Science (AAAS)November 2, 2011...</span><span class="citation-popover-meta">Published: November 2, 2011</span></span></span>
 
 
-<img src="{{ "/assets/images/Jose_A_y_Bonilla_pho_27aa92_bonilla_object_hypot_d23991-Illustration-2-light.svg" | relative_url }}" alt="Object Hypotheses illustration 2" data-theme-src-dark="{{ "/assets/images/Jose_A_y_Bonilla_pho_27aa92_bonilla_object_hypot_d23991-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jose_A_y_Bonilla_pho_27aa92_bonilla_object_hypot_d23991-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Jose_A_y_Bonilla_pho_27aa92_bonilla_object_hypot_d23991-Illustration-2-dark.svg" | relative_url }}" alt="Object Hypotheses illustration 2" data-theme-src-dark="{{ "/assets/images/Jose_A_y_Bonilla_pho_27aa92_bonilla_object_hypot_d23991-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jose_A_y_Bonilla_pho_27aa92_bonilla_object_hypot_d23991-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Challenges and Counterarguments
 
 Despite its dramatic implications, the comet‑fragment interpretation has attracted significant scepticism from astronomers. One key critic, astrophysicist **Phil Plait**, pointed out several difficulties with the model. First, cometary debris tends to disperse over vast distances once a nucleus breaks up, making the notion of a tightly collimated stream that would be visible only from a narrow location on Earth **highly improbable**. Plait argues that such a fragmented and constrained formation is inconsistent with known comet dynamics and with the absence of reports of meteoric phenomena that would accompany massive nearby debris. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discovermagazine.com/the-sciences/did-a-fragmenting-comet-nearly-hit-the-earth-in-1883-color-me-very-skeptical" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovermagazine.com">[Discover Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovermagazine.com</span><span class="citation-popover-title">did a fragmenting comet nearly hit the earth in 1883 color me very skeptical</span><span class="citation-popover-snippet">Discover MagazineDid a fragmenting comet nearly hit the Earth in 1883? Color me very skeptical | Discover Magazine...</span></span></span>
@@ -306,7 +306,7 @@ The debate over the nature of the objects in Bonilla’s 1883 observations illus
 Contemporary consensus among historians of astronomy tends to treat the comet hypothesis as an **interesting but unconfirmed model**, while recognising that Bonilla likely did observe a genuine physical transit phenomenon rather than purely instrumental defects. What remains clear is that the objects Bonilla photographed continue to stimulate discussion about how astronomers distinguish between near‑field, instrument‑related effects and genuine celestial events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sis-group.org.uk/news/2023/01/12/bonilla/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sis-group.org.uk">[Society for Interdisciplinary Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sis-group.org.uk</span><span class="citation-popover-title">Society for Interdisciplinary Studies Bonilla</span><span class="citation-popover-snippet">Society for Interdisciplinary StudiesBonilla - Society for Interdisciplinary StudiesJanuary 12, 2023...</span><span class="citation-popover-meta">Published: January 12, 2023</span></span></span>
 
 
-<img src="{{ "/assets/images/Jose_A_y_Bonilla_pho_27aa92_bonilla_object_hypot_d23991-Illustration-3-light.svg" | relative_url }}" alt="Object Hypotheses illustration 3" data-theme-src-dark="{{ "/assets/images/Jose_A_y_Bonilla_pho_27aa92_bonilla_object_hypot_d23991-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jose_A_y_Bonilla_pho_27aa92_bonilla_object_hypot_d23991-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Jose_A_y_Bonilla_pho_27aa92_bonilla_object_hypot_d23991-Illustration-3-dark.svg" | relative_url }}" alt="Object Hypotheses illustration 3" data-theme-src-dark="{{ "/assets/images/Jose_A_y_Bonilla_pho_27aa92_bonilla_object_hypot_d23991-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jose_A_y_Bonilla_pho_27aa92_bonilla_object_hypot_d23991-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell fr-section-shell-fallback">
@@ -352,7 +352,7 @@ Contemporary consensus among historians of astronomy tends to treat the comet hy
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -362,111 +362,36 @@ Contemporary consensus among historians of astronomy tends to treat the comet hy
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=birds+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-birds-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Angry Birds 3 (2026) Movie Poster"><img src="{{ '/assets/images/marketplace-covers/2af04d8def69788264ff.jpg' | relative_url }}" alt="Listing image for The Angry Birds 3 (2026) Movie Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=birds+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-birds-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">The Angry Birds 3 (2026) Movie Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=birds+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-birds-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for birds poster">Search <span data-ebay-domain-label>eBay.com</span>: birds poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=birds+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-birds-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=birds+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-birds-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for North American Birds Identification Vintage Style Poster"><img src="{{ '/assets/images/marketplace-covers/f38fd559cec4c31ac0b5.jpg' | relative_url }}" alt="Listing image for North American Birds Identification Vintage Style Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=birds+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-birds-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">North American Birds Identification Vintage Style Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=birds+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-birds-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for birds poster">Search <span data-ebay-domain-label>eBay.com</span>: birds poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=birds+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-birds-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=birds+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-birds-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for American Swan Birds Of America John James Audubon Vintage Wall Art Poster Print"><img src="{{ '/assets/images/marketplace-covers/83a5d2a1d4d3b022a2f3.jpg' | relative_url }}" alt="Listing image for American Swan Birds Of America John James Audubon Vintage Wall Art Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=birds+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-birds-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">American Swan Birds Of America John James Audubon Vintage Wall Art Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=birds+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-birds-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for birds poster">Search <span data-ebay-domain-label>eBay.com</span>: birds poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=birds+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-birds-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=birds+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-birds-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Where&#x27;s Wildlife Birds of North America The Midwest Region - Bird Poster"><img src="{{ '/assets/images/marketplace-covers/ce7679c69516776e3471.jpg' | relative_url }}" alt="Listing image for Where&#x27;s Wildlife Birds of North America The Midwest Region - Bird Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=birds+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-birds-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Where&#x27;s Wildlife Birds of North America The Midwest Region - Bird Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=birds+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-birds-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for birds poster">Search <span data-ebay-domain-label>eBay.com</span>: birds poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=birds+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-birds-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=birds+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-birds-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=birds+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-birds-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for British Garden Birds Identification Wall Art Print Poster Picture Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/495c11bdcf92d675f485.jpg' | relative_url }}" alt="Listing image for British Garden Birds Identification Wall Art Print Poster Picture Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=birds+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-birds-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">British Garden Birds Identification Wall Art Print Poster Picture Decor A4 A3 A5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=birds+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-birds-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for birds poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: birds poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=birds+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-birds-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -474,15 +399,15 @@ Contemporary consensus among historians of astronomy tends to treat the comet hy
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=birds+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-birds-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for British Garden Birds Identification Chart Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/86cec2e8c3710ce69bbf.jpg' | relative_url }}" alt="Listing image for British Garden Birds Identification Chart Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=birds+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-birds-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">British Garden Birds Identification Chart Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=birds+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-birds-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for birds poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: birds poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=birds+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-birds-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -490,15 +415,15 @@ Contemporary consensus among historians of astronomy tends to treat the comet hy
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=birds+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-birds-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for British Garden Birds high quality art print poster A3 ( no frame)"><img src="{{ '/assets/images/marketplace-covers/ce624320cf017ad8eefa.jpg' | relative_url }}" alt="Listing image for British Garden Birds high quality art print poster A3 ( no frame)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=birds+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-birds-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">British Garden Birds high quality art print poster A3 ( no frame)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=birds+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-birds-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for birds poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: birds poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=birds+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-birds-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -506,15 +431,15 @@ Contemporary consensus among historians of astronomy tends to treat the comet hy
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=birds+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-birds-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A3 Birds of the UK Portrait Identification Chart Ornithology Poster A3 Unframed"><img src="{{ '/assets/images/marketplace-covers/b4251f21da23c323e23b.jpg' | relative_url }}" alt="Listing image for A3 Birds of the UK Portrait Identification Chart Ornithology Poster A3 Unframed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=birds+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-birds-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A3 Birds of the UK Portrait Identification Chart Ornithology Poster A3 Unframed</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=birds+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-birds-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for birds poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: birds poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=birds+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-birds-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -522,7 +447,7 @@ Contemporary consensus among historians of astronomy tends to treat the comet hy
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=birds+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-birds-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="object-hypotheses-were-bonilla-s-observations-birds-dust-or-comet-fragments-jose-a-y-bonilla-pho-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -599,17 +524,31 @@ Contemporary consensus among historians of astronomy tends to treat the comet hy
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -622,42 +561,73 @@ Contemporary consensus among historians of astronomy tends to treat the comet hy
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -672,12 +642,17 @@ Contemporary consensus among historians of astronomy tends to treat the comet hy
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>

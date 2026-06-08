@@ -233,7 +233,7 @@ prev_link:
   permalink: /pilot-claims/
   short_title: Pilot Claims
   heading_title: Why Navy Pilots Took Gimbal Seriously
-date: '2026-05-29 12:25:49 '
+date: '2026-06-08 23:42:18 '
 header:
   og_image: /assets/images/USS_Theodore_Rooseve_a4867d_video_evidence_limit_a12b48-Illustration-1-social.jpg
   preview_image: /assets/images/USS_Theodore_Rooseve_a4867d_video_evidence_limit_a12b48-Illustration-1.webp
@@ -245,7 +245,7 @@ image: /assets/images/USS_Theodore_Rooseve_a4867d_video_evidence_limit_a12b48-Il
 The **USS Theodore Roosevelt “Gimbal” video** is one of the most widely circulated pieces of public evidence surrounding UAP (Unidentified Aerial Phenomena) sightings in recent years. The 34‑second infrared clip, recorded by an F/A‑18 Super Hornet’s targeting pod in 2015, gained broad public attention because it depicts what appears to be a small object rotating against a backdrop of cloud tops while the pilots express surprise in cockpit audio. The U.S. Department of Defense (DoD) has formally authenticated the video as genuine military sensor footage and labelled the encounter *“unidentified”* — but that authentication does **not** mean the footage alone proves extraordinary physics, advanced technology, or extraterrestrial origin. In fact, the **limitations of the public clip are central to how it should be interpreted as evidence**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://disclosuremonitor.com/articles/pentagon-officially-releases-uap-videos-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosuremonitor.com">[Disclosure Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosuremonitor.com</span><span class="citation-popover-snippet">Disclosure MonitorPentagon Officially Releases UAP Videos: What the Footage Shows and What It Does Not | Disclosure MonitorApril 27, 2020...</span><span class="citation-popover-meta">Published: April 27, 2020</span></span></span>
 
 
-<img src="{{ "/assets/images/USS_Theodore_Rooseve_a4867d_video_evidence_limit_a12b48-Illustration-1-light.svg" | relative_url }}" alt="Video Limits illustration 1" data-theme-src-dark="{{ "/assets/images/USS_Theodore_Rooseve_a4867d_video_evidence_limit_a12b48-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/USS_Theodore_Rooseve_a4867d_video_evidence_limit_a12b48-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/USS_Theodore_Rooseve_a4867d_video_evidence_limit_a12b48-Illustration-1-dark.svg" | relative_url }}" alt="Video Limits illustration 1" data-theme-src-dark="{{ "/assets/images/USS_Theodore_Rooseve_a4867d_video_evidence_limit_a12b48-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/USS_Theodore_Rooseve_a4867d_video_evidence_limit_a12b48-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This page focuses narrowly on what the Gimbal video *does* and *does not* establish on its own, and why infrared imagery can be misleading without additional data. That distinction matters because much of the public debate over the incident hinges on reading far more into the 34 seconds than the clip can empirically support.
 
 ## What the Gimbal Clip Actually Shows
@@ -280,7 +280,7 @@ Observers see what looks like **rotation** in the Gimbal clip, but there are mul
 Because the public clip contains only the processed video without raw sensor data, it’s impossible for outside analysts to conclusively separate true target dynamics from artefacts introduced by the imaging system.
 
 
-<img src="{{ "/assets/images/USS_Theodore_Rooseve_a4867d_video_evidence_limit_a12b48-Illustration-2-light.svg" | relative_url }}" alt="Video Limits illustration 2" data-theme-src-dark="{{ "/assets/images/USS_Theodore_Rooseve_a4867d_video_evidence_limit_a12b48-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/USS_Theodore_Rooseve_a4867d_video_evidence_limit_a12b48-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/USS_Theodore_Rooseve_a4867d_video_evidence_limit_a12b48-Illustration-2-dark.svg" | relative_url }}" alt="Video Limits illustration 2" data-theme-src-dark="{{ "/assets/images/USS_Theodore_Rooseve_a4867d_video_evidence_limit_a12b48-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/USS_Theodore_Rooseve_a4867d_video_evidence_limit_a12b48-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Lack of Corroborating Multi‑Sensor Data in Public Domain
 
 The video does not include the full set of contemporaneous sensor records, such as:
@@ -310,7 +310,7 @@ Infrared systems can distort physical interpretation in ways that are not intuit
 These technical characteristics underscore why infrared footage, while valuable as an initial observational record, is inherently limited as standalone proof of specific physical characteristics.
 
 
-<img src="{{ "/assets/images/USS_Theodore_Rooseve_a4867d_video_evidence_limit_a12b48-Illustration-3-light.svg" | relative_url }}" alt="Video Limits illustration 3" data-theme-src-dark="{{ "/assets/images/USS_Theodore_Rooseve_a4867d_video_evidence_limit_a12b48-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/USS_Theodore_Rooseve_a4867d_video_evidence_limit_a12b48-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/USS_Theodore_Rooseve_a4867d_video_evidence_limit_a12b48-Illustration-3-dark.svg" | relative_url }}" alt="Video Limits illustration 3" data-theme-src-dark="{{ "/assets/images/USS_Theodore_Rooseve_a4867d_video_evidence_limit_a12b48-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/USS_Theodore_Rooseve_a4867d_video_evidence_limit_a12b48-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Summary: Where the Evidence Stands
 
 The Gimbal video remains a **genuine Navy sensor recording** of an unidentified aerial object, authenticated by the U.S. Department of Defense. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/video/video-of-unidentified-aerial-phenomenon-off-East-Coast-of-United-States/-287330" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Unidentified Aerial Phenomena Sighting | Britannica</span><span class="citation-popover-snippet">Encyclopedia BritannicaUnidentified Aerial Phenomena Sighting | BritannicaMarch 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span> However, as an isolated piece of public evidence, it **does not by itself prove:**

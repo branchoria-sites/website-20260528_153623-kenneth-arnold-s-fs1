@@ -239,7 +239,7 @@ next_link:
   permalink: /todmorden-link/
   short_title: Todmorden Link
   heading_title: Did Adamski's Death Change the UFO Story?
-date: '2026-05-29 12:03:51 '
+date: '2026-06-08 23:28:44 '
 header:
   og_image: /assets/images/Alan_Godfrey_encount_87fc0b_burnley_road_sightin_d4cfa1-Illustration-1-social.jpg
   preview_image: /assets/images/Alan_Godfrey_encount_87fc0b_burnley_road_sightin_d4cfa1-Illustration-1.webp
@@ -251,7 +251,7 @@ image: /assets/images/Alan_Godfrey_encount_87fc0b_burnley_road_sightin_d4cfa1-Il
 The Burnley Road sighting is the core of the Alan Godfrey case. Everything that followed — the missing-time claims, [hypnosis]({{ 'hypnosis-e97dd3/' | relative_url }}) sessions, alleged abduction memories, and decades of speculation — depends on whether the original road encounter in Todmorden was accurately observed, correctly timed, and reliably documented. Unlike many UFO reports built around distant lights, Godfrey described a close-range object obstructing the road during a police patrol in the early hours of late November 1980. The strongest part of the case is therefore not the later alien narrative, but the immediate sequence of events: what he claimed to see, what he recorded at the time, what physical traces were allegedly noticed afterwards, and how consistent the chronology remained as the story spread. The problem is that several details became less stable over time, especially regarding timing, distances, and when certain observations were first documented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calderdalecompanion.co.uk/mmg222.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calderdalecompanion.co.uk">[Calderdale Companion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calderdalecompanion.co.uk</span><span class="citation-popover-snippet">Calderdale CompanionPC Alan GodfreyIn the early hours of 28th November 1980, PC Alan Godfrey was driving his patrol car at Todmorden, whe...</span><span class="citation-popover-meta">Published: November 1980</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calderdalelocalstudies.blog/post/alan-godfrey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calderdalelocalstudies.blog">[Calderdale Local Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calderdalelocalstudies.blog</span><span class="citation-popover-title">alan godfrey</span><span class="citation-popover-snippet">Calderdale Local Studies40 Years of Mystery: the strange tale of Alan Godfrey27 Nov 2020 — Godfrey tried to radio the local police statio...</span></span></span>
 
 
-<img src="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_burnley_road_sightin_d4cfa1-Illustration-1-light.svg" | relative_url }}" alt="Road Sighting illustration 1" data-theme-src-dark="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_burnley_road_sightin_d4cfa1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_burnley_road_sightin_d4cfa1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_burnley_road_sightin_d4cfa1-Illustration-1-dark.svg" | relative_url }}" alt="Road Sighting illustration 1" data-theme-src-dark="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_burnley_road_sightin_d4cfa1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_burnley_road_sightin_d4cfa1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Strong Is the Burnley Road Sighting?
 
 The encounter is usually dated to the early hours of 28 November 1980, although some later retellings say 29 November because the event occurred during an overnight police shift. Most versions agree that Police Constable Alan Godfrey was responding to reports of loose cattle around Todmorden when he drove along Burnley Road and saw what he initially believed was a bus blocking the carriageway. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.umbrellamagazine.co.uk/feature/chance-encounters-alien-abduction-in-the-pennines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: umbrellamagazine.co.uk">[Umbrella Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">umbrellamagazine.co.uk</span><span class="citation-popover-title">Driving down Burnley Rd he saw</span><span class="citation-popover-snippet">Umbrella MagazineChance encounters: Alien abduction in the Pennines15 Dec 2021 — PC Alan Godfrey was on duty when he was called to a repo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calderdalecompanion.co.uk/mmg222.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calderdalecompanion.co.uk">[Calderdale Companion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calderdalecompanion.co.uk</span><span class="citation-popover-snippet">Calderdale CompanionPC Alan GodfreyIn the early hours of 28th November 1980, PC Alan Godfrey was driving his patrol car at Todmorden, whe...</span><span class="citation-popover-meta">Published: November 1980</span></span></span>
@@ -292,7 +292,7 @@ The alleged “dry patch” on the road is more difficult still. According to la
 This detail is often repeated because it sounds like physical trace evidence, but the evidential chain is weak. There are no known photographs, meteorological measurements, or contemporaneous forensic examinations. Even sympathetic researchers usually treat the road patch as an anecdotal observation rather than hard evidence.
 
 
-<img src="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_burnley_road_sightin_d4cfa1-Illustration-2-light.svg" | relative_url }}" alt="Road Sighting illustration 2" data-theme-src-dark="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_burnley_road_sightin_d4cfa1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_burnley_road_sightin_d4cfa1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_burnley_road_sightin_d4cfa1-Illustration-2-dark.svg" | relative_url }}" alt="Road Sighting illustration 2" data-theme-src-dark="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_burnley_road_sightin_d4cfa1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_burnley_road_sightin_d4cfa1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where the Timeline Becomes Uncertain
 
 The chronology becomes less stable after the initial observation.
@@ -308,7 +308,7 @@ Another complication is retrospective contamination. Once the case became nation
 The uncertainty extends to corroboration. Supporters often point to reports of strange lights seen elsewhere around Todmorden that night by other officers or residents. Skeptics counter that these sightings were not necessarily simultaneous, did not all describe the same phenomenon, and may have become linked only after media coverage intensified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gold.ac.uk/calendar/?id=3234" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gold.ac.uk">[Goldsmiths, University of London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gold.ac.uk</span><span class="citation-popover-snippet">Goldsmiths, University of London*** CANCELLED *** The Unextraordinary Oddity of Alan...18 May 2010 — The &#x27;abduction by aliens&#x27; of police...</span><span class="citation-popover-meta">Published: May 2010</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://forums.digitalspy.com/discussion/1757825/the-strange-case-of-alan-godfrey/p6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forums.digitalspy.com">[Digital]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forums.digitalspy.com</span><span class="citation-popover-title">Digital Spy The strange case of Alan Godfrey</span><span class="citation-popover-snippet">problems even in their...Read more...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BkuRqikJjhA" title="The Bizarre Death of Zigmund Adamski: UFO Cover-Up or Cold Case?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BkuRqikJjhA" target="_blank" rel="noopener noreferrer">The Bizarre Death of Zigmund Adamski: UFO Cover-Up or Cold Case?</a></p><p class="youtube-embed-meta">Channel: The Tape Library &middot; Views: 323.4K &middot; Uploaded: May 2025 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BkuRqikJjhA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BkuRqikJjhA">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0Lg1j9wAh6g" title="The Todmorden Triangle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0Lg1j9wAh6g" target="_blank" rel="noopener noreferrer">The Todmorden Triangle</a></p><p class="youtube-embed-meta">Channel: Hebden Bridge Web &middot; Views: 376 &middot; Uploaded: June 2020 &middot; Length: 3 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0Lg1j9wAh6g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0Lg1j9wAh6g">Open on YouTube</a></p></div></div></div>
 
 ## Why Skeptics Focus on Exhaustion and Memory
 
@@ -333,7 +333,7 @@ Critics also note that hypnosis is highly vulnerable to suggestion and confabula
 Even some researchers interested in UFO phenomena separate the initial sighting from the abduction account for that reason. The roadside observation can be treated as a sincere unexplained experience without accepting every later hypnotic detail as factual memory.
 
 
-<img src="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_burnley_road_sightin_d4cfa1-Illustration-3-light.svg" | relative_url }}" alt="Road Sighting illustration 3" data-theme-src-dark="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_burnley_road_sightin_d4cfa1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_burnley_road_sightin_d4cfa1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_burnley_road_sightin_d4cfa1-Illustration-3-dark.svg" | relative_url }}" alt="Road Sighting illustration 3" data-theme-src-dark="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_burnley_road_sightin_d4cfa1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_burnley_road_sightin_d4cfa1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Burnley Road Segment Still Matters
 
 Despite the uncertainties, the Burnley Road portion of the Alan Godfrey case remains the most difficult section to dismiss outright. The close-range nature of the sighting, the claimed contemporaneous sketch, and the involvement of a named serving police officer distinguish it from more routine UFO stories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calderdalecompanion.co.uk/mmg222.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calderdalecompanion.co.uk">[Calderdale Companion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calderdalecompanion.co.uk</span><span class="citation-popover-snippet">Calderdale CompanionPC Alan GodfreyIn the early hours of 28th November 1980, PC Alan Godfrey was driving his patrol car at Todmorden, whe...</span><span class="citation-popover-meta">Published: November 1980</span></span></span>
@@ -343,7 +343,7 @@ At the same time, the evidential ceiling is lower than enthusiasts sometimes sug
 That leaves the Burnley Road sighting in a narrow but enduring category: a potentially sincere and unusually detailed witness report that never acquired the documentary support needed to settle whether anything objectively extraordinary occurred on that road in November 1980.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/l8iEOpVCRDU" title="Most Amazing Alien Abduction Ever! | Paranormal Files E1 | Sci-Fi Central" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=l8iEOpVCRDU" target="_blank" rel="noopener noreferrer">Most Amazing Alien Abduction Ever! | Paranormal Files E1 | Sci-Fi Central</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 24.2K &middot; Uploaded: January 2022 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=l8iEOpVCRDU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=l8iEOpVCRDU">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BkuRqikJjhA" title="The Bizarre Death of Zigmund Adamski: UFO Cover-Up or Cold Case?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BkuRqikJjhA" target="_blank" rel="noopener noreferrer">The Bizarre Death of Zigmund Adamski: UFO Cover-Up or Cold Case?</a></p><p class="youtube-embed-meta">Channel: The Tape Library &middot; Views: 323.4K &middot; Uploaded: May 2025 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BkuRqikJjhA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BkuRqikJjhA">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -390,7 +390,7 @@ That leaves the Burnley Road sighting in a narrow but enduring category: a poten
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -399,78 +399,94 @@ That leaves the Burnley Road sighting in a narrow but enduring category: a poten
       </div>
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage ALIEN Disclosure Wall Art, SLEEPING DOG UFO Poster, Cryptid Sci-fi Decor"><img src="{{ '/assets/images/marketplace-covers/ee7cb8f7dd86e13f9bb9.jpg' | relative_url }}" alt="Listing image for Vintage ALIEN Disclosure Wall Art, SLEEPING DOG UFO Poster, Cryptid Sci-fi Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage ALIEN Disclosure Wall Art, SLEEPING DOG UFO Poster, Cryptid Sci-fi Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.com</span>: UFO wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Artwork Alien Cool Wall Art Poster TV Poster 24x36"><img src="{{ '/assets/images/marketplace-covers/df2b6eaf35482f180b63.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Artwork Alien Cool Wall Art Poster TV Poster 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Artwork Alien Cool Wall Art Poster TV Poster 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.com</span>: UFO wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO ALIEN CAMPING Wall Art, Sci-fi Nature Poster, NHI Campsite UAP Decor"><img src="{{ '/assets/images/marketplace-covers/99a196f5bae43acc8b93.jpg' | relative_url }}" alt="Listing image for Vintage UFO ALIEN CAMPING Wall Art, Sci-fi Nature Poster, NHI Campsite UAP Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO ALIEN CAMPING Wall Art, Sci-fi Nature Poster, NHI Campsite UAP Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.com</span>: UFO wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage ALIEN ABDUCTION Wall Art, Cryptid Sexy Sci-fi Poster, UFO Sighting Decor"><img src="{{ '/assets/images/marketplace-covers/968ff0f45a8670cd676d.jpg' | relative_url }}" alt="Listing image for Vintage ALIEN ABDUCTION Wall Art, Cryptid Sexy Sci-fi Poster, UFO Sighting Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage ALIEN ABDUCTION Wall Art, Cryptid Sexy Sci-fi Poster, UFO Sighting Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.com</span>: UFO wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -546,17 +562,31 @@ That leaves the Burnley Road sighting in a narrow but enduring category: a poten
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -569,42 +599,73 @@ That leaves the Burnley Road sighting in a narrow but enduring category: a poten
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -619,12 +680,17 @@ That leaves the Burnley Road sighting in a narrow but enduring category: a poten
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>

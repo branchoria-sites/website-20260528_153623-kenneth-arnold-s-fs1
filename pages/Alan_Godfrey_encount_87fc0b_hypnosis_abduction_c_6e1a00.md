@@ -233,7 +233,7 @@ next_link:
   permalink: /road-sighting/
   short_title: Road Sighting
   heading_title: How Strong Is the Burnley Road Sighting?
-date: '2026-05-29 12:03:56 '
+date: '2026-06-08 23:28:46 '
 header:
   og_image: /assets/images/Alan_Godfrey_encount_87fc0b_hypnosis_abduction_c_6e1a00-Illustration-1-social.jpg
   preview_image: /assets/images/Alan_Godfrey_encount_87fc0b_hypnosis_abduction_c_6e1a00-Illustration-1.webp
@@ -245,7 +245,7 @@ image: /assets/images/Alan_Godfrey_encount_87fc0b_hypnosis_abduction_c_6e1a00-Il
 The most controversial part of the Alan Godfrey encounter (1980) is not the initial roadside sighting. It is the later abduction narrative recovered under hypnosis. Godfrey’s original account involved a bright object blocking Burnley Road, a period of missing time, and confusion after the event. The more elaborate claims — being taken aboard a craft, meeting humanoid figures, and undergoing examination-like experiences — emerged later during hypnotic regression sessions rather than in his first reports. That distinction matters because hypnotic memory recovery is widely regarded by psychologists and memory researchers as highly unreliable for establishing factual events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2021/sep/12/what-i-saw-that-night-was-real-is-it-time-to-take-aliens-more-seriously-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The Guardian&#x27;What I saw that night was real&#x27;: is it time to take aliens more...13 Sept 2021 — “The thing with hypnotic regression is tha...</span></span></span> PubMed This does not automatically prove that Godfrey invented his experience. It does <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedMemory distortion in people reporting abduction by aliensby SA Clancy · 2002 · Cited by 319 — Those reporting recovered and repress...</span></span></span>, however, change how the evidence is weighed. Supporters often argue that hypnosis helped unlock traumatically suppressed memories. Skeptics argue that hypnosis can unintentionally create vivid but inaccurate recollections shaped by expectation, suggestion, cultural imagery, and the interviewer’s assumptions. In the Godfrey case, the debate over hypnosis is central because the encounter’s most dramatic details depend almost entirely on memories retrieved after the fact.
 
 
-<img src="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_hypnosis_abduction_c_6e1a00-Illustration-1-light.svg" | relative_url }}" alt="Hypnosis illustration 1" data-theme-src-dark="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_hypnosis_abduction_c_6e1a00-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_hypnosis_abduction_c_6e1a00-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_hypnosis_abduction_c_6e1a00-Illustration-1-dark.svg" | relative_url }}" alt="Hypnosis illustration 1" data-theme-src-dark="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_hypnosis_abduction_c_6e1a00-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_hypnosis_abduction_c_6e1a00-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What hypnosis added to the case
 
 The early core of Godfrey’s story was comparatively restrained. He described a structured object on the road, a flash of light, and a gap in his memory. Contemporary retellings consistently note that the full “alien abduction” scenario came later through hypnotic regression sessions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.umbrellamagazine.co.uk/feature/chance-encounters-alien-abduction-in-the-pennines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: umbrellamagazine.co.uk">[Umbrella Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">umbrellamagazine.co.uk</span><span class="citation-popover-snippet">Umbrella MagazineChance encounters: Alien abduction in the Pennines15 Dec 2021 — Most notorious is the alleged alien abduction of PC Alan...</span></span></span>
@@ -299,7 +299,7 @@ Researchers later tested whether people reporting alien abductions showed unusua
 Critics of hypnotic regression point to this research when discussing Godfrey because his later recollections fit the same wider cultural template. The concern is not necessarily deliberate fabrication. Instead, skeptics argue that emotionally intense experiences, expectation, and suggestive questioning can combine into a convincing but inaccurate narrative.
 
 
-<img src="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_hypnosis_abduction_c_6e1a00-Illustration-2-light.svg" | relative_url }}" alt="Hypnosis illustration 2" data-theme-src-dark="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_hypnosis_abduction_c_6e1a00-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_hypnosis_abduction_c_6e1a00-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_hypnosis_abduction_c_6e1a00-Illustration-2-dark.svg" | relative_url }}" alt="Hypnosis illustration 2" data-theme-src-dark="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_hypnosis_abduction_c_6e1a00-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_hypnosis_abduction_c_6e1a00-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The strongest skeptical reading of the Godfrey case
 
 Skeptics usually separate the case into two parts:
@@ -328,7 +328,7 @@ From this perspective, the most dramatic aspects of the case are not independent
 Skeptics also note that blackout or dissociative gaps do not automatically contain hidden memories waiting to be recovered intact. Some critics argue that if memory encoding failed during the event, hypnosis cannot retrieve information that was never properly stored in the first place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://scaredycatskeptic.co.uk/todmorden-ufo-abduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scaredycatskeptic.co.uk">[Scaredy Cat Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scaredycatskeptic.co.uk</span><span class="citation-popover-title">Scaredy Cat Skeptic The Bizarre Case of the Todmorden UFO Abduction</span><span class="citation-popover-snippet">skeptic-alan-godfrey-quote. PC Alan Godfrey. “Those eyes were staring up at me... So it&#x27;s highly unlikely that a hypnotist could bring b...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BkuRqikJjhA" title="The Bizarre Death of Zigmund Adamski: UFO Cover-Up or Cold Case?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BkuRqikJjhA" target="_blank" rel="noopener noreferrer">The Bizarre Death of Zigmund Adamski: UFO Cover-Up or Cold Case?</a></p><p class="youtube-embed-meta">Channel: The Tape Library &middot; Views: 323.4K &middot; Uploaded: May 2025 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BkuRqikJjhA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BkuRqikJjhA">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5GtWMqaTvmo" title="The Danger of False Memories in Hypnosis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5GtWMqaTvmo" target="_blank" rel="noopener noreferrer">The Danger of False Memories in Hypnosis</a></p><p class="youtube-embed-meta">Channel: Mike Mandel Hypnosis &middot; Views: 403 &middot; Uploaded: January 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5GtWMqaTvmo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5GtWMqaTvmo">Open on YouTube</a></p></div></div></div>
 
 ## Why believers still defend the abduction account
 
@@ -353,7 +353,7 @@ Within the Godfrey case specifically, believers often emphasise that the origina
 This is where the dispute becomes difficult to resolve cleanly. Even many skeptics acknowledge that Godfrey probably experienced a genuinely disturbing event. The disagreement centres on whether hypnosis revealed hidden truth or generated narrative structure around an ambiguous experience.
 
 
-<img src="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_hypnosis_abduction_c_6e1a00-Illustration-3-light.svg" | relative_url }}" alt="Hypnosis illustration 3" data-theme-src-dark="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_hypnosis_abduction_c_6e1a00-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_hypnosis_abduction_c_6e1a00-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_hypnosis_abduction_c_6e1a00-Illustration-3-dark.svg" | relative_url }}" alt="Hypnosis illustration 3" data-theme-src-dark="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_hypnosis_abduction_c_6e1a00-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_hypnosis_abduction_c_6e1a00-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the imagery reflected its era
 
 One reason the hypnosis debate matters so much is that the recovered imagery was not culturally neutral. By 1980, alien-abduction motifs had already become highly recognisable in books, magazines, television documentaries, and UFO conferences.
@@ -383,7 +383,7 @@ As a result, the Godfrey case occupies an uneasy middle ground in UFO history:
 That tension is precisely why the case continues to be discussed decades later. The roadside sighting and the hypnotic abduction story are connected, but they are not equally reliable forms of evidence.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5GtWMqaTvmo" title="The Danger of False Memories in Hypnosis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5GtWMqaTvmo" target="_blank" rel="noopener noreferrer">The Danger of False Memories in Hypnosis</a></p><p class="youtube-embed-meta">Channel: Mike Mandel Hypnosis &middot; Views: 403 &middot; Uploaded: January 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5GtWMqaTvmo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5GtWMqaTvmo">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/l8iEOpVCRDU" title="Most Amazing Alien Abduction Ever! | Paranormal Files E1 | Sci-Fi Central" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=l8iEOpVCRDU" target="_blank" rel="noopener noreferrer">Most Amazing Alien Abduction Ever! | Paranormal Files E1 | Sci-Fi Central</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 24.2K &middot; Uploaded: January 2022 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=l8iEOpVCRDU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=l8iEOpVCRDU">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -430,7 +430,7 @@ That tension is precisely why the case continues to be discussed decades later. 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -440,111 +440,36 @@ That tension is precisely why the case continues to be discussed decades later. 
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=hypnosis+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-hypnosis-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ZEENA PARKINS No Way Back 1998 Atavistic PROMO POSTER Electric Harp Hypnosis"><img src="{{ '/assets/images/marketplace-covers/8f0a3e7e4c1a41ea1465.jpg' | relative_url }}" alt="Listing image for ZEENA PARKINS No Way Back 1998 Atavistic PROMO POSTER Electric Harp Hypnosis" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=hypnosis+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-hypnosis-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">ZEENA PARKINS No Way Back 1998 Atavistic PROMO POSTER Electric Harp Hypnosis</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=hypnosis+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-hypnosis-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hypnosis poster">Search <span data-ebay-domain-label>eBay.com</span>: hypnosis poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=hypnosis+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-hypnosis-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=hypnosis+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-hypnosis-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Great Dayton Show Vintage Magic Poster – Hypnosis Illusion 24x36&quot;"><img src="{{ '/assets/images/marketplace-covers/586d83fc86013cf2b6f4.jpg' | relative_url }}" alt="Listing image for The Great Dayton Show Vintage Magic Poster – Hypnosis Illusion 24x36&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=hypnosis+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-hypnosis-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">The Great Dayton Show Vintage Magic Poster – Hypnosis Illusion 24x36&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=hypnosis+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-hypnosis-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hypnosis poster">Search <span data-ebay-domain-label>eBay.com</span>: hypnosis poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=hypnosis+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-hypnosis-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=hypnosis+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-hypnosis-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Barnum Hypnotist 1900s Circus Poster Hypnosis Performance Illustration"><img src="{{ '/assets/images/marketplace-covers/1ed9116617f7a71c09ec.jpg' | relative_url }}" alt="Listing image for Barnum Hypnotist 1900s Circus Poster Hypnosis Performance Illustration" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=hypnosis+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-hypnosis-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Barnum Hypnotist 1900s Circus Poster Hypnosis Performance Illustration</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=hypnosis+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-hypnosis-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hypnosis poster">Search <span data-ebay-domain-label>eBay.com</span>: hypnosis poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=hypnosis+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-hypnosis-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=hypnosis+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-hypnosis-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VTG. ORIGINAL, VIRGIL &amp; JULIE, HYPNOSIS POSTER 1960&#x27;s"><img src="{{ '/assets/images/marketplace-covers/47dcd93d259e95135cb6.jpg' | relative_url }}" alt="Listing image for VTG. ORIGINAL, VIRGIL &amp; JULIE, HYPNOSIS POSTER 1960&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=hypnosis+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-hypnosis-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VTG. ORIGINAL, VIRGIL &amp; JULIE, HYPNOSIS POSTER 1960&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=hypnosis+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-hypnosis-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hypnosis poster">Search <span data-ebay-domain-label>eBay.com</span>: hypnosis poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=hypnosis+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-hypnosis-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=hypnosis+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-hypnosis-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hypnosis+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-hypnosis-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hypnotism T Shirt 779 Do You Realize The Power Retro Hypnosis Poster Mind Trance"><img src="{{ '/assets/images/marketplace-covers/90cbe6fe64983fd70b02.jpg' | relative_url }}" alt="Listing image for Hypnotism T Shirt 779 Do You Realize The Power Retro Hypnosis Poster Mind Trance" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hypnosis+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-hypnosis-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Hypnotism T Shirt 779 Do You Realize The Power Retro Hypnosis Poster Mind Trance</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hypnosis+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-hypnosis-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hypnosis poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: hypnosis poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hypnosis+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-hypnosis-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -552,15 +477,15 @@ That tension is precisely why the case continues to be discussed decades later. 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hypnosis+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-hypnosis-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Keep Calm And Try Hypnosis Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/302be2688f8e91b353eb.jpg' | relative_url }}" alt="Listing image for Keep Calm And Try Hypnosis Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hypnosis+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-hypnosis-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Keep Calm And Try Hypnosis Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hypnosis+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-hypnosis-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hypnosis poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: hypnosis poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hypnosis+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-hypnosis-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -568,15 +493,15 @@ That tension is precisely why the case continues to be discussed decades later. 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hypnosis+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-hypnosis-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hypnosis Master Hypnotic Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e749dd09cfb9110dd5a7.jpg' | relative_url }}" alt="Listing image for Hypnosis Master Hypnotic Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hypnosis+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-hypnosis-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Hypnosis Master Hypnotic Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hypnosis+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-hypnosis-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hypnosis poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: hypnosis poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hypnosis+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-hypnosis-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -584,15 +509,15 @@ That tension is precisely why the case continues to be discussed decades later. 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hypnosis+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-hypnosis-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hypnosis Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/dcfdf076bf48ef248372.jpg' | relative_url }}" alt="Listing image for Hypnosis Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hypnosis+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-hypnosis-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Hypnosis Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hypnosis+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-hypnosis-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hypnosis poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: hypnosis poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hypnosis+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-hypnosis-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -600,7 +525,7 @@ That tension is precisely why the case continues to be discussed decades later. 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=hypnosis+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-hypnosis-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -677,17 +602,31 @@ That tension is precisely why the case continues to be discussed decades later. 
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -700,42 +639,73 @@ That tension is precisely why the case continues to be discussed decades later. 
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -750,12 +720,17 @@ That tension is precisely why the case continues to be discussed decades later. 
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>

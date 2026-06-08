@@ -233,7 +233,7 @@ next_link:
   permalink: /timeline-2e3880/
   short_title: Timeline
   heading_title: How Did the Appleton Story Grow?
-date: '2026-05-29 12:19:14 '
+date: '2026-06-08 23:37:23 '
 header:
   og_image: /assets/images/Cynthia_Appleton_enc_304111_evidence_scorch_mark_6b5c01-Illustration-1-social.jpg
   preview_image: /assets/images/Cynthia_Appleton_enc_304111_evidence_scorch_mark_6b5c01-Illustration-1.webp
@@ -245,7 +245,7 @@ image: /assets/images/Cynthia_Appleton_enc_304111_evidence_scorch_mark_6b5c01-Il
 Within the broader dossier on the **[Cynthia Appleton]({{ 'cynthia-appleton-encounter-1957/' | relative_url }}) encounter (1957)**, the question of *physical evidence* is striking precisely because it is so scant and contested. The most talked‑about trace was not a photograph or official report, but a **sheet of newspaper said to bear a scorch mark** from the moment of the alleged November 1957 materialisation. Yet that piece of material evidence has vanished from the record, leaving modern researchers dependent mainly on witness testimony, second‑hand investigator notes, and retrospective UFO literature. What physical trail survives, how it has been documented, and why the **“scorch mark” disappeared** are central to understanding why this case occupies a peculiar place in UFO lore — memorable among contactee claims yet weak in verifiable evidence.
 
 
-<img src="{{ "/assets/images/Cynthia_Appleton_enc_304111_evidence_scorch_mark_6b5c01-Illustration-1-light.svg" | relative_url }}" alt="Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/Cynthia_Appleton_enc_304111_evidence_scorch_mark_6b5c01-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cynthia_Appleton_enc_304111_evidence_scorch_mark_6b5c01-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Cynthia_Appleton_enc_304111_evidence_scorch_mark_6b5c01-Illustration-1-dark.svg" | relative_url }}" alt="Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/Cynthia_Appleton_enc_304111_evidence_scorch_mark_6b5c01-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cynthia_Appleton_enc_304111_evidence_scorch_mark_6b5c01-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Witness Description and Household Corroboration
 
 Cynthia Appleton’s initial narrative placed the alleged encounter in her Birmingham home on **18 November 1957**, when she reported seeing a tall, fair‑haired, human‑like figure appear in her front room. Multiple UFO websites recount that Appleton described physical sensations — a whistling or electrical sound, changes in atmosphere, and a sensation of charged air — surrounding the moment of the figure’s appearance. Some narrative versions also include synaesthetic details such as a smell reminiscent of ozone or sulphur associated with electrical discharge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unidentifiedphenomena.com/incidents/cynthia-appleton-incident-1957/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unidentifiedphenomena.com">[Unidentified Phenomena]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unidentifiedphenomena.com</span><span class="citation-popover-title">cynthia appleton incident 1957</span><span class="citation-popover-snippet">Unidentified PhenomenaCynthia Appleton Incident (1957) – Unidentified PhenomenaMarch 9, 2024...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
@@ -266,7 +266,7 @@ The alleged scorch mark on the newspaper is one of the details attributed to Dal
 This reliance on indirect sources impairs the evidential weight of the scorch detail. Without direct access to Dale’s original observations, researchers must treat the surviving descriptions as secondary and unverified. In contrast to cases where physical data were logged, photographed, and analysed by independent authorities (for example, *Project Blue Book* records in the United States), there is no formal investigatory archive for this detail in the Appleton case.
 
 
-<img src="{{ "/assets/images/Cynthia_Appleton_enc_304111_evidence_scorch_mark_6b5c01-Illustration-2-light.svg" | relative_url }}" alt="Evidence illustration 2" data-theme-src-dark="{{ "/assets/images/Cynthia_Appleton_enc_304111_evidence_scorch_mark_6b5c01-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cynthia_Appleton_enc_304111_evidence_scorch_mark_6b5c01-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Cynthia_Appleton_enc_304111_evidence_scorch_mark_6b5c01-Illustration-2-dark.svg" | relative_url }}" alt="Evidence illustration 2" data-theme-src-dark="{{ "/assets/images/Cynthia_Appleton_enc_304111_evidence_scorch_mark_6b5c01-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cynthia_Appleton_enc_304111_evidence_scorch_mark_6b5c01-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Newspaper Scorch Mark and the Chain‑of‑Custody Problem
 
 The plausibility of the scorch mark as evidence rests not just on its alleged existence, but on whether it was properly documented and preserved. According to several UFO hobbyist sources, after Appleton noticed the scorched newspaper, **reporters from the *Birmingham Evening Gazette*** removed the item from the scene and photographed it. These accounts hold that the newspaper was taken away by press representatives and **never resurfaced** in any accessible archive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dragonattheendoftime.com/cynthia-appleton-contactee-november-18-1957/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dragonattheendoftime.com">[Dragon at the End of Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dragonattheendoftime.com</span><span class="citation-popover-title">Dragon at the End of Time CYNTHIA APPLETON ~ CONTACTEE ~</span><span class="citation-popover-snippet">Dragon at the End of TimeCYNTHIA APPLETON ~ CONTACTEE ~ November 18, 1957 – Dragon at the End of TimeApril 23, 2023...</span><span class="citation-popover-meta">Published: November 18, 1957</span></span></span>
@@ -288,7 +288,7 @@ In evaluating the Appleton encounter within the broader context of UFO research,
 This evidential void places the case firmly within the pattern of mid‑20th‑century contactee narratives that are rich in personal experience but poor in independently corroborated physical traces. As a result, while the Appleton case retains interest as a cultural artefact of UFO contactee lore, it does not provide a robust physical evidence trail that can be examined with modern standards of investigation. The missing scorch mark, far from solving the evidential gap, underscores how transient such traces can be when not systematically documented and archived. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dragonattheendoftime.com/cynthia-appleton-contactee-november-18-1957/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dragonattheendoftime.com">[Dragon at the End of Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dragonattheendoftime.com</span><span class="citation-popover-title">Dragon at the End of Time CYNTHIA APPLETON ~ CONTACTEE ~</span><span class="citation-popover-snippet">Dragon at the End of TimeCYNTHIA APPLETON ~ CONTACTEE ~ November 18, 1957 – Dragon at the End of TimeApril 23, 2023...</span><span class="citation-popover-meta">Published: November 18, 1957</span></span></span>
 
 
-<img src="{{ "/assets/images/Cynthia_Appleton_enc_304111_evidence_scorch_mark_6b5c01-Illustration-3-light.svg" | relative_url }}" alt="Evidence illustration 3" data-theme-src-dark="{{ "/assets/images/Cynthia_Appleton_enc_304111_evidence_scorch_mark_6b5c01-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cynthia_Appleton_enc_304111_evidence_scorch_mark_6b5c01-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Cynthia_Appleton_enc_304111_evidence_scorch_mark_6b5c01-Illustration-3-dark.svg" | relative_url }}" alt="Evidence illustration 3" data-theme-src-dark="{{ "/assets/images/Cynthia_Appleton_enc_304111_evidence_scorch_mark_6b5c01-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cynthia_Appleton_enc_304111_evidence_scorch_mark_6b5c01-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell fr-section-shell-fallback">
@@ -334,7 +334,7 @@ This evidential void places the case firmly within the pattern of mid‑20th‑c
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -343,78 +343,94 @@ This evidential void places the case firmly within the pattern of mid‑20th‑c
       </div>
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=alien+figurine+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-alien-figurine-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien.vs.Predator Chestburster H13cm Resin Figure Model Statue Ornament Handmade"><img src="{{ '/assets/images/marketplace-covers/87bd653169195f68d733.jpg' | relative_url }}" alt="Listing image for Alien.vs.Predator Chestburster H13cm Resin Figure Model Statue Ornament Handmade" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=alien+figurine+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-alien-figurine-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien.vs.Predator Chestburster H13cm Resin Figure Model Statue Ornament Handmade</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=alien+figurine+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-alien-figurine-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figurine model">Search <span data-ebay-domain-label>eBay.com</span>: alien figurine model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=alien+figurine+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-alien-figurine-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=alien+figurine+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-alien-figurine-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph 2 Resin Sculpture Statue Model Kit Unpainted/Unassembled"><img src="{{ '/assets/images/marketplace-covers/8c7493af05a5ed578950.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph 2 Resin Sculpture Statue Model Kit Unpainted/Unassembled" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=alien+figurine+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-alien-figurine-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph 2 Resin Sculpture Statue Model Kit Unpainted/Unassembled</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=alien+figurine+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-alien-figurine-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figurine model">Search <span data-ebay-domain-label>eBay.com</span>: alien figurine model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=alien+figurine+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-alien-figurine-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=alien+figurine+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-alien-figurine-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jimmy Flintstone Doper Paul Alien resin figurine model kit DRF161"><img src="{{ '/assets/images/marketplace-covers/af1c7b32ac8505604356.jpg' | relative_url }}" alt="Listing image for Jimmy Flintstone Doper Paul Alien resin figurine model kit DRF161" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=alien+figurine+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-alien-figurine-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jimmy Flintstone Doper Paul Alien resin figurine model kit DRF161</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=alien+figurine+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-alien-figurine-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figurine model">Search <span data-ebay-domain-label>eBay.com</span>: alien figurine model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=alien+figurine+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-alien-figurine-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=alien+figurine+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-alien-figurine-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Artfx+ Kotobukiya Alien Xenomorph Big Chap 1/10 Pre Painted Statue Model Kit"><img src="{{ '/assets/images/marketplace-covers/4a15e05ee20bab9c7a5a.jpg' | relative_url }}" alt="Listing image for Artfx+ Kotobukiya Alien Xenomorph Big Chap 1/10 Pre Painted Statue Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=alien+figurine+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-alien-figurine-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Artfx+ Kotobukiya Alien Xenomorph Big Chap 1/10 Pre Painted Statue Model Kit</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=alien+figurine+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-alien-figurine-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figurine model">Search <span data-ebay-domain-label>eBay.com</span>: alien figurine model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=alien+figurine+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-alien-figurine-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=alien+figurine+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-alien-figurine-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-faafaf-what-evidence-survived-the-appleton-case-cynthia-appleton-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -490,17 +506,31 @@ This evidential void places the case firmly within the pattern of mid‑20th‑c
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -513,42 +543,73 @@ This evidential void places the case firmly within the pattern of mid‑20th‑c
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -563,12 +624,17 @@ This evidential void places the case firmly within the pattern of mid‑20th‑c
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>

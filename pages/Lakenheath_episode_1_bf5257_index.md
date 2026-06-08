@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /lakenheath-episode-1-bf5257-index/
 description: Focused pages that expand on Lakenheath episode 1956.
-date: '2026-05-29'
+date: '2026-06-08'
 layout: default
 parent_basename: Lakenheath_episode_1_bf5257
 parent_title: Lakenheath episode 1956

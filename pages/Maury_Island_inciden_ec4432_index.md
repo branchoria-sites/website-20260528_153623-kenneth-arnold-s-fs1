@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /maury-island-inciden-ec4432-index/
 description: Focused pages that expand on Maury Island incident 1947.
-date: '2026-05-29'
+date: '2026-06-08'
 layout: default
 parent_basename: Maury_Island_inciden_ec4432
 parent_title: Maury Island incident 1947

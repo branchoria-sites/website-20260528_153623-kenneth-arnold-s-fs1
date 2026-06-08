@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /uss-theodore-rooseve-a4867d-index/
 description: Focused pages that expand on USS Theodore Roosevelt Gimbal video 2015.
-date: '2026-05-29'
+date: '2026-06-08'
 layout: default
 parent_basename: USS_Theodore_Rooseve_a4867d
 parent_title: USS Theodore Roosevelt Gimbal video 2015

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /apollo-11-sightings-2c5554-index/
 description: Focused pages that expand on Apollo 11 sightings 1969.
-date: '2026-05-29'
+date: '2026-06-08'
 layout: default
 parent_basename: Apollo_11_sightings_2c5554
 parent_title: Apollo 11 sightings 1969

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /nash-and-fortenberry-0a9bf2-index/
 description: Focused pages that expand on Nash and Fortenberry sighting 1952.
-date: '2026-05-29'
+date: '2026-06-08'
 layout: default
 parent_basename: Nash_and_Fortenberry_0a9bf2
 parent_title: Nash and Fortenberry sighting 1952

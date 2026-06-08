@@ -7,19 +7,19 @@ sibling_basenames:
 - CashLandrum_incident_7ad7d9_helicopters_lawsuit_e53444
 - CashLandrum_incident_7ad7d9_witness_timeline_d9cdc7
 tags:
-- cashlandrum-incident-1980
+- cash-landrum-incident-1980
 - illness-claims
 keywords:
-- cashlandrum-incident-1980
+- cash-landrum-incident-1980
 - illness-claims
-affiliate_category: cashlandrum-incident-1980
+affiliate_category: cash-landrum-incident-1980
 show_ads: true
 description: The illness reports made the case famous, but the symptoms do not cleanly prove radiation exposure or a single cause.
 hero_summary: The illness reports made the case famous, but the symptoms do not cleanly prove radiation exposure or a single cause.
 layout: default
 permalink: /illness-claims/
 sidebar_expanded_urls:
-- /cashlandrum-incident-1980/
+- /cash-landrum-incident-1980/
 nav_short_title: Illness Claims
 title: Was Cash Landrum Really Radiation Sickness?
 title_full: Was Cash Landrum Really Radiation Sickness? | Cash Landrum
@@ -198,18 +198,18 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Cash Landrum
-parent_permalink: /cashlandrum-incident-1980/
+parent_permalink: /cash-landrum-incident-1980/
 parent_nav_short_title: Cash Landrum
 parent_heading_title: What Really Happened on FM 1485?
 ancestor_links:
 - basename: CashLandrum_incident_7ad7d9
   title: Cash Landrum
-  permalink: /cashlandrum-incident-1980/
+  permalink: /cash-landrum-incident-1980/
   short_title: Cash Landrum
 breadcrumb_links:
 - basename: CashLandrum_incident_7ad7d9
   title: Cash Landrum
-  permalink: /cashlandrum-incident-1980/
+  permalink: /cash-landrum-incident-1980/
   short_title: Cash Landrum
 sibling_links:
 - basename: CashLandrum_incident_7ad7d9_helicopters_lawsuit_e53444
@@ -225,7 +225,7 @@ sibling_links:
 up_link:
   basename: CashLandrum_incident_7ad7d9
   title: Cash Landrum
-  permalink: /cashlandrum-incident-1980/
+  permalink: /cash-landrum-incident-1980/
   short_title: Cash Landrum
 prev_link:
   basename: CashLandrum_incident_7ad7d9_helicopters_lawsuit_e53444
@@ -239,7 +239,7 @@ next_link:
   permalink: /witnesses-f77835/
   short_title: Witnesses
   heading_title: How Solid Is the Witness Timeline?
-date: '2026-05-29 12:09:00 '
+date: '2026-06-08 23:31:43 '
 header:
   og_image: /assets/images/CashLandrum_incident_7ad7d9_medical_radiation_cl_962e6b-Illustration-1-social.jpg
   preview_image: /assets/images/CashLandrum_incident_7ad7d9_medical_radiation_cl_962e6b-Illustration-1.webp
@@ -251,7 +251,7 @@ image: /assets/images/CashLandrum_incident_7ad7d9_medical_radiation_cl_962e6b-Il
 The Cash/Landrum incident became famous not simply because three people reported a strange object in the sky, but because they claimed the encounter left them physically injured. Betty Cash, Vickie Landrum and young Colby Landrum described nausea, vomiting, weakness, skin irritation, hair loss and burn-like effects after the alleged 1980 encounter near Dayton, Texas. In UFO literature, those symptoms are often summarised as “radiation sickness”. The problem is that the medical evidence never cleanly proved that conclusion.
 
 
-<img src="{{ "/assets/images/CashLandrum_incident_7ad7d9_medical_radiation_cl_962e6b-Illustration-1-light.svg" | relative_url }}" alt="Illness Claims illustration 1" data-theme-src-dark="{{ "/assets/images/CashLandrum_incident_7ad7d9_medical_radiation_cl_962e6b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/CashLandrum_incident_7ad7d9_medical_radiation_cl_962e6b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/CashLandrum_incident_7ad7d9_medical_radiation_cl_962e6b-Illustration-1-dark.svg" | relative_url }}" alt="Illness Claims illustration 1" data-theme-src-dark="{{ "/assets/images/CashLandrum_incident_7ad7d9_medical_radiation_cl_962e6b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/CashLandrum_incident_7ad7d9_medical_radiation_cl_962e6b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The case sits in an awkward middle ground. There is evidence that Betty Cash in particular became seriously ill and was hospitalised. There are also genuine medical records documenting symptoms. Yet critics, physicians and later investigators repeatedly argued that the pattern of illness does not fit known acute radiation exposure in a straightforward way. The dispute is not over whether the [witnesses]({{ 'witnesses-f77835/' | relative_url }}) felt unwell. The dispute is whether the illnesses can reasonably be traced to ionising radiation from the alleged craft, or whether the symptoms were misunderstood, exaggerated, unrelated, or caused by something else entirely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">ZenodoThe Legendary Cash-Landrum Case: Radiation Sickness...Jan 29, 2024 — One night in December 1980, Betty Cash (then age 51), her fri...</span><span class="citation-popover-meta">Published: December 1980</span></span></span>
 
 ## Reported symptoms after the encounter
@@ -274,7 +274,7 @@ Researcher Brad Sparks argued that the speed and intensity of the symptoms, if i
 Another issue is the lack of definitive radiation evidence from the scene itself. Investigators looked for residual contamination and reportedly found none. That absence is sometimes overstated by both believers and sceptics. Not all forms of radiation leave detectable contamination behind. Even so, no convincing physical measurement ever established that the witnesses had encountered a strong radioactive source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 
-<img src="{{ "/assets/images/CashLandrum_incident_7ad7d9_medical_radiation_cl_962e6b-Illustration-2-light.svg" | relative_url }}" alt="Illness Claims illustration 2" data-theme-src-dark="{{ "/assets/images/CashLandrum_incident_7ad7d9_medical_radiation_cl_962e6b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/CashLandrum_incident_7ad7d9_medical_radiation_cl_962e6b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/CashLandrum_incident_7ad7d9_medical_radiation_cl_962e6b-Illustration-2-dark.svg" | relative_url }}" alt="Illness Claims illustration 2" data-theme-src-dark="{{ "/assets/images/CashLandrum_incident_7ad7d9_medical_radiation_cl_962e6b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/CashLandrum_incident_7ad7d9_medical_radiation_cl_962e6b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the medical records remain controversial
 
 The case became unusually dependent on interpretation of partial and uneven medical documentation. UFO writers often described the witnesses as formally diagnosed with radiation poisoning, but later critics argued that the underlying records do not clearly support that claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2018/12/skeptoid-challenges-cash-landrum-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[blueblurrylines.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">skeptoid challenges cash landrum ufo</span><span class="citation-popover-snippet">Skeptoid Challenges the Cash-Landrum UFO IncidentDec 7, 2018 — Brian Dunning reaches the conclusion that the medical problems reported by...</span></span></span>
@@ -286,7 +286,7 @@ There were also broader health complications in the years after the incident, in
 The case also suffered from the common problem of retrospective storytelling. As media appearances, documentaries and UFO conferences repeated the incident over many years, details became more standardised and dramatic. Some later summaries describe “acute radiation poisoning” as though it were medically confirmed fact, even though the actual records and physician statements appear more ambiguous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Texas UFO</span><span class="citation-popover-snippet">Unsolved MysteriesTexas UFO - Unsolved MysteriesHe immediately admitted Betty to the hospital. Three weeks later, she underwent treatment...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t6sV0LIy7GI" title="The Cash - Landrum UFO Encounter | Dark Mysteries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer">The Cash - Landrum UFO Encounter | Dark Mysteries</a></p><p class="youtube-embed-meta">Channel: Hometown Ghost Stories &middot; Views: 416 &middot; Uploaded: November 2025 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t6sV0LIy7GI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xbljJzr_Sag" title="The Cash-Landrum UFO Incident: 1980&#x27;s Mysterious Encounter and Its Aftermath" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xbljJzr_Sag" target="_blank" rel="noopener noreferrer">The Cash-Landrum UFO Incident: 1980&#x27;s Mysterious Encounter and Its Aftermath</a></p><p class="youtube-embed-meta">Channel: Randomness Reloaded &middot; Views: 47 &middot; Uploaded: April 2025 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xbljJzr_Sag" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xbljJzr_Sag">Open on YouTube</a></p></div></div></div>
 
 ## Alternative explanations that do not require radiation
 
@@ -301,7 +301,7 @@ Psychological amplification is another factor frequently discussed by sceptics, 
 At the same time, purely psychological explanations do not fully satisfy all observers either. Betty Cash’s hospitalisation and visible illness make the case harder to dismiss casually than many UFO reports. Even sceptical investigators often concede that something medically significant happened to her, while disputing the cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerThe &#x27;Classic&#x27; Cash-Landrum Case UnravelsIf radiation were involved, according to Posner, the reported symptoms would ha...</span></span></span>
 
 
-<img src="{{ "/assets/images/CashLandrum_incident_7ad7d9_medical_radiation_cl_962e6b-Illustration-3-light.svg" | relative_url }}" alt="Illness Claims illustration 3" data-theme-src-dark="{{ "/assets/images/CashLandrum_incident_7ad7d9_medical_radiation_cl_962e6b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/CashLandrum_incident_7ad7d9_medical_radiation_cl_962e6b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/CashLandrum_incident_7ad7d9_medical_radiation_cl_962e6b-Illustration-3-dark.svg" | relative_url }}" alt="Illness Claims illustration 3" data-theme-src-dark="{{ "/assets/images/CashLandrum_incident_7ad7d9_medical_radiation_cl_962e6b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/CashLandrum_incident_7ad7d9_medical_radiation_cl_962e6b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The central unresolved problem
 
 The medical dispute remains the most important reason the Cash/Landrum incident still attracts attention decades later. Without the illness claims, it would probably be remembered as another dramatic UFO sighting from the late twentieth century. The alleged injuries transformed it into a case about physical evidence, government responsibility and scientific interpretation.
@@ -311,7 +311,7 @@ Yet the evidence never settled into a coherent medical conclusion. There was no 
 That tension is what keeps the case unresolved. Believers see documented illness following a terrifying encounter and conclude that something extraordinary caused real harm. Sceptics see a mixture of genuine illness, unreliable memory, evolving storytelling and medically inconsistent claims. The surviving record supports neither side completely.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xbljJzr_Sag" title="The Cash-Landrum UFO Incident: 1980&#x27;s Mysterious Encounter and Its Aftermath" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xbljJzr_Sag" target="_blank" rel="noopener noreferrer">The Cash-Landrum UFO Incident: 1980&#x27;s Mysterious Encounter and Its Aftermath</a></p><p class="youtube-embed-meta">Channel: Randomness Reloaded &middot; Views: 47 &middot; Uploaded: April 2025 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xbljJzr_Sag" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xbljJzr_Sag">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t6sV0LIy7GI" title="The Cash - Landrum UFO Encounter | Dark Mysteries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer">The Cash - Landrum UFO Encounter | Dark Mysteries</a></p><p class="youtube-embed-meta">Channel: Hometown Ghost Stories &middot; Views: 416 &middot; Uploaded: November 2025 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t6sV0LIy7GI">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -356,6 +356,312 @@ That tension is what keeps the case unresolved. Believers see documented illness
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
+</section>
+
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illness-claims-was-cash-landrum-really-radiation-sickness-cash-landrum-incident-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="illness-claims-was-cash-landrum-really-radiation-sickness-cash-landrum-incident-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illness-claims-was-cash-landrum-really-radiation-sickness-cash-landrum-incident-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="illness-claims-was-cash-landrum-really-radiation-sickness-cash-landrum-incident-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illness-claims-was-cash-landrum-really-radiation-sickness-cash-landrum-incident-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="illness-claims-was-cash-landrum-really-radiation-sickness-cash-landrum-incident-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illness-claims-was-cash-landrum-really-radiation-sickness-cash-landrum-incident-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="illness-claims-was-cash-landrum-really-radiation-sickness-cash-landrum-incident-1980-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illness-claims-was-cash-landrum-really-radiation-sickness-cash-landrum-incident-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="illness-claims-was-cash-landrum-really-radiation-sickness-cash-landrum-incident-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illness-claims-was-cash-landrum-really-radiation-sickness-cash-landrum-incident-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="illness-claims-was-cash-landrum-really-radiation-sickness-cash-landrum-incident-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illness-claims-was-cash-landrum-really-radiation-sickness-cash-landrum-incident-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="illness-claims-was-cash-landrum-really-radiation-sickness-cash-landrum-incident-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illness-claims-was-cash-landrum-really-radiation-sickness-cash-landrum-incident-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="illness-claims-was-cash-landrum-really-radiation-sickness-cash-landrum-incident-1980-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illness-claims-was-cash-landrum-really-radiation-sickness-cash-landrum-incident-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="illness-claims-was-cash-landrum-really-radiation-sickness-cash-landrum-incident-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illness-claims-was-cash-landrum-really-radiation-sickness-cash-landrum-incident-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="illness-claims-was-cash-landrum-really-radiation-sickness-cash-landrum-incident-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illness-claims-was-cash-landrum-really-radiation-sickness-cash-landrum-incident-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="illness-claims-was-cash-landrum-really-radiation-sickness-cash-landrum-incident-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illness-claims-was-cash-landrum-really-radiation-sickness-cash-landrum-incident-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="illness-claims-was-cash-landrum-really-radiation-sickness-cash-landrum-incident-1980-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illness-claims-was-cash-landrum-really-radiation-sickness-cash-landrum-incident-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="illness-claims-was-cash-landrum-really-radiation-sickness-cash-landrum-incident-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illness-claims-was-cash-landrum-really-radiation-sickness-cash-landrum-incident-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="illness-claims-was-cash-landrum-really-radiation-sickness-cash-landrum-incident-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illness-claims-was-cash-landrum-really-radiation-sickness-cash-landrum-incident-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="illness-claims-was-cash-landrum-really-radiation-sickness-cash-landrum-incident-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illness-claims-was-cash-landrum-really-radiation-sickness-cash-landrum-incident-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="illness-claims-was-cash-landrum-really-radiation-sickness-cash-landrum-incident-1980-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illness-claims-was-cash-landrum-really-radiation-sickness-cash-landrum-incident-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="illness-claims-was-cash-landrum-really-radiation-sickness-cash-landrum-incident-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
 </section>
 
 ## Endnotes
@@ -440,7 +746,7 @@ That tension is what keeps the case unresolved. Believers see documented illness
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Title: the unsolved [cashlandrum incident](&#123;&#123; 'cashlandrum-incident-1980/' | relative_url &#125;&#125;) of 1980 two  
+   Title: the unsolved cashlandrum incident of 1980 two  
    Link: [https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/](https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/)  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Cash-Landrum Incident of 1980, two women...Two women and a child receive radiation poisoning after witnessing military heli...</p></details>
 
@@ -457,7 +763,7 @@ That tension is what keeps the case unresolved. Believers see documented illness
 
 18. <a id="endnote-18"></a>
    Source: discoveryuk.com  
-   Title: highway encounter the [cash landrum incident](&#123;&#123; 'cashlandrum-incident-1980/' | relative_url &#125;&#125;)  
+   Title: highway encounter the [cash landrum incident](&#123;&#123; 'cash-landrum-incident-1980/' | relative_url &#125;&#125;)  
    Link: [https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/](https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/)  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Highway Encounter: The Cash-Landrum Incident14 Apr 2026 — The suit alleged that the women and young Colby suffered radiation burns and lo...</p></details>
 

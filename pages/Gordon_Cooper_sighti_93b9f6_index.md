@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /gordon-cooper-sighti-93b9f6-index/
 description: Focused pages that expand on Gordon Cooper sightings 1963.
-date: '2026-05-29'
+date: '2026-06-08'
 layout: default
 parent_basename: Gordon_Cooper_sighti_93b9f6
 parent_title: Gordon Cooper sightings 1963

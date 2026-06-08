@@ -345,7 +345,7 @@ sibling_links:
   short_title: Higdon Contact
 - basename: CashLandrum_incident_7ad7d9
   title: Cash Landrum
-  permalink: /cashlandrum-incident-1980/
+  permalink: /cash-landrum-incident-1980/
   short_title: Cash Landrum
 - basename: Cedric_Allingham_enc_2c7f6b
   title: Allingham
@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: CiscoGrove1964
+  title: Cisco Grove1964
   permalink: /cisco-grove-incident-1964/
-  short_title: CiscoGrove1964
+  short_title: Cisco Grove1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -432,9 +432,9 @@ sibling_links:
   permalink: /fred-m-johnson-sighting-1947/
   short_title: Johnson Sighting
 - basename: Gary_Wilcox_encounte_6de9ff
-  title: WilcoxUFO
+  title: Wilcox UFO
   permalink: /gary-wilcox-encounter-1964/
-  short_title: WilcoxUFO
+  short_title: Wilcox UFO
 - basename: Gemini_4_sighting_19_9c351d
   title: Gemini 4 Sighting
   permalink: /gemini-4-sighting-1965/
@@ -528,21 +528,21 @@ sibling_links:
   permalink: /linda-cortile-abduction-1989/
   short_title: Cortile Case
 - basename: Livingston_incident_b2c293
-  title: LivingstonUFO
+  title: Livingston UFO
   permalink: /livingston-incident-1979/
-  short_title: LivingstonUFO
+  short_title: Livingston UFO
 - basename: Loch_Raven_Dam_incid_b0e5b6
-  title: LochRavenUFO
+  title: Loch Raven UFO
   permalink: /loch-raven-dam-incident-1958/
-  short_title: LochRavenUFO
+  short_title: Loch Raven UFO
 - basename: Lubbock_Lights_sight_4eabd8
   title: Lubbock Lights
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: MagentaCrash1933
+  title: Magenta Crash1933
   permalink: /magenta-italy-crash-1933/
-  short_title: MagentaCrash1933
+  short_title: Magenta Crash1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -552,9 +552,9 @@ sibling_links:
   permalink: /maury-island-incident-1947/
   short_title: Maury Island
 - basename: McMinnville_photogra_4e1af3
-  title: McMinnville Photos
-  permalink: /mcminnville-photographs-1950/
-  short_title: McMinnville Photos
+  title: Mc Minnville Photos
+  permalink: /mc-minnville-photographs-1950/
+  short_title: Mc Minnville Photos
 - basename: Middle_East_UAP_vide_4a6c55
   title: Middle East Orb
   permalink: /middle-east-uap-video-2022/
@@ -572,9 +572,9 @@ sibling_links:
   permalink: /oloron-angel-hair-incident-1952/
   short_title: Oloron Angel Hair
 - basename: Operation_Mainbrace_06bcd8
-  title: MainbraceSightings
+  title: Mainbrace Sightings
   permalink: /operation-mainbrace-sightings-1952/
-  short_title: MainbraceSightings
+  short_title: Mainbrace Sightings
 - basename: Orfeo_Angelucci_enco_bef29a
   title: Angelucci
   permalink: /orfeo-angelucci-encounter-1955/
@@ -620,17 +620,17 @@ sibling_links:
   permalink: /socorro-sighting-by-lonnie-zamora-1964/
   short_title: Socorro UFO
 - basename: SpaurNeff_Ravenna_si_4977ac
-  title: RavennaUFO
-  permalink: /spaurneff-ravenna-sighting-1966/
-  short_title: RavennaUFO
+  title: Ravenna UFO
+  permalink: /spaur-neff-ravenna-sighting-1966/
+  short_title: Ravenna UFO
 - basename: Stanford_Kentucky_ab_a91f06
   title: Stanford Abduction
   permalink: /stanford-kentucky-abduction-1976/
   short_title: Stanford Abduction
 - basename: Stephen_Darbishire_p_f80223
-  title: DarbishireUFO
+  title: Darbishire UFO
   permalink: /stephen-darbishire-photograph-1954/
-  short_title: DarbishireUFO
+  short_title: Darbishire UFO
 - basename: Steven_Michalak_enco_1bbf94
   title: Falcon Lake
   permalink: /steven-michalak-encounter-1967/
@@ -644,9 +644,9 @@ sibling_links:
   permalink: /thomas-f-mantell-incident-1948/
   short_title: Mantell
 - basename: Topcliffe_incident_1_80cbf4
-  title: TopcliffeUFO
+  title: Topcliffe UFO
   permalink: /topcliffe-incident-1952/
-  short_title: TopcliffeUFO
+  short_title: Topcliffe UFO
 - basename: Trans-en-Provence_en_439c97
   title: Trans en Provence
   permalink: /trans-en-provence-encounter-1981/
@@ -668,9 +668,9 @@ sibling_links:
   permalink: /truman-bethurum-contact-1954/
   short_title: Bethurum
 - basename: Tully_saucer_nest_in_b9d0b0
-  title: TullyUFO
+  title: Tully UFO
   permalink: /tully-saucer-nest-incident-1966/
-  short_title: TullyUFO
+  short_title: Tully UFO
 - basename: Tunguska_event_1908_efda6f
   title: Tunguska
   permalink: /tunguska-event-1908/
@@ -680,9 +680,9 @@ sibling_links:
   permalink: /ubatuba-incident-1957/
   short_title: Ubatuba
 - basename: USS_Nimitz_Tic_Tac_v_83266a
-  title: NimitzUAP
+  title: Nimitz UAP
   permalink: /uss-nimitz-tic-tac-video-2004/
-  short_title: NimitzUAP
+  short_title: Nimitz UAP
 - basename: USS_Russell_video_20_3188a1
   title: USS Russell
   permalink: /uss-russell-video-2019/
@@ -704,9 +704,9 @@ sibling_links:
   permalink: /valentich-disappearance-1978/
   short_title: Valentich
 - basename: Voronezh_Russia_land_e13f34
-  title: VoronezhLanding
+  title: Voronezh Landing
   permalink: /voronezh-russia-landing-1989/
-  short_title: VoronezhLanding
+  short_title: Voronezh Landing
 - basename: Walesville_Incident_cbceb2
   title: Walesville
   permalink: /walesville-incident-1954/
@@ -717,12 +717,12 @@ sibling_links:
   short_title: Washington Saucers
 - basename: WellingtonKaikoura_i_c1d17f
   title: Kaikoura Lights
-  permalink: /wellingtonkaikoura-incident-1978/
+  permalink: /wellington-kaikoura-incident-1978/
   short_title: Kaikoura Lights
 - basename: Ummo_photographs_196_ed7563
-  title: UmmoPhotos
+  title: Ummo Photos
   permalink: /were-the-1967-ummo-photographs-real-or-a/
-  short_title: UmmoPhotos
+  short_title: Ummo Photos
 child_links:
 - basename: Salem_Massachusetts_01ecd1_blue_book_file_8439ae
   title: Blue Book | Salem Massachusetts photograph 1952
@@ -749,7 +749,7 @@ next_link:
   title: Socorro UFO
   permalink: /socorro-sighting-by-lonnie-zamora-1964/
   short_title: Socorro UFO
-date: '2026-05-29 12:14:49 '
+date: '2026-06-08 23:34:47 '
 header:
   og_image: /assets/images/Salem_Massachusetts_01ecd1-overview-social.jpg
   preview_image: /assets/images/Salem_Massachusetts_01ecd1-overview.webp
@@ -765,13 +765,13 @@ On the morning of **16 July 1952**, at approximately 09:35 AM, **Shell R. Alpe
 The photograph was designated **Official Coast Guard Photo 5554**, and the original print was submitted up the chain of command: first to Alpert’s superior, then flown to **Coast Guard Headquarters** in Washington, D.C., and finally forwarded to the U.S. Air Force for further investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/item/2007680837/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">The Library of CongressFirst daylight photo of - what are they? | Library of CongressJuly 16, 1952...</span><span class="citation-popover-meta">Published: July 16, 1952</span></span></span>
 
 
-<img src="{{ "/assets/images/Salem_Massachusetts_01ecd1-Illustration-3-light.svg" | relative_url }}" alt="Salem Massachusetts photograph 1952 illustration 3" data-theme-src-dark="{{ "/assets/images/Salem_Massachusetts_01ecd1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Salem_Massachusetts_01ecd1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Salem_Massachusetts_01ecd1-Illustration-3-dark.svg" | relative_url }}" alt="Salem Massachusetts photograph 1952 illustration 3" data-theme-src-dark="{{ "/assets/images/Salem_Massachusetts_01ecd1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Salem_Massachusetts_01ecd1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Official Handling and Project Blue Book
 
 The U.S. Air Force’s **Project [Blue Book]({{ 'blue-book-5db429/' | relative_url }})** — the service’s formal investigative programme into UFO reports active from 1952 to 1969 — studied the Salem case under **Case No. 1501**. According to archived case summaries and declassified records archived by the U.S. National Archives (RG 341), Project Blue Book analysts reviewed the photograph and witness statements. Early evaluations included proposals that the image might be the result of a **double exposure** hoax or more plausibly the **reflection of street lamps on the laboratory window** through which Alpert took the picture. After consideration, the case was eventually classified as **“unexplained”** in the Project [Blue Book files]({{ 'blue-book-5db429/' | relative_url }}), indicating that investigators had found no definitive conventional explanation within the material available to them at the time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/bluebookpics1501.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: Project Blue Book case 1501, Salem, July 16, 1952...</span><span class="citation-popover-meta">Published: July 16, 1952</span></span></span>
 
 
-<img src="{{ "/assets/images/Salem_Massachusetts_01ecd1-Illustration-1-light.svg" | relative_url }}" alt="Salem Massachusetts photograph 1952 illustration 1" data-theme-src-dark="{{ "/assets/images/Salem_Massachusetts_01ecd1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Salem_Massachusetts_01ecd1-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Salem_Massachusetts_01ecd1-Illustration-1-dark.svg" | relative_url }}" alt="Salem Massachusetts photograph 1952 illustration 1" data-theme-src-dark="{{ "/assets/images/Salem_Massachusetts_01ecd1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Salem_Massachusetts_01ecd1-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Physical and Documentary Evidence
 
 The **photograph itself** remains the central artefact of the Salem case. The print, digitised and preserved in official collections, depicts four bright spots in a roughly linear or “V” configuration against a featureless sky above what appears to be part of the Coast Guard station’s surroundings. It was captured through a window screen, which complicates visual interpretation and has been central to later sceptical analyses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/item/2007680837/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">The Library of CongressFirst daylight photo of - what are they? | Library of CongressJuly 16, 1952...</span><span class="citation-popover-meta">Published: July 16, 1952</span></span></span>
@@ -791,7 +791,7 @@ Accompanying documentary evidence includes Alpert’s statements, second‑hand 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Jj3DhKSaw0w" title="UFOs Over the White House | The 1952 Washington UAP | Full UFO Government Conspiracy Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Jj3DhKSaw0w" target="_blank" rel="noopener noreferrer">UFOs Over the White House | The 1952 Washington UAP | Full UFO Government Conspiracy Documentary</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 18.4K &middot; Uploaded: July 2025 &middot; Length: 1 hour 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Jj3DhKSaw0w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Jj3DhKSaw0w">Open on YouTube</a></p></div></div></div>
 
 
-<img src="{{ "/assets/images/Salem_Massachusetts_01ecd1-Illustration-2-light.svg" | relative_url }}" alt="Salem Massachusetts photograph 1952 illustration 2" data-theme-src-dark="{{ "/assets/images/Salem_Massachusetts_01ecd1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Salem_Massachusetts_01ecd1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Salem_Massachusetts_01ecd1-Illustration-2-dark.svg" | relative_url }}" alt="Salem Massachusetts photograph 1952 illustration 2" data-theme-src-dark="{{ "/assets/images/Salem_Massachusetts_01ecd1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Salem_Massachusetts_01ecd1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Case Still Matters
 
 Although not as prominent in mainstream discourse as some other 1952 UFO incidents (such as the Washington radar‑visual sightings), the **Salem photograph** endures as one of the more tangible photographic records from the early era of UFO investigation. Its inclusion in official archives, preservation by institutions such as the **Library of Congress**, and ongoing discussion in both ufological and sceptical communities underscore its status as a case study in how photographic evidence is evaluated, contested, and reinterpreted over time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/item/2007680837/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">The Library of CongressFirst daylight photo of - what are they? | Library of CongressJuly 16, 1952...</span><span class="citation-popover-meta">Published: July 16, 1952</span></span></span>

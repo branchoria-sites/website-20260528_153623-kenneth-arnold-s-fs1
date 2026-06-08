@@ -233,7 +233,7 @@ prev_link:
   permalink: /evidence-883793/
   short_title: Evidence
   heading_title: How Strong Is the Tehran Evidence?
-date: '2026-05-29 12:01:19 '
+date: '2026-06-08 23:27:00 '
 header:
   og_image: /assets/images/Jet_chase_near_Tehra_5ae5aa_tehran_chase_timelin_a07302-Illustration-1-social.jpg
   preview_image: /assets/images/Jet_chase_near_Tehra_5ae5aa_tehran_chase_timelin_a07302-Illustration-1.webp
@@ -245,7 +245,7 @@ image: /assets/images/Jet_chase_near_Tehra_5ae5aa_tehran_chase_timelin_a07302-Il
 The most disputed and heavily analysed part of the 1976 Tehran UFO case is not simply the sighting itself, but the sequence of military responses that unfolded over roughly two hours in the early morning of 19 September. Civilian calls triggered a chain reaction: air-defence officers checked the sky themselves, Mehrabad tower personnel reportedly saw the object, and two Imperial Iranian Air Force F-4 Phantom II fighters were scrambled in succession. What followed became one of the best-known military UFO encounters of the Cold War because the claims involved radar tracking, alleged electronics failures, attempted weapons engagement, and multiple witness groups rather than a single isolated observer. NSA <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2021/Jul/13/2002761354/-1/-1/0/JOINT_CHIEFS_STAFF_REPORT.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of WarU~tREPORTED ÙFO SIGHTING (U). 32 (0) NA. •. (0) 13 2 20 SER 76. IRAN: 70 SEP.76... FXPFPTENCED CÓMMINICATIONS FAIL...</span></span></span>
 
 
-<img src="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa_tehran_chase_timelin_a07302-Illustration-1-light.svg" | relative_url }}" alt="Timeline illustration 1" data-theme-src-dark="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa_tehran_chase_timelin_a07302-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa_tehran_chase_timelin_a07302-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa_tehran_chase_timelin_a07302-Illustration-1-dark.svg" | relative_url }}" alt="Timeline illustration 1" data-theme-src-dark="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa_tehran_chase_timelin_a07302-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa_tehran_chase_timelin_a07302-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The timeline matters because later debate about the Tehran incident often turns on chronology. Supporters argue that the sequence shows repeated and correlated anomalies affecting separate aircraft. Skeptics argue that the same timeline can be reconstructed as a mixture of astronomical misidentification, cockpit stress, equipment faults, and later embellishment. The details of when each intercept occurred, what the pilots reported, and how the object behaved are therefore central to understanding why the case remains controversial nearly fifty years later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/episodes/315" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[skeptoid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">The Tehran 1976 UFO19 Jun 2012 — The Tehran 1976 UFO · Classified Documents · The Mother Ship · Jamming &amp; Electronics Failure · Radar Loc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1976_Tehran_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1976 Tehran UFO incident</span><span class="citation-popover-snippet">Klass wrote that pilot incompetence and equipment malfunction likely accounted for the reported equipment failures.... The Tehran UFO in...</span></span></span>
 
 ## Civilian calls and the scramble order
@@ -278,7 +278,7 @@ One of the strangest details in the chronology is the reported behaviour of the 
 Skeptical analysts have challenged the radar interpretation. Some argue that bright celestial bodies such as Jupiter could have produced visual confusion during the chase, particularly under stressful night-flying conditions. Others note that radar anomalies and false returns were not uncommon in 1970s military aviation systems. James Oberg and Philip Klass both argued that the combination of astronomical misidentification and cockpit interpretation could explain much of the pursuit narrative without requiring an unknown craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1976_Tehran_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1976 Tehran UFO incident</span><span class="citation-popover-snippet">Klass wrote that pilot incompetence and equipment malfunction likely accounted for the reported equipment failures.... The Tehran UFO in...</span></span></span>
 
 
-<img src="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa_tehran_chase_timelin_a07302-Illustration-2-light.svg" | relative_url }}" alt="Timeline illustration 2" data-theme-src-dark="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa_tehran_chase_timelin_a07302-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa_tehran_chase_timelin_a07302-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa_tehran_chase_timelin_a07302-Illustration-2-dark.svg" | relative_url }}" alt="Timeline illustration 2" data-theme-src-dark="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa_tehran_chase_timelin_a07302-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa_tehran_chase_timelin_a07302-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The smaller object and attempted missile engagement
 
 The sequence became dramatically more complex when the crew reported that a second luminous object detached from the primary target and accelerated directly toward the fighter. This is the moment that transformed the incident from a distant tracking event into what later writers called a “dogfight” scenario. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iiaf.net/tehran-dogfight-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iiaf.net">[iiaf.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iiaf.net</span><span class="citation-popover-title">Tehran Dogfight Incident – IIAF</span><span class="citation-popover-snippet">Imperial Iranian Air ForceAt 0140 hours, second F-4 was scrambled, piloted by Lieutenant Jafari... Tehran at the time of the UFO event r...</span></span></span> Vocal Jafari later said he believed the smaller object might be a missile or hostile craft. According to the official account <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vocal.media/futurism/incident-in-tehran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vocal.media">[vocal.media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vocal.media</span><span class="citation-popover-title">Incident in Tehran | Futurism</span><span class="citation-popover-snippet">VocalIncident in Tehran | Futurism - Vocal MediaIn response to Azizkhani&#x27;s experience, a second F-4 jet was scrambled to see if it was me...</span></span></span>, he attempted to engage it using an AIM-9 Sidewinder missile. At that exact moment, the aircraft’s weapons-control panel reportedly failed, along with communications systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761354/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">Crash in &#x27;47 Called False by Science Panel&quot;... Joint Chiefs of Staff report concerning the sighting of a UFO in Iran on 19 September 197...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vocal.media/futurism/the-tehran-ufo-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vocal.media">[Vocal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vocal.media</span><span class="citation-popover-snippet">VocalThe Tehran UFO Incident: | Futurism - Vocal MediaJafari decided to fire an AIM-9 Sidewinder missile at the UFO, but as he prepared t...</span></span></span>
@@ -318,7 +318,7 @@ Yet almost every key moment in the sequence is disputed. Supporters emphasise th
 That tension is why the Tehran intercept sequence continues to appear in discussions of military UFO encounters. The case is not important because it conclusively proves an exotic explanation. It remains important because the timeline contains enough documentation and witness detail to resist simple dismissal, while still lacking the raw evidence needed for definitive resolution.
 
 
-<img src="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa_tehran_chase_timelin_a07302-Illustration-3-light.svg" | relative_url }}" alt="Timeline illustration 3" data-theme-src-dark="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa_tehran_chase_timelin_a07302-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa_tehran_chase_timelin_a07302-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa_tehran_chase_timelin_a07302-Illustration-3-dark.svg" | relative_url }}" alt="Timeline illustration 3" data-theme-src-dark="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa_tehran_chase_timelin_a07302-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa_tehran_chase_timelin_a07302-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell fr-section-shell-fallback">
@@ -362,246 +362,6 @@ That tension is why the Tehran intercept sequence continues to appear in discuss
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
-
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-238323-how-the-tehran-jet-chase-unfolded-jet-chase-near-tehran-iran-1976-ufo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-238323-how-the-tehran-jet-chase-unfolded-jet-chase-near-tehran-iran-1976-ufo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-238323-how-the-tehran-jet-chase-unfolded-jet-chase-near-tehran-iran-1976-ufo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-238323-how-the-tehran-jet-chase-unfolded-jet-chase-near-tehran-iran-1976-ufo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-238323-how-the-tehran-jet-chase-unfolded-jet-chase-near-tehran-iran-1976-ufo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-238323-how-the-tehran-jet-chase-unfolded-jet-chase-near-tehran-iran-1976-ufo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-238323-how-the-tehran-jet-chase-unfolded-jet-chase-near-tehran-iran-1976-ufo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-238323-how-the-tehran-jet-chase-unfolded-jet-chase-near-tehran-iran-1976-ufo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-238323-how-the-tehran-jet-chase-unfolded-jet-chase-near-tehran-iran-1976-ufo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Vintage Style Retro Trippy Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6e7f576e7ee51f364c6c.jpg' | relative_url }}" alt="Listing image for UFO Vintage Style Retro Trippy Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-238323-how-the-tehran-jet-chase-unfolded-jet-chase-near-tehran-iran-1976-ufo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Vintage Style Retro Trippy Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-238323-how-the-tehran-jet-chase-unfolded-jet-chase-near-tehran-iran-1976-ufo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-238323-how-the-tehran-jet-chase-unfolded-jet-chase-near-tehran-iran-1976-ufo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-238323-how-the-tehran-jet-chase-unfolded-jet-chase-near-tehran-iran-1976-ufo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Bob Lazar Story UFO UAP Flying Saucer Area 51 Poster,Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/5df8c2d8013a3a6cc74f.jpg' | relative_url }}" alt="Listing image for The Bob Lazar Story UFO UAP Flying Saucer Area 51 Poster,Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-238323-how-the-tehran-jet-chase-unfolded-jet-chase-near-tehran-iran-1976-ufo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">The Bob Lazar Story UFO UAP Flying Saucer Area 51 Poster,Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-238323-how-the-tehran-jet-chase-unfolded-jet-chase-near-tehran-iran-1976-ufo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-238323-how-the-tehran-jet-chase-unfolded-jet-chase-near-tehran-iran-1976-ufo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-238323-how-the-tehran-jet-chase-unfolded-jet-chase-near-tehran-iran-1976-ufo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
-(function () {
-  if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
-  function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
-  }
-  function localeMatches() {
-    var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
-    try {
-      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
-      else if (navigator.language) languages = [navigator.language];
-    } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
-      var normalized = normalize(languages[i]);
-      if (!normalized) continue;
-      if (localeMarketMap[normalized]) {
-        exactMarket = localeMarketMap[normalized];
-        break;
-      }
-      var languageOnly = normalized.split('-')[0];
-      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
-    }
-    return { exact: exactMarket, language: languageMarket };
-  }
-  function inferFromLocale() {
-    var matches = localeMatches();
-    return matches.exact || matches.language || '';
-  }
-  function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
-      var rule = timezoneRules[i] || {};
-      try {
-        if (new RegExp(rule.pattern).test(tz)) return rule.market;
-      } catch (err) {}
-    }
-    return '';
-  }
-  function inferMarket(available, options) {
-    available = Array.isArray(available) ? available : [];
-    options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
-    try {
-      var saved = window.localStorage && localStorage.getItem(storageKey);
-      if (saved && available.indexOf(saved) >= 0) return saved;
-    } catch (err) {}
-    var timezoneMarket = inferFromTimezone();
-    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
-    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
-    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
-  }
-  window.PhoenixAffiliateLocation = {
-    normalize: normalize,
-    inferMarket: inferMarket,
-    inferFromLocale: inferFromLocale,
-    inferFromTimezone: inferFromTimezone
-  };
-})();
-</script>
-  <script type="text/javascript">
-(function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
-  if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
-  }
-  function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
-  }
-  function closeMenu(section) {
-    var menu = section.querySelector('[data-ebay-market-menu]');
-    var trigger = section.querySelector('[data-ebay-market-trigger]');
-    var picker = section.querySelector('.fr-ebay-market-picker');
-    if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
-    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
-  }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
-    var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
-    }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
-    });
-    var trigger = section.querySelector('[data-ebay-market-trigger]');
-    var menu = section.querySelector('[data-ebay-market-menu]');
-    if (trigger && menu) {
-      trigger.addEventListener('click', function (event) {
-        event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
-        menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
-        var picker = trigger.closest('.fr-ebay-market-picker');
-        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
-      });
-      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.addEventListener('click', function (event) {
-          event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
-        });
-      });
-      document.addEventListener('click', function () { closeMenu(section); });
-    }
-    selectMarket(inferMarket(available), false);
-  });
-})();
-</script>
 </section>
 
 ## Endnotes

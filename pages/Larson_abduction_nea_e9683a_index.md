@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /larson-abduction-nea-e9683a-index/
 description: Focused pages that expand on Larson abduction near Fargo 1975.
-date: '2026-05-29'
+date: '2026-06-08'
 layout: default
 parent_basename: Larson_abduction_nea_e9683a
 parent_title: Larson abduction near Fargo 1975

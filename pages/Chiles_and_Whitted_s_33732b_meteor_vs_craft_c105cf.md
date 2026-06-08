@@ -233,7 +233,7 @@ next_link:
   permalink: /pilots/
   short_title: Pilots
   heading_title: How Strong Was the Pilots' Testimony?
-date: '2026-05-29 11:51:39 '
+date: '2026-06-08 23:20:06 '
 header:
   og_image: /assets/images/Chiles_and_Whitted_s_33732b_meteor_vs_craft_c105cf-Illustration-1-social.jpg
   preview_image: /assets/images/Chiles_and_Whitted_s_33732b_meteor_vs_craft_c105cf-Illustration-1.webp
@@ -245,7 +245,7 @@ image: /assets/images/Chiles_and_Whitted_s_33732b_meteor_vs_craft_c105cf-Illustr
 The core dispute in the [Chiles and Whitted]({{ 'chiles-and-whitted-sighting-1948/' | relative_url }}) sighting has never been whether something bright crossed the Alabama sky in July 1948. The real argument is whether the Eastern Air Lines [pilots]({{ 'pilots/' | relative_url }}) saw a structured craft at close range or whether a dramatic meteor created a convincing illusion of one. Supporters of the meteor explanation point to the object’s intense glow, brief duration, apparent flame tail and the presence of other “fireball” reports that night. Critics counter that the pilots described windows, a cigar-shaped body and an apparent climb into cloud, details they argue are difficult to reconcile with a natural object. The debate became one of the earliest examples of a recurring UFO controversy: how much trust should be placed in highly trained witnesses when human perception may be distorted by speed, darkness and surprise? <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">WikisourceThe Report on Unidentified Flying Objects/Chapter 316 Jan 2023 — Chiles said he reached over, gave Whitted, the other pilot, a...</span></span></span>
 
 
-<img src="{{ "/assets/images/Chiles_and_Whitted_s_33732b_meteor_vs_craft_c105cf-Illustration-1-light.svg" | relative_url }}" alt="Meteor Debate illustration 1" data-theme-src-dark="{{ "/assets/images/Chiles_and_Whitted_s_33732b_meteor_vs_craft_c105cf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Chiles_and_Whitted_s_33732b_meteor_vs_craft_c105cf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Chiles_and_Whitted_s_33732b_meteor_vs_craft_c105cf-Illustration-1-dark.svg" | relative_url }}" alt="Meteor Debate illustration 1" data-theme-src-dark="{{ "/assets/images/Chiles_and_Whitted_s_33732b_meteor_vs_craft_c105cf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Chiles_and_Whitted_s_33732b_meteor_vs_craft_c105cf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the meteor theory fits parts of the case
 
 The meteor explanation gained traction because several elements of the pilots’ account strongly resemble the behaviour of a bright bolide, meaning an unusually luminous meteor or fragmenting fireball. Chiles and Whitted reported a blazing object with an orange-red exhaust-like glow that crossed their field of view extremely quickly. Such descriptions overlap closely with known meteor appearances, especially when a fireball breaks apart or leaves a persistent luminous trail. Wikipedia NICAP The timing also mattered. Reports from other observers in the broader region that night described bright streaking lights rather than a struc <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/480724montgomery_shough.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">480724montgomery shough</span><span class="citation-popover-snippet">NICAPAnalysis of the CHILES-WHITTED Sightings, July 24 194812 Feb 2011 — If they saw a fireball the climb can probably be explained by ho...</span></span></span> tured machine. Skeptical investigators argued that the additional sightings suggested a regional astronomical event rather than a single controlled aircraft manoeuvring near the DC-3. Project Blue Book eventually adopted the meteor interpretation formally in 1959. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wyominghistoryday.org/theme-topics/collections/items/current-encounters-chiles-whitted-time-and-meteor-trajectory-and" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wyominghistoryday.org">[Wyoming History Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wyominghistoryday.org</span><span class="citation-popover-snippet">This incident is...Read more...</span></span></span>
@@ -278,7 +278,7 @@ This is not merely a theoretical argument. Astronomers and atmospheric researche
 Some later analyses also argued that the “windows” may have been an interpretive reconstruction added as the witnesses mentally organised the event after the encounter. Human memory does not function like a camera recording. Particularly in startling situations, observers often retain a vivid impression while unconsciously filling in structural detail afterwards. That possibility became central to sceptical readings of the case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/480724montgomery_shough.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">480724montgomery shough</span><span class="citation-popover-snippet">NICAPAnalysis of the CHILES-WHITTED Sightings, July 24 194812 Feb 2011 — If they saw a fireball the climb can probably be explained by ho...</span></span></span>
 
 
-<img src="{{ "/assets/images/Chiles_and_Whitted_s_33732b_meteor_vs_craft_c105cf-Illustration-2-light.svg" | relative_url }}" alt="Meteor Debate illustration 2" data-theme-src-dark="{{ "/assets/images/Chiles_and_Whitted_s_33732b_meteor_vs_craft_c105cf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Chiles_and_Whitted_s_33732b_meteor_vs_craft_c105cf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Chiles_and_Whitted_s_33732b_meteor_vs_craft_c105cf-Illustration-2-dark.svg" | relative_url }}" alt="Meteor Debate illustration 2" data-theme-src-dark="{{ "/assets/images/Chiles_and_Whitted_s_33732b_meteor_vs_craft_c105cf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Chiles_and_Whitted_s_33732b_meteor_vs_craft_c105cf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why critics said the climb was hard to explain
 
 The strongest objection to the meteor theory has always been the reported climb. According to the pilots, the object passed the aircraft and then appeared to pull upward into cloud. UFO advocates argue that meteors do not abruptly change direction or climb after descending through the atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">WikisourceThe Report on Unidentified Flying Objects/Chapter 316 Jan 2023 — Chiles said he reached over, gave Whitted, the other pilot, a...</span></span></span>
@@ -297,7 +297,7 @@ This explanation depends on several interacting effects:
 The “climb” therefore became less a question of physics than of perception. Sceptics argued that the pilots experienced a convincing but mistaken impression of controlled motion. UFO proponents replied that trained pilots should not be so easily fooled, especially during what they considered a relatively close encounter.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tjsKXhQeez4" title="Project Blue Book: Declassified – The True Story of the Chiles-Whitted Incident | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tjsKXhQeez4" target="_blank" rel="noopener noreferrer">Project Blue Book: Declassified – The True Story of the Chiles-Whitted Incident | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 29.2K &middot; Uploaded: February 2019 &middot; Length: 2 minutes 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tjsKXhQeez4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tjsKXhQeez4">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RbE3arOv3n8" title="PROJECT BLUE BOOK | &quot;Operation Paperclips&quot; Sneak Peek" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RbE3arOv3n8" target="_blank" rel="noopener noreferrer">PROJECT BLUE BOOK | &quot;Operation Paperclips&quot; Sneak Peek</a></p><p class="youtube-embed-meta">Channel: The HISTORY® Channel Canada &middot; Views: 6.9K &middot; Uploaded: January 2019 &middot; Length: 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RbE3arOv3n8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RbE3arOv3n8">Open on YouTube</a></p></div></div></div>
 
 ## Why the structured-craft interpretation survived
 
@@ -313,13 +313,13 @@ What preserved the debate was not one decisive piece of evidence but the tension
 Neither side completely eliminated the other. The meteor theory explains the speed, glow, brief duration and fiery appearance reasonably well. The structured-craft interpretation relies more heavily on the reported windows, shape and climb. Because the sighting lasted only moments and produced no physical evidence, the case remains fundamentally interpretive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/480724montgomery_shough.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">480724montgomery shough</span><span class="citation-popover-snippet">NICAPAnalysis of the CHILES-WHITTED Sightings, July 24 194812 Feb 2011 — If they saw a fireball the climb can probably be explained by ho...</span></span></span>
 
 
-<img src="{{ "/assets/images/Chiles_and_Whitted_s_33732b_meteor_vs_craft_c105cf-Illustration-3-light.svg" | relative_url }}" alt="Meteor Debate illustration 3" data-theme-src-dark="{{ "/assets/images/Chiles_and_Whitted_s_33732b_meteor_vs_craft_c105cf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Chiles_and_Whitted_s_33732b_meteor_vs_craft_c105cf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Chiles_and_Whitted_s_33732b_meteor_vs_craft_c105cf-Illustration-3-dark.svg" | relative_url }}" alt="Meteor Debate illustration 3" data-theme-src-dark="{{ "/assets/images/Chiles_and_Whitted_s_33732b_meteor_vs_craft_c105cf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Chiles_and_Whitted_s_33732b_meteor_vs_craft_c105cf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the debate revealed about early UFO investigations
 
 The Chiles and Whitted controversy became historically important because it exposed a problem that would shape UFO investigations for decades: can sincere, trained witnesses still misinterpret extraordinary visual events? The case pushed early investigators in opposite directions at the same time. Some Project Sign personnel reportedly viewed it as evidence of something genuinely unknown, while later Air Force reviews treated it as a classic example of a meteor transformed by perception into a structured craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">WikisourceThe Report on Unidentified Flying Objects/Chapter 316 Jan 2023 — Chiles said he reached over, gave Whitted, the other pilot, a...</span></span></span> Wikipedia That unresolved tension is why the case still appears in discussions of pilot UFO reports. It sits precisely at the boundary where atmospheri <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chiles-Whitted_UFO_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chiles-Whitted UFO encounter</span><span class="citation-popover-snippet">Chiles-Whitted UFO encounter</span></span></span> c phenomena, human perception and technological interpretation overlap. The meteor explanation does not eliminate every detail cleanly, but the structured-craft interpretation also depends heavily on momentary perception under difficult conditions. More than seventy years later, the Chiles and Whitted sighting remains compelling not because it conclusively proves either side, but because it demonstrates how the same brief event can support radically different readings of reality.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RbE3arOv3n8" title="PROJECT BLUE BOOK | &quot;Operation Paperclips&quot; Sneak Peek" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RbE3arOv3n8" target="_blank" rel="noopener noreferrer">PROJECT BLUE BOOK | &quot;Operation Paperclips&quot; Sneak Peek</a></p><p class="youtube-embed-meta">Channel: The HISTORY® Channel Canada &middot; Views: 6.9K &middot; Uploaded: January 2019 &middot; Length: 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RbE3arOv3n8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RbE3arOv3n8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tjsKXhQeez4" title="Project Blue Book: Declassified – The True Story of the Chiles-Whitted Incident | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tjsKXhQeez4" target="_blank" rel="noopener noreferrer">Project Blue Book: Declassified – The True Story of the Chiles-Whitted Incident | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 29.2K &middot; Uploaded: February 2019 &middot; Length: 2 minutes 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tjsKXhQeez4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tjsKXhQeez4">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -366,7 +366,7 @@ The Chiles and Whitted controversy became historically important because it expo
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -376,111 +376,36 @@ The Chiles and Whitted controversy became historically important because it expo
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=look+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-look-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Gracie Abrams The Look at My Life Tour 2026 Poster"><img src="{{ '/assets/images/marketplace-covers/063b608db59691a72920.jpg' | relative_url }}" alt="Listing image for Custom Gracie Abrams The Look at My Life Tour 2026 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=look+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-look-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Custom Gracie Abrams The Look at My Life Tour 2026 Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=look+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-look-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for look poster">Search <span data-ebay-domain-label>eBay.com</span>: look poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=look+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-look-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=look+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-look-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Andy Warhol “Think Rich, Look Poor” Quote Black &amp; White Poster 24 x 36"><img src="{{ '/assets/images/marketplace-covers/34c23ab9129438c2fe21.jpg' | relative_url }}" alt="Listing image for Andy Warhol “Think Rich, Look Poor” Quote Black &amp; White Poster 24 x 36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=look+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-look-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Andy Warhol “Think Rich, Look Poor” Quote Black &amp; White Poster 24 x 36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=look+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-look-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for look poster">Search <span data-ebay-domain-label>eBay.com</span>: look poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=look+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-look-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=look+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-look-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LOOK WHO&#x27;S TALKING MOVIE POSTER Original 27x41 Rolled 1989 JOHN TRAVOLTA"><img src="{{ '/assets/images/marketplace-covers/3a53d1fd3a5895e8d181.jpg' | relative_url }}" alt="Listing image for LOOK WHO&#x27;S TALKING MOVIE POSTER Original 27x41 Rolled 1989 JOHN TRAVOLTA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=look+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-look-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">LOOK WHO&#x27;S TALKING MOVIE POSTER Original 27x41 Rolled 1989 JOHN TRAVOLTA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=look+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-look-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for look poster">Search <span data-ebay-domain-label>eBay.com</span>: look poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=look+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-look-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=look+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-look-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Look who&#x27;s talking movie Poster 24x36 inch"><img src="{{ '/assets/images/marketplace-covers/055752461e836faa4b42.jpg' | relative_url }}" alt="Listing image for Look who&#x27;s talking movie Poster 24x36 inch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=look+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-look-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Look who&#x27;s talking movie Poster 24x36 inch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=look+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-look-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for look poster">Search <span data-ebay-domain-label>eBay.com</span>: look poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=look+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-look-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=look+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-look-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=look+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-look-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Look Like A Beauty Kick Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6a6c2f3418e36de7c8b3.jpg' | relative_url }}" alt="Listing image for Look Like A Beauty Kick Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=look+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-look-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Look Like A Beauty Kick Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=look+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-look-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for look poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: look poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=look+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-look-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -488,15 +413,15 @@ The Chiles and Whitted controversy became historically important because it expo
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=look+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-look-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Look Both Ways Movie Poster A1 A2 A3"><img src="{{ '/assets/images/marketplace-covers/aa53823b3bfec8c0fafe.jpg' | relative_url }}" alt="Listing image for Look Both Ways Movie Poster A1 A2 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=look+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-look-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Look Both Ways Movie Poster A1 A2 A3</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=look+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-look-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for look poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: look poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=look+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-look-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -504,15 +429,31 @@ The Chiles and Whitted controversy became historically important because it expo
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=look+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-look-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Look Hey Look Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b0df7cdc9bdf42c03799.jpg' | relative_url }}" alt="Listing image for Look Hey Look Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=look+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-look-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Look Hey Look Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=look+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-look-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for look poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: look poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=look+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-look-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -520,7 +461,7 @@ The Chiles and Whitted controversy became historically important because it expo
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=look+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-look-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="meteor-debate-could-a-fireball-look-like-a-flying-craft-chiles-and-whitted-sighting-1948-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -597,17 +538,31 @@ The Chiles and Whitted controversy became historically important because it expo
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -620,42 +575,73 @@ The Chiles and Whitted controversy became historically important because it expo
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -670,12 +656,17 @@ The Chiles and Whitted controversy became historically important because it expo
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>

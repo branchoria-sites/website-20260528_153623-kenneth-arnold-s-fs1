@@ -233,7 +233,7 @@ next_link:
   permalink: /skeptical-analysis/
   short_title: Skeptical Analysis
   heading_title: Debris or UFO? Expert Analyses of Gemini 7 Sighting
-date: '2026-05-29 12:18:15 '
+date: '2026-06-08 23:36:51 '
 header:
   og_image: /assets/images/Gemini_7_sighting_19_7caf7b_gemini7_transcripts_0be6fd-Illustration-1-social.jpg
   preview_image: /assets/images/Gemini_7_sighting_19_7caf7b_gemini7_transcripts_0be6fd-Illustration-1.webp
@@ -245,7 +245,7 @@ image: /assets/images/Gemini_7_sighting_19_7caf7b_gemini7_transcripts_0be6fd-Ill
 The Gemini 7 “bogey” incident is unusual not because it contains dramatic imagery or radar data, but because it survives in mission communications: astronaut voice transmissions, mission transcripts, and later archival reproductions of air-to-ground recordings. For researchers interested in the 1965 [Gemini 7 sighting]({{ 'gemini-7-sighting-1965/' | relative_url }}), the core evidence is therefore not a photograph or instrument trace, but a sequence of spoken observations exchanged between astronauts Frank Borman and Jim Lovell and Mission Control during the early phase of orbital flight. Recent circulation of declassified or newly publicised audio has renewed interest in what the crew actually said, what NASA asked in response, and whether the wording supports extraordinary interpretations or a more routine explanation involving orbital debris. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006119/nasa-audio-12-5-1965-low-earth-orbit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">NASA Audio 12/5/1965 Low Earth OrbitThis audio recording contains air to ground communications and the NASA Public Affairs audio feed wit...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://taskandpurpose.com/news/pentagon-ufo-files-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: taskandpurpose.com">[Task &amp; Purpose]</a><span class="citation-popover" role="note"><span class="citation-popover-source">taskandpurpose.com</span><span class="citation-popover-snippet">New Pentagon UFO files include reports from moon landings3 hours ago — Also in the files is the original audio of astronaut Frank Borman...</span></span></span>
 
 
-<img src="{{ "/assets/images/Gemini_7_sighting_19_7caf7b_gemini7_transcripts_0be6fd-Illustration-1-light.svg" | relative_url }}" alt="Mission Records illustration 1" data-theme-src-dark="{{ "/assets/images/Gemini_7_sighting_19_7caf7b_gemini7_transcripts_0be6fd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gemini_7_sighting_19_7caf7b_gemini7_transcripts_0be6fd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Gemini_7_sighting_19_7caf7b_gemini7_transcripts_0be6fd-Illustration-1-dark.svg" | relative_url }}" alt="Mission Records illustration 1" data-theme-src-dark="{{ "/assets/images/Gemini_7_sighting_19_7caf7b_gemini7_transcripts_0be6fd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gemini_7_sighting_19_7caf7b_gemini7_transcripts_0be6fd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The transcripts matter because they preserve timing, uncertainty, and the astronauts’ changing descriptions in real time. Unlike later retellings, the original communications show hesitation, clarification requests, and attempts to distinguish between the Titan II booster stage, loose particles, and a separate bright object. Those details are central to understanding how the sighting developed and why interpretations remain contested. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/pentagon-releases-ufo-files-that-go-back-to-the-apollo-moon-missions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-snippet">Universe TodayPentagon Releases UFO Files That Go Back to the Apollo...5 days ago — Space historian James Oberg has said the likeliest e...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-snippet">5, 1965, astronauts Frank Borman and Jim Lovell reported seeing a &quot;bogey&quot; (military slang for an...Read more...</span></span></span>
 
 ## Transcript Overview: What the Crew Actually Reported
@@ -285,7 +285,7 @@ The recordings reveal several points that are frequently lost in abbreviated UFO
 This matters because later retellings sometimes frame the audio as a suppressed “UFO encounter”. In reality, the surviving communications resemble many other early-spaceflight discussions in which astronauts attempted to identify unexpected visual phenomena while adapting to orbital conditions that few humans had previously experienced. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/pentagon-releases-ufo-files-that-go-back-to-the-apollo-moon-missions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-snippet">Universe TodayPentagon Releases UFO Files That Go Back to the Apollo...5 days ago — Space historian James Oberg has said the likeliest e...</span></span></span> Wikipedia The audio also clarifies the operational language used by pilots and astronauts in the 1960s. The word <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_outer_space" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">UFO sightings in outer space... bogey&quot; as referring to booster-associated debris, and not a reference to some sort of UFO. The astrona...</span></span></span>“bogey” was common military aviator terminology for an unidentified contact or object whose nature had not yet been established. It did not automatically imply an extraterrestrial craft. That linguistic context is critical because many modern readers encounter the term only through UFO-related media. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/pentagon-releases-ufo-files-that-go-back-to-the-apollo-moon-missions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-snippet">Universe TodayPentagon Releases UFO Files That Go Back to the Apollo...5 days ago — Space historian James Oberg has said the likeliest e...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_outer_space" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">UFO sightings in outer space... bogey&quot; as referring to booster-associated debris, and not a reference to some sort of UFO. The astrona...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yy8C5kwXu_s" title="LISTEN: Pentagon Releases Audio Of Gemini 7 Mission Astronauts Encountering Unidentified Object" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yy8C5kwXu_s" target="_blank" rel="noopener noreferrer">LISTEN: Pentagon Releases Audio Of Gemini 7 Mission Astronauts Encountering Unidentified Object</a></p><p class="youtube-embed-meta">Channel: Forbes Breaking News &middot; Views: 550.2K &middot; Uploaded: May 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yy8C5kwXu_s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yy8C5kwXu_s">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8o4Tbuc_z-Q" title="Gemini 6, 7 &amp; 6A - Rendezvous and Long Duration Missions - Crew Comments and Historical Footage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8o4Tbuc_z-Q" target="_blank" rel="noopener noreferrer">Gemini 6, 7 &amp; 6A - Rendezvous and Long Duration Missions - Crew Comments and Historical Footage</a></p><p class="youtube-embed-meta">Channel: Retro Space HD &middot; Views: 54.1K &middot; Uploaded: February 2023 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8o4Tbuc_z-Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8o4Tbuc_z-Q">Open on YouTube</a></p></div></div></div>
 
 ## Communication With Mission Control
 
@@ -308,7 +308,7 @@ Nothing in the available transcript indicates that NASA initiated a classified e
 At the same time, the transcript does show that the astronauts were confident enough in what they saw to continue describing it in detail. That point is one reason the incident persists in UFO literature: Borman and Lovell were highly trained observers, and the wording suggests they believed they were seeing something physically present outside the capsule rather than a simple optical illusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-snippet">5, 1965, astronauts Frank Borman and Jim Lovell reported seeing a &quot;bogey&quot; (military slang for an...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2026/05/08/us-news/gemini-vii-astronauts-spotted-vehicle-in-space-more-than-60-years-ago/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">During a transmission on December 5, 1965, Borman reported a &quot;bogey&quot; at 10 o’clock high and clarified it was not their own booster rocket...</span><span class="citation-popover-meta">Published: December 5, 1965</span></span></span>
 
 
-<img src="{{ "/assets/images/Gemini_7_sighting_19_7caf7b_gemini7_transcripts_0be6fd-Illustration-2-light.svg" | relative_url }}" alt="Mission Records illustration 2" data-theme-src-dark="{{ "/assets/images/Gemini_7_sighting_19_7caf7b_gemini7_transcripts_0be6fd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gemini_7_sighting_19_7caf7b_gemini7_transcripts_0be6fd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Gemini_7_sighting_19_7caf7b_gemini7_transcripts_0be6fd-Illustration-2-dark.svg" | relative_url }}" alt="Mission Records illustration 2" data-theme-src-dark="{{ "/assets/images/Gemini_7_sighting_19_7caf7b_gemini7_transcripts_0be6fd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gemini_7_sighting_19_7caf7b_gemini7_transcripts_0be6fd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The “Particle Field” and Why It Became Central to the Case
 
 The most technically important part of the Gemini 7 record may not be the “bogey” itself, but the extensive references to particles surrounding or accompanying the observed object. Both astronauts described large numbers of illuminated fragments moving through nearby space. <span class="citation-chip-wrap"><a class="citation-chip" href="https://taskandpurpose.com/news/pentagon-ufo-files-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: taskandpurpose.com">[Task &amp; Purpose]</a><span class="citation-popover" role="note"><span class="citation-popover-source">taskandpurpose.com</span><span class="citation-popover-snippet">New Pentagon UFO files include reports from moon landings3 hours ago — Also in the files is the original audio of astronaut Frank Borman...</span></span></span>
@@ -330,7 +330,7 @@ These effects had already been encountered during earlier Mercury and Gemini mis
 The Gemini 7 transcript is therefore important because it captures astronauts trying to distinguish between ordinary orbital debris and something apparently more structured. The ambiguity comes directly from the live communications rather than from later embellishment.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8o4Tbuc_z-Q" title="Gemini 6, 7 &amp; 6A - Rendezvous and Long Duration Missions - Crew Comments and Historical Footage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8o4Tbuc_z-Q" target="_blank" rel="noopener noreferrer">Gemini 6, 7 &amp; 6A - Rendezvous and Long Duration Missions - Crew Comments and Historical Footage</a></p><p class="youtube-embed-meta">Channel: Retro Space HD &middot; Views: 54.1K &middot; Uploaded: February 2023 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8o4Tbuc_z-Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8o4Tbuc_z-Q">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yy8C5kwXu_s" title="LISTEN: Pentagon Releases Audio Of Gemini 7 Mission Astronauts Encountering Unidentified Object" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yy8C5kwXu_s" target="_blank" rel="noopener noreferrer">LISTEN: Pentagon Releases Audio Of Gemini 7 Mission Astronauts Encountering Unidentified Object</a></p><p class="youtube-embed-meta">Channel: Forbes Breaking News &middot; Views: 550.2K &middot; Uploaded: May 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yy8C5kwXu_s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yy8C5kwXu_s">Open on YouTube</a></p></div></div></div>
 
 ## Archival Provenance and Reliability of the Records
 
@@ -348,7 +348,7 @@ However, the modern controversy partly stems from how these materials were repac
 That distinction is important for evaluating extraordinary claims. The recordings are authentic mission communications, but authenticity alone does not establish an extraterrestrial explanation.
 
 
-<img src="{{ "/assets/images/Gemini_7_sighting_19_7caf7b_gemini7_transcripts_0be6fd-Illustration-3-light.svg" | relative_url }}" alt="Mission Records illustration 3" data-theme-src-dark="{{ "/assets/images/Gemini_7_sighting_19_7caf7b_gemini7_transcripts_0be6fd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gemini_7_sighting_19_7caf7b_gemini7_transcripts_0be6fd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Gemini_7_sighting_19_7caf7b_gemini7_transcripts_0be6fd-Illustration-3-dark.svg" | relative_url }}" alt="Mission Records illustration 3" data-theme-src-dark="{{ "/assets/images/Gemini_7_sighting_19_7caf7b_gemini7_transcripts_0be6fd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gemini_7_sighting_19_7caf7b_gemini7_transcripts_0be6fd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Skeptical Reconstruction of the Event
 
 Space historian James Oberg has been one of the most cited skeptics analysing the Gemini 7 transcript. His interpretation is grounded in orbital mechanics and known behaviour of spacecraft debris. Oberg argues that the “bogey” was most likely a brighter fragment associated with Gemini 7’s booster system travelling in a similar orbit to the other observed particles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/pentagon-releases-ufo-files-that-go-back-to-the-apollo-moon-missions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-snippet">Universe TodayPentagon Releases UFO Files That Go Back to the Apollo...5 days ago — Space historian James Oberg has said the likeliest e...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.primetimer.com/features/pentagon-publishes-ufo-records-linked-to-apollo-moon-missions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: primetimer.com">[2primetimer.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">primetimer.com</span><span class="citation-popover-snippet">According to Oberg, “The &#x27;bogey&#x27; was evidently just a brighter-than...Read more...</span></span></span>
@@ -424,7 +424,7 @@ For UFO researchers, the case represents a rare astronaut-originated sighting pr
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -434,111 +434,36 @@ For UFO researchers, the case represents a rare astronaut-originated sighting pr
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Serve With Pride Recruiting Poster Print GPO Sailor Ship Nolan Art 4203"><img src="{{ '/assets/images/marketplace-covers/44fb527fccd1ce86a53f.jpg' | relative_url }}" alt="Listing image for US NAVY Serve With Pride Recruiting Poster Print GPO Sailor Ship Nolan Art 4203" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">US NAVY Serve With Pride Recruiting Poster Print GPO Sailor Ship Nolan Art 4203</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.com</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1998 US Navy Vintage Print Ad/Poster Patriotic Military Recruitment Ship Art 90s"><img src="{{ '/assets/images/marketplace-covers/8a0e6197051ae2967c30.jpg' | relative_url }}" alt="Listing image for 1998 US Navy Vintage Print Ad/Poster Patriotic Military Recruitment Ship Art 90s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">1998 US Navy Vintage Print Ad/Poster Patriotic Military Recruitment Ship Art 90s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.com</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.com</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.com</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -546,15 +471,15 @@ For UFO researchers, the case represents a rare astronaut-originated sighting pr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -562,15 +487,15 @@ For UFO researchers, the case represents a rare astronaut-originated sighting pr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -578,15 +503,15 @@ For UFO researchers, the case represents a rare astronaut-originated sighting pr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -594,7 +519,7 @@ For UFO researchers, the case represents a rare astronaut-originated sighting pr
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="mission-records-analyzing-gemini-7-s-declassified-transcripts-and-audio-gemini-7-sighting-1965-us-navy-ship-poster-book" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -671,17 +596,31 @@ For UFO researchers, the case represents a rare astronaut-originated sighting pr
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -694,42 +633,73 @@ For UFO researchers, the case represents a rare astronaut-originated sighting pr
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -744,12 +714,17 @@ For UFO researchers, the case represents a rare astronaut-originated sighting pr
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>

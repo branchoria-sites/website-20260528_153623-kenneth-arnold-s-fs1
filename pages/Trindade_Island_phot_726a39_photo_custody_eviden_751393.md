@@ -239,7 +239,7 @@ next_link:
   permalink: /ship-sighting/
   short_title: Ship Sighting
   heading_title: What Happened Aboard the Almirante Saldanha?
-date: '2026-05-29 11:56:23 '
+date: '2026-06-08 23:22:56 '
 header:
   og_image: /assets/images/Trindade_Island_phot_726a39_photo_custody_eviden_751393-Illustration-1-social.jpg
   preview_image: /assets/images/Trindade_Island_phot_726a39_photo_custody_eviden_751393-Illustration-1.webp
@@ -251,7 +251,7 @@ image: /assets/images/Trindade_Island_phot_726a39_photo_custody_eviden_751393-Il
 The Trindade Island photographs are often presented as one of the strongest UFO image cases of the twentieth century because they appear to combine multiple witnesses, a military setting and a sequence of daylight images. Yet the long-term weakness of the case has never been only the photographs themselves. It is the custody record behind them: who handled the film, when the negatives were separated, what was actually examined by technicians, and whether later published images can be tied securely to the original exposures.
 
 
-<img src="{{ "/assets/images/Trindade_Island_phot_726a39_photo_custody_eviden_751393-Illustration-1-light.svg" | relative_url }}" alt="Photo Custody illustration 1" data-theme-src-dark="{{ "/assets/images/Trindade_Island_phot_726a39_photo_custody_eviden_751393-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Trindade_Island_phot_726a39_photo_custody_eviden_751393-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Trindade_Island_phot_726a39_photo_custody_eviden_751393-Illustration-1-dark.svg" | relative_url }}" alt="Photo Custody illustration 1" data-theme-src-dark="{{ "/assets/images/Trindade_Island_phot_726a39_photo_custody_eviden_751393-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Trindade_Island_phot_726a39_photo_custody_eviden_751393-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That distinction matters because a technically “untampered” negative is not automatically proof of an extraordinary object. A negative can honestly record a fabricated scene if the fabrication occurred before or during exposure. In the Trindade case, later sceptical analysis increasingly focused less on whether the negatives had been crudely retouched and more on whether the evidentiary chain was ever secure enough to rule out staged photography. The result is a case where the images remained famous while confidence in their evidential reliability steadily weakened. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/trindade58.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UfologieThe Trindade island visual and photographic case of 1958This Ministry has no motive to impede the release of photographs of the r...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aenigmatis.com/trindade-island-ufo-1958/trindade.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aenigmatis.com">[2aenigmatis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aenigmatis.com</span><span class="citation-popover-snippet">emarkable coincidence that he should later witness and photograph a UFO himself.Read more...</span></span></span>
 
 ## What early technical claims did and did not show
@@ -308,7 +308,7 @@ This does not automatically prove fraud. But it changes the evidential threshold
 The Trindade case never achieved that standard. Instead, the photographs entered public circulation through press reproduction, copied prints and later enlargements. Over time, the evidential core became increasingly distant from the original material event.
 
 
-<img src="{{ "/assets/images/Trindade_Island_phot_726a39_photo_custody_eviden_751393-Illustration-2-light.svg" | relative_url }}" alt="Photo Custody illustration 2" data-theme-src-dark="{{ "/assets/images/Trindade_Island_phot_726a39_photo_custody_eviden_751393-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Trindade_Island_phot_726a39_photo_custody_eviden_751393-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Trindade_Island_phot_726a39_photo_custody_eviden_751393-Illustration-2-dark.svg" | relative_url }}" alt="Photo Custody illustration 2" data-theme-src-dark="{{ "/assets/images/Trindade_Island_phot_726a39_photo_custody_eviden_751393-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Trindade_Island_phot_726a39_photo_custody_eviden_751393-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The missing continuity between exposure, development and publication
 
 One reason the custody issue persists is that several versions of the Trindade story exist simultaneously.
@@ -355,7 +355,7 @@ At the same time, defenders of the case argued that the multiple reported witnes
 The result is not a settled forensic victory for either side. Instead, the field narrowed to a more limited conclusion: the photographs are historically important and visually striking, but their custody history is too compromised to sustain the stronger claim that they constitute reliable physical evidence of an extraordinary craft.
 
 
-<img src="{{ "/assets/images/Trindade_Island_phot_726a39_photo_custody_eviden_751393-Illustration-3-light.svg" | relative_url }}" alt="Photo Custody illustration 3" data-theme-src-dark="{{ "/assets/images/Trindade_Island_phot_726a39_photo_custody_eviden_751393-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Trindade_Island_phot_726a39_photo_custody_eviden_751393-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Trindade_Island_phot_726a39_photo_custody_eviden_751393-Illustration-3-dark.svg" | relative_url }}" alt="Photo Custody illustration 3" data-theme-src-dark="{{ "/assets/images/Trindade_Island_phot_726a39_photo_custody_eviden_751393-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Trindade_Island_phot_726a39_photo_custody_eviden_751393-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why custody problems matter more than image clarity
 
 The Trindade photographs remain compelling partly because the images themselves are relatively clean compared with many blurred UFO photographs from the same era. Yet clarity can be deceptive in evidence assessment.

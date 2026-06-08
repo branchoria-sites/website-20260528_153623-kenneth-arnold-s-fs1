@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /valentich-disappeara-592d85-index/
 description: Focused pages that expand on Valentich disappearance 1978.
-date: '2026-05-29'
+date: '2026-06-08'
 layout: default
 parent_basename: Valentich_disappeara_592d85
 parent_title: Valentich disappearance 1978

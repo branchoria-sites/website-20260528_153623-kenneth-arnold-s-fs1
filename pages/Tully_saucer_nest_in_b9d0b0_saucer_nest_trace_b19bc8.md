@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /tully-saucer-nest-incident-1966/
 nav_short_title: Physical Trace
 title: Investigating the Tully Saucer Nest Formation
-title_full: Investigating the Tully Saucer Nest Formation | TullyUFO
+title_full: Investigating the Tully Saucer Nest Formation | Tully UFO
 display_title_short: Physical Trace
 display_title: Physical Trace
 heading_title: Investigating the Tully Saucer Nest Formation
@@ -197,20 +197,20 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: TullyUFO
+parent_title: Tully UFO
 parent_permalink: /tully-saucer-nest-incident-1966/
-parent_nav_short_title: TullyUFO
+parent_nav_short_title: Tully UFO
 parent_heading_title: What Really Happened at Tully in 1966?
 ancestor_links:
 - basename: Tully_saucer_nest_in_b9d0b0
-  title: TullyUFO
+  title: Tully UFO
   permalink: /tully-saucer-nest-incident-1966/
-  short_title: TullyUFO
+  short_title: Tully UFO
 breadcrumb_links:
 - basename: Tully_saucer_nest_in_b9d0b0
-  title: TullyUFO
+  title: Tully UFO
   permalink: /tully-saucer-nest-incident-1966/
-  short_title: TullyUFO
+  short_title: Tully UFO
 sibling_links:
 - basename: Tully_saucer_nest_in_b9d0b0_tully_investigations_7e5799
   title: Investigations | What Really Happened at Tully in 1966?
@@ -224,9 +224,9 @@ sibling_links:
   heading_title: George Pedley's Tully UFO Sighting Explained
 up_link:
   basename: Tully_saucer_nest_in_b9d0b0
-  title: TullyUFO
+  title: Tully UFO
   permalink: /tully-saucer-nest-incident-1966/
-  short_title: TullyUFO
+  short_title: Tully UFO
 prev_link:
   basename: Tully_saucer_nest_in_b9d0b0_tully_investigations_7e5799
   title: Investigations | What Really Happened at Tully in 1966?
@@ -239,7 +239,7 @@ next_link:
   permalink: /witness-account-ac0adc/
   short_title: Witness Account
   heading_title: George Pedley's Tully UFO Sighting Explained
-date: '2026-05-29 12:24:06 '
+date: '2026-06-08 23:40:40 '
 header:
   og_image: /assets/images/Tully_saucer_nest_in_b9d0b0_saucer_nest_trace_b19bc8-Illustration-1-social.jpg
   preview_image: /assets/images/Tully_saucer_nest_in_b9d0b0_saucer_nest_trace_b19bc8-Illustration-1.webp
@@ -251,7 +251,7 @@ image: /assets/images/Tully_saucer_nest_in_b9d0b0_saucer_nest_trace_b19bc8-Illus
 The physical trace left behind at Horseshoe Lagoon following the 19 January 1966 sighting near Tully in Far North Queensland – usually called the **“saucer nest”** – is the piece of evidence that transformed an isolated daytime UFO claim into one of the most debated physical‑evidence cases in Australian UFO history. The “nest” refers to a clearly defined **circular mat of flattened swamp reeds** discovered floating in the lagoon after banana farmer George Pedley reported seeing a strange object rise from that same location. This unusual botanical anomaly drew official attention, press coverage, and decades of speculation because the pattern, formation, and rapid browning of the reeds were not easily explained by casual observation alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoencounters.co.uk/the-tully-saucer-nest.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoencounters.co.uk">[UFO Encounters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoencounters.co.uk</span><span class="citation-popover-title">UFO Encounters The Tully Saucer Nest</span><span class="citation-popover-snippet">UFO EncountersThe Tully Saucer NestJuly 19, 2013...</span><span class="citation-popover-meta">Published: July 19, 2013</span></span></span>
 
 
-<img src="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_saucer_nest_trace_b19bc8-Illustration-1-light.svg" | relative_url }}" alt="Physical Trace illustration 1" data-theme-src-dark="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_saucer_nest_trace_b19bc8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_saucer_nest_trace_b19bc8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_saucer_nest_trace_b19bc8-Illustration-1-dark.svg" | relative_url }}" alt="Physical Trace illustration 1" data-theme-src-dark="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_saucer_nest_trace_b19bc8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_saucer_nest_trace_b19bc8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Reed Mat at Horseshoe Lagoon
 
 ### What Was Observed at the Site
@@ -261,7 +261,7 @@ Soon after the near‑vertical departure of the object Pedley described, he retu
 According to contemporary reporting, **the direction of the flattening was described as clockwise**, a detail that later entered into arguments about possible causes (natural versus mechanical) because different forces would tend to twist vegetation in different ways. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoencounters.co.uk/the-tully-saucer-nest.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoencounters.co.uk">[UFO Encounters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoencounters.co.uk</span><span class="citation-popover-title">UFO Encounters The Tully Saucer Nest</span><span class="citation-popover-snippet">UFO EncountersThe Tully Saucer NestJuly 19, 2013...</span><span class="citation-popover-meta">Published: July 19, 2013</span></span></span> Photographs taken in the days after the event show the reeds on the surface turned brown relatively quickly and the circle remained coherent long enough to attract hundreds of spectators. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.abc.net.au/news/2024-11-24/sugar-cane-farm-ufo-mystery-expanse-podcast-series-uncropped/104559256" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News Tully&#x27;s cane farm crop circles and an enduring 58yo UFO</span><span class="citation-popover-snippet">George Pedley&#x27;s UFO sighting report to police in January 1966. (Supplied: National...Read more...</span><span class="citation-popover-meta">Published: January 1966</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IhKyQkhOfoM" title="Schoolyard witnesses in mass UFO sighting demand answers | Australian Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IhKyQkhOfoM" target="_blank" rel="noopener noreferrer">Schoolyard witnesses in mass UFO sighting demand answers | Australian Story</a></p><p class="youtube-embed-meta">Channel: ABC News In-depth &middot; Views: 691.6K &middot; Uploaded: April 2026 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IhKyQkhOfoM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IhKyQkhOfoM">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WXbXsF7Vyhk" title="The UFO Sighting That 400 Students Were Forced to Forget" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WXbXsF7Vyhk" target="_blank" rel="noopener noreferrer">The UFO Sighting That 400 Students Were Forced to Forget</a></p><p class="youtube-embed-meta">Channel: Motech &middot; Views: 10.9K &middot; Uploaded: August 2025 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WXbXsF7Vyhk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WXbXsF7Vyhk">Open on YouTube</a></p></div></div></div>
 
 ### Submerged Condition and Botanical Features
 
@@ -280,7 +280,7 @@ Samples of the reed stems were subjected to **submersion tests** as well as visu
 RAAF analysis, as reported in later commentary on the files, concluded that there was **no indication of radiation or exotic agent**, and that the reeds had likely **died from prolonged natural submersion**, a mundane botanical process, rather than any unusual external energy source. Some UFO research groups disagreed with this conclusion on the basis of the timing and conditions, arguing that it would generally take longer for such submergence effects to manifest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slq.qld.gov.au">[State Library of Queensland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slq.qld.gov.au</span><span class="citation-popover-title">State Library of Queensland The Truth Is Out There</span><span class="citation-popover-snippet">The Queensland Flying...Read more...</span></span></span>
 
 
-<img src="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_saucer_nest_trace_b19bc8-Illustration-2-light.svg" | relative_url }}" alt="Physical Trace illustration 2" data-theme-src-dark="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_saucer_nest_trace_b19bc8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_saucer_nest_trace_b19bc8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_saucer_nest_trace_b19bc8-Illustration-2-dark.svg" | relative_url }}" alt="Physical Trace illustration 2" data-theme-src-dark="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_saucer_nest_trace_b19bc8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_saucer_nest_trace_b19bc8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Broader Physical Observations
 
 Beyond the main circular mat, descriptions from period sources mention **tear‑drop shaped ground marks** in adjacent tilled field soil, spaced in a line from the lagoon edge; these were lost to later visitors before they could be documented by casts or measurements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uforq.org/the-tully-saucer-nest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforq.org">[UFO Research Queensland - Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforq.org</span><span class="citation-popover-title">UFO Research Queensland</span><span class="citation-popover-snippet">AustraliaThe Tully Saucer Nest 1966 – UFO Research Queensland – AustraliaOctober 7, 2023...</span><span class="citation-popover-meta">Published: October 7, 2023</span></span></span> Contemporary newspaper archives recount that a **patch of adjacent couch grass had been sheared at water level**, though that, too, lacked definitive analysis at the time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flickr.com/photos/queenslandstatearchives/50704411782" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flickr.com">[Flickr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flickr.com</span><span class="citation-popover-title">Unidentifiable Flying Objects</span><span class="citation-popover-snippet">UFO, Alien (Public Domain) 32 photos. Additional...Read more...</span></span></span>
@@ -294,7 +294,7 @@ Sceptics and meteorologists proposed alternative, **natural mechanisms** for the
 Other natural ideas included **currents or vortex flow in the shallow lagoon water**, which could conceivably clear a patch of reeds and leave a floating mat. Yet this too struggled to account for the **symmetry of the pattern** and the lack of adjacent water disturbance visible in photographs and reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoencounters.co.uk/the-tully-saucer-nest.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoencounters.co.uk">[UFO Encounters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoencounters.co.uk</span><span class="citation-popover-title">UFO Encounters The Tully Saucer Nest</span><span class="citation-popover-snippet">UFO EncountersThe Tully Saucer NestJuly 19, 2013...</span><span class="citation-popover-meta">Published: July 19, 2013</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WXbXsF7Vyhk" title="The UFO Sighting That 400 Students Were Forced to Forget" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WXbXsF7Vyhk" target="_blank" rel="noopener noreferrer">The UFO Sighting That 400 Students Were Forced to Forget</a></p><p class="youtube-embed-meta">Channel: Motech &middot; Views: 10.9K &middot; Uploaded: August 2025 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WXbXsF7Vyhk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WXbXsF7Vyhk">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KbzLq5-BUV0" title="#696. Australia’s Leading Ufologist Reveals Alien DNA Evidence | Bill Chalker" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KbzLq5-BUV0" target="_blank" rel="noopener noreferrer">#696. Australia’s Leading Ufologist Reveals Alien DNA Evidence | Bill Chalker</a></p><p class="youtube-embed-meta">Channel: Podcast UFO Live Shows &middot; Views: 4.7K &middot; Uploaded: September 2025 &middot; Length: 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KbzLq5-BUV0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KbzLq5-BUV0">Open on YouTube</a></p></div></div></div>
 
 ### Botanical Response
 
@@ -310,7 +310,7 @@ The Horseshoe Lagoon “saucer nest” remains significant because it was **one 
 Today, the saucer nest is understood both as a **historical moment** in UFO lore and as an example of how **physical traces can be open to multiple competing interpretations**, from mundane environmental dynamics to the unknown. Whatever one’s view on the cause, the Horseshoe Lagoon reeds remain a key part of why the Tully incident is still referenced in discussions of physical trace UFO cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slq.qld.gov.au/blog/truth-out-there-queensland-ufo-related-periodicals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slq.qld.gov.au">[State Library of Queensland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slq.qld.gov.au</span><span class="citation-popover-title">State Library of Queensland The Truth Is Out There</span><span class="citation-popover-snippet">The Queensland Flying...Read more...</span></span></span>
 
 
-<img src="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_saucer_nest_trace_b19bc8-Illustration-3-light.svg" | relative_url }}" alt="Physical Trace illustration 3" data-theme-src-dark="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_saucer_nest_trace_b19bc8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_saucer_nest_trace_b19bc8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_saucer_nest_trace_b19bc8-Illustration-3-dark.svg" | relative_url }}" alt="Physical Trace illustration 3" data-theme-src-dark="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_saucer_nest_trace_b19bc8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_saucer_nest_trace_b19bc8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell fr-section-shell-fallback">
@@ -343,9 +343,9 @@ Today, the saucer nest is understood both as a **historical moment** in UFO lore
 
     <article class="fr-search-card">
       <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">1966 UFO guide</h4>
+      <h4 class="fr-search-title">UAP books</h4>
       <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=1966+UFO+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
       </a>
     </article>
@@ -354,321 +354,6 @@ Today, the saucer nest is understood both as a **historical moment** in UFO lore
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=tully+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-investigating-the-tully-saucer-nest-formation-tully-saucer-nest-incident-1966-tully-memorabilia-book-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2022 Upper Deck AEW Tully Blanchard Mat Relic #97 Match Used Memorabilia 47/49"><img src="{{ '/assets/images/marketplace-covers/b41aca29fe4d7cdf580f.jpg' | relative_url }}" alt="Listing image for 2022 Upper Deck AEW Tully Blanchard Mat Relic #97 Match Used Memorabilia 47/49" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=tully+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-investigating-the-tully-saucer-nest-formation-tully-saucer-nest-incident-1966-tully-memorabilia-book-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">2022 Upper Deck AEW Tully Blanchard Mat Relic #97 Match Used Memorabilia 47/49</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=tully+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-investigating-the-tully-saucer-nest-formation-tully-saucer-nest-incident-1966-tully-memorabilia-book-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tully memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: tully memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=tully+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-investigating-the-tully-saucer-nest-formation-tully-saucer-nest-incident-1966-tully-memorabilia-book-book&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=tully+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-investigating-the-tully-saucer-nest-formation-tully-saucer-nest-incident-1966-tully-memorabilia-book-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2021 Upper Deck AEW All Elite Wrestling Crew Memorabilia Tully Blanchard 1r9e"><img src="{{ '/assets/images/marketplace-covers/9242806338cce5f684b3.jpg' | relative_url }}" alt="Listing image for 2021 Upper Deck AEW All Elite Wrestling Crew Memorabilia Tully Blanchard 1r9e" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=tully+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-investigating-the-tully-saucer-nest-formation-tully-saucer-nest-incident-1966-tully-memorabilia-book-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">2021 Upper Deck AEW All Elite Wrestling Crew Memorabilia Tully Blanchard 1r9e</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=tully+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-investigating-the-tully-saucer-nest-formation-tully-saucer-nest-incident-1966-tully-memorabilia-book-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tully memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: tully memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=tully+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-investigating-the-tully-saucer-nest-formation-tully-saucer-nest-incident-1966-tully-memorabilia-book-book&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=tully+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-investigating-the-tully-saucer-nest-formation-tully-saucer-nest-incident-1966-tully-memorabilia-book-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tully Blanchard 2021 Upper Deck AEW Event-Worn Wrestler Memorabilia Relic Card"><img src="{{ '/assets/images/marketplace-covers/9cf794defd8d1ef9f915.jpg' | relative_url }}" alt="Listing image for Tully Blanchard 2021 Upper Deck AEW Event-Worn Wrestler Memorabilia Relic Card" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=tully+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-investigating-the-tully-saucer-nest-formation-tully-saucer-nest-incident-1966-tully-memorabilia-book-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Tully Blanchard 2021 Upper Deck AEW Event-Worn Wrestler Memorabilia Relic Card</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=tully+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-investigating-the-tully-saucer-nest-formation-tully-saucer-nest-incident-1966-tully-memorabilia-book-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tully memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: tully memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=tully+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-investigating-the-tully-saucer-nest-formation-tully-saucer-nest-incident-1966-tully-memorabilia-book-book&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=tully+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-investigating-the-tully-saucer-nest-formation-tully-saucer-nest-incident-1966-tully-memorabilia-book-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2021 Upper Deck AEW All Elite Wrestling Crew Memorabilia Tully Blanchard #80 0w6"><img src="{{ '/assets/images/marketplace-covers/670c60764f7410e72643.jpg' | relative_url }}" alt="Listing image for 2021 Upper Deck AEW All Elite Wrestling Crew Memorabilia Tully Blanchard #80 0w6" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=tully+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-investigating-the-tully-saucer-nest-formation-tully-saucer-nest-incident-1966-tully-memorabilia-book-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">2021 Upper Deck AEW All Elite Wrestling Crew Memorabilia Tully Blanchard #80 0w6</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=tully+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-investigating-the-tully-saucer-nest-formation-tully-saucer-nest-incident-1966-tully-memorabilia-book-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tully memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: tully memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=tully+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-investigating-the-tully-saucer-nest-formation-tully-saucer-nest-incident-1966-tully-memorabilia-book-book&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=tully+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-investigating-the-tully-saucer-nest-formation-tully-saucer-nest-incident-1966-tully-memorabilia-book-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=tully+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-investigating-the-tully-saucer-nest-formation-tully-saucer-nest-incident-1966-tully-memorabilia-book-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2021 Tully Blanchard Upper Deck Flagship AEW Base Memorabilia"><img src="{{ '/assets/images/marketplace-covers/56526a783484f3615e3e.jpg' | relative_url }}" alt="Listing image for 2021 Tully Blanchard Upper Deck Flagship AEW Base Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=tully+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-investigating-the-tully-saucer-nest-formation-tully-saucer-nest-incident-1966-tully-memorabilia-book-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">2021 Tully Blanchard Upper Deck Flagship AEW Base Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=tully+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-investigating-the-tully-saucer-nest-formation-tully-saucer-nest-incident-1966-tully-memorabilia-book-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tully memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: tully memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=tully+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-investigating-the-tully-saucer-nest-formation-tully-saucer-nest-incident-1966-tully-memorabilia-book-book&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=tully+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-investigating-the-tully-saucer-nest-formation-tully-saucer-nest-incident-1966-tully-memorabilia-book-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for eastenders tv memorabilia Cast Card/letter Susan Tully Michelle Fowler 1985"><img src="{{ '/assets/images/marketplace-covers/af3d519b5d33d4d3344d.jpg' | relative_url }}" alt="Listing image for eastenders tv memorabilia Cast Card/letter Susan Tully Michelle Fowler 1985" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=tully+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-investigating-the-tully-saucer-nest-formation-tully-saucer-nest-incident-1966-tully-memorabilia-book-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">eastenders tv memorabilia Cast Card/letter Susan Tully Michelle Fowler 1985</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=tully+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-investigating-the-tully-saucer-nest-formation-tully-saucer-nest-incident-1966-tully-memorabilia-book-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tully memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: tully memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=tully+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-investigating-the-tully-saucer-nest-formation-tully-saucer-nest-incident-1966-tully-memorabilia-book-book&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=tully+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-investigating-the-tully-saucer-nest-formation-tully-saucer-nest-incident-1966-tully-memorabilia-book-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tully Blanchard AEW All Elite Wrestling Upper Deck 2021 Base Memorabilia #80"><img src="{{ '/assets/images/marketplace-covers/20a22814f6eae6e6f6a6.jpg' | relative_url }}" alt="Listing image for Tully Blanchard AEW All Elite Wrestling Upper Deck 2021 Base Memorabilia #80" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=tully+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-investigating-the-tully-saucer-nest-formation-tully-saucer-nest-incident-1966-tully-memorabilia-book-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Tully Blanchard AEW All Elite Wrestling Upper Deck 2021 Base Memorabilia #80</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=tully+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-investigating-the-tully-saucer-nest-formation-tully-saucer-nest-incident-1966-tully-memorabilia-book-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tully memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: tully memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=tully+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-investigating-the-tully-saucer-nest-formation-tully-saucer-nest-incident-1966-tully-memorabilia-book-book&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=tully+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=physical-trace-investigating-the-tully-saucer-nest-formation-tully-saucer-nest-incident-1966-tully-memorabilia-book-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
-(function () {
-  if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
-  function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
-  }
-  function localeMatches() {
-    var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
-    try {
-      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
-      else if (navigator.language) languages = [navigator.language];
-    } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
-      var normalized = normalize(languages[i]);
-      if (!normalized) continue;
-      if (localeMarketMap[normalized]) {
-        exactMarket = localeMarketMap[normalized];
-        break;
-      }
-      var languageOnly = normalized.split('-')[0];
-      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
-    }
-    return { exact: exactMarket, language: languageMarket };
-  }
-  function inferFromLocale() {
-    var matches = localeMatches();
-    return matches.exact || matches.language || '';
-  }
-  function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
-      var rule = timezoneRules[i] || {};
-      try {
-        if (new RegExp(rule.pattern).test(tz)) return rule.market;
-      } catch (err) {}
-    }
-    return '';
-  }
-  function inferMarket(available, options) {
-    available = Array.isArray(available) ? available : [];
-    options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
-    try {
-      var saved = window.localStorage && localStorage.getItem(storageKey);
-      if (saved && available.indexOf(saved) >= 0) return saved;
-    } catch (err) {}
-    var timezoneMarket = inferFromTimezone();
-    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
-    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
-    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
-  }
-  window.PhoenixAffiliateLocation = {
-    normalize: normalize,
-    inferMarket: inferMarket,
-    inferFromLocale: inferFromLocale,
-    inferFromTimezone: inferFromTimezone
-  };
-})();
-</script>
-  <script type="text/javascript">
-(function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
-  if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
-  }
-  function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
-  }
-  function closeMenu(section) {
-    var menu = section.querySelector('[data-ebay-market-menu]');
-    var trigger = section.querySelector('[data-ebay-market-trigger]');
-    var picker = section.querySelector('.fr-ebay-market-picker');
-    if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
-    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
-  }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
-    var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
-    }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
-    });
-    var trigger = section.querySelector('[data-ebay-market-trigger]');
-    var menu = section.querySelector('[data-ebay-market-menu]');
-    if (trigger && menu) {
-      trigger.addEventListener('click', function (event) {
-        event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
-        menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
-        var picker = trigger.closest('.fr-ebay-market-picker');
-        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
-      });
-      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.addEventListener('click', function (event) {
-          event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
-        });
-      });
-      document.addEventListener('click', function () { closeMenu(section); });
-    }
-    selectMarket(inferMarket(available), false);
-  });
-})();
-</script>
 </section>
 
 ## Endnotes

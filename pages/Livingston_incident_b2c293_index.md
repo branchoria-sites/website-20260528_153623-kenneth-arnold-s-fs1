@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /livingston-incident-b2c293-index/
 description: Focused pages that expand on Livingston incident 1979.
-date: '2026-05-29'
+date: '2026-06-08'
 layout: default
 parent_basename: Livingston_incident_b2c293
 parent_title: Livingston incident 1979

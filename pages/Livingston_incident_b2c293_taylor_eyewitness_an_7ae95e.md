@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /livingston-incident-1979/
 nav_short_title: Eyewitness Account
 title: Robert Taylor's Firsthand Account of the 1979 Encounter
-title_full: Robert Taylor's Firsthand Account of the 1979 Encounter | LivingstonUFO
+title_full: Robert Taylor's Firsthand Account of the 1979 Encounter | Livingston UFO
 display_title_short: Eyewitness Account
 display_title: Eyewitness Account
 heading_title: Robert Taylor's Firsthand Account of the 1979 Encounter
@@ -197,20 +197,20 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: LivingstonUFO
+parent_title: Livingston UFO
 parent_permalink: /livingston-incident-1979/
-parent_nav_short_title: LivingstonUFO
+parent_nav_short_title: Livingston UFO
 parent_heading_title: What Really Happened During the Livingston UFO Encounter?
 ancestor_links:
 - basename: Livingston_incident_b2c293
-  title: LivingstonUFO
+  title: Livingston UFO
   permalink: /livingston-incident-1979/
-  short_title: LivingstonUFO
+  short_title: Livingston UFO
 breadcrumb_links:
 - basename: Livingston_incident_b2c293
-  title: LivingstonUFO
+  title: Livingston UFO
   permalink: /livingston-incident-1979/
-  short_title: LivingstonUFO
+  short_title: Livingston UFO
 sibling_links:
 - basename: Livingston_incident_b2c293_livingston_evidence_d465fa
   title: Physical Evidence | What Really Happened During the Livingston UFO...
@@ -224,16 +224,16 @@ sibling_links:
   heading_title: Medical and Environmental Explanations for the Livingston UFO Sighting
 up_link:
   basename: Livingston_incident_b2c293
-  title: LivingstonUFO
+  title: Livingston UFO
   permalink: /livingston-incident-1979/
-  short_title: LivingstonUFO
+  short_title: Livingston UFO
 next_link:
   basename: Livingston_incident_b2c293_livingston_evidence_d465fa
   title: Physical Evidence | What Really Happened During the Livingston UFO...
   permalink: /physical-evidence-5e99a7/
   short_title: Physical Evidence
   heading_title: Forensic Clues and Police Records from the Livingston UFO Case
-date: '2026-05-29 12:19:59 '
+date: '2026-06-08 23:37:55 '
 header:
   og_image: /assets/images/Livingston_incident_b2c293_taylor_eyewitness_an_7ae95e-Illustration-1-social.jpg
   preview_image: /assets/images/Livingston_incident_b2c293_taylor_eyewitness_an_7ae95e-Illustration-1.webp
@@ -245,7 +245,7 @@ image: /assets/images/Livingston_incident_b2c293_taylor_eyewitness_an_7ae95e-Ill
 The **[Livingston incident]({{ 'livingston-incident-1979/' | relative_url }}) of 1979**, also called the **Dechmont Woods encounter** or the **Robert Taylor incident**, remains one of the most scrutinised and controversial close‑encounter reports in British UFO lore. What makes the case distinct is not merely the claim of an unidentified craft but the depth and specificity of **forestry worker Robert “Bob” Taylor’s eyewitness testimony**, coupled with **physical after‑effects and police documentation**. This page offers a detailed analysis of Taylor’s firsthand account — his narrative, how he described the objects and their effects, and the immediate aftermath as recorded by authorities — without rehashing broader case history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Robert_Taylor_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robert Taylor incident</span><span class="citation-popover-snippet">Robert Taylor incident</span></span></span>
 
 
-<img src="{{ "/assets/images/Livingston_incident_b2c293_taylor_eyewitness_an_7ae95e-Illustration-1-light.svg" | relative_url }}" alt="Eyewitness Account illustration 1" data-theme-src-dark="{{ "/assets/images/Livingston_incident_b2c293_taylor_eyewitness_an_7ae95e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Livingston_incident_b2c293_taylor_eyewitness_an_7ae95e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Livingston_incident_b2c293_taylor_eyewitness_an_7ae95e-Illustration-1-dark.svg" | relative_url }}" alt="Eyewitness Account illustration 1" data-theme-src-dark="{{ "/assets/images/Livingston_incident_b2c293_taylor_eyewitness_an_7ae95e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Livingston_incident_b2c293_taylor_eyewitness_an_7ae95e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Taylor’s Arrival at Dechmont Woods and Initial Sighting
 
 On the **morning of 9 November 1979**, 61‑year‑old forestry worker Robert Taylor set out on a routine inspection of woodland near Dechmont Law, West Lothian, accompanied by his red setter dog, approximately between 10:00 and 10:30 AM. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</span><span class="citation-popover-meta">Published: November 9, 1979</span></span></span>
@@ -291,7 +291,7 @@ Taylor also recalled:
 This combination of sensory experiences — visual, auditory, olfactory, and tactile — forms the most vivid part of Taylor’s account and is cited in nearly every narrative retelling of the incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/taylor1979.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO Casebook1979-Dechmont Woods Abduction of Robert Taylor-UFO Casebook Files...</span></span></span>
 
 
-<img src="{{ "/assets/images/Livingston_incident_b2c293_taylor_eyewitness_an_7ae95e-Illustration-2-light.svg" | relative_url }}" alt="Eyewitness Account illustration 2" data-theme-src-dark="{{ "/assets/images/Livingston_incident_b2c293_taylor_eyewitness_an_7ae95e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Livingston_incident_b2c293_taylor_eyewitness_an_7ae95e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Livingston_incident_b2c293_taylor_eyewitness_an_7ae95e-Illustration-2-dark.svg" | relative_url }}" alt="Eyewitness Account illustration 2" data-theme-src-dark="{{ "/assets/images/Livingston_incident_b2c293_taylor_eyewitness_an_7ae95e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Livingston_incident_b2c293_taylor_eyewitness_an_7ae95e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Immediate Aftermath: Waking, Injuries, and Return Home
 
 When Taylor **regained consciousness**, the primary object and the smaller spheres were no longer present. He described physical and neurological after‑effects including:
@@ -316,7 +316,7 @@ What sets Taylor’s account apart from many UFO reports is its **immediate inte
 Detective Sergeant Ian Wark, a leading investigating officer at the scene, stated that he found Taylor’s account credible in the sense that Taylor **genuinely reported what he believed he had seen**, even as conventional explanations for the marks eluded the inquiry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</span><span class="citation-popover-meta">Published: November 9, 1979</span></span></span>
 
 
-<img src="{{ "/assets/images/Livingston_incident_b2c293_taylor_eyewitness_an_7ae95e-Illustration-3-light.svg" | relative_url }}" alt="Eyewitness Account illustration 3" data-theme-src-dark="{{ "/assets/images/Livingston_incident_b2c293_taylor_eyewitness_an_7ae95e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Livingston_incident_b2c293_taylor_eyewitness_an_7ae95e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Livingston_incident_b2c293_taylor_eyewitness_an_7ae95e-Illustration-3-dark.svg" | relative_url }}" alt="Eyewitness Account illustration 3" data-theme-src-dark="{{ "/assets/images/Livingston_incident_b2c293_taylor_eyewitness_an_7ae95e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Livingston_incident_b2c293_taylor_eyewitness_an_7ae95e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Consistency of Taylor’s Narrative Over Time
 
 Throughout subsequent decades, Taylor maintained **no substantive change to his central account**. He was described by local acquaintances as a **reliable, stable individual with no apparent motive for fabrication** and no unusual psychological history that would clearly account for hallucination or confusion at the time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</span><span class="citation-popover-meta">Published: November 9, 1979</span></span></span>
@@ -346,27 +346,27 @@ While interpretations of what Taylor saw vary widely — from extraterrestrial v
 
     <article class="fr-search-card">
       <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Robert Taylor incident guide</h4>
+      <h4 class="fr-search-title">UFO research books</h4>
       <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Robert+Taylor+incident+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
       </a>
     </article>
 
     <article class="fr-search-card">
       <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Robert Taylor guide</h4>
+      <h4 class="fr-search-title">UFO sightings books</h4>
       <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Robert+Taylor+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
       </a>
     </article>
 
     <article class="fr-search-card">
       <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Robert Taylor incident books</h4>
+      <h4 class="fr-search-title">UAP books</h4>
       <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Robert+Taylor+incident+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
       </a>
     </article>
