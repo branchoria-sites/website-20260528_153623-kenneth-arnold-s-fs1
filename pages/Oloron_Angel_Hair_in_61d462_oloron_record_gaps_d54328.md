@@ -233,7 +233,7 @@ next_link:
   permalink: /spider-silk/
   short_title: Spider Silk
   heading_title: Was Angel Hair Really Spider Silk?
-date: '2026-06-11 13:23:27 '
+date: '2026-06-11 18:36:24 '
 header:
   og_image: /assets/images/Oloron_Angel_Hair_in_61d462_oloron_record_gaps_d54328-Illustration-1-social.jpg
   preview_image: /assets/images/Oloron_Angel_Hair_in_61d462_oloron_record_gaps_d54328-Illustration-1.webp

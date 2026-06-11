@@ -749,7 +749,7 @@ next_link:
   title: Blackout UFO
   permalink: /the-northeast-blackout-1965/
   short_title: Blackout UFO
-date: '2026-06-11 13:16:51 '
+date: '2026-06-11 18:29:59 '
 header:
   og_image: /assets/images/Steven_Michalak_enco_1bbf94-overview-social.jpg
   preview_image: /assets/images/Steven_Michalak_enco_1bbf94-overview.webp

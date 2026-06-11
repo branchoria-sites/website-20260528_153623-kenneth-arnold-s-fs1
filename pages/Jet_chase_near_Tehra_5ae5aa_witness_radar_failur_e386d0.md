@@ -239,7 +239,7 @@ next_link:
   permalink: /timeline-238323/
   short_title: Timeline
   heading_title: How the Tehran Jet Chase Unfolded
-date: '2026-06-11 13:16:38 '
+date: '2026-06-11 18:29:46 '
 header:
   og_image: /assets/images/Jet_chase_near_Tehra_5ae5aa_witness_radar_failur_e386d0-Illustration-1-social.jpg
   preview_image: /assets/images/Jet_chase_near_Tehra_5ae5aa_witness_radar_failur_e386d0-Illustration-1.webp

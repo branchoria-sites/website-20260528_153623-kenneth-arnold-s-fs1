@@ -239,7 +239,7 @@ next_link:
   permalink: /witnesses-ee7e7a/
   short_title: Witnesses
   heading_title: Were the Muroc Witnesses Reliable?
-date: '2026-06-11 13:20:14 '
+date: '2026-06-11 18:33:13 '
 header:
   og_image: /assets/images/Muroc_Field_sighting_a700e4_july_1947_timeline_66b673-Illustration-1-social.jpg
   preview_image: /assets/images/Muroc_Field_sighting_a700e4_july_1947_timeline_66b673-Illustration-1.webp

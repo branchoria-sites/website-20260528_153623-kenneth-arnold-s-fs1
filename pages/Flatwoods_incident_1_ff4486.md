@@ -749,7 +749,7 @@ next_link:
   title: Flight 19
   permalink: /flight-19-incident-1945/
   short_title: Flight 19
-date: '2026-06-11 13:15:43 '
+date: '2026-06-11 18:28:53 '
 header:
   og_image: /assets/images/Flatwoods_incident_1_ff4486-overview-social.jpg
   preview_image: /assets/images/Flatwoods_incident_1_ff4486-overview.webp

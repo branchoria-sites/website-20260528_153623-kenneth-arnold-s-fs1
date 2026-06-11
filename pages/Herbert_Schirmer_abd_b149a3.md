@@ -749,7 +749,7 @@ next_link:
   title: Exeter UFO
   permalink: /incident-at-exeter-1965/
   short_title: Exeter UFO
-date: '2026-06-11 13:13:25 '
+date: '2026-06-11 18:26:38 '
 header:
   og_image: /assets/images/Herbert_Schirmer_abd_b149a3-overview-social.jpg
   preview_image: /assets/images/Herbert_Schirmer_abd_b149a3-overview.webp

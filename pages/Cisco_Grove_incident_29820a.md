@@ -749,7 +749,7 @@ next_link:
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
   short_title: Rael Contact
-date: '2026-06-11 13:21:08 '
+date: '2026-06-11 18:34:06 '
 header:
   og_image: /assets/images/Cisco_Grove_incident_29820a-overview-social.jpg
   preview_image: /assets/images/Cisco_Grove_incident_29820a-overview.webp

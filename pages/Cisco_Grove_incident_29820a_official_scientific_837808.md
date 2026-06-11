@@ -239,7 +239,7 @@ next_link:
   permalink: /shrum-s-encounter/
   short_title: Shrum s Encounter
   heading_title: Inside Donald Shrum's Night in the Tree
-date: '2026-06-11 13:21:09 '
+date: '2026-06-11 18:34:07 '
 header:
   og_image: /assets/images/Cisco_Grove_incident_29820a_official_scientific_837808-Illustration-1-social.jpg
   preview_image: /assets/images/Cisco_Grove_incident_29820a_official_scientific_837808-Illustration-1.webp
@@ -504,6 +504,22 @@ The Cisco Grove incident therefore remains less a solved mystery than a case stu
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
           <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed."><img src="https://i.ebayimg.com/images/g/GWYAAeSwgidpwAEt/s-l225.jpg" alt="Listing image for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed.</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book poster</a>
         <div class="fr-book-actions">

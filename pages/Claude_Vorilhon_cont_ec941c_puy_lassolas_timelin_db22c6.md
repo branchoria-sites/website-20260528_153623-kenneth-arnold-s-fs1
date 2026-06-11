@@ -233,7 +233,7 @@ prev_link:
   permalink: /raelism/
   short_title: Raelism
   heading_title: How Did a UFO Claim Become Raelism?
-date: '2026-06-11 13:21:50 '
+date: '2026-06-11 18:34:47 '
 header:
   og_image: /assets/images/Claude_Vorilhon_cont_ec941c_puy_lassolas_timelin_db22c6-Illustration-1-social.jpg
   preview_image: /assets/images/Claude_Vorilhon_cont_ec941c_puy_lassolas_timelin_db22c6-Illustration-1.webp

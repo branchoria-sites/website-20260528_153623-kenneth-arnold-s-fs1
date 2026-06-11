@@ -233,7 +233,7 @@ prev_link:
   permalink: /scu-report/
   short_title: SCU report
   heading_title: Why Some Analysts Still Call It Unresolved
-date: '2026-06-11 13:26:16 '
+date: '2026-06-11 18:39:13 '
 header:
   og_image: /assets/images/Puerto_Rico_infrared_d310d5_infrared_illusions_b7bbfc-Illustration-1-social.jpg
   preview_image: /assets/images/Puerto_Rico_infrared_d310d5_infrared_illusions_b7bbfc-Illustration-1.webp

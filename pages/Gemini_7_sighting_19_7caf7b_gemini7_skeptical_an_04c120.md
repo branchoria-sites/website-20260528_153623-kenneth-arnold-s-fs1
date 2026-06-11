@@ -239,7 +239,7 @@ next_link:
   permalink: /visual-sighting/
   short_title: Visual Sighting
   heading_title: 'The Gemini 7 ''Bogey'': Astronaut Visual Observations Explained'
-date: '2026-06-11 13:21:32 '
+date: '2026-06-11 18:34:29 '
 header:
   og_image: /assets/images/Gemini_7_sighting_19_7caf7b_gemini7_skeptical_an_04c120-Illustration-1-social.jpg
   preview_image: /assets/images/Gemini_7_sighting_19_7caf7b_gemini7_skeptical_an_04c120-Illustration-1.webp

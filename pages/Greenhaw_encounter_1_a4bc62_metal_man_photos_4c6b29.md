@@ -233,7 +233,7 @@ prev_link:
   permalink: /greenhaw/
   short_title: Greenhaw
   heading_title: Was Jeff Greenhaw a Reliable Witness?
-date: '2026-06-11 13:17:02 '
+date: '2026-06-11 18:30:10 '
 header:
   og_image: /assets/images/Greenhaw_encounter_1_a4bc62_metal_man_photos_4c6b29-Illustration-1-social.jpg
   preview_image: /assets/images/Greenhaw_encounter_1_a4bc62_metal_man_photos_4c6b29-Illustration-1.webp

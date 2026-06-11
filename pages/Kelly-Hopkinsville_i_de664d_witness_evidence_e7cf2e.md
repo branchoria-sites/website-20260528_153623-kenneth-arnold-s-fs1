@@ -233,7 +233,7 @@ next_link:
   permalink: /owl-theory/
   short_title: Owl Theory
   heading_title: Could Owls Explain the Goblins?
-date: '2026-06-11 13:18:33 '
+date: '2026-06-11 18:31:39 '
 header:
   og_image: /assets/images/Kelly-Hopkinsville_i_de664d_witness_evidence_e7cf2e-Illustration-1-social.jpg
   preview_image: /assets/images/Kelly-Hopkinsville_i_de664d_witness_evidence_e7cf2e-Illustration-1.webp

@@ -749,7 +749,7 @@ next_link:
   title: Allingham
   permalink: /cedric-allingham-encounter-1954/
   short_title: Allingham
-date: '2026-06-11 13:19:16 '
+date: '2026-06-11 18:32:20 '
 header:
   og_image: /assets/images/CashLandrum_incident_7ad7d9-overview-social.jpg
   preview_image: /assets/images/CashLandrum_incident_7ad7d9-overview.webp

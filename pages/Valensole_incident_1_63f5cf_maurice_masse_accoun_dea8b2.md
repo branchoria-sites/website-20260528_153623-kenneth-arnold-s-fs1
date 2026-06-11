@@ -233,7 +233,7 @@ prev_link:
   permalink: /ground-traces/
   short_title: Ground Traces
   heading_title: Did the Valensole Traces Prove Anything?
-date: '2026-06-11 13:19:04 '
+date: '2026-06-11 18:32:09 '
 header:
   og_image: /assets/images/Valensole_incident_1_63f5cf_maurice_masse_accoun_dea8b2-Illustration-1-social.jpg
   preview_image: /assets/images/Valensole_incident_1_63f5cf_maurice_masse_accoun_dea8b2-Illustration-1.webp

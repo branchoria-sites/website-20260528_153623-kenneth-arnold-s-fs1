@@ -239,7 +239,7 @@ next_link:
   permalink: /ground-witnesses/
   short_title: Ground Witnesses
   heading_title: Did Witnesses on the Ground Confirm It?
-date: '2026-06-11 13:13:59 '
+date: '2026-06-11 18:27:09 '
 header:
   og_image: /assets/images/Coyne_helicopter_sig_5ce811_meteor_explanation_4588d9-Illustration-1-social.jpg
   preview_image: /assets/images/Coyne_helicopter_sig_5ce811_meteor_explanation_4588d9-Illustration-1.webp

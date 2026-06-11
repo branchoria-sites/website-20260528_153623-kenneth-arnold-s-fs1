@@ -233,7 +233,7 @@ prev_link:
   permalink: /records-a251d4/
   short_title: Records
   heading_title: Why Is Doctor X So Hard To Verify?
-date: '2026-06-11 13:20:55 '
+date: '2026-06-11 18:33:53 '
 header:
   og_image: /assets/images/Doctor_X_UFO_encount_5e669c_night_sighting_timel_2a6c1f-Illustration-1-social.jpg
   preview_image: /assets/images/Doctor_X_UFO_encount_5e669c_night_sighting_timel_2a6c1f-Illustration-1.webp

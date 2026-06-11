@@ -239,7 +239,7 @@ next_link:
   permalink: /witnesses-60ae6a/
   short_title: Witnesses
   heading_title: Who Saw What During the Fargo Chase?
-date: '2026-06-11 13:15:10 '
+date: '2026-06-11 18:28:22 '
 header:
   og_image: /assets/images/Gorman_dogfight_near_aac8f7_balloon_jupiter_f838de-Illustration-1-social.jpg
   preview_image: /assets/images/Gorman_dogfight_near_aac8f7_balloon_jupiter_f838de-Illustration-1.webp

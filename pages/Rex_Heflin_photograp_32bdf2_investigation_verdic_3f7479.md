@@ -239,7 +239,7 @@ next_link:
   permalink: /witness-trail-d77493/
   short_title: Witness Trail
   heading_title: Can the Witness Record Carry the Case?
-date: '2026-06-11 13:18:10 '
+date: '2026-06-11 18:31:16 '
 header:
   og_image: /assets/images/Rex_Heflin_photograp_32bdf2_investigation_verdic_3f7479-Illustration-1-social.jpg
   preview_image: /assets/images/Rex_Heflin_photograp_32bdf2_investigation_verdic_3f7479-Illustration-1.webp

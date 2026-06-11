@@ -233,7 +233,7 @@ prev_link:
   permalink: /project-mogul/
   short_title: Project Mogul
   heading_title: Was Roswell a Secret Balloon Project?
-date: '2026-06-11 13:11:40 '
+date: '2026-06-11 18:24:50 '
 header:
   og_image: /assets/images/Roswell_1947_c36fe7_witness_claims_evide_170f95-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_1947_c36fe7_witness_claims_evide_170f95-Illustration-1.webp

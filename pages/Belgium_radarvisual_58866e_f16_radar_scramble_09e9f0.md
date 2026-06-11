@@ -239,7 +239,7 @@ next_link:
   permalink: /photo-hoax/
   short_title: Photo Hoax
   heading_title: Why the Famous UFO Photo Failed
-date: '2026-06-11 13:15:54 '
+date: '2026-06-11 18:29:03 '
 header:
   og_image: /assets/images/Belgium_radarvisual_58866e_f16_radar_scramble_09e9f0-Illustration-1-social.jpg
   preview_image: /assets/images/Belgium_radarvisual_58866e_f16_radar_scramble_09e9f0-Illustration-1.webp

@@ -749,7 +749,7 @@ next_link:
   title: Trindade UFO
   permalink: /trindade-island-photographs-1958/
   short_title: Trindade UFO
-date: '2026-06-11 13:15:12 '
+date: '2026-06-11 18:28:24 '
 header:
   og_image: /assets/images/Tremonton_Utah_film_79b5ee-overview-social.jpg
   preview_image: /assets/images/Tremonton_Utah_film_79b5ee-overview.webp

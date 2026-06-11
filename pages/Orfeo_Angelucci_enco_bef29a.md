@@ -749,7 +749,7 @@ next_link:
   title: Pascagoula
   permalink: /pascagoula-abduction-1973/
   short_title: Pascagoula
-date: '2026-06-11 13:17:45 '
+date: '2026-06-11 18:30:53 '
 header:
   og_image: /assets/images/Orfeo_Angelucci_enco_bef29a-overview-social.jpg
   preview_image: /assets/images/Orfeo_Angelucci_enco_bef29a-overview.webp

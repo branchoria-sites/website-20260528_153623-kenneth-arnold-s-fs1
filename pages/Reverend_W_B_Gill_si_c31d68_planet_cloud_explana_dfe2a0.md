@@ -233,7 +233,7 @@ next_link:
   permalink: /timeline-92cf2d/
   short_title: Timeline
   heading_title: How the Boianai Sightings Unfolded
-date: '2026-06-11 13:18:40 '
+date: '2026-06-11 18:31:45 '
 header:
   og_image: /assets/images/Reverend_W_B_Gill_si_c31d68_planet_cloud_explana_dfe2a0-Illustration-1-social.jpg
   preview_image: /assets/images/Reverend_W_B_Gill_si_c31d68_planet_cloud_explana_dfe2a0-Illustration-1.webp

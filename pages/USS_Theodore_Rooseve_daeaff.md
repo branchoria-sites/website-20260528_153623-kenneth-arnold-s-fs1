@@ -749,7 +749,7 @@ next_link:
   title: Valensole
   permalink: /valensole-incident-1965/
   short_title: Valensole
-date: '2026-06-11 13:24:40 '
+date: '2026-06-11 18:37:36 '
 header:
   og_image: /assets/images/USS_Theodore_Rooseve_daeaff-overview-social.jpg
   preview_image: /assets/images/USS_Theodore_Rooseve_daeaff-overview.webp

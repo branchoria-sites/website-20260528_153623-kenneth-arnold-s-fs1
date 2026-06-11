@@ -749,7 +749,7 @@ next_link:
   title: Fatima
   permalink: /fatima-apparition-1917/
   short_title: Fatima
-date: '2026-06-11 13:23:21 '
+date: '2026-06-11 18:36:17 '
 header:
   og_image: /assets/images/Farmington_sightings_46c4ec-overview-social.jpg
   preview_image: /assets/images/Farmington_sightings_46c4ec-overview.webp

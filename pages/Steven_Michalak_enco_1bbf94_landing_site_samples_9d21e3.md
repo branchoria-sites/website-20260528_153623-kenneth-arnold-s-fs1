@@ -239,7 +239,7 @@ next_link:
   permalink: /witness-story/
   short_title: Witness Story
   heading_title: How Reliable Was Michalak's Story?
-date: '2026-06-11 13:16:56 '
+date: '2026-06-11 18:30:04 '
 header:
   og_image: /assets/images/Steven_Michalak_enco_1bbf94_landing_site_samples_9d21e3-Illustration-1-social.jpg
   preview_image: /assets/images/Steven_Michalak_enco_1bbf94_landing_site_samples_9d21e3-Illustration-1.webp

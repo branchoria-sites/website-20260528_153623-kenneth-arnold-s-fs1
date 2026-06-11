@@ -233,7 +233,7 @@ prev_link:
   permalink: /source-trail/
   short_title: Source Trail
   heading_title: How Solid Is the 1878 Paper Trail?
-date: '2026-06-11 13:17:43 '
+date: '2026-06-11 18:30:50 '
 header:
   og_image: /assets/images/John_Martin_sighting_4cec00_john_martin_witness_06e140-Illustration-1-social.jpg
   preview_image: /assets/images/John_Martin_sighting_4cec00_john_martin_witness_06e140-Illustration-1.webp

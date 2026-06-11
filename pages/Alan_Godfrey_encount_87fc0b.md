@@ -744,7 +744,7 @@ next_link:
   title: Hamilton Airship
   permalink: /alexander-hamilton-airship-1897/
   short_title: Hamilton Airship
-date: '2026-06-11 13:17:24 '
+date: '2026-06-11 18:30:32 '
 header:
   og_image: /assets/images/Alan_Godfrey_encount_87fc0b-overview-social.jpg
   preview_image: /assets/images/Alan_Godfrey_encount_87fc0b-overview.webp

@@ -239,7 +239,7 @@ next_link:
   permalink: /pilot-testimonies/
   short_title: Pilot Testimonies
   heading_title: 'Inside the Eyes of Nimitz Pilots: Witness Accounts'
-date: '2026-06-11 13:24:08 '
+date: '2026-06-11 18:37:06 '
 header:
   og_image: /assets/images/USS_Nimitz_Tic_Tac_v_83266a_official_investigati_21722a-Illustration-1-social.jpg
   preview_image: /assets/images/USS_Nimitz_Tic_Tac_v_83266a_official_investigati_21722a-Illustration-1.webp

@@ -749,7 +749,7 @@ next_link:
   title: Cash Landrum
   permalink: /cash-landrum-incident-1980/
   short_title: Cash Landrum
-date: '2026-06-11 13:19:27 '
+date: '2026-06-11 18:32:30 '
 header:
   og_image: /assets/images/Carl_Higdon_contact_bfd61b-overview-social.jpg
   preview_image: /assets/images/Carl_Higdon_contact_bfd61b-overview.webp

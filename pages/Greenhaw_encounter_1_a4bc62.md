@@ -749,7 +749,7 @@ next_link:
   title: Gulf Breeze
   permalink: /gulf-breeze-encounter-1987/
   short_title: Gulf Breeze
-date: '2026-06-11 13:16:57 '
+date: '2026-06-11 18:30:05 '
 header:
   og_image: /assets/images/Greenhaw_encounter_1_a4bc62-overview-social.jpg
   preview_image: /assets/images/Greenhaw_encounter_1_a4bc62-overview.webp

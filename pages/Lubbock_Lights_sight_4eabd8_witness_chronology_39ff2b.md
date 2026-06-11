@@ -233,7 +233,7 @@ prev_link:
   permalink: /photos-a19897/
   short_title: Photos
   heading_title: Did the Famous Photos Prove Anything?
-date: '2026-06-11 13:14:57 '
+date: '2026-06-11 18:28:11 '
 header:
   og_image: /assets/images/Lubbock_Lights_sight_4eabd8_witness_chronology_39ff2b-Illustration-1-social.jpg
   preview_image: /assets/images/Lubbock_Lights_sight_4eabd8_witness_chronology_39ff2b-Illustration-1.webp

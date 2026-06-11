@@ -239,7 +239,7 @@ next_link:
   permalink: /later-claims/
   short_title: Later Claims
   heading_title: How Cooper's UFO Reputation Changed the Story
-date: '2026-06-11 13:21:05 '
+date: '2026-06-11 18:34:03 '
 header:
   og_image: /assets/images/Gordon_Cooper_sighti_93b9f6_faith7_fireflies_exp_e49654-Illustration-1-social.jpg
   preview_image: /assets/images/Gordon_Cooper_sighti_93b9f6_faith7_fireflies_exp_e49654-Illustration-1.webp

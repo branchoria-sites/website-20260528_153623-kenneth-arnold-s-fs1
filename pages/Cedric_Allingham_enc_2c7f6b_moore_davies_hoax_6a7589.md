@@ -239,7 +239,7 @@ next_link:
   permalink: /the-claim-db591c/
   short_title: The Claim
   heading_title: Why the Lossiemouth Saucer Story Caught On
-date: '2026-06-11 13:21:17 '
+date: '2026-06-11 18:34:15 '
 header:
   og_image: /assets/images/Cedric_Allingham_enc_2c7f6b_moore_davies_hoax_6a7589-Illustration-1-social.jpg
   preview_image: /assets/images/Cedric_Allingham_enc_2c7f6b_moore_davies_hoax_6a7589-Illustration-1.webp

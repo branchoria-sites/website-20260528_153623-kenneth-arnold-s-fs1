@@ -239,7 +239,7 @@ next_link:
   permalink: /ufo-debate/
   short_title: UFO Debate
   heading_title: UFO Encounter or Fatal Misreading?
-date: '2026-06-11 13:15:27 '
+date: '2026-06-11 18:28:38 '
 header:
   og_image: /assets/images/Valentich_disappeara_592d85_search_records_trace_275ff2-Illustration-1-social.jpg
   preview_image: /assets/images/Valentich_disappeara_592d85_search_records_trace_275ff2-Illustration-1.webp

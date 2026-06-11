@@ -233,7 +233,7 @@ prev_link:
   permalink: /explanations-195d80/
   short_title: Explanations
   heading_title: Did Flight 105 See UFOs or Misidentified Objects?
-date: '2026-06-11 13:20:11 '
+date: '2026-06-11 18:33:11 '
 header:
   og_image: /assets/images/E_J_Smith_sighting_1_b2b2e6_flight105_official_r_718223-Illustration-1-social.jpg
   preview_image: /assets/images/E_J_Smith_sighting_1_b2b2e6_flight105_official_r_718223-Illustration-1.webp

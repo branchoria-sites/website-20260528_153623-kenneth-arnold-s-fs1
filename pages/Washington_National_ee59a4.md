@@ -749,7 +749,7 @@ next_link:
   title: Kaikoura Lights
   permalink: /wellington-kaikoura-incident-1978/
   short_title: Kaikoura Lights
-date: '2026-06-11 13:12:05 '
+date: '2026-06-11 18:25:20 '
 header:
   og_image: /assets/images/Washington_National_ee59a4-overview-social.jpg
   preview_image: /assets/images/Washington_National_ee59a4-overview.webp

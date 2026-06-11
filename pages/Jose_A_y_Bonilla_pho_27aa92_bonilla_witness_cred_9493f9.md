@@ -233,7 +233,7 @@ next_link:
   permalink: /object-hypotheses/
   short_title: Object Hypotheses
   heading_title: Were Bonilla’s Observations Birds, Dust, or Comet Fragments?
-date: '2026-06-11 13:22:03 '
+date: '2026-06-11 18:34:59 '
 header:
   og_image: /assets/images/Jose_A_y_Bonilla_pho_27aa92_bonilla_witness_cred_9493f9-Illustration-1-social.jpg
   preview_image: /assets/images/Jose_A_y_Bonilla_pho_27aa92_bonilla_witness_cred_9493f9-Illustration-1.webp

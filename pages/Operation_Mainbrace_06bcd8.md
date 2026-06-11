@@ -749,7 +749,7 @@ next_link:
   title: Angelucci
   permalink: /orfeo-angelucci-encounter-1955/
   short_title: Angelucci
-date: '2026-06-11 13:22:42 '
+date: '2026-06-11 18:35:39 '
 header:
   og_image: /assets/images/Operation_Mainbrace_06bcd8-overview-social.jpg
   preview_image: /assets/images/Operation_Mainbrace_06bcd8-overview.webp

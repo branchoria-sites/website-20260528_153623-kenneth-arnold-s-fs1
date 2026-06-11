@@ -239,7 +239,7 @@ next_link:
   permalink: /witnesses-65306f/
   short_title: Witnesses
   heading_title: How Strong Were the Witness Accounts?
-date: '2026-06-11 13:12:13 '
+date: '2026-06-11 18:25:27 '
 header:
   og_image: /assets/images/Pascagoula_abduction_80a64a_sheriffs_tape_b59341-Illustration-1-social.jpg
   preview_image: /assets/images/Pascagoula_abduction_80a64a_sheriffs_tape_b59341-Illustration-1.webp

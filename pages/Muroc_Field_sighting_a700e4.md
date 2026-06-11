@@ -749,7 +749,7 @@ next_link:
   title: Nash Fortenberry
   permalink: /nash-and-fortenberry-sighting-1952/
   short_title: Nash Fortenberry
-date: '2026-06-11 13:20:12 '
+date: '2026-06-11 18:33:12 '
 header:
   og_image: /assets/images/Muroc_Field_sighting_a700e4-overview-social.jpg
   preview_image: /assets/images/Muroc_Field_sighting_a700e4-overview.webp

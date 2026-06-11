@@ -749,7 +749,7 @@ next_link:
   title: Larson Abduction
   permalink: /larson-abduction-near-fargo-1975/
   short_title: Larson Abduction
-date: '2026-06-11 13:13:32 '
+date: '2026-06-11 18:26:44 '
 header:
   og_image: /assets/images/Lakenheath_episode_1_bf5257-overview-social.jpg
   preview_image: /assets/images/Lakenheath_episode_1_bf5257-overview.webp

@@ -233,7 +233,7 @@ next_link:
   permalink: /landing-site/
   short_title: Landing Site
   heading_title: Why the Landing Site Remains So Contested
-date: '2026-06-11 13:16:52 '
+date: '2026-06-11 18:30:00 '
 header:
   og_image: /assets/images/Steven_Michalak_enco_1bbf94_burns_clothing_e46bac-Illustration-1-social.jpg
   preview_image: /assets/images/Steven_Michalak_enco_1bbf94_burns_clothing_e46bac-Illustration-1.webp

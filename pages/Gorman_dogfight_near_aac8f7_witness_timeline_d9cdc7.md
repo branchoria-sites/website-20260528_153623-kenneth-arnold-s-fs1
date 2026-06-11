@@ -233,7 +233,7 @@ prev_link:
   permalink: /explanations-265e86/
   short_title: Explanations
   heading_title: Was the UFO Really a Balloon?
-date: '2026-06-11 13:15:11 '
+date: '2026-06-11 18:28:23 '
 header:
   og_image: /assets/images/Gorman_dogfight_near_aac8f7_witness_timeline_d9cdc7-Illustration-1-social.jpg
   preview_image: /assets/images/Gorman_dogfight_near_aac8f7_witness_timeline_d9cdc7-Illustration-1.webp

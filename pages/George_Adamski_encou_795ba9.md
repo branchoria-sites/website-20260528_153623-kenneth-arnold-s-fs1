@@ -749,7 +749,7 @@ next_link:
   title: Cooper
   permalink: /gordon-cooper-sightings-1963/
   short_title: Cooper
-date: '2026-06-11 13:11:23 '
+date: '2026-06-11 18:24:34 '
 header:
   og_image: /assets/images/George_Adamski_encou_795ba9-overview-social.jpg
   preview_image: /assets/images/George_Adamski_encou_795ba9-overview.webp

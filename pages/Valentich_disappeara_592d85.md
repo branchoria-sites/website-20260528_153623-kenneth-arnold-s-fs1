@@ -749,7 +749,7 @@ next_link:
   title: Voronezh Landing
   permalink: /voronezh-russia-landing-1989/
   short_title: Voronezh Landing
-date: '2026-06-11 13:15:20 '
+date: '2026-06-11 18:28:31 '
 header:
   og_image: /assets/images/Valentich_disappeara_592d85-overview-social.jpg
   preview_image: /assets/images/Valentich_disappeara_592d85-overview.webp

@@ -239,7 +239,7 @@ next_link:
   permalink: /timeline-c66794/
   short_title: Timeline
   heading_title: How the RB 47 Encounter Unfolded
-date: '2026-06-11 13:18:23 '
+date: '2026-06-11 18:31:29 '
 header:
   og_image: /assets/images/RB-47_radarvisual_in_5bf2a6_records_skeptical_de_65216f-Illustration-1-social.jpg
   preview_image: /assets/images/RB-47_radarvisual_in_5bf2a6_records_skeptical_de_65216f-Illustration-1.webp

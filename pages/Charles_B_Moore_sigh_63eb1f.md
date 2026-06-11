@@ -749,7 +749,7 @@ next_link:
   title: Moody Abduction
   permalink: /charles-l-moody-abduction-1975/
   short_title: Moody Abduction
-date: '2026-06-11 13:19:44 '
+date: '2026-06-11 18:32:45 '
 header:
   og_image: /assets/images/Charles_B_Moore_sigh_63eb1f-overview-social.jpg
   preview_image: /assets/images/Charles_B_Moore_sigh_63eb1f-overview.webp

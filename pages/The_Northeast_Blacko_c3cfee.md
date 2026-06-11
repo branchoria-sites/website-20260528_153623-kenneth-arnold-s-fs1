@@ -749,7 +749,7 @@ next_link:
   title: Mantell
   permalink: /thomas-f-mantell-incident-1948/
   short_title: Mantell
-date: '2026-06-11 13:18:00 '
+date: '2026-06-11 18:31:07 '
 header:
   og_image: /assets/images/The_Northeast_Blacko_c3cfee-overview-social.jpg
   preview_image: /assets/images/The_Northeast_Blacko_c3cfee-overview.webp

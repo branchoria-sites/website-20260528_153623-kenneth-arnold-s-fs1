@@ -239,7 +239,7 @@ next_link:
   permalink: /witnesses-0bd763/
   short_title: Witnesses
   heading_title: How Strong Was the Crew's Story?
-date: '2026-06-11 13:12:25 '
+date: '2026-06-11 18:25:39 '
 header:
   og_image: /assets/images/Travis_Walton_abduct_612999_hoax_polygraph_doubt_db4e5d-Illustration-1-social.jpg
   preview_image: /assets/images/Travis_Walton_abduct_612999_hoax_polygraph_doubt_db4e5d-Illustration-1.webp

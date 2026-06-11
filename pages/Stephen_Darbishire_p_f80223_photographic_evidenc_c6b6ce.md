@@ -239,7 +239,7 @@ next_link:
   permalink: /timeline-media/
   short_title: Timeline & Media
   heading_title: How the Coniston UFO Photos Captured National Attention
-date: '2026-06-11 13:22:51 '
+date: '2026-06-11 18:35:49 '
 header:
   og_image: /assets/images/Stephen_Darbishire_p_f80223_photographic_evidenc_c6b6ce-Illustration-1-social.jpg
   preview_image: /assets/images/Stephen_Darbishire_p_f80223_photographic_evidenc_c6b6ce-Illustration-1.webp

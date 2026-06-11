@@ -239,7 +239,7 @@ next_link:
   permalink: /project-sign/
   short_title: Project Sign
   heading_title: Why Did Project Sign Take It So Seriously?
-date: '2026-06-11 13:12:20 '
+date: '2026-06-11 18:25:34 '
 header:
   og_image: /assets/images/Chiles_and_Whitted_s_33732b_pilot_testimony_8d6b68-Illustration-1-social.jpg
   preview_image: /assets/images/Chiles_and_Whitted_s_33732b_pilot_testimony_8d6b68-Illustration-1.webp

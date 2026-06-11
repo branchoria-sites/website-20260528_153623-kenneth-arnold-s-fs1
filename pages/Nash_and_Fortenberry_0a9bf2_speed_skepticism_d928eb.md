@@ -233,7 +233,7 @@ prev_link:
   permalink: /pilot-report/
   short_title: Pilot Report
   heading_title: What Did the Pilots Actually See?
-date: '2026-06-11 13:16:20 '
+date: '2026-06-11 18:29:29 '
 header:
   og_image: /assets/images/Nash_and_Fortenberry_0a9bf2_speed_skepticism_d928eb-Illustration-1-social.jpg
   preview_image: /assets/images/Nash_and_Fortenberry_0a9bf2_speed_skepticism_d928eb-Illustration-1.webp

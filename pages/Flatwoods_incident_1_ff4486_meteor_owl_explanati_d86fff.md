@@ -233,7 +233,7 @@ next_link:
   permalink: /records/
   short_title: Records
   heading_title: How Strong Was the Evidence?
-date: '2026-06-11 13:15:48 '
+date: '2026-06-11 18:28:57 '
 header:
   og_image: /assets/images/Flatwoods_incident_1_ff4486_meteor_owl_explanati_d86fff-Illustration-1-social.jpg
   preview_image: /assets/images/Flatwoods_incident_1_ff4486_meteor_owl_explanati_d86fff-Illustration-1.webp

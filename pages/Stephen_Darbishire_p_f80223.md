@@ -749,7 +749,7 @@ next_link:
   title: Falcon Lake
   permalink: /steven-michalak-encounter-1967/
   short_title: Falcon Lake
-date: '2026-06-11 13:22:47 '
+date: '2026-06-11 18:35:44 '
 header:
   og_image: /assets/images/Stephen_Darbishire_p_f80223-overview-social.jpg
   preview_image: /assets/images/Stephen_Darbishire_p_f80223-overview.webp

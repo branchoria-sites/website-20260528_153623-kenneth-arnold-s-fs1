@@ -233,7 +233,7 @@ prev_link:
   permalink: /final-flight-dad3aa/
   short_title: Final Flight
   heading_title: How Did Avenger Red Vanish?
-date: '2026-06-11 13:17:10 '
+date: '2026-06-11 18:30:18 '
 header:
   og_image: /assets/images/Kinross_incident_195_2ebd01_radar_merge_limits_430513-Illustration-1-social.jpg
   preview_image: /assets/images/Kinross_incident_195_2ebd01_radar_merge_limits_430513-Illustration-1.webp

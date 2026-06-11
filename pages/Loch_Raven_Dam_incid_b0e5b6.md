@@ -749,7 +749,7 @@ next_link:
   title: Lubbock Lights
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
-date: '2026-06-11 13:23:38 '
+date: '2026-06-11 18:36:34 '
 header:
   og_image: /assets/images/Loch_Raven_Dam_incid_b0e5b6-overview-social.jpg
   preview_image: /assets/images/Loch_Raven_Dam_incid_b0e5b6-overview.webp

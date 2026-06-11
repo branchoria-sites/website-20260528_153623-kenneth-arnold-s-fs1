@@ -239,7 +239,7 @@ next_link:
   permalink: /witnesses-83ba0c/
   short_title: Witnesses
   heading_title: How Reliable Were the Great Falls Witnesses?
-date: '2026-06-11 13:16:02 '
+date: '2026-06-11 18:29:10 '
 header:
   og_image: /assets/images/Great_Falls_Montana_171d9e_missing_frames_37ae90-Illustration-1-social.jpg
   preview_image: /assets/images/Great_Falls_Montana_171d9e_missing_frames_37ae90-Illustration-1.webp

@@ -233,7 +233,7 @@ prev_link:
   permalink: /timeline-5e2452/
   short_title: Timeline
   heading_title: Why the Date Changes the Case
-date: '2026-06-11 13:15:05 '
+date: '2026-06-11 18:28:17 '
 header:
   og_image: /assets/images/Jimmy_Carter_sightin_759215_witness_report_limit_08e300-Illustration-1-social.jpg
   preview_image: /assets/images/Jimmy_Carter_sightin_759215_witness_report_limit_08e300-Illustration-1.webp

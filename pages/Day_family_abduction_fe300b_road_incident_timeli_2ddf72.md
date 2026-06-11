@@ -233,7 +233,7 @@ prev_link:
   permalink: /hypnosis-ece153/
   short_title: Hypnosis
   heading_title: Can Hypnosis Prove an Alien Abduction?
-date: '2026-06-11 13:16:10 '
+date: '2026-06-11 18:29:18 '
 header:
   og_image: /assets/images/Day_family_abduction_fe300b_road_incident_timeli_2ddf72-Illustration-1-social.jpg
   preview_image: /assets/images/Day_family_abduction_fe300b_road_incident_timeli_2ddf72-Illustration-1.webp

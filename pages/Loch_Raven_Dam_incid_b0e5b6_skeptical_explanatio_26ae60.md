@@ -239,7 +239,7 @@ next_link:
   permalink: /witness-accounts/
   short_title: Witness Accounts
   heading_title: Eyewitness Reports and Car Malfunctions at Loch Raven
-date: '2026-06-11 13:23:41 '
+date: '2026-06-11 18:36:37 '
 header:
   og_image: /assets/images/Loch_Raven_Dam_incid_b0e5b6_skeptical_explanatio_26ae60-Illustration-1-social.jpg
   preview_image: /assets/images/Loch_Raven_Dam_incid_b0e5b6_skeptical_explanatio_26ae60-Illustration-1.webp

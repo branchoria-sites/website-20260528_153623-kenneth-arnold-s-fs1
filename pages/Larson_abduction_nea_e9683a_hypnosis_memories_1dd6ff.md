@@ -233,7 +233,7 @@ next_link:
   permalink: /i-94-timeline/
   short_title: I 94 Timeline
   heading_title: The Missing Hour on Interstate 94
-date: '2026-06-11 13:23:18 '
+date: '2026-06-11 18:36:15 '
 header:
   og_image: /assets/images/Larson_abduction_nea_e9683a_hypnosis_memories_1dd6ff-Illustration-1-social.jpg
   preview_image: /assets/images/Larson_abduction_nea_e9683a_hypnosis_memories_1dd6ff-Illustration-1.webp

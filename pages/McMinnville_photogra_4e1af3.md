@@ -749,7 +749,7 @@ next_link:
   title: Middle East Orb
   permalink: /middle-east-uap-video-2022/
   short_title: Middle East Orb
-date: '2026-06-11 13:18:41 '
+date: '2026-06-11 18:31:46 '
 header:
   og_image: /assets/images/McMinnville_photogra_4e1af3-overview-social.jpg
   preview_image: /assets/images/McMinnville_photogra_4e1af3-overview.webp

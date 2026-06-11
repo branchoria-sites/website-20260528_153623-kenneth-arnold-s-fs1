@@ -749,7 +749,7 @@ next_link:
   title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
   short_title: Magenta Crash 1933
-date: '2026-06-11 13:14:52 '
+date: '2026-06-11 18:28:08 '
 header:
   og_image: /assets/images/Lubbock_Lights_sight_4eabd8-overview-social.jpg
   preview_image: /assets/images/Lubbock_Lights_sight_4eabd8-overview.webp

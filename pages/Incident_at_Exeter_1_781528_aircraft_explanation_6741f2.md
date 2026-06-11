@@ -233,7 +233,7 @@ next_link:
   permalink: /blue-book-13657f/
   short_title: Blue Book
   heading_title: Why Did Blue Book Struggle With Exeter?
-date: '2026-06-11 13:19:14 '
+date: '2026-06-11 18:32:18 '
 header:
   og_image: /assets/images/Incident_at_Exeter_1_781528_aircraft_explanation_6741f2-Illustration-1-social.jpg
   preview_image: /assets/images/Incident_at_Exeter_1_781528_aircraft_explanation_6741f2-Illustration-1.webp

@@ -233,7 +233,7 @@ next_link:
   permalink: /hoax-claims/
   short_title: Hoax Claims
   heading_title: How Did A Tall Tale Become UFO Folklore?
-date: '2026-06-11 13:13:52 '
+date: '2026-06-11 18:27:03 '
 header:
   og_image: /assets/images/Alexander_Hamilton_a_75e894_reputation_affidavit_b2c637-Illustration-1-social.jpg
   preview_image: /assets/images/Alexander_Hamilton_a_75e894_reputation_affidavit_b2c637-Illustration-1.webp

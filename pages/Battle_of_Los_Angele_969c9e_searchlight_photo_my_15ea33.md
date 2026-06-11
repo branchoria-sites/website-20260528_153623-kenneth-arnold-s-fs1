@@ -239,7 +239,7 @@ next_link:
   permalink: /timeline-cbcc2e/
   short_title: Timeline
   heading_title: How One Alert Became a Citywide Barrage
-date: '2026-06-11 13:23:14 '
+date: '2026-06-11 18:36:11 '
 header:
   og_image: /assets/images/Battle_of_Los_Angele_969c9e_searchlight_photo_my_15ea33-Illustration-1-social.jpg
   preview_image: /assets/images/Battle_of_Los_Angele_969c9e_searchlight_photo_my_15ea33-Illustration-1.webp

@@ -749,7 +749,7 @@ next_link:
   title: Falkville Metal Man
   permalink: /greenhaw-encounter-1973/
   short_title: Falkville Metal Man
-date: '2026-06-11 13:16:00 '
+date: '2026-06-11 18:29:09 '
 header:
   og_image: /assets/images/Great_Falls_Montana_171d9e-overview-social.jpg
   preview_image: /assets/images/Great_Falls_Montana_171d9e-overview.webp

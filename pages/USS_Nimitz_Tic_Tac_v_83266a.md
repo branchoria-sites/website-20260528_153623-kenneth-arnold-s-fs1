@@ -749,7 +749,7 @@ next_link:
   title: USS Russell
   permalink: /uss-russell-video-2019/
   short_title: USS Russell
-date: '2026-06-11 13:23:44 '
+date: '2026-06-11 18:36:40 '
 header:
   og_image: /assets/images/USS_Nimitz_Tic_Tac_v_83266a-overview-social.jpg
   preview_image: /assets/images/USS_Nimitz_Tic_Tac_v_83266a-overview.webp

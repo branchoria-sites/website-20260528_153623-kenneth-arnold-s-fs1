@@ -749,7 +749,7 @@ next_link:
   title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
   short_title: Bonilla 1883
-date: '2026-06-11 13:17:40 '
+date: '2026-06-11 18:30:48 '
 header:
   og_image: /assets/images/John_Martin_sighting_4cec00-overview-social.jpg
   preview_image: /assets/images/John_Martin_sighting_4cec00-overview.webp

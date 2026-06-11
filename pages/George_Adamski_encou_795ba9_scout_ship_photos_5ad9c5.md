@@ -233,7 +233,7 @@ next_link:
   permalink: /timeline-28f171/
   short_title: Timeline
   heading_title: When Did the Adamski Encounter Really Happen?
-date: '2026-06-11 13:11:24 '
+date: '2026-06-11 18:24:35 '
 header:
   og_image: /assets/images/George_Adamski_encou_795ba9_scout_ship_photos_5ad9c5-Illustration-1-social.jpg
   preview_image: /assets/images/George_Adamski_encou_795ba9_scout_ship_photos_5ad9c5-Illustration-1.webp

@@ -233,7 +233,7 @@ prev_link:
   permalink: /hypnosis-45c1c1/
   short_title: Hypnosis
   heading_title: Can Hypnosis Recover a UFO Abduction?
-date: '2026-06-11 13:13:22 '
+date: '2026-06-11 18:26:36 '
 header:
   og_image: /assets/images/Andreasson_abduction_e8bccf_household_timeline_85eb7a-Illustration-1-social.jpg
   preview_image: /assets/images/Andreasson_abduction_e8bccf_household_timeline_85eb7a-Illustration-1.webp

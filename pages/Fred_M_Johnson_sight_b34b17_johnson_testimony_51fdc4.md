@@ -233,7 +233,7 @@ prev_link:
   permalink: /compass-claim/
   short_title: Compass Claim
   heading_title: Did the UFOs Affect Johnson's Compass?
-date: '2026-06-11 13:20:06 '
+date: '2026-06-11 18:33:06 '
 header:
   og_image: /assets/images/Fred_M_Johnson_sight_b34b17_johnson_testimony_51fdc4-Illustration-1-social.jpg
   preview_image: /assets/images/Fred_M_Johnson_sight_b34b17_johnson_testimony_51fdc4-Illustration-1.webp

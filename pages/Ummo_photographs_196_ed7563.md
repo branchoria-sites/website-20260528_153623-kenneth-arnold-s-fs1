@@ -744,7 +744,7 @@ prev_link:
   title: Kaikoura Lights
   permalink: /wellington-kaikoura-incident-1978/
   short_title: Kaikoura Lights
-date: '2026-06-11 13:22:05 '
+date: '2026-06-11 18:35:00 '
 header:
   og_image: /assets/images/Ummo_photographs_196_ed7563-overview-social.jpg
   preview_image: /assets/images/Ummo_photographs_196_ed7563-overview.webp

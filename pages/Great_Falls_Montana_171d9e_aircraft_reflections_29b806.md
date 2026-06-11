@@ -233,7 +233,7 @@ next_link:
   permalink: /missing-frames/
   short_title: Missing Frames
   heading_title: Did the Clearest Frames Disappear?
-date: '2026-06-11 13:16:04 '
+date: '2026-06-11 18:29:13 '
 header:
   og_image: /assets/images/Great_Falls_Montana_171d9e_aircraft_reflections_29b806-Illustration-1-social.jpg
   preview_image: /assets/images/Great_Falls_Montana_171d9e_aircraft_reflections_29b806-Illustration-1.webp

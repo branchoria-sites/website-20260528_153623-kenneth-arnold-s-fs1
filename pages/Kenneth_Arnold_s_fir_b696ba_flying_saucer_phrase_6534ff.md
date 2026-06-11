@@ -233,7 +233,7 @@ prev_link:
   permalink: /flight-path/
   short_title: Flight Path
   heading_title: How the Cascade Sighting Unfolded
-date: '2026-06-11 13:11:15 '
+date: '2026-06-11 18:24:22 '
 header:
   og_image: /assets/images/Kenneth_Arnold_s_fir_b696ba_flying_saucer_phrase_6534ff-Illustration-1-social.jpg
   preview_image: /assets/images/Kenneth_Arnold_s_fir_b696ba_flying_saucer_phrase_6534ff-Illustration-1.webp

@@ -233,7 +233,7 @@ next_link:
   permalink: /timeline-49c35d/
   short_title: Timeline
   heading_title: How the BOAC Sighting Unfolded
-date: '2026-06-11 13:16:33 '
+date: '2026-06-11 18:29:41 '
 header:
   og_image: /assets/images/BOAC_stratocruiser_s_01e20e_mirage_evidence_limi_5021c9-Illustration-1-social.jpg
   preview_image: /assets/images/BOAC_stratocruiser_s_01e20e_mirage_evidence_limi_5021c9-Illustration-1.webp

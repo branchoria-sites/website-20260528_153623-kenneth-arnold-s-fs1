@@ -749,7 +749,7 @@ next_link:
   title: Arrey UFO
   permalink: /charles-b-moore-sighting-1949/
   short_title: Arrey UFO
-date: '2026-06-11 13:21:13 '
+date: '2026-06-11 18:34:11 '
 header:
   og_image: /assets/images/Cedric_Allingham_enc_2c7f6b-overview-social.jpg
   preview_image: /assets/images/Cedric_Allingham_enc_2c7f6b-overview.webp

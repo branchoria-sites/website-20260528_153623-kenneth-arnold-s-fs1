@@ -239,7 +239,7 @@ next_link:
   permalink: /photos-86a63a/
   short_title: Photos
   heading_title: Do the Metal Man Photos Prove Anything?
-date: '2026-06-11 13:17:00 '
+date: '2026-06-11 18:30:08 '
 header:
   og_image: /assets/images/Greenhaw_encounter_1_a4bc62_greenhaw_witness_caed22-Illustration-1-social.jpg
   preview_image: /assets/images/Greenhaw_encounter_1_a4bc62_greenhaw_witness_caed22-Illustration-1.webp

@@ -233,7 +233,7 @@ next_link:
   permalink: /hoax-case/
   short_title: Hoax Case
   heading_title: Was Cedric Allingham a Made Up Witness?
-date: '2026-06-11 13:21:14 '
+date: '2026-06-11 18:34:12 '
 header:
   og_image: /assets/images/Cedric_Allingham_enc_2c7f6b_evidence_trail_90b83e-Illustration-1-social.jpg
   preview_image: /assets/images/Cedric_Allingham_enc_2c7f6b_evidence_trail_90b83e-Illustration-1.webp

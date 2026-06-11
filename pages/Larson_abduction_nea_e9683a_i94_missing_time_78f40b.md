@@ -239,7 +239,7 @@ next_link:
   permalink: /records-gap/
   short_title: Records Gap
   heading_title: Why the Larson Case Remains Unverified
-date: '2026-06-11 13:23:16 '
+date: '2026-06-11 18:36:14 '
 header:
   og_image: /assets/images/Larson_abduction_nea_e9683a_i94_missing_time_78f40b-Illustration-1-social.jpg
   preview_image: /assets/images/Larson_abduction_nea_e9683a_i94_missing_time_78f40b-Illustration-1.webp

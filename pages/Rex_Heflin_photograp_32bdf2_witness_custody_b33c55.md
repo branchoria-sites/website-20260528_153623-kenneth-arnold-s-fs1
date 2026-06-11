@@ -233,7 +233,7 @@ prev_link:
   permalink: /verdicts/
   short_title: Verdicts
   heading_title: Was Heflin Debunked or Left Unsolved?
-date: '2026-06-11 13:18:08 '
+date: '2026-06-11 18:31:15 '
 header:
   og_image: /assets/images/Rex_Heflin_photograp_32bdf2_witness_custody_b33c55-Illustration-1-social.jpg
   preview_image: /assets/images/Rex_Heflin_photograp_32bdf2_witness_custody_b33c55-Illustration-1.webp

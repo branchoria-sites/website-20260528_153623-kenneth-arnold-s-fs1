@@ -233,7 +233,7 @@ prev_link:
   permalink: /debris-trail/
   short_title: Debris Trail
   heading_title: Was the Maury Island Debris Ever Evidence?
-date: '2026-06-11 13:12:33 '
+date: '2026-06-11 18:25:46 '
 header:
   og_image: /assets/images/Maury_Island_inciden_ec4432_dahl_crisman_claims_d45067-Illustration-1-social.jpg
   preview_image: /assets/images/Maury_Island_inciden_ec4432_dahl_crisman_claims_d45067-Illustration-1.webp

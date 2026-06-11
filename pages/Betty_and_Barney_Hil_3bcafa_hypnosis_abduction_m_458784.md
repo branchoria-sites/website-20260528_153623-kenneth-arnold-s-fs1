@@ -239,7 +239,7 @@ next_link:
   permalink: /timeline/
   short_title: Timeline
   heading_title: How the Route 3 Night Unfolded
-date: '2026-06-11 13:11:22 '
+date: '2026-06-11 18:24:33 '
 header:
   og_image: /assets/images/Betty_and_Barney_Hil_3bcafa_hypnosis_abduction_m_458784-Illustration-1-social.jpg
   preview_image: /assets/images/Betty_and_Barney_Hil_3bcafa_hypnosis_abduction_m_458784-Illustration-1.webp

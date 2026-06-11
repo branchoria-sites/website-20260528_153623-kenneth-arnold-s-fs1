@@ -749,7 +749,7 @@ next_link:
   title: Loch Raven UFO
   permalink: /loch-raven-dam-incident-1958/
   short_title: Loch Raven UFO
-date: '2026-06-11 13:21:52 '
+date: '2026-06-11 18:34:49 '
 header:
   og_image: /assets/images/Livingston_incident_b2c293-overview-social.jpg
   preview_image: /assets/images/Livingston_incident_b2c293-overview.webp

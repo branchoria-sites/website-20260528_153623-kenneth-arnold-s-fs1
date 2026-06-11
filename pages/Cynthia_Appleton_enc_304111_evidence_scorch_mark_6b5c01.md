@@ -233,7 +233,7 @@ next_link:
   permalink: /timeline-2e3880/
   short_title: Timeline
   heading_title: How Did the Appleton Story Grow?
-date: '2026-06-11 13:21:46 '
+date: '2026-06-11 18:34:43 '
 header:
   og_image: /assets/images/Cynthia_Appleton_enc_304111_evidence_scorch_mark_6b5c01-Illustration-1-social.jpg
   preview_image: /assets/images/Cynthia_Appleton_enc_304111_evidence_scorch_mark_6b5c01-Illustration-1.webp

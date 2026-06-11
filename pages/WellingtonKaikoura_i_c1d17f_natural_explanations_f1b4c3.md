@@ -239,7 +239,7 @@ next_link:
   permalink: /timeline-d801ba/
   short_title: Timeline
   heading_title: How the Kaikoura Lights Unfolded
-date: '2026-06-11 13:17:39 '
+date: '2026-06-11 18:30:46 '
 header:
   og_image: /assets/images/WellingtonKaikoura_i_c1d17f_natural_explanations_f1b4c3-Illustration-1-social.jpg
   preview_image: /assets/images/WellingtonKaikoura_i_c1d17f_natural_explanations_f1b4c3-Illustration-1.webp

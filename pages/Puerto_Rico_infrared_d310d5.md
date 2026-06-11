@@ -749,7 +749,7 @@ next_link:
   title: RB 47 Incident
   permalink: /rb-47-radarvisual-incident-1957/
   short_title: RB 47 Incident
-date: '2026-06-11 13:26:13 '
+date: '2026-06-11 18:39:10 '
 header:
   og_image: /assets/images/Puerto_Rico_infrared_d310d5-overview-social.jpg
   preview_image: /assets/images/Puerto_Rico_infrared_d310d5-overview.webp

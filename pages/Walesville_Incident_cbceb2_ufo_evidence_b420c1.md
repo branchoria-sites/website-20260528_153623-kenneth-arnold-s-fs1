@@ -233,7 +233,7 @@ prev_link:
   permalink: /crash-timeline/
   short_title: Crash Timeline
   heading_title: What Happened Before the Walesville Crash?
-date: '2026-06-11 13:22:55 '
+date: '2026-06-11 18:35:52 '
 header:
   og_image: /assets/images/Walesville_Incident_cbceb2_ufo_evidence_b420c1-Illustration-1-social.jpg
   preview_image: /assets/images/Walesville_Incident_cbceb2_ufo_evidence_b420c1-Illustration-1.webp

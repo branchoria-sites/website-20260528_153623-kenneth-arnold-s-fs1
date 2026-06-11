@@ -749,7 +749,7 @@ next_link:
   title: Levelland UFO
   permalink: /levelland-texas-incident-1957/
   short_title: Levelland UFO
-date: '2026-06-11 13:23:15 '
+date: '2026-06-11 18:36:12 '
 header:
   og_image: /assets/images/Larson_abduction_nea_e9683a-overview-social.jpg
   preview_image: /assets/images/Larson_abduction_nea_e9683a-overview.webp

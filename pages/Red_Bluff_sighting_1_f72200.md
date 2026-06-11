@@ -749,7 +749,7 @@ next_link:
   title: Schmidt Encounter
   permalink: /reinhold-schmidt-encounter-1957/
   short_title: Schmidt Encounter
-date: '2026-06-11 13:22:59 '
+date: '2026-06-11 18:35:56 '
 header:
   og_image: /assets/images/Red_Bluff_sighting_1_f72200-overview-social.jpg
   preview_image: /assets/images/Red_Bluff_sighting_1_f72200-overview.webp

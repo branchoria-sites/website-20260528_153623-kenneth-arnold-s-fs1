@@ -233,7 +233,7 @@ prev_link:
   permalink: /physical-evidence-5e99a7/
   short_title: Physical Evidence
   heading_title: Forensic Clues and Police Records from the Livingston UFO Case
-date: '2026-06-11 13:21:55 '
+date: '2026-06-11 18:34:52 '
 header:
   og_image: /assets/images/Livingston_incident_b2c293_livingston_skeptical_d862cb-Illustration-1-social.jpg
   preview_image: /assets/images/Livingston_incident_b2c293_livingston_skeptical_d862cb-Illustration-1.webp

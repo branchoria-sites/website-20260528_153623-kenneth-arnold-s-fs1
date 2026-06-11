@@ -239,7 +239,7 @@ next_link:
   permalink: /timeline-b81f76/
   short_title: Timeline
   heading_title: How the Missing Time Story Unfolded
-date: '2026-06-11 13:16:08 '
+date: '2026-06-11 18:29:17 '
 header:
   og_image: /assets/images/Day_family_abduction_fe300b_hypnosis_memory_clai_8ee0f0-Illustration-1-social.jpg
   preview_image: /assets/images/Day_family_abduction_fe300b_hypnosis_memory_clai_8ee0f0-Illustration-1.webp

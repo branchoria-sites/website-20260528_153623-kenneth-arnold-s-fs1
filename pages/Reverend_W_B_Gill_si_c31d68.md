@@ -749,7 +749,7 @@ next_link:
   title: Heflin UFO
   permalink: /rex-heflin-photographs-1965/
   short_title: Heflin UFO
-date: '2026-06-11 13:18:36 '
+date: '2026-06-11 18:31:41 '
 header:
   og_image: /assets/images/Reverend_W_B_Gill_si_c31d68-overview-social.jpg
   preview_image: /assets/images/Reverend_W_B_Gill_si_c31d68-overview.webp

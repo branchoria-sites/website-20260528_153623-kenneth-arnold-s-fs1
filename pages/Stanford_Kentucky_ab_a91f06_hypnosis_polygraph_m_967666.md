@@ -239,7 +239,7 @@ next_link:
   permalink: /witnesses-10676f/
   short_title: Witnesses
   heading_title: How Strong Were the Witness Accounts?
-date: '2026-06-11 13:19:54 '
+date: '2026-06-11 18:32:55 '
 header:
   og_image: /assets/images/Stanford_Kentucky_ab_a91f06_hypnosis_polygraph_m_967666-Illustration-1-social.jpg
   preview_image: /assets/images/Stanford_Kentucky_ab_a91f06_hypnosis_polygraph_m_967666-Illustration-1.webp

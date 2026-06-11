@@ -233,7 +233,7 @@ next_link:
   permalink: /explanations-1ca8e5/
   short_title: Explanations
   heading_title: Could Jupiter and Radar Artefacts Explain It?
-date: '2026-06-11 13:22:38 '
+date: '2026-06-11 18:35:35 '
 header:
   og_image: /assets/images/JAL_1628_sighting_ov_aeed7e_crew_testimony_e64831-Illustration-1-social.jpg
   preview_image: /assets/images/JAL_1628_sighting_ov_aeed7e_crew_testimony_e64831-Illustration-1.webp

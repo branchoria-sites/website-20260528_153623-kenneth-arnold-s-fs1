@@ -233,7 +233,7 @@ prev_link:
   permalink: /july-timeline/
   short_title: July Timeline
   heading_title: How Two Weekends Became a UFO Crisis
-date: '2026-06-11 13:12:08 '
+date: '2026-06-11 18:25:22 '
 header:
   og_image: /assets/images/Washington_National_ee59a4_radar_pilot_witnesse_af5651-Illustration-1-social.jpg
   preview_image: /assets/images/Washington_National_ee59a4_radar_pilot_witnesse_af5651-Illustration-1.webp

@@ -239,7 +239,7 @@ next_link:
   permalink: /timeline-b896a8/
   short_title: Timeline
   heading_title: Did the Reports Really Line Up?
-date: '2026-06-11 13:13:07 '
+date: '2026-06-11 18:26:20 '
 header:
   og_image: /assets/images/Levelland_Texas_inci_0e8348_hynek_mcdonald_dispu_ee7e52-Illustration-1-social.jpg
   preview_image: /assets/images/Levelland_Texas_inci_0e8348_hynek_mcdonald_dispu_ee7e52-Illustration-1.webp

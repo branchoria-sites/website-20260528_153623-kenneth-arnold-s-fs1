@@ -749,7 +749,7 @@ next_link:
   title: Kinross
   permalink: /kinross-incident-1953/
   short_title: Kinross
-date: '2026-06-11 13:11:09 '
+date: '2026-06-11 18:24:10 '
 header:
   og_image: /assets/images/Kenneth_Arnold_s_fir_b696ba-overview-social.jpg
   preview_image: /assets/images/Kenneth_Arnold_s_fir_b696ba-overview.webp

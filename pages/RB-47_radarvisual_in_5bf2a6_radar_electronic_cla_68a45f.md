@@ -233,7 +233,7 @@ next_link:
   permalink: /records-debate/
   short_title: Records Debate
   heading_title: Why the RB 47 Case Still Divides Researchers
-date: '2026-06-11 13:18:21 '
+date: '2026-06-11 18:31:26 '
 header:
   og_image: /assets/images/RB-47_radarvisual_in_5bf2a6_radar_electronic_cla_68a45f-Illustration-1-social.jpg
   preview_image: /assets/images/RB-47_radarvisual_in_5bf2a6_radar_electronic_cla_68a45f-Illustration-1.webp

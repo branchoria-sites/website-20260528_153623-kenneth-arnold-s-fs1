@@ -233,7 +233,7 @@ next_link:
   permalink: /ground-traces/
   short_title: Ground Traces
   heading_title: Did the Valensole Traces Prove Anything?
-date: '2026-06-11 13:18:57 '
+date: '2026-06-11 18:32:01 '
 header:
   og_image: /assets/images/Valensole_incident_1_63f5cf_helicopter_official_43b38f-Illustration-1-social.jpg
   preview_image: /assets/images/Valensole_incident_1_63f5cf_helicopter_official_43b38f-Illustration-1.webp

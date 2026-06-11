@@ -749,7 +749,7 @@ next_link:
   title: Oloron Angel Hair
   permalink: /oloron-angel-hair-incident-1952/
   short_title: Oloron Angel Hair
-date: '2026-06-11 13:16:17 '
+date: '2026-06-11 18:29:25 '
 header:
   og_image: /assets/images/Nash_and_Fortenberry_0a9bf2-overview-social.jpg
   preview_image: /assets/images/Nash_and_Fortenberry_0a9bf2-overview.webp

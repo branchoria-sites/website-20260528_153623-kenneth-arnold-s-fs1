@@ -233,7 +233,7 @@ next_link:
   permalink: /paper-trail/
   short_title: Paper Trail
   heading_title: How Did Officials Handle the Report?
-date: '2026-06-11 13:20:45 '
+date: '2026-06-11 18:33:43 '
 header:
   og_image: /assets/images/Reinhold_Schmidt_enc_731a71_contactee_fraud_fall_46b4fb-Illustration-1-social.jpg
   preview_image: /assets/images/Reinhold_Schmidt_enc_731a71_contactee_fraud_fall_46b4fb-Illustration-1.webp

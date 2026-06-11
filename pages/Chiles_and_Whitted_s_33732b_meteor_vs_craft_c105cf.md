@@ -233,7 +233,7 @@ next_link:
   permalink: /pilots/
   short_title: Pilots
   heading_title: How Strong Was the Pilots' Testimony?
-date: '2026-06-11 13:12:18 '
+date: '2026-06-11 18:25:32 '
 header:
   og_image: /assets/images/Chiles_and_Whitted_s_33732b_meteor_vs_craft_c105cf-Illustration-1-social.jpg
   preview_image: /assets/images/Chiles_and_Whitted_s_33732b_meteor_vs_craft_c105cf-Illustration-1.webp

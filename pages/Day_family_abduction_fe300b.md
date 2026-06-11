@@ -749,7 +749,7 @@ next_link:
   title: Delphos Ring
   permalink: /delphos-ring-incident-1971/
   short_title: Delphos Ring
-date: '2026-06-11 13:16:05 '
+date: '2026-06-11 18:29:14 '
 header:
   og_image: /assets/images/Day_family_abduction_fe300b-overview-social.jpg
   preview_image: /assets/images/Day_family_abduction_fe300b-overview.webp

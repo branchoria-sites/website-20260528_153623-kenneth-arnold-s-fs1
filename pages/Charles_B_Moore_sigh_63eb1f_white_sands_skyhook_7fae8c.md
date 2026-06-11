@@ -239,7 +239,7 @@ next_link:
   permalink: /witnesses-e14d5f/
   short_title: Witnesses
   heading_title: How Strong Was Moore's Witness Evidence?
-date: '2026-06-11 13:19:46 '
+date: '2026-06-11 18:32:47 '
 header:
   og_image: /assets/images/Charles_B_Moore_sigh_63eb1f_white_sands_skyhook_7fae8c-Illustration-1-social.jpg
   preview_image: /assets/images/Charles_B_Moore_sigh_63eb1f_white_sands_skyhook_7fae8c-Illustration-1.webp

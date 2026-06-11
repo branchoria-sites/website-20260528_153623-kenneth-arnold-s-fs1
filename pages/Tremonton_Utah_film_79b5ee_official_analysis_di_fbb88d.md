@@ -233,7 +233,7 @@ prev_link:
   permalink: /newhouse-film/
   short_title: Newhouse Film
   heading_title: Why Newhouse's Film Was Taken Seriously
-date: '2026-06-11 13:15:18 '
+date: '2026-06-11 18:28:29 '
 header:
   og_image: /assets/images/Tremonton_Utah_film_79b5ee_official_analysis_di_fbb88d-Illustration-1-social.jpg
   preview_image: /assets/images/Tremonton_Utah_film_79b5ee_official_analysis_di_fbb88d-Illustration-1.webp

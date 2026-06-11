@@ -749,7 +749,7 @@ next_link:
   title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
   short_title: Cisco Grove 1964
-date: '2026-06-11 13:12:17 '
+date: '2026-06-11 18:25:31 '
 header:
   og_image: /assets/images/Chiles_and_Whitted_s_33732b-overview-social.jpg
   preview_image: /assets/images/Chiles_and_Whitted_s_33732b-overview.webp

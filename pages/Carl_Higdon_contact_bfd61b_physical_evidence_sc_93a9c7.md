@@ -233,7 +233,7 @@ next_link:
   permalink: /hypnosis-4da790/
   short_title: Hypnosis
   heading_title: Can the Ausso One Story Be Trusted?
-date: '2026-06-11 13:19:35 '
+date: '2026-06-11 18:32:39 '
 header:
   og_image: /assets/images/Carl_Higdon_contact_bfd61b_physical_evidence_sc_93a9c7-Illustration-1-social.jpg
   preview_image: /assets/images/Carl_Higdon_contact_bfd61b_physical_evidence_sc_93a9c7-Illustration-1.webp

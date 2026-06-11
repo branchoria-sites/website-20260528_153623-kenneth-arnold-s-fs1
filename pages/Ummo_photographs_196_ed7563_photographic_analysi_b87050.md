@@ -239,7 +239,7 @@ next_link:
   permalink: /valderas-sighting/
   short_title: Valderas Sighting
   heading_title: What Happened During the 1967 Valderas UFO Sighting?
-date: '2026-06-11 13:22:33 '
+date: '2026-06-11 18:35:31 '
 header:
   og_image: /assets/images/Ummo_photographs_196_ed7563_photographic_analysi_b87050-Illustration-1-social.jpg
   preview_image: /assets/images/Ummo_photographs_196_ed7563_photographic_analysi_b87050-Illustration-1.webp

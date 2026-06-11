@@ -239,7 +239,7 @@ next_link:
   permalink: /source-trail-0dc29d/
   short_title: Source Trail
   heading_title: Can the Fontes Account Be Verified?
-date: '2026-06-11 13:20:22 '
+date: '2026-06-11 18:33:22 '
 header:
   og_image: /assets/images/Fort_Itaipu_Brazil_s_89a0ba_boaventura_legend_ch_edac27-Illustration-1-social.jpg
   preview_image: /assets/images/Fort_Itaipu_Brazil_s_89a0ba_boaventura_legend_ch_edac27-Illustration-1.webp

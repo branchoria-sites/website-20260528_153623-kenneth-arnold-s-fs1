@@ -749,7 +749,7 @@ next_link:
   title: Valentich
   permalink: /valentich-disappearance-1978/
   short_title: Valentich
-date: '2026-06-11 13:18:51 '
+date: '2026-06-11 18:31:56 '
 header:
   og_image: /assets/images/Valensole_incident_1_63f5cf-overview-social.jpg
   preview_image: /assets/images/Valensole_incident_1_63f5cf-overview.webp

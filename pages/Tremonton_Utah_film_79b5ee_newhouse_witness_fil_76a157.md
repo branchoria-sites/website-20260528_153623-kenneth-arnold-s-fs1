@@ -239,7 +239,7 @@ next_link:
   permalink: /official-dispute/
   short_title: Official Dispute
   heading_title: How One Film Split Official Analysts
-date: '2026-06-11 13:15:17 '
+date: '2026-06-11 18:28:28 '
 header:
   og_image: /assets/images/Tremonton_Utah_film_79b5ee_newhouse_witness_fil_76a157-Illustration-1-social.jpg
   preview_image: /assets/images/Tremonton_Utah_film_79b5ee_newhouse_witness_fil_76a157-Illustration-1.webp

@@ -749,7 +749,7 @@ next_link:
   title: Ravenna UFO
   permalink: /spaur-neff-ravenna-sighting-1966/
   short_title: Ravenna UFO
-date: '2026-06-11 13:11:41 '
+date: '2026-06-11 18:24:53 '
 header:
   og_image: /assets/images/Socorro_sighting_by_961b47-overview-social.jpg
   preview_image: /assets/images/Socorro_sighting_by_961b47-overview.webp

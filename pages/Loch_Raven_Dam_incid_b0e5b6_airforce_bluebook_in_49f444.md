@@ -233,7 +233,7 @@ next_link:
   permalink: /skeptical-analysis-e727fe/
   short_title: Skeptical Analysis
   heading_title: Natural and Human Explanations for Loch Raven Sighting
-date: '2026-06-11 13:23:40 '
+date: '2026-06-11 18:36:36 '
 header:
   og_image: /assets/images/Loch_Raven_Dam_incid_b0e5b6_airforce_bluebook_in_49f444-Illustration-1-social.jpg
   preview_image: /assets/images/Loch_Raven_Dam_incid_b0e5b6_airforce_bluebook_in_49f444-Illustration-1.webp

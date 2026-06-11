@@ -749,7 +749,7 @@ next_link:
   title: Livingston UFO
   permalink: /livingston-incident-1979/
   short_title: Livingston UFO
-date: '2026-06-11 13:17:02 '
+date: '2026-06-11 18:30:10 '
 header:
   og_image: /assets/images/Linda_Cortile_abduct_1b229f-overview-social.jpg
   preview_image: /assets/images/Linda_Cortile_abduct_1b229f-overview.webp

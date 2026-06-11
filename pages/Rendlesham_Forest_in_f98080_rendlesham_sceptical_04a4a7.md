@@ -239,7 +239,7 @@ next_link:
   permalink: /timeline-73d8d4/
   short_title: Timeline
   heading_title: How Did the Rendlesham Story Unfold?
-date: '2026-06-11 13:13:18 '
+date: '2026-06-11 18:26:31 '
 header:
   og_image: /assets/images/Rendlesham_Forest_in_f98080_rendlesham_sceptical_04a4a7-Illustration-1-social.jpg
   preview_image: /assets/images/Rendlesham_Forest_in_f98080_rendlesham_sceptical_04a4a7-Illustration-1.webp

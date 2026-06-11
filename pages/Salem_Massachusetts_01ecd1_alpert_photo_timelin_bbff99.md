@@ -233,7 +233,7 @@ prev_link:
   permalink: /explanations-093918/
   short_title: Explanations
   heading_title: Were the Salem Lights Just Reflections?
-date: '2026-06-11 13:20:43 '
+date: '2026-06-11 18:33:41 '
 header:
   og_image: /assets/images/Salem_Massachusetts_01ecd1_alpert_photo_timelin_bbff99-Illustration-1-social.jpg
   preview_image: /assets/images/Salem_Massachusetts_01ecd1_alpert_photo_timelin_bbff99-Illustration-1.webp

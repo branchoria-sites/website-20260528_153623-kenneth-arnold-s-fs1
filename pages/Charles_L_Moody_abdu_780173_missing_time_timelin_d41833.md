@@ -233,7 +233,7 @@ prev_link:
   permalink: /hypnosis-85ef9d/
   short_title: Hypnosis
   heading_title: Can Hypnosis Explain the Abduction Story?
-date: '2026-06-11 13:23:08 '
+date: '2026-06-11 18:36:05 '
 header:
   og_image: /assets/images/Charles_L_Moody_abdu_780173_missing_time_timelin_d41833-Illustration-1-social.jpg
   preview_image: /assets/images/Charles_L_Moody_abdu_780173_missing_time_timelin_d41833-Illustration-1.webp

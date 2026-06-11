@@ -239,7 +239,7 @@ next_link:
   permalink: /testimony/
   short_title: Testimony
   heading_title: What Did Fred Johnson Actually Report?
-date: '2026-06-11 13:20:04 '
+date: '2026-06-11 18:33:05 '
 header:
   og_image: /assets/images/Fred_M_Johnson_sight_b34b17_compass_effect_0a6b1e-Illustration-1-social.jpg
   preview_image: /assets/images/Fred_M_Johnson_sight_b34b17_compass_effect_0a6b1e-Illustration-1.webp

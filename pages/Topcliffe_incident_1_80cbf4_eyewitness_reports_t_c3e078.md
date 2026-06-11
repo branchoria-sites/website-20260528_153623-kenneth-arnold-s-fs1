@@ -239,7 +239,7 @@ next_link:
   permalink: /operation-mainbrace/
   short_title: Operation Mainbrace
   heading_title: How Did NATO Exercises Influence UFO Reports in 1952?
-date: '2026-06-11 13:21:27 '
+date: '2026-06-11 18:34:24 '
 header:
   og_image: /assets/images/Topcliffe_incident_1_80cbf4_eyewitness_reports_t_c3e078-Illustration-1-social.jpg
   preview_image: /assets/images/Topcliffe_incident_1_80cbf4_eyewitness_reports_t_c3e078-Illustration-1.webp

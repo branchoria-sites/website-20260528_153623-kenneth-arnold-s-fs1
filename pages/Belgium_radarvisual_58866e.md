@@ -749,7 +749,7 @@ next_link:
   title: Hill Encounter
   permalink: /betty-and-barney-hill-abduction-1961/
   short_title: Hill Encounter
-date: '2026-06-11 13:15:50 '
+date: '2026-06-11 18:29:00 '
 header:
   og_image: /assets/images/Belgium_radarvisual_58866e-overview-social.jpg
   preview_image: /assets/images/Belgium_radarvisual_58866e-overview.webp

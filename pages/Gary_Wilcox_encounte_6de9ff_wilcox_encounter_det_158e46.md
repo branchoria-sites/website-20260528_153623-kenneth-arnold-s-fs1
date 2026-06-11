@@ -233,7 +233,7 @@ next_link:
   permalink: /physical-evidence/
   short_title: Physical Evidence
   heading_title: Investigating Physical Traces from the Wilcox UFO Case
-date: '2026-06-11 13:20:27 '
+date: '2026-06-11 18:33:27 '
 header:
   og_image: /assets/images/Gary_Wilcox_encounte_6de9ff_wilcox_encounter_det_158e46-Illustration-1-social.jpg
   preview_image: /assets/images/Gary_Wilcox_encounte_6de9ff_wilcox_encounter_det_158e46-Illustration-1.webp

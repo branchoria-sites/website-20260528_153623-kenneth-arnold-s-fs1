@@ -233,7 +233,7 @@ prev_link:
   permalink: /explanations-ab88f5/
   short_title: Explanations
   heading_title: Could Ordinary Lights Explain Rendlesham?
-date: '2026-06-11 13:13:11 '
+date: '2026-06-11 18:26:24 '
 header:
   og_image: /assets/images/Rendlesham_Forest_in_f98080_rendlesham_timeline_20b5b0-Illustration-1-social.jpg
   preview_image: /assets/images/Rendlesham_Forest_in_f98080_rendlesham_timeline_20b5b0-Illustration-1.webp

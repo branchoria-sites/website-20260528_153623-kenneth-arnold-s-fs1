@@ -749,7 +749,7 @@ next_link:
   title: Doctor X
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
-date: '2026-06-11 13:19:55 '
+date: '2026-06-11 18:32:57 '
 header:
   og_image: /assets/images/Desvergers_scoutmast_75261f-overview-social.jpg
   preview_image: /assets/images/Desvergers_scoutmast_75261f-overview.webp

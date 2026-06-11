@@ -239,7 +239,7 @@ next_link:
   permalink: /saucer-phrase/
   short_title: Saucer Phrase
   heading_title: How One Report Became Flying Saucers
-date: '2026-06-11 13:11:13 '
+date: '2026-06-11 18:24:18 '
 header:
   og_image: /assets/images/Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af-Illustration-1-social.jpg
   preview_image: /assets/images/Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af-Illustration-1.webp

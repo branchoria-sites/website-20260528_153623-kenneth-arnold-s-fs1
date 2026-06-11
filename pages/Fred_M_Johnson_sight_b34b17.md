@@ -749,7 +749,7 @@ next_link:
   title: Wilcox UFO
   permalink: /gary-wilcox-encounter-1964/
   short_title: Wilcox UFO
-date: '2026-06-11 13:20:01 '
+date: '2026-06-11 18:33:02 '
 header:
   og_image: /assets/images/Fred_M_Johnson_sight_b34b17-overview-social.jpg
   preview_image: /assets/images/Fred_M_Johnson_sight_b34b17-overview.webp

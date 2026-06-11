@@ -749,7 +749,7 @@ next_link:
   title: Roswell
   permalink: /roswell-1947/
   short_title: Roswell
-date: '2026-06-11 13:18:06 '
+date: '2026-06-11 18:31:13 '
 header:
   og_image: /assets/images/Rex_Heflin_photograp_32bdf2-overview-social.jpg
   preview_image: /assets/images/Rex_Heflin_photograp_32bdf2-overview.webp

@@ -749,7 +749,7 @@ next_link:
   title: BOAC Sighting
   permalink: /boac-stratocruiser-sighting-1954/
   short_title: BOAC Sighting
-date: '2026-06-11 13:11:17 '
+date: '2026-06-11 18:24:27 '
 header:
   og_image: /assets/images/Betty_and_Barney_Hil_3bcafa-overview-social.jpg
   preview_image: /assets/images/Betty_and_Barney_Hil_3bcafa-overview.webp

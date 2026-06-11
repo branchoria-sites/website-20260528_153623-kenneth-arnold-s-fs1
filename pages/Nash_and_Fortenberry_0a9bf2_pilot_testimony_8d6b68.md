@@ -239,7 +239,7 @@ next_link:
   permalink: /skepticism/
   short_title: Skepticism
   heading_title: Were the Speeds Ever Really Measured?
-date: '2026-06-11 13:16:18 '
+date: '2026-06-11 18:29:27 '
 header:
   og_image: /assets/images/Nash_and_Fortenberry_0a9bf2_pilot_testimony_8d6b68-Illustration-1-social.jpg
   preview_image: /assets/images/Nash_and_Fortenberry_0a9bf2_pilot_testimony_8d6b68-Illustration-1.webp

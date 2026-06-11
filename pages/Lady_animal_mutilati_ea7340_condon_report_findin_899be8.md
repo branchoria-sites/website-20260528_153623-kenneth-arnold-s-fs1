@@ -233,7 +233,7 @@ next_link:
   permalink: /folklore-impact/
   short_title: Folklore Impact
   heading_title: Why Did Snippy Become a UFO Template?
-date: '2026-06-11 13:16:50 '
+date: '2026-06-11 18:29:58 '
 header:
   og_image: /assets/images/Lady_animal_mutilati_ea7340_condon_report_findin_899be8-Illustration-1-social.jpg
   preview_image: /assets/images/Lady_animal_mutilati_ea7340_condon_report_findin_899be8-Illustration-1.webp

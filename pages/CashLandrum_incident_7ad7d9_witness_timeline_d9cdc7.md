@@ -233,7 +233,7 @@ prev_link:
   permalink: /illness-claims/
   short_title: Illness Claims
   heading_title: Was Cash Landrum Really Radiation Sickness?
-date: '2026-06-11 13:19:18 '
+date: '2026-06-11 18:32:22 '
 header:
   og_image: /assets/images/CashLandrum_incident_7ad7d9_witness_timeline_d9cdc7-Illustration-1-social.jpg
   preview_image: /assets/images/CashLandrum_incident_7ad7d9_witness_timeline_d9cdc7-Illustration-1.webp

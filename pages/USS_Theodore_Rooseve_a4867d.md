@@ -749,7 +749,7 @@ next_link:
   title: Go Fast UAP
   permalink: /uss-theodore-roosevelt-go-fast-video/
   short_title: Go Fast UAP
-date: '2026-06-11 13:25:33 '
+date: '2026-06-11 18:38:30 '
 header:
   og_image: /assets/images/USS_Theodore_Rooseve_a4867d-overview-social.jpg
   preview_image: /assets/images/USS_Theodore_Rooseve_a4867d-overview.webp

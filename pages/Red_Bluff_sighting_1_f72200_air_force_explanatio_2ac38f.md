@@ -233,7 +233,7 @@ next_link:
   permalink: /officers/
   short_title: Officers
   heading_title: Why Did the Officers' Account Matter?
-date: '2026-06-11 13:23:03 '
+date: '2026-06-11 18:36:00 '
 header:
   og_image: /assets/images/Red_Bluff_sighting_1_f72200_air_force_explanatio_2ac38f-Illustration-1-social.jpg
   preview_image: /assets/images/Red_Bluff_sighting_1_f72200_air_force_explanatio_2ac38f-Illustration-1.webp

@@ -233,7 +233,7 @@ prev_link:
   permalink: /parallax/
   short_title: Parallax
   heading_title: Why Go Fast May Not Be Going Fast
-date: '2026-06-11 13:25:19 '
+date: '2026-06-11 18:38:15 '
 header:
   og_image: /assets/images/USS_Theodore_Rooseve_daeaff_release_timeline_902d28-Illustration-1-social.jpg
   preview_image: /assets/images/USS_Theodore_Rooseve_daeaff_release_timeline_902d28-Illustration-1.webp

@@ -233,7 +233,7 @@ next_link:
   permalink: /evidence-883793/
   short_title: Evidence
   heading_title: How Strong Is the Tehran Evidence?
-date: '2026-06-11 13:16:35 '
+date: '2026-06-11 18:29:44 '
 header:
   og_image: /assets/images/Jet_chase_near_Tehra_5ae5aa_skeptical_explanatio_26ae60-Illustration-1-social.jpg
   preview_image: /assets/images/Jet_chase_near_Tehra_5ae5aa_skeptical_explanatio_26ae60-Illustration-1.webp

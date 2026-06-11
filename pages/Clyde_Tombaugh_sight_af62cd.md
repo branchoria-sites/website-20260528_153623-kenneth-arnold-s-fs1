@@ -749,7 +749,7 @@ next_link:
   title: Coyne Sighting
   permalink: /coyne-helicopter-sighting-1973/
   short_title: Coyne Sighting
-date: '2026-06-11 13:16:11 '
+date: '2026-06-11 18:29:19 '
 header:
   og_image: /assets/images/Clyde_Tombaugh_sight_af62cd-overview-social.jpg
   preview_image: /assets/images/Clyde_Tombaugh_sight_af62cd-overview.webp

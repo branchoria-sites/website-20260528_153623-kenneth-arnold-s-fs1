@@ -749,7 +749,7 @@ next_link:
   title: Mc Minnville Photos
   permalink: /mc-minnville-photographs-1950/
   short_title: Mc Minnville Photos
-date: '2026-06-11 13:12:30 '
+date: '2026-06-11 18:25:44 '
 header:
   og_image: /assets/images/Maury_Island_inciden_ec4432-overview-social.jpg
   preview_image: /assets/images/Maury_Island_inciden_ec4432-overview.webp

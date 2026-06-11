@@ -233,7 +233,7 @@ prev_link:
   permalink: /explanations-303ba6/
   short_title: Explanations
   heading_title: Could a Meteor Explain the Coyne Case?
-date: '2026-06-11 13:13:57 '
+date: '2026-06-11 18:27:07 '
 header:
   og_image: /assets/images/Coyne_helicopter_sig_5ce811_ground_witnesses_734479-Illustration-1-social.jpg
   preview_image: /assets/images/Coyne_helicopter_sig_5ce811_ground_witnesses_734479-Illustration-1.webp

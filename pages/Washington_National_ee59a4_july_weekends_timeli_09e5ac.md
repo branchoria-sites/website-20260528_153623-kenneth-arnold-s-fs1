@@ -239,7 +239,7 @@ next_link:
   permalink: /witnesses-284eec/
   short_title: Witnesses
   heading_title: How Strong Were the Washington Witnesses?
-date: '2026-06-11 13:12:06 '
+date: '2026-06-11 18:25:21 '
 header:
   og_image: /assets/images/Washington_National_ee59a4_july_weekends_timeli_09e5ac-Illustration-1-social.jpg
   preview_image: /assets/images/Washington_National_ee59a4_july_weekends_timeli_09e5ac-Illustration-1.webp
